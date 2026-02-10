@@ -61,6 +61,7 @@ export class ApiService {
     const platformToProviderInfo: Record<Platform, { id: string; priority: number }> = {
       zhihu: { id: 'zhihu-hot-questions', priority: 1000 },
       weibo: { id: 'weibo-top-search', priority: 999 },
+      sougou: { id: 'sougou-hot', priority: 982 },
       github: { id: 'github-trending', priority: 998 },
       douyin: { id: 'douyin-hot', priority: 996 },
       bilibili: { id: 'bilibili-hot', priority: 995 },

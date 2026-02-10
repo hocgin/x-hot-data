@@ -1,5 +1,9 @@
 基于 deno + github action 定时爬取平台数据，每个 provider 都用一个定时 github action 触发
 
+## 规划任务
+1. 允许外部命令通过传入 provider 来爬取指定平台的数据
+
+
 ## 项目参考
 
 知乎热搜榜，https://github.com/justjavac/zhihu-trending-top-search

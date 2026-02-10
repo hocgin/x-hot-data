@@ -58,6 +58,9 @@ async function devMain() {
       case 'github':
         scrapers.push(new GithubScraper());
         break;
+      case 'sougou':
+        scrapers.push(new SougouScraper());
+        break;
       case 'bilibili':
         scrapers.push(new BilibiliScraper());
         break;

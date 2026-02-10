@@ -201,6 +201,18 @@ private getProviderInfo(platform: Platform): { id: string; priority: number } {
 - 方法: HTML 解析
 - 选择器: `<a href="..."><div><div>序号</div><div>标题</div></div></a>`
 
+### 抖音
+
+- URL: https://www.douyin.com/hot
+- 方法: JSON API (Hot Search List)
+- 参数: 需携带特定 device 参数和 Cookie
+
+### B站
+
+- URL: https://www.bilibili.com/v/popular/all
+- 方法: JSON API (/x/web-interface/popular)
+- 响应字段: data.list[].title, data.list[].stat.view
+
 ### V2EX
 
 - URL: https://www.v2ex.com/?tab=hot
@@ -219,6 +231,14 @@ private getProviderInfo(platform: Platform): { id: string; priority: number } {
 - URL: https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=heats&orderby=today
 - 方法: HTML 解析
 - 选择器: `<th><a href="..." target="_blank">标题</a></th>`
+
+### 搜狗
+
+- URL: https://www.sogou.com/web?query=%E6%90%9C%E7%8B%97%E7%83%AD%E6%90%9C
+- 方法: HTML 解析
+- 选择器: `#top_list_container li`
+
+### 360搜索
 
 ## 开发指南
 

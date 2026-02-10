@@ -28,7 +28,7 @@ export class DouyinScraper extends BaseScraper {
   readonly platform = 'douyin' as const;
   readonly displayName = '抖音';
   readonly baseUrl = 'https://www.douyin.com';
-  readonly apiEndpoint = '/aweme/v1/web/search/item/general/';
+  readonly apiEndpoint = '/aweme/v1/web/hot/search/list/';
   protected override readonly timeout = 15000;
   private log = logger.child('DouyinScraper');
 
@@ -36,21 +36,34 @@ export class DouyinScraper extends BaseScraper {
    * 获取抖音热搜数据
    */
   async fetchTrending(): Promise<TrendingItem[]> {
-    // 参考 hot-trending 项目的抖音爬虫实现
+    // 使用测试通过的 API 参数
     const params = new URLSearchParams({
       device_platform: 'webapp',
       aid: '6383',
       channel: 'channel_pc_web',
-      search_channel: 'aweme_general',
-      sort_type: '0',
-      publish_time: '0',
-      keyword: '热搜',
-      search_source: 'normal_search',
-      query_correct_type: '1',
-      is_filter_search: '0',
-      from_group_id: '',
-      offset: '0',
-      count: '20',
+      detail_list: '1',
+      source: '6',
+      pc_client_type: '1',
+      version_code: '170400',
+      version_name: '17.4.0',
+      cookie_enabled: 'true',
+      screen_width: '1920',
+      screen_height: '1080',
+      browser_language: 'zh-CN',
+      browser_platform: 'MacIntel',
+      browser_name: 'Chrome',
+      browser_version: '120.0.0.0',
+      browser_online: 'true',
+      engine_name: 'Blink',
+      engine_version: '120.0.0.0',
+      os_name: 'Mac OS X',
+      os_version: '10_15_7',
+      cpu_core_num: '8',
+      device_memory: '8',
+      platform: 'PC',
+      downlink: '10',
+      effective_type: '4g',
+      round_trip_time: '100',
     });
 
     const url = `${this.baseUrl}${this.apiEndpoint}?${params.toString()}`;
@@ -59,37 +72,36 @@ export class DouyinScraper extends BaseScraper {
     try {
       const response = await this.fetchWithRetry(url, {
         headers: {
-          'Referer': 'https://www.douyin.com',
-          'Accept': 'application/json',
+          'Referer': 'https://www.douyin.com/hot',
+          'Cookie': 'ttwid=1%7Cfake', // 必须带 Cookie，哪怕是假的
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         },
       });
 
-      const data = await this.parseJSON<DouyinHotResponse>(response);
+      const data = await this.parseJSON<any>(response);
       const timestamp = Date.now();
 
-      if (data.status_code !== 0 && data.status_code !== 200) {
-        this.log.warn(`抖音 API 返回状态码: ${data.status_code}, 消息: ${data.status_msg}`);
+      if (data.status_code !== 0) {
+        this.log.warn(`抖音 API 返回状态码: ${data.status_code}`);
       }
 
-      const items = (data.data || [])
-        .filter((item) => item.word && item.hot_value)
-        .map((item, index) => {
-          // 参考 hot-trending：使用搜索链接 URL
+      const items = (data.data?.word_list || [])
+        .filter((item: any) => item.word)
+        .map((item: any, index: number) => {
           const searchUrl = `https://www.douyin.com/search/${encodeURIComponent(item.word)}`;
-          // 热值处理：除以 10000 并保留 1 位小数，添加"万"后缀
-          const hotValue = Math.round(item.hot_value / 100);
+          const hotValue = item.hot_value || 0;
+          
           return {
             id: this.generateId(item.word, `douyin_${index}`),
             title: item.word,
             url: searchUrl,
             hot: hotValue,
-            hotText: this.formatHotScore(item.hot_value),
+            hotText: this.formatHotScore(hotValue),
             timestamp,
             source: this.platform,
           };
         })
-        .filter((item) => item.hot && item.hot > 0)
-        .sort((a, b) => (b.hot || 0) - (a.hot || 0));
+        .filter((item: TrendingItem) => item.title);
 
       this.log.success(`成功获取 ${items.length} 条抖音热搜数据`);
       return items;

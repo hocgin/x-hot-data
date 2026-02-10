@@ -101,6 +101,7 @@ export interface HistoryDetailResponse {
 export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   zhihu: 'zhihu-hot-questions',
   weibo: 'weibo-top-search',
+  sougou: 'sougou-hot',
   github: 'github-trending',
   baidu: 'baidu-hot-search',
   douyin: 'douyin-hot',

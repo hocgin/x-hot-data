@@ -42,7 +42,7 @@ export class BilibiliScraper extends BaseScraper {
   readonly platform = 'bilibili' as const;
   readonly displayName = 'B站';
   readonly baseUrl = 'https://api.bilibili.com';
-  readonly apiEndpoint = '/x/web-interface/hot';
+  readonly apiEndpoint = '/x/web-interface/popular';
   protected override readonly timeout = 15000;
   private log = logger.child('BilibiliScraper');
 
@@ -50,19 +50,18 @@ export class BilibiliScraper extends BaseScraper {
    * 获取B站热搜数据
    */
   async fetchTrending(): Promise<TrendingItem[]> {
-    const url = `${this.baseUrl}${this.apiEndpoint}`;
+    const params = new URLSearchParams({
+      ps: '20',
+      pn: '1',
+    });
+    const url = `${this.baseUrl}${this.apiEndpoint}?${params.toString()}`;
     this.log.debug(`开始获取B站热搜数据: ${url}`);
 
     try {
       const response = await this.fetchWithRetry(url, {
         headers: {
-          'Referer': 'https://www.bilibili.com',
-          'Origin': 'https://www.bilibili.com',
-          'Accept': 'application/json',
-          'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-          'Sec-Fetch-Dest': 'empty',
-          'Sec-Fetch-Mode': 'cors',
-          'Sec-Fetch-Site': 'same-site',
+          'Referer': 'https://www.bilibili.com/',
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         },
       });
 
@@ -76,7 +75,7 @@ export class BilibiliScraper extends BaseScraper {
       const items = (data.data?.list || [])
         .map((item, index) => {
           // 构建视频链接 URL
-          const videoUrl = `https://www.bilibili.com/video/${item.id}`;
+          const videoUrl = item.short_link_v2 || `https://www.bilibili.com/video/${item.bvid || item.aid}`;
           // 使用观看量作为热度值
           const hotValue = item.stat?.view || 0;
           return {
@@ -85,14 +84,14 @@ export class BilibiliScraper extends BaseScraper {
             url: videoUrl,
             hot: hotValue,
             hotText: this.formatHotScore(hotValue),
-            description: item.description,
+            description: item.desc || item.description,
             cover: item.pic,
             author: item.owner?.name,
             timestamp,
             source: this.platform,
           };
         })
-        .filter((item) => item.hot && item.hot > 0)
+        .filter((item) => item.title)
         .sort((a, b) => (b.hot || 0) - (a.hot || 0));
 
       this.log.success(`成功获取 ${items.length} 条B站热搜数据`);

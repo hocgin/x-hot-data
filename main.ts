@@ -26,6 +26,8 @@ import { YicheScraper } from './src/scrapers/yiche.ts';
 import { DongqiudiScraper } from './src/scrapers/dongqiudi.ts';
 import { YouxiputaoScraper } from './src/scrapers/youxiputao.ts';
 import { Kr36Scraper } from './src/scrapers/kr36.ts';
+import { GithubScraper } from './src/scrapers/github.ts';
+import { SougouScraper } from './src/scrapers/sougou.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';

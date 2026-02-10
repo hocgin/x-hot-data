@@ -38,6 +38,7 @@ export interface TrendingItem {
 export type Platform =
   | 'zhihu'
   | 'weibo'
+  | 'sougou'
   | 'github'
   | 'baidu'
   | 'douyin'

@@ -43,44 +43,46 @@ export class ZhihuScraper extends BaseScraper {
    * 获取知乎热搜数据
    */
   async fetchTrending(): Promise<TrendingItem[]> {
-    const url = `${this.baseUrl}${this.apiEndpoint}`;
+    const url = 'https://www.zhihu.com/topsearch';
     this.log.debug(`开始获取知乎热搜数据: ${url}`);
 
     try {
       const response = await this.fetchWithRetry(url, {
         headers: {
-          'Referer': 'https://www.zhihu.com/hot',
-          'Origin': 'https://www.zhihu.com',
-          'Accept': 'application/json, text/plain, */*',
-          'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Referer': 'https://www.zhihu.com/',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
         },
       });
 
-      const data = await this.parseJSON<ZhihuHotResponse>(response);
+      const html = await response.text();
+      const match = html.match(/<script id="js-initialData" type="text\/json">(.+?)<\/script>/);
+
+      if (!match) {
+        throw new Error('未找到初始数据脚本 (js-initialData)');
+      }
+
+      const data = JSON.parse(match[1]);
+      const topSearch = data.initialState?.topsearch?.data || [];
       const timestamp = Date.now();
 
-      const items = data.data
-        .filter((item) => item.target && item.target.title)
-        .map((item) => {
-          // 参考 hot-trending 项目：使用 target.id 构建问题链接
-          const questionUrl = item.target.url || `https://www.zhihu.com/question/${item.target.id}`;
-          // 从 detail_text 解析热度值（格式如 "125万热"）
-          const hotValue = item.hot_value || this.parseHotValueFromText(item.detail_text) || 0;
+      const items = topSearch
+        .map((item: any, index: number) => {
+          const query = item.queryDisplay || item.realQuery;
+          const searchUrl = `https://www.zhihu.com/search?type=content&q=${encodeURIComponent(query)}`;
+          
           return {
-            id: this.generateId(item.target.title, questionUrl),
-            title: item.target.title,
-            url: questionUrl,
-            hot: hotValue,
-            hotText: item.detail_text,
-            description: item.target.excerpt,
-            cover: item.target.cover?.url,
-            category: this.parseCategory(item.type),
+            id: this.generateId(query, searchUrl),
+            title: query,
+            url: searchUrl,
+            hot: 0, // 热搜榜暂时没有直接的热度数值
+            hotText: item.display_num || '', // 尝试获取显示的热度文本
+            description: item.queryDescription,
             timestamp,
             source: this.platform,
           };
         })
-        .filter((item) => item.hot && item.hot > 0)
-        .sort((a, b) => (b.hot || 0) - (a.hot || 0));
+        .filter((item: TrendingItem) => item.title);
 
       this.log.success(`成功获取 ${items.length} 条知乎热搜数据`);
       return items;
