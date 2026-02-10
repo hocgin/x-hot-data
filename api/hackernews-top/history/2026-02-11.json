@@ -217,6 +217,222 @@
           "hot": 354
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770744338404",
+      "lastUpdatedAt": "2026-02-11 01:25:38",
+      "data": [
+        {
+          "title": "\"Hate brings views\": Confessions of a London fake news TikToker",
+          "summary": "4 comments",
+          "url": "https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants",
+          "createdAt": "2026-02-11 01:00:40",
+          "hot": 29
+        },
+        {
+          "title": "Parse, Don't Validate (2019)",
+          "summary": "58 comments",
+          "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+          "createdAt": "2026-02-10 22:49:29",
+          "hot": 126
+        },
+        {
+          "title": "Simplifying Vulkan One Subsystem at a Time",
+          "summary": "15 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 21:26:14",
+          "hot": 114
+        },
+        {
+          "title": "Mathematicians disagree on the essential structure of the complex numbers",
+          "summary": "8 comments",
+          "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+          "createdAt": "2026-02-11 00:36:30",
+          "hot": 25
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "40 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 19:21:56",
+          "hot": 202
+        },
+        {
+          "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+          "summary": "185 comments",
+          "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+          "createdAt": "2026-02-10 23:08:36",
+          "hot": 245
+        },
+        {
+          "title": "Oxide raises $200M Series C",
+          "summary": "169 comments",
+          "url": "https://oxide.computer/blog/our-200m-series-c",
+          "createdAt": "2026-02-10 22:20:49",
+          "hot": 292
+        },
+        {
+          "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+          "summary": "31 comments",
+          "url": "https://www.netviews.app",
+          "createdAt": "2026-02-10 13:20:32",
+          "hot": 80
+        },
+        {
+          "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+          "summary": "0 comments",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "createdAt": "2026-02-11 00:47:29",
+          "hot": 10
+        },
+        {
+          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+          "summary": "303 comments",
+          "url": "https://arxiv.org/abs/2512.20798",
+          "createdAt": "2026-02-10 11:17:17",
+          "hot": 469
+        },
+        {
+          "title": "Show HN: I made paperboat.website, a platform for friends and creativity",
+          "summary": "5 comments",
+          "url": "https://paperboat.website/home/",
+          "createdAt": "2026-02-11 00:57:52",
+          "hot": 7
+        },
+        {
+          "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+          "summary": "131 comments",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+          "createdAt": "2026-02-10 17:19:00",
+          "hot": 235
+        },
+        {
+          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+          "summary": "185 comments",
+          "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+          "createdAt": "2026-02-10 19:42:14",
+          "hot": 216
+        },
+        {
+          "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+          "summary": "228 comments",
+          "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+          "createdAt": "2026-02-10 22:02:10",
+          "hot": 289
+        },
+        {
+          "title": "Redefining Go Functions",
+          "summary": "12 comments",
+          "url": "https://pboyd.io/posts/redefining-go-functions/",
+          "createdAt": "2026-02-10 22:27:16",
+          "hot": 36
+        },
+        {
+          "title": "The US is flirting with its first-ever population decline",
+          "summary": "400 comments",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time",
+          "createdAt": "2026-02-10 23:05:24",
+          "hot": 129
+        },
+        {
+          "title": "Ex-GitHub CEO Launches a New Developer Platform for AI Agents",
+          "summary": "56 comments",
+          "url": "https://entire.io/blog/hello-entire-world/",
+          "createdAt": "2026-02-10 23:44:47",
+          "hot": 78
+        },
+        {
+          "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+          "summary": "47 comments",
+          "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+          "createdAt": "2026-02-10 09:26:42",
+          "hot": 355
+        },
+        {
+          "title": "A method and calculator for building foamcore drawer organisers",
+          "summary": "5 comments",
+          "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
+          "createdAt": "2026-02-10 03:32:45",
+          "hot": 20
+        },
+        {
+          "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+          "summary": "13 comments",
+          "url": "https://github.com/distr-sh/distr",
+          "createdAt": "2026-02-10 20:19:23",
+          "hot": 46
+        },
+        {
+          "title": "RLHF from Scratch",
+          "summary": "1 comments",
+          "url": "https://github.com/ashworks1706/rlhf-from-scratch",
+          "createdAt": "2026-02-10 19:39:26",
+          "hot": 40
+        },
+        {
+          "title": "Discord Alternatives, Ranked",
+          "summary": "345 comments",
+          "url": "https://taggart-tech.com/discord-alternatives/",
+          "createdAt": "2026-02-10 03:15:14",
+          "hot": 549
+        },
+        {
+          "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
+          "summary": "98 comments",
+          "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
+          "createdAt": "2026-02-10 22:58:35",
+          "hot": 144
+        },
+        {
+          "title": "Why is the sky blue?",
+          "summary": "247 comments",
+          "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+          "createdAt": "2026-02-09 23:39:51",
+          "hot": 744
+        },
+        {
+          "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+          "summary": "25 comments",
+          "url": "https://github.com/antirez/voxtral.c",
+          "createdAt": "2026-02-10 09:17:35",
+          "hot": 264
+        },
+        {
+          "title": "Zulip.com Values",
+          "summary": "53 comments",
+          "url": "https://zulip.com/values/",
+          "createdAt": "2026-02-10 08:46:14",
+          "hot": 220
+        },
+        {
+          "title": "80386 Barrel Shifter",
+          "summary": "4 comments",
+          "url": "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/",
+          "createdAt": "2026-02-08 15:19:11",
+          "hot": 51
+        },
+        {
+          "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+          "summary": "186 comments",
+          "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+          "createdAt": "2026-02-10 00:26:31",
+          "hot": 583
+        },
+        {
+          "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+          "summary": "111 comments",
+          "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+          "createdAt": "2026-02-08 17:58:31",
+          "hot": 233
+        },
+        {
+          "title": "Discord will require a face scan or ID for full access next month",
+          "summary": "1856 comments",
+          "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+          "createdAt": "2026-02-09 22:37:38",
+          "hot": 1936
+        }
+      ]
     }
   ]
 }
