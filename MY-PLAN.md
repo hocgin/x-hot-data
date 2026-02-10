@@ -43,14 +43,23 @@
 {
   "provider": [{
     "id": "zhihu-hot-questions",
+    "title": "知乎热搜话题",
+    "imageUrl": null,
+    "url": "/api/zhihu-hot-questions/now.json",
     "lastUpdateAt": "2026-02-10 12:00:00",
     "priority": 1000
   }, {
     "id": "weibo-top-search",
+    "title": "微博热搜话题",
+    "imageUrl": null,
+    "url": "/api/weibo-top-search/now.json",
     "lastUpdateAt": "2026-02-10 12:00:00",
     "priority": 999
   }, {
     "id": "shaoshupai-top-search",
+    "title": "少数派热搜话题",
+    "imageUrl": null,
+    "url": "/api/shaoshupai-top-search/now.json",
     "lastUpdateAt": "2026-02-10 12:00:00",
     "priority": 998
   }]
