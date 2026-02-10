@@ -8,6 +8,7 @@ import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { logger } from './src/utils/logger.ts';
 import { getEnabledPlatforms } from './src/config/platforms.ts';
+import type { BaseScraper } from './src/scrapers/base.ts';
 import dayjs from 'dayjs';
 
 /**
