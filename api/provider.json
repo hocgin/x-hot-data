@@ -2,17 +2,27 @@
   "provider": [
     {
       "id": "weibo-top-search",
-      "lastUpdateAt": "2026-02-10 17:46:54",
+      "lastUpdateAt": "2026-02-10 17:55:15",
       "priority": 999
     },
     {
+      "id": "ithome-hot",
+      "lastUpdateAt": "2026-02-10 17:55:15",
+      "priority": 990
+    },
+    {
+      "id": "sspai-hot",
+      "lastUpdateAt": "2026-02-10 17:55:15",
+      "priority": 989
+    },
+    {
       "id": "toutiao-hot",
-      "lastUpdateAt": "2026-02-10 17:46:54",
+      "lastUpdateAt": "2026-02-10 17:55:15",
       "priority": 992
     },
     {
       "id": "csdn-hot",
-      "lastUpdateAt": "2026-02-10 17:46:54",
+      "lastUpdateAt": "2026-02-10 17:55:15",
       "priority": 991
     }
   ]

@@ -8,6 +8,8 @@ import { BilibiliScraper } from './src/scrapers/bilibili.ts';
 import { DouyinScraper } from './src/scrapers/douyin.ts';
 import { ToutiaoScraper } from './src/scrapers/toutiao.ts';
 import { CsdnScraper } from './src/scrapers/csdn.ts';
+import { IthomeScraper } from './src/scrapers/ithome.ts';
+import { SspaiScraper } from './src/scrapers/sspai.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
@@ -47,6 +49,12 @@ async function devMain() {
         break;
       case 'csdn':
         scrapers.push(new CsdnScraper());
+        break;
+      case 'ithome':
+        scrapers.push(new IthomeScraper());
+        break;
+      case 'sspai':
+        scrapers.push(new SspaiScraper());
         break;
       // 添加更多平台的爬虫
       default:

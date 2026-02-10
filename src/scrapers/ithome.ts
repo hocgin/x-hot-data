@@ -1,81 +1,71 @@
-/**
- * IT之家爬虫
- */
-
 import { BaseScraper } from './base.ts';
 import type { TrendingItem } from '../types/trending.ts';
-import { logger } from '../utils/logger.ts';
+import * as cheerio from 'https://esm.sh/cheerio@1.0.0-rc.12';
 
-/**
- * IT之家热榜数据项
- */
-interface ITHomeItem {
-  title: string;
-  url: string;
-}
-
-/**
- * IT之家爬虫
- */
-export class ITHomeScraper extends BaseScraper {
+export class IthomeScraper extends BaseScraper {
   readonly platform = 'ithome' as const;
   readonly displayName = 'IT之家';
   readonly baseUrl = 'https://m.ithome.com';
   readonly apiEndpoint = '/rankm/';
-  protected override readonly timeout = 15000;
-  private log = logger.child('ITHomeScraper');
+  protected override readonly timeout = 10000;
 
-  /**
-   * 获取IT之家热榜数据
-   */
   async fetchTrending(): Promise<TrendingItem[]> {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
-    this.log.debug(`开始获取IT之家热榜数据: ${url}`);
+    const response = await this.fetchWithRetry(url);
+    const html = await response.text();
 
-    try {
-      const response = await this.fetchWithRetry(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1',
-        },
-      });
-
-      const html = await response.text();
-      const items = this.parseHTML(html);
-
-      this.log.success(`成功获取 ${items.length} 条IT之家热榜数据`);
-      return items;
-    } catch (error) {
-      this.log.error('IT之家热榜数据获取失败', error);
-      return [];
-    }
-  }
-
-  /**
-   * 解析HTML响应
-   */
-  private parseHTML(html: string): TrendingItem[] {
+    const $ = cheerio.load(html);
     const items: TrendingItem[] = [];
-    const timestamp = Date.now();
 
-    // 匹配 <a href="..."><p class="plc-title">标题</p></a>
-    const pattern = /<a\s+href="(.*?)".*?<p\s+class="plc-title">(.*?)<\/p>/gs;
-    let match: RegExpExecArray | null;
-    let index = 0;
-
-    while ((match = pattern.exec(html)) !== null && index < 50) {
-      const url = match[1]?.trim();
-      const title = match[2]?.trim();
-
-      if (url && title) {
+    // 根据文档和常见结构解析
+    // 假设结构为列表项
+    $('.rank-box .placeholder').each((index, element) => {
+      const $element = $(element);
+      const $link = $element.find('a').first();
+      const href = $link.attr('href');
+      const title = $element.find('.plc-title').text().trim();
+      const timeText = $element.find('.post-time').text().trim(); // 可能有时间
+      
+      if (title && href) {
         items.push({
-          id: this.generateId(title, `ithome_${index}`),
+          id: href,
           title,
-          url: url.startsWith('http') ? url : `https://m.ithome.com${url}`,
-          timestamp,
+          url: href, // 通常 href 是完整的或相对的，如果是相对的需要拼接
+          hot: index + 1, // 使用排名作为热度
+          hotText: `第${index + 1}名`,
+          timestamp: Date.now(),
           source: this.platform,
         });
-        index++;
       }
+    });
+
+    // 如果上面的选择器不对，尝试更通用的
+    if (items.length === 0) {
+       // 备用选择器逻辑，基于 CLAUDE.md 的描述
+       // <a href="..."><p class="plc-title">标题</p></a>
+       $('a').each((_index, element) => {
+         const $element = $(element);
+         const $title = $element.find('.plc-title');
+         if ($title.length > 0) {
+           const title = $title.text().trim();
+           const href = $element.attr('href');
+           if (title && href) {
+             items.push({
+               id: href,
+               title,
+               url: href,
+               timestamp: Date.now(),
+               source: this.platform,
+             });
+           }
+         }
+       });
+       
+       // 重新排序并添加热度
+       items.forEach((item, index) => {
+         item.hot = index + 1;
+         item.hotText = `第${index + 1}名`;
+       });
     }
 
     return items;
