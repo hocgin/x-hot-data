@@ -33,6 +33,8 @@ export interface ProviderInfo {
   id: string;
   /** 最后更新时间 */
   lastUpdateAt: string;
+  /** 优先级 */
+  priority: number;
 }
 
 /**
@@ -121,4 +123,6 @@ export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
   'bilibili-hot': 'bilibili',
   'v2ex-hot': 'v2ex',
   'hackernews-top': 'hackernews',
+  'toutiao-hot': 'toutiao',
+  'csdn-hot': 'csdn',
 };

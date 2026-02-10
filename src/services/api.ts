@@ -55,22 +55,29 @@ export class ApiService {
   }
 
   /**
-   * 获取 Provider ID
+   * 获取 Provider ID 和优先级
+   */
+  private getProviderInfo(platform: Platform): { id: string; priority: number } {
+    const platformToProviderInfo: Record<Platform, { id: string; priority: number }> = {
+      zhihu: { id: 'zhihu-hot-questions', priority: 1000 },
+      weibo: { id: 'weibo-top-search', priority: 999 },
+      github: { id: 'github-trending', priority: 998 },
+      baidu: { id: 'baidu-hot-search', priority: 997 },
+      douyin: { id: 'douyin-hot', priority: 996 },
+      bilibili: { id: 'bilibili-hot', priority: 995 },
+      v2ex: { id: 'v2ex-hot', priority: 994 },
+      hackernews: { id: 'hackernews-top', priority: 993 },
+      toutiao: { id: 'toutiao-hot', priority: 992 },
+      csdn: { id: 'csdn-hot', priority: 991 },
+    };
+    return platformToProviderInfo[platform];
+  }
+
+  /**
+   * 获取 Provider ID（兼容旧代码）
    */
   private getProviderId(platform: Platform): string {
-    const platformToProviderId: Record<Platform, string> = {
-      zhihu: 'zhihu-hot-questions',
-      weibo: 'weibo-top-search',
-      github: 'github-trending',
-      baidu: 'baidu-hot-search',
-      douyin: 'douyin-hot',
-      bilibili: 'bilibili-hot',
-      v2ex: 'v2ex-hot',
-      hackernews: 'hackernews-top',
-      toutiao: 'toutiao-hot',
-      csdn: 'csdn-hot',
-    };
-    return platformToProviderId[platform];
+    return this.getProviderInfo(platform).id;
   }
 
   /**
@@ -79,10 +86,14 @@ export class ApiService {
   async generateProviderList(
     platforms: Map<Platform, TrendingItem[]>
   ): Promise<void> {
-    const providers = Array.from(platforms.keys()).map((platform) => ({
-      id: this.getProviderId(platform),
-      lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
-    }));
+    const providers = Array.from(platforms.keys()).map((platform) => {
+      const info = this.getProviderInfo(platform);
+      return {
+        id: info.id,
+        lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+        priority: info.priority,
+      };
+    });
 
     const providerList: ProviderListResponse = { provider: providers };
 
@@ -137,6 +148,7 @@ export class ApiService {
 
   /**
    * 生成 {provider-id}/history/{date}.json
+   * 同一天多次采集时会追加数据，而不是覆盖
    */
   async generateHistoryDetail(
     platform: Platform,
@@ -147,21 +159,37 @@ export class ApiService {
     const historyDir = path.join(this.config.basePath, providerId, 'history');
     await ensureDir(historyDir);
 
+    const filePath = path.join(historyDir, `${date}.json`);
     const timestamp = Date.now();
-    const historyDetail: HistoryDetailResponse = {
-      id: `${providerId}.history.${date}`,
-      createdAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
-      data: [
-        {
-          id: `${providerId}.${timestamp}`,
-          lastUpdatedAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
-          data: items.map(this.trendingToApiData),
-        },
-      ],
+    const now = dayjs().format('YYYY-MM-DD HH:mm:ss');
+
+    // 新数据项
+    const newDataItem = {
+      id: `${providerId}.${timestamp}`,
+      lastUpdatedAt: now,
+      data: items.map(this.trendingToApiData),
     };
 
-    // 文件名格式: 2026-02-10.json（同一天覆盖之前的文件）
-    const filePath = path.join(historyDir, `${date}.json`);
+    // 尝试读取现有文件
+    let historyDetail: HistoryDetailResponse;
+    try {
+      const existingContent = await Deno.readTextFile(filePath);
+      const existingData = JSON.parse(existingContent) as HistoryDetailResponse;
+
+      // 追加新数据项到现有文件
+      historyDetail = {
+        ...existingData,
+        data: [...existingData.data, newDataItem],
+      };
+    } catch {
+      // 文件不存在，创建新文件
+      historyDetail = {
+        id: `${providerId}.history.${date}`,
+        createdAt: now,
+        data: [newDataItem],
+      };
+    }
+
     await Deno.writeTextFile(filePath, JSON.stringify(historyDetail, null, 2));
   }
 
