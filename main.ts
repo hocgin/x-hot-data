@@ -53,7 +53,8 @@ async function main() {
   // 解析命令行参数
   const args = Deno.args;
   const providerIndex = args.indexOf('--provider');
-  const targetProvider = providerIndex !== -1 ? args[providerIndex + 1] : null;
+  const platformIndex = args.indexOf('--platform');
+  const targetPlatform = providerIndex !== -1 ? args[providerIndex + 1] : (platformIndex !== -1 ? args[platformIndex + 1] : null);
   const skipApi = args.includes('--skip-api');
   const onlyGenerateApi = args.includes('--only-generate-api');
 
@@ -80,8 +81,8 @@ async function main() {
 
   // 初始化爬虫实例
   const scrapers: BaseScraper[] = [];
-  const enabledPlatforms = targetProvider 
-    ? [targetProvider as Platform] 
+  const enabledPlatforms = targetPlatform 
+    ? [targetPlatform as Platform] 
     : getEnabledPlatforms();
 
   for (const platform of enabledPlatforms) {

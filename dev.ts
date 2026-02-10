@@ -27,11 +27,13 @@ import { DongqiudiScraper } from './src/scrapers/dongqiudi.ts';
 import { YouxiputaoScraper } from './src/scrapers/youxiputao.ts';
 import { Kr36Scraper } from './src/scrapers/kr36.ts';
 import { GithubScraper } from './src/scrapers/github.ts';
+import { SougouScraper } from './src/scrapers/sougou.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
 import { logger, LogLevel } from './src/utils/logger.ts';
 import { getEnabledPlatforms } from './src/config/platforms.ts';
+import type { Platform } from './src/types/trending.ts';
 import dayjs from 'dayjs';
 
 // 开发模式设置日志级别
@@ -41,11 +43,28 @@ logger.setLevel(LogLevel.Debug);
  * 开发模式主函数
  */
 async function devMain() {
+  // 解析命令行参数
+  const args = Deno.args;
+  const platformIndex = args.indexOf('--platform');
+  const targetPlatform = platformIndex !== -1 ? args[platformIndex + 1] : null;
+
   logger.info('开发模式：开始获取热门数据');
+  if (targetPlatform) {
+    logger.info(`仅抓取平台: ${targetPlatform}`);
+  }
 
   // 初始化爬虫实例
   const scrapers: any[] = [];
-  const enabledPlatforms = getEnabledPlatforms();
+  const allEnabledPlatforms = getEnabledPlatforms();
+  
+  const enabledPlatforms = targetPlatform 
+    ? allEnabledPlatforms.filter(p => p === targetPlatform) 
+    : allEnabledPlatforms;
+
+  if (targetPlatform && enabledPlatforms.length === 0) {
+     logger.error(`平台 ${targetPlatform} 未启用或不存在`);
+     Deno.exit(1);
+  }
 
   for (const platform of enabledPlatforms) {
     switch (platform) {
