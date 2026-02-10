@@ -11,6 +11,36 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        provider:
+          - zhihu
+          - weibo
+          - sougou
+          - github
+          - bilibili
+          - douyin
+          - toutiao
+          - csdn
+          - ithome
+          - sspai
+          - acfun
+          - anquanke
+          - hupu
+          - wuaipojie
+          - smzdm
+          - tieba
+          - qqnews
+          - douban
+          - baidu
+          - v2ex
+          - hackernews
+          - so
+          - yiche
+          - dongqiudi
+          - youxiputao
+          - kr36
 
     steps:
       - name: Setup Deno
@@ -22,23 +52,49 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run data collection
-        run: deno task start
+        run: deno task start --provider ${{ matrix.provider }} --skip-api
         env:
           LOG_LEVEL: info
 
       - name: Upload data as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: daily-data-${{ github.run_number }}
+          name: data-${{ matrix.provider }}
           path: data/
-          retention-days: 30
+          retention-days: 1
           if-no-files-found: ignore
+
+  merge-and-commit:
+    needs: fetch
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: data-*
+          path: data/
+          merge-multiple: true
+
+      - name: Generate API data
+        run: deno task start --only-generate-api
+        env:
+          LOG_LEVEL: info
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
+          git add data/ api/
           if ! git diff --cached --quiet; then
             git commit -m "Update trending data $(date '+%Y-%m-%d %H:%M:%S')"
             git push

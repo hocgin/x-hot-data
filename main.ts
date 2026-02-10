@@ -34,6 +34,7 @@ import { ApiService } from './src/services/api.ts';
 import { logger } from './src/utils/logger.ts';
 import { getEnabledPlatforms } from './src/config/platforms.ts';
 import type { BaseScraper } from './src/scrapers/base.ts';
+import type { Platform } from './src/types/trending.ts';
 import dayjs from 'dayjs';
 
 /**
@@ -42,9 +43,46 @@ import dayjs from 'dayjs';
 async function main() {
   logger.info('开始获取热门数据');
 
+  // 初始化服务
+  const storage = new StorageService();
+  const apiService = new ApiService();
+
+  // 获取数据
+  const today = dayjs().format('YYYY-MM-DD');
+
+  // 解析命令行参数
+  const args = Deno.args;
+  const providerIndex = args.indexOf('--provider');
+  const targetProvider = providerIndex !== -1 ? args[providerIndex + 1] : null;
+  const skipApi = args.includes('--skip-api');
+  const onlyGenerateApi = args.includes('--only-generate-api');
+
+  if (onlyGenerateApi) {
+    logger.info('仅生成 API 数据...');
+    const platformsDataMap = await storage.loadDailyData(today);
+    
+    if (!platformsDataMap) {
+      logger.error(`未找到 ${today} 的数据`);
+      Deno.exit(1);
+      return;
+    }
+
+    // 转换 Record 为 Map
+    const platformsData = new Map<Platform, any[]>();
+    for (const [platform, items] of Object.entries(platformsDataMap.data)) {
+      platformsData.set(platform as Platform, items);
+    }
+
+    await apiService.generateAllApiData(platformsData, today);
+    logger.success(`API 数据已生成到 api/ 目录`);
+    return;
+  }
+
   // 初始化爬虫实例
   const scrapers: BaseScraper[] = [];
-  const enabledPlatforms = getEnabledPlatforms();
+  const enabledPlatforms = targetProvider 
+    ? [targetProvider as Platform] 
+    : getEnabledPlatforms();
 
   for (const platform of enabledPlatforms) {
     switch (platform) {
@@ -53,6 +91,9 @@ async function main() {
         break;
       case 'weibo':
         scrapers.push(new WeiboScraper());
+        break;
+      case 'sougou':
+        scrapers.push(new SougouScraper());
         break;
       case 'github':
         scrapers.push(new GithubScraper());
@@ -133,13 +174,10 @@ async function main() {
     Deno.exit(1);
   }
 
-  // 初始化服务
+  // 初始化调度服务
   const scheduler = new SchedulerService(scrapers);
-  const storage = new StorageService();
-  const apiService = new ApiService();
 
   // 获取数据
-  const today = dayjs().format('YYYY-MM-DD');
   const platformsData = await scheduler.fetchAllAsMap();
 
   // 计算统计信息
@@ -153,8 +191,12 @@ async function main() {
   logger.success(`原始数据已保存到 data/${today}/ 目录`);
 
   // 保存到 api 目录（API 格式）
-  await apiService.generateAllApiData(platformsData, today);
-  logger.success(`API 数据已生成到 api/ 目录`);
+  if (!skipApi) {
+    await apiService.generateAllApiData(platformsData, today);
+    logger.success(`API 数据已生成到 api/ 目录`);
+  } else {
+    logger.info('跳过 API 数据生成');
+  }
 
   // 输出统计信息
   console.log('\n' + '='.repeat(60));
