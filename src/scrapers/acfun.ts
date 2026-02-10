@@ -26,7 +26,8 @@ export class AcfunScraper extends BaseScraper {
   protected override readonly timeout = 10000;
 
   async fetchTrending(): Promise<TrendingItem[]> {
-    const url = `${this.baseUrl}${this.apiEndpoint}?channelId=&subChannelId=&rankLimit=30&rankPeriod=DAY`;
+    const url =
+      `${this.baseUrl}${this.apiEndpoint}?channelId=&subChannelId=&rankLimit=30&rankPeriod=DAY`;
     const response = await this.fetchWithRetry(url);
     const data = await this.parseJSON<AcFunResponse>(response);
 

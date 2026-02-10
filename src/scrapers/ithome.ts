@@ -25,7 +25,7 @@ export class IthomeScraper extends BaseScraper {
       const href = $link.attr('href');
       const title = $element.find('.plc-title').text().trim();
       const timeText = $element.find('.post-time').text().trim(); // 可能有时间
-      
+
       if (title && href) {
         items.push({
           id: href,
@@ -41,31 +41,31 @@ export class IthomeScraper extends BaseScraper {
 
     // 如果上面的选择器不对，尝试更通用的
     if (items.length === 0) {
-       // 备用选择器逻辑，基于 CLAUDE.md 的描述
-       // <a href="..."><p class="plc-title">标题</p></a>
-       $('a').each((_index, element) => {
-         const $element = $(element);
-         const $title = $element.find('.plc-title');
-         if ($title.length > 0) {
-           const title = $title.text().trim();
-           const href = $element.attr('href');
-           if (title && href) {
-             items.push({
-               id: href,
-               title,
-               url: href,
-               timestamp: Date.now(),
-               source: this.platform,
-             });
-           }
-         }
-       });
-       
-       // 重新排序并添加热度
-       items.forEach((item, index) => {
-         item.hot = index + 1;
-         item.hotText = `第${index + 1}名`;
-       });
+      // 备用选择器逻辑，基于 CLAUDE.md 的描述
+      // <a href="..."><p class="plc-title">标题</p></a>
+      $('a').each((_index, element) => {
+        const $element = $(element);
+        const $title = $element.find('.plc-title');
+        if ($title.length > 0) {
+          const title = $title.text().trim();
+          const href = $element.attr('href');
+          if (title && href) {
+            items.push({
+              id: href,
+              title,
+              url: href,
+              timestamp: Date.now(),
+              source: this.platform,
+            });
+          }
+        }
+      });
+
+      // 重新排序并添加热度
+      items.forEach((item, index) => {
+        item.hot = index + 1;
+        item.hotText = `第${index + 1}名`;
+      });
     }
 
     return items;

@@ -14,13 +14,14 @@ export class YicheScraper extends BaseScraper {
     const text = await response.text();
 
     const items: TrendingItem[] = [];
-    const itemRegex = /<div class="rk-item ka"[\s\S]*?data-spell="([^"]+)"[\s\S]*?<span class="rk-xuhao">(\d+)<\/span>[\s\S]*?<div class="rk-car-name">([^<]+)<\/div>[\s\S]*?<div class="rk-car-price">([^<]+)<\/div>[\s\S]*?<span class="rk-car-num">([^<]+)<\/span>/g;
+    const itemRegex =
+      /<div class="rk-item ka"[\s\S]*?data-spell="([^"]+)"[\s\S]*?<span class="rk-xuhao">(\d+)<\/span>[\s\S]*?<div class="rk-car-name">([^<]+)<\/div>[\s\S]*?<div class="rk-car-price">([^<]+)<\/div>[\s\S]*?<span class="rk-car-num">([^<]+)<\/span>/g;
 
     let match;
     while ((match = itemRegex.exec(text)) !== null) {
       const [_, spell, rankStr, name, price, hotStr] = match;
       const rank = parseInt(rankStr);
-      
+
       // 处理热度 "13.50万" -> 135000
       let hot = 0;
       if (hotStr.includes('万')) {

@@ -58,7 +58,9 @@ export type Platform =
   | 'smzdm'
   | 'tieba'
   | 'qqnews'
-  | 'yiche';
+  | 'yiche'
+  | 'dongqiudi'
+  | 'youxiputao';
 
 /**
  * 每日数据集合

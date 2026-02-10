@@ -14,7 +14,7 @@ export class V2exScraper extends BaseScraper {
     const response = await this.fetchWithRetry(url);
     const html = await response.text();
     const $ = cheerio.load(html);
-    
+
     const items: TrendingItem[] = [];
 
     // V2EX 的列表项结构
@@ -23,19 +23,19 @@ export class V2exScraper extends BaseScraper {
       const $a = $title.find('a');
       const href = $a.attr('href');
       const title = $a.text().trim();
-      
+
       // 查找父级 cell，再找对应的其他信息
       // 结构通常是: table -> tr -> td (avatar) + td (title/meta) + td (reply count)
       const $cell = $title.closest('.cell');
-      
+
       // 回复数
       const $count = $cell.find('.count_livid');
       const replyCount = $count.text().trim();
-      
+
       // 头像
       const $avatar = $cell.find('.avatar');
       const cover = $avatar.attr('src');
-      
+
       // 节点/分类
       const $node = $cell.find('.node');
       const category = $node.text().trim();

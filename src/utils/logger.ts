@@ -23,7 +23,7 @@ export class Logger {
   constructor(
     level: LogLevel = LogLevel.Info,
     prefix: string = '',
-    logFilePath: string = LOG_FILE_PATH
+    logFilePath: string = LOG_FILE_PATH,
   ) {
     this.level = level;
     this.prefix = prefix;
@@ -70,7 +70,7 @@ export class Logger {
       await Deno.writeTextFile(
         this.logFilePath,
         message + '\n',
-        { append: true }
+        { append: true },
       );
     } catch (error) {
       // 文件写入失败不影响程序运行
@@ -161,7 +161,11 @@ export class Logger {
    * 创建子日志器
    */
   child(prefix: string): Logger {
-    return new Logger(this.level, this.prefix ? `${this.prefix}:${prefix}` : prefix, this.logFilePath);
+    return new Logger(
+      this.level,
+      this.prefix ? `${this.prefix}:${prefix}` : prefix,
+      this.logFilePath,
+    );
   }
 }
 

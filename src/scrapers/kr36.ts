@@ -5,7 +5,6 @@
 import { BaseScraper } from './base.ts';
 import type { TrendingItem } from '../types/trending.ts';
 import { logger } from '../utils/logger.ts';
-import dayjs from 'dayjs';
 
 /**
  * 36氪爬虫
@@ -22,15 +21,21 @@ export class Kr36Scraper extends BaseScraper {
    * 获取36氪热榜数据
    */
   async fetchTrending(): Promise<TrendingItem[]> {
-    // 使用今天的日期构建URL
-    const today = dayjs().format('YYYY-MM-DD');
+    // 使用今天的日期构建URL (YYYY-MM-DD)
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    const today = `${year}-${month}-${day}`;
+
     const url = `${this.baseUrl}${this.apiEndpoint}/${today}/1`;
     this.log.debug(`开始获取36氪热榜数据: ${url}`);
 
     try {
       const response = await this.fetchWithRetry(url, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1',
+          'User-Agent':
+            'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1',
           'Referer': '36kr.com',
         },
       });
@@ -56,7 +61,8 @@ export class Kr36Scraper extends BaseScraper {
 
     // 匹配文章信息块：先找到 article-wrapper div，然后提取标题和链接
     // <div class="article-wrapper"><div class="article-item-info"><p class="title-wrapper"><a class="article-item-title" href="...">标题</a>
-    const pattern = /<div\s+class="article-item-info"[^>]*>.*?<a\s+class="article-item-title"[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>/gs;
+    const pattern =
+      /<div\s+class="article-item-info"[^>]*>.*?<a\s+class="article-item-title"[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>/gs;
     let match: RegExpExecArray | null;
     let index = 0;
 

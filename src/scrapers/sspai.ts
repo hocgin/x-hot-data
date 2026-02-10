@@ -29,7 +29,8 @@ export class SspaiScraper extends BaseScraper {
   protected override readonly timeout = 10000;
 
   async fetchTrending(): Promise<TrendingItem[]> {
-    const url = `${this.baseUrl}${this.apiEndpoint}?limit=20&tag=%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0`;
+    const url =
+      `${this.baseUrl}${this.apiEndpoint}?limit=20&tag=%E7%83%AD%E9%97%A8%E6%96%87%E7%AB%A0`;
     const response = await this.fetchWithRetry(url);
     const data = await this.parseJSON<SspaiResponse>(response);
 

@@ -21,19 +21,19 @@ export class HackerNewsScraper extends BaseScraper {
   async fetchTrending(): Promise<TrendingItem[]> {
     const response = await this.fetchWithRetry(this.apiEndpoint);
     const ids = await this.parseJSON<number[]>(response);
-    
+
     // 只获取前 30 条
     const topIds = ids.slice(0, 30);
-    
+
     const items: TrendingItem[] = [];
-    
+
     // 并发获取详情
     const promises = topIds.map(async (id) => {
       try {
         const detailUrl = `https://hacker-news.firebaseio.com/v0/item/${id}.json`;
         const detailRes = await this.fetchWithRetry(detailUrl);
         const detail = await this.parseJSON<HackerNewsItem>(detailRes);
-        
+
         if (detail && detail.title) {
           return {
             id: detail.id.toString(),

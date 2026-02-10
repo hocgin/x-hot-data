@@ -2,8 +2,8 @@
  * 任务调度服务
  */
 
-import type { Platform, TrendingItem, PlatformData, FetchResult } from '../types/trending.ts';
-import { logger, Logger } from '../utils/logger.ts';
+import type { FetchResult, Platform, PlatformData, TrendingItem } from '../types/trending.ts';
+import { Logger, logger } from '../utils/logger.ts';
 import { getPlatformConfig } from '../config/platforms.ts';
 import type { BaseScraper } from '../scrapers/base.ts';
 
@@ -43,7 +43,7 @@ export class SchedulerService {
       const duration = Date.now() - startTime;
 
       this.log.success(
-        `${config.displayName} 获取成功，共 ${items.length} 条数据，耗时 ${duration}ms`
+        `${config.displayName} 获取成功，共 ${items.length} 条数据，耗时 ${duration}ms`,
       );
 
       return {
@@ -75,7 +75,7 @@ export class SchedulerService {
 
     // 并发获取所有平台数据
     const results = await Promise.all(
-      targetPlatforms.map((platform) => this.fetchPlatform(platform))
+      targetPlatforms.map((platform) => this.fetchPlatform(platform)),
     );
 
     const totalItems = results.reduce((sum, r) => sum + r.items.length, 0);
@@ -84,7 +84,7 @@ export class SchedulerService {
     const duration = Date.now() - startTime;
 
     this.log.success(
-      `数据获取完成，共 ${totalItems} 条，成功 ${successCount} 个，失败 ${failedCount} 个，耗时 ${duration}ms`
+      `数据获取完成，共 ${totalItems} 条，成功 ${successCount} 个，失败 ${failedCount} 个，耗时 ${duration}ms`,
     );
 
     return {

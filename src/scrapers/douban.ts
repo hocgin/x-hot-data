@@ -14,20 +14,20 @@ export class DoubanScraper extends BaseScraper {
     const response = await this.fetchWithRetry(url);
     const html = await response.text();
     const $ = cheerio.load(html);
-    
+
     const items: TrendingItem[] = [];
 
     $('.channel-item').each((_index, element) => {
       const $item = $(element);
       const $bd = $item.find('.bd');
       const $a = $bd.find('h3 a');
-      
+
       const title = $a.text().trim();
       const href = $a.attr('href');
       const likes = $item.find('.likes').text().replace('喜欢', '').trim();
       const description = $bd.find('.block p').text().trim();
       const cover = $bd.find('.pic img').attr('src');
-      
+
       if (title && href) {
         items.push({
           id: href,

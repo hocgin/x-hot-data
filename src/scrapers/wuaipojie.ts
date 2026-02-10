@@ -13,31 +13,32 @@ export class WuaipojieScraper extends BaseScraper {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
     const response = await this.fetchWithRetry(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'User-Agent':
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
       },
     });
-    
+
     const buffer = await response.arrayBuffer();
     const decoder = new TextDecoder('gbk');
     const html = decoder.decode(buffer);
     const $ = cheerio.load(html);
-    
+
     const items: TrendingItem[] = [];
 
     // Discuz! 排行榜页面结构通常是表格
     // 查找包含 ranklist 的表格行
     // 尝试更通用的选择器，因为 .bm_c 可能不存在或者结构不同
-    
+
     // 直接查找所有包含 thread 链接的 th
     $('tr').each((_index, element) => {
       const $row = $(element);
       const $th = $row.find('th');
       const $a = $th.find('a[href^="thread"]').first();
-      
+
       if ($a.length > 0) {
         const title = $a.text().trim();
         let href = $a.attr('href');
-        
+
         if (title && href) {
           // 处理相对路径
           if (!href.startsWith('http')) {
@@ -45,7 +46,7 @@ export class WuaipojieScraper extends BaseScraper {
           }
 
           // 排除不需要的链接（如果有的话）
-          
+
           items.push({
             id: href,
             title,

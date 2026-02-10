@@ -26,7 +26,7 @@ export class ScraperError extends Error {
     public type: ScraperErrorType,
     message: string,
     public platform?: string,
-    public originalError?: unknown
+    public originalError?: unknown,
   ) {
     super(message);
     this.name = 'ScraperError';
@@ -42,7 +42,7 @@ export class NetworkError extends ScraperError {
       ScraperErrorType.NetworkError,
       `网络请求失败: ${platform}`,
       platform,
-      originalError
+      originalError,
     );
     this.name = 'NetworkError';
   }
@@ -57,7 +57,7 @@ export class ParseError extends ScraperError {
       ScraperErrorType.ParseError,
       `数据解析失败: ${platform} - ${message}`,
       platform,
-      originalError
+      originalError,
     );
     this.name = 'ParseError';
   }
@@ -71,7 +71,7 @@ export class ValidationError extends ScraperError {
     super(
       ScraperErrorType.ValidationError,
       `数据验证失败: ${platform} - ${message}`,
-      platform
+      platform,
     );
     this.name = 'ValidationError';
   }
@@ -85,7 +85,7 @@ export class RateLimitError extends ScraperError {
     super(
       ScraperErrorType.RateLimitError,
       `请求被限流: ${platform}`,
-      platform
+      platform,
     );
     this.name = 'RateLimitError';
   }

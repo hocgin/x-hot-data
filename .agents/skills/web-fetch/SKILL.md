@@ -5,7 +5,8 @@ description: Fetches web content with intelligent content extraction, converting
 
 # Web Content Fetching
 
-Fetch web content using `curl | html2markdown` with CSS selectors for clean, complete markdown output.
+Fetch web content using `curl | html2markdown` with CSS selectors for clean, complete markdown
+output.
 
 ## Quick Usage (Known Sites)
 
@@ -27,13 +28,13 @@ curl -s "<url>" | html2markdown --include-selector "article,main,[role=main]" --
 
 ## Site Patterns
 
-| Site | Include Selector | Exclude Selector |
-|------|------------------|------------------|
-| platform.claude.com | `#content-container` | - |
-| docs.anthropic.com | `#content-container` | - |
-| developer.mozilla.org | `article` | - |
-| github.com (docs) | `article` | `nav,.sidebar` |
-| Generic | `article,main` | `nav,header,footer,script,style` |
+| Site                  | Include Selector     | Exclude Selector                 |
+| --------------------- | -------------------- | -------------------------------- |
+| platform.claude.com   | `#content-container` | -                                |
+| docs.anthropic.com    | `#content-container` | -                                |
+| developer.mozilla.org | `article`            | -                                |
+| github.com (docs)     | `article`            | `nav,.sidebar`                   |
+| Generic               | `article,main`       | `nav,header,footer,script,style` |
 
 ## Universal Fallback (Unknown Sites)
 
@@ -74,15 +75,16 @@ curl -s "<url>" | html2markdown --include-selector "<selector>" | wc -l
 
 ## Comparison
 
-| Method | Anthropic Docs | Code Blocks | Complexity |
-|--------|----------------|-------------|------------|
-| Full page | 602 lines | Yes | Noisy |
-| `--include-selector "#content-container"` | 385 lines | Yes | Clean |
-| Bun script (universal) | 383 lines | Yes | Clean |
+| Method                                    | Anthropic Docs | Code Blocks | Complexity |
+| ----------------------------------------- | -------------- | ----------- | ---------- |
+| Full page                                 | 602 lines      | Yes         | Noisy      |
+| `--include-selector "#content-container"` | 385 lines      | Yes         | Clean      |
+| Bun script (universal)                    | 383 lines      | Yes         | Clean      |
 
 ## Troubleshooting
 
 **Wrong content selected**: The site may have multiple articles. Inspect the HTML:
+
 ```bash
 curl -s "<url>" | grep -o '<article[^>]*>'
 ```
@@ -91,4 +93,5 @@ curl -s "<url>" | grep -o '<article[^>]*>'
 
 **Missing code blocks**: Check if the site uses non-standard code formatting.
 
-**Client-rendered content**: If HTML only has "Loading..." placeholders, the content is JS-rendered. Neither curl nor the Bun script can extract it; use browser-based tools.
+**Client-rendered content**: If HTML only has "Loading..." placeholders, the content is JS-rendered.
+Neither curl nor the Bun script can extract it; use browser-based tools.

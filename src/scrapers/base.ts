@@ -2,8 +2,8 @@
  * 爬虫基类
  */
 
-import type { TrendingItem, Platform } from '../types/trending.ts';
-import { NetworkError, RateLimitError, ParseError } from '../types/error.ts';
+import type { Platform, TrendingItem } from '../types/trending.ts';
+import { NetworkError, ParseError, RateLimitError } from '../types/error.ts';
 import { DEFAULT_HEADERS, MAX_RETRIES, RETRY_DELAY_BASE } from '../config/constants.ts';
 
 /**
@@ -36,7 +36,7 @@ export abstract class BaseScraper {
   protected async fetchWithRetry(
     url: string,
     options: RequestInit = {},
-    maxRetries: number = MAX_RETRIES
+    maxRetries: number = MAX_RETRIES,
   ): Promise<Response> {
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), this.timeout);
@@ -67,7 +67,7 @@ export abstract class BaseScraper {
         if (!response.ok) {
           throw new NetworkError(
             this.platform,
-            new Error(`HTTP ${response.status}: ${response.statusText}`)
+            new Error(`HTTP ${response.status}: ${response.statusText}`),
           );
         }
 

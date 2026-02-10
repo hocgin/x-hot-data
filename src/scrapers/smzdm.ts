@@ -14,19 +14,19 @@ export class SmzdmScraper extends BaseScraper {
     const response = await this.fetchWithRetry(url);
     const html = await response.text();
     const $ = cheerio.load(html);
-    
+
     const items: TrendingItem[] = [];
     const uniqueIds = new Set<string>();
 
     $('.feed-hot-card').each((_index, element) => {
       const $card = $(element);
       const $a = $card.find('a').first();
-      
+
       const title = $card.find('.feed-hot-title').text().trim();
       const href = $a.attr('href');
       const cover = $card.find('.feed-hot-pic img').attr('src');
       const highlight = $card.find('.z-highlight').text().trim();
-      
+
       if (title && href && !uniqueIds.has(href)) {
         uniqueIds.add(href);
         items.push({

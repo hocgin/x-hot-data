@@ -12,7 +12,7 @@ import { logger } from '../utils/logger.ts';
 interface WeiboHotDataItem {
   word: string;
   word_cut?: string;
-  num?: number;  // 热度值（实际字段）
+  num?: number; // 热度值（实际字段）
   raw_hot?: string;
   hot_score?: number;
   category?: string;
@@ -60,7 +60,8 @@ export class WeiboScraper extends BaseScraper {
         .filter((item) => item.word)
         .map((item, index) => {
           // 使用 num 字段作为热度值（微博 API 的实际字段）
-          const hotScore = item.num || item.hot_score || this.parseHotValue(item.raw_hot || '') || 0;
+          const hotScore = item.num || item.hot_score || this.parseHotValue(item.raw_hot || '') ||
+            0;
           // 构建搜索链接 URL（参考 hot-trending 项目）
           const searchUrl = `https://s.weibo.com/weibo?q=${encodeURIComponent(item.word)}`;
           return {

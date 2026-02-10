@@ -32,7 +32,7 @@ export class TiebaScraper extends BaseScraper {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
     const response = await this.fetchWithRetry(url);
     const data = await this.parseJSON<TiebaResponse>(response);
-    
+
     if (data.errno !== 0) {
       throw new Error(`Tieba API error: ${data.errmsg}`);
     }

@@ -29,13 +29,13 @@ export class QQNewsScraper extends BaseScraper {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
     const response = await this.fetchWithRetry(url);
     const data = await this.parseJSON<QQNewsResponse>(response);
-    
+
     if (!data.idlist || data.idlist.length === 0 || !data.idlist[0].newslist) {
       return [];
     }
 
     return data.idlist[0].newslist
-      .filter(item => item.hotEvent && item.hotEvent.title)
+      .filter((item) => item.hotEvent && item.hotEvent.title)
       .map((item) => ({
         id: item.hotEvent!.id || item.id,
         title: item.hotEvent!.title,

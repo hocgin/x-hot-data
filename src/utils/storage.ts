@@ -4,7 +4,7 @@
 
 import * as path from '@std/path';
 import { ensureDir } from '@std/fs';
-import type { TrendingItem, Platform, DailyData } from '../types/trending.ts';
+import type { DailyData, Platform, TrendingItem } from '../types/trending.ts';
 import { DATA_BASE_PATH, DATE_FORMAT } from '../config/constants.ts';
 import dayjs from 'dayjs';
 
@@ -24,7 +24,7 @@ export class StorageService {
   async savePlatformData(
     date: string,
     platform: Platform,
-    items: TrendingItem[]
+    items: TrendingItem[],
   ): Promise<void> {
     const dateDir = path.join(this.basePath, date);
     await ensureDir(dateDir);
@@ -47,7 +47,7 @@ export class StorageService {
    */
   async loadPlatformData(
     date: string,
-    platform: Platform
+    platform: Platform,
   ): Promise<TrendingItem[] | null> {
     const filePath = path.join(this.basePath, date, `${platform}.json`);
 
@@ -65,10 +65,10 @@ export class StorageService {
    */
   async saveDailyData(
     date: string,
-    platformsData: Map<Platform, TrendingItem[]>
+    platformsData: Map<Platform, TrendingItem[]>,
   ): Promise<void> {
     const promises = Array.from(platformsData.entries()).map(
-      ([platform, items]) => this.savePlatformData(date, platform, items)
+      ([platform, items]) => this.savePlatformData(date, platform, items),
     );
 
     await Promise.all(promises);

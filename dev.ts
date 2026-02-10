@@ -23,6 +23,9 @@ import { V2exScraper } from './src/scrapers/v2ex.ts';
 import { HackerNewsScraper } from './src/scrapers/hackernews.ts';
 import { SoScraper } from './src/scrapers/so.ts';
 import { YicheScraper } from './src/scrapers/yiche.ts';
+import { DongqiudiScraper } from './src/scrapers/dongqiudi.ts';
+import { YouxiputaoScraper } from './src/scrapers/youxiputao.ts';
+import { Kr36Scraper } from './src/scrapers/kr36.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
@@ -108,7 +111,15 @@ async function devMain() {
       case 'yiche':
         scrapers.push(new YicheScraper());
         break;
-      // 添加更多平台的爬虫
+      case 'dongqiudi':
+        scrapers.push(new DongqiudiScraper());
+        break;
+      case 'youxiputao':
+        scrapers.push(new YouxiputaoScraper());
+        break;
+      case 'kr36':
+        scrapers.push(new Kr36Scraper());
+        break;
       default:
         logger.warn(`未实现 ${platform} 平台的爬虫`);
     }
@@ -141,7 +152,10 @@ async function devMain() {
   }
 
   // 统计信息
-  const totalItems = Array.from(platformsData.values()).reduce((sum, items) => sum + items.length, 0);
+  const totalItems = Array.from(platformsData.values()).reduce(
+    (sum, items) => sum + items.length,
+    0,
+  );
   const successCount = platformsData.size;
 
   // 保存数据

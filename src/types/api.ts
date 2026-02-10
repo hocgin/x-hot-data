@@ -122,6 +122,8 @@ export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   douban: 'douban-group-hot',
   so: '360search-hot',
   yiche: 'yiche-hot',
+  dongqiudi: 'dongqiudi-hot',
+  youxiputao: 'youxiputao-hot',
 };
 
 /**
@@ -151,4 +153,6 @@ export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
   'douban-group-hot': 'douban',
   '360search-hot': 'so',
   'yiche-hot': 'yiche',
+  'dongqiudi-hot': 'dongqiudi',
+  'youxiputao-hot': 'youxiputao',
 };

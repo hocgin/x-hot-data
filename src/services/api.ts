@@ -6,14 +6,14 @@
 import * as path from '@std/path';
 import { ensureDir } from '@std/fs';
 import dayjs from 'dayjs';
-import type { TrendingItem, Platform } from '../types/trending.ts';
+import type { Platform, TrendingItem } from '../types/trending.ts';
 import type {
   ApiDataItem,
-  ProviderListResponse,
-  NowResponse,
-  HistoryResponse,
   HistoryDetailResponse,
+  HistoryResponse,
+  NowResponse,
   PLATFORM_TO_PROVIDER_ID,
+  ProviderListResponse,
 } from '../types/api.ts';
 
 /**
@@ -82,7 +82,9 @@ export class ApiService {
       so: { id: '360search-hot', priority: 981 },
       baidu: { id: 'baidu-hot-search', priority: 997 },
       yiche: { id: 'yiche-hot', priority: 977 },
-  };
+      dongqiudi: { id: 'dongqiudi-hot', priority: 975 },
+      youxiputao: { id: 'youxiputao-hot', priority: 976 },
+    };
     return platformToProviderInfo[platform];
   }
 
@@ -97,7 +99,7 @@ export class ApiService {
    * 生成 provider.json
    */
   async generateProviderList(
-    platforms: Map<Platform, TrendingItem[]>
+    platforms: Map<Platform, TrendingItem[]>,
   ): Promise<void> {
     const providers = Array.from(platforms.keys()).map((platform) => {
       const info = this.getProviderInfo(platform);
@@ -120,7 +122,7 @@ export class ApiService {
    */
   async generateNowData(
     platform: Platform,
-    items: TrendingItem[]
+    items: TrendingItem[],
   ): Promise<void> {
     const providerId = this.getProviderId(platform);
     const providerDir = path.join(this.config.basePath, providerId);
@@ -166,7 +168,7 @@ export class ApiService {
   async generateHistoryDetail(
     platform: Platform,
     date: string,
-    items: TrendingItem[]
+    items: TrendingItem[],
   ): Promise<void> {
     const providerId = this.getProviderId(platform);
     const historyDir = path.join(this.config.basePath, providerId, 'history');
@@ -211,7 +213,7 @@ export class ApiService {
    */
   async generateAllApiData(
     platforms: Map<Platform, TrendingItem[]>,
-    date: string
+    date: string,
   ): Promise<void> {
     // 生成 provider.json
     await this.generateProviderList(platforms);
@@ -244,8 +246,8 @@ export class ApiService {
         const files = Array.from(Deno.readDirSync(historyDir));
         const dates = files
           .filter((f) => f.name.endsWith('.json'))
-          .map((f) => f.name.replace('.json', ''))  // 移除 .json 后缀
-          .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d));  // 验证日期格式
+          .map((f) => f.name.replace('.json', '')) // 移除 .json 后缀
+          .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)); // 验证日期格式
 
         // 合并现有日期和新日期
         const allDates = Array.from(new Set([...existingDates, ...dates, date])).sort().reverse();
