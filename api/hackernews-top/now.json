@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1770747540586",
-  "lastUpdatedAt": "2026-02-11 02:19:00",
+  "id": "hackernews-top.1770749739124",
+  "lastUpdatedAt": "2026-02-11 02:55:39",
   "data": [
     {
-      "title": "The Singularity will occur on a Tuesday",
-      "summary": "15 comments",
-      "url": "https://campedersen.com/singularity",
-      "createdAt": "2026-02-11 01:04:31",
-      "hot": 50
+      "title": "Semaglutide improves knee osteoarthritis independant of weight loss",
+      "summary": "26 comments",
+      "url": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
+      "createdAt": "2026-02-11 00:55:03",
+      "hot": 76
     },
     {
-      "title": "Mathematicians disagree on the essential structure of the complex numbers",
-      "summary": "27 comments",
-      "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-      "createdAt": "2026-02-11 00:36:30",
-      "hot": 56
+      "title": "The Singularity will occur on a Tuesday",
+      "summary": "103 comments",
+      "url": "https://campedersen.com/singularity",
+      "createdAt": "2026-02-11 01:04:31",
+      "hot": 172
+    },
+    {
+      "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+      "summary": "2 comments",
+      "url": "https://livedocs.com",
+      "createdAt": "2026-02-11 02:09:14",
+      "hot": 14
+    },
+    {
+      "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+      "summary": "6 comments",
+      "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+      "createdAt": "2026-02-11 01:52:46",
+      "hot": 22
     },
     {
       "title": "Simplifying Vulkan one subsystem at a time",
-      "summary": "42 comments",
+      "summary": "56 comments",
       "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
       "createdAt": "2026-02-10 21:26:14",
-      "hot": 137
+      "hot": 146
     },
     {
       "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "summary": "42 comments",
+      "summary": "45 comments",
       "url": "https://code.idtech.space/fn/hl2",
       "createdAt": "2026-02-10 19:21:56",
-      "hot": 225
+      "hot": 241
     },
     {
-      "title": "Semaglutide improves knee osteoarthritis independant of weight loss",
-      "summary": "4 comments",
-      "url": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
-      "createdAt": "2026-02-11 00:55:03",
-      "hot": 25
-    },
-    {
-      "title": "Google Handed ICE Student Journalist's Bank and Credit Card Numbers",
-      "summary": "38 comments",
-      "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
-      "createdAt": "2026-02-11 01:48:05",
-      "hot": 117
+      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+      "summary": "12 comments",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "createdAt": "2026-02-11 00:47:29",
+      "hot": 34
     },
     {
       "title": "Show HN: I made paperboat.website, a platform for friends and creativity",
-      "summary": "12 comments",
+      "summary": "16 comments",
       "url": "https://paperboat.website/home/",
       "createdAt": "2026-02-11 00:57:52",
-      "hot": 19
+      "hot": 28
+    },
+    {
+      "title": "Markdown CLI viewer with VI keybindings",
+      "summary": "3 comments",
+      "url": "https://github.com/taf2/mdvi",
+      "createdAt": "2026-02-11 01:51:10",
+      "hot": 13
+    },
+    {
+      "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
+      "summary": "5 comments",
+      "url": "https://github.com/pretzelai/stripe-no-webhooks",
+      "createdAt": "2026-02-11 01:14:48",
+      "hot": 16
     },
     {
       "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
-      "summary": "137 comments",
+      "summary": "139 comments",
       "url": "https://qwen.ai/blog?id=qwen-image-2.0",
       "createdAt": "2026-02-10 17:19:00",
-      "hot": 258
+      "hot": 267
     },
     {
-      "title": "Parse, Don't Validate (2019)",
-      "summary": "92 comments",
-      "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
-      "createdAt": "2026-02-10 22:49:29",
-      "hot": 150
+      "title": "Google Handed ICE Student Journalist's Bank and Credit Card Numbers",
+      "summary": "70 comments",
+      "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+      "createdAt": "2026-02-11 01:48:05",
+      "hot": 194
     },
     {
       "title": "Oxide raises $200M Series C",
-      "summary": "186 comments",
+      "summary": "193 comments",
       "url": "https://oxide.computer/blog/our-200m-series-c",
       "createdAt": "2026-02-10 22:20:49",
-      "hot": 342
+      "hot": 366
     },
     {
       "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
       "summary": "37 comments",
       "url": "https://www.netviews.app",
       "createdAt": "2026-02-10 13:20:32",
-      "hot": 107
+      "hot": 114
     },
     {
-      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-      "summary": "9 comments",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "createdAt": "2026-02-11 00:47:29",
-      "hot": 23
-    },
-    {
-      "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
-      "summary": "2 comments",
-      "url": "https://github.com/pretzelai/stripe-no-webhooks",
-      "createdAt": "2026-02-11 01:14:48",
-      "hot": 7
+      "title": "London's Most Controversial Cyclist",
+      "summary": "4 comments",
+      "url": "https://www.the-londoner.co.uk/jeremy-vine-loves-him-motorists-hate-him-is-this-londons-most-controversial-cyclist/",
+      "createdAt": "2026-02-11 01:39:24",
+      "hot": 16
     },
     {
       "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "summary": "308 comments",
+      "summary": "316 comments",
       "url": "https://arxiv.org/abs/2512.20798",
       "createdAt": "2026-02-10 11:17:17",
-      "hot": 478
+      "hot": 485
     },
     {
       "title": "Show HN: Open-Source SDK for AI Knowledge Work",
       "summary": "1 comments",
       "url": "https://github.com/ClioAI/kw-sdk",
       "createdAt": "2026-02-11 01:06:00",
-      "hot": 8
+      "hot": 10
     },
     {
-      "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
-      "summary": "264 comments",
-      "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
-      "createdAt": "2026-02-10 22:02:10",
-      "hot": 344
+      "title": "Parse, Don't Validate (2019)",
+      "summary": "107 comments",
+      "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+      "createdAt": "2026-02-10 22:49:29",
+      "hot": 158
     },
     {
-      "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
-      "summary": "0 comments",
-      "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
-      "createdAt": "2026-02-11 01:52:46",
-      "hot": 7
-    },
-    {
-      "title": "Markdown CLI viewer with VI keybindings",
-      "summary": "0 comments",
-      "url": "https://github.com/taf2/mdvi",
-      "createdAt": "2026-02-11 01:51:10",
-      "hot": 3
-    },
-    {
-      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-      "summary": "278 comments",
-      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "createdAt": "2026-02-10 19:42:14",
-      "hot": 293
+      "title": "Mathematicians disagree on the essential structure of the complex numbers",
+      "summary": "48 comments",
+      "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+      "createdAt": "2026-02-11 00:36:30",
+      "hot": 67
     },
     {
       "title": "Redefining Go Functions",
       "summary": "14 comments",
       "url": "https://pboyd.io/posts/redefining-go-functions/",
       "createdAt": "2026-02-10 22:27:16",
-      "hot": 45
+      "hot": 52
+    },
+    {
+      "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+      "summary": "290 comments",
+      "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+      "createdAt": "2026-02-10 22:02:10",
+      "hot": 370
+    },
+    {
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "summary": "311 comments",
+      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "createdAt": "2026-02-10 19:42:14",
+      "hot": 331
     },
     {
       "title": "ClawHub",
-      "summary": "9 comments",
+      "summary": "15 comments",
       "url": "https://clawhub.ai/",
       "createdAt": "2026-02-11 01:40:55",
-      "hot": 10
+      "hot": 19
     },
     {
       "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
       "summary": "51 comments",
       "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
       "createdAt": "2026-02-10 09:26:42",
-      "hot": 362
+      "hot": 370
     },
     {
       "title": "The US is flirting with its first-ever population decline",
-      "summary": "524 comments",
+      "summary": "588 comments",
       "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time",
       "createdAt": "2026-02-10 23:05:24",
-      "hot": 173
+      "hot": 198
+    },
+    {
+      "title": "Discord Alternatives, Ranked",
+      "summary": "370 comments",
+      "url": "https://taggart-tech.com/discord-alternatives/",
+      "createdAt": "2026-02-10 03:15:14",
+      "hot": 596
     },
     {
       "title": "RLHF from Scratch",
       "summary": "1 comments",
       "url": "https://github.com/ashworks1706/rlhf-from-scratch",
       "createdAt": "2026-02-10 19:39:26",
-      "hot": 47
-    },
-    {
-      "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
-      "summary": "255 comments",
-      "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
-      "createdAt": "2026-02-10 23:08:36",
-      "hot": 329
+      "hot": 51
     },
     {
       "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-      "summary": "13 comments",
+      "summary": "14 comments",
       "url": "https://github.com/distr-sh/distr",
       "createdAt": "2026-02-10 20:19:23",
-      "hot": 50
+      "hot": 52
     },
     {
       "title": "A method and calculator for building foamcore drawer organisers",
-      "summary": "6 comments",
+      "summary": "7 comments",
       "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
       "createdAt": "2026-02-10 03:32:45",
-      "hot": 24
+      "hot": 27
     },
     {
-      "title": "Discord Alternatives, Ranked",
-      "summary": "358 comments",
-      "url": "https://taggart-tech.com/discord-alternatives/",
-      "createdAt": "2026-02-10 03:15:14",
-      "hot": 575
-    },
-    {
-      "title": "\"Hate brings views\": Confessions of a London fake news TikToker",
-      "summary": "61 comments",
-      "url": "https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants",
-      "createdAt": "2026-02-11 01:00:40",
-      "hot": 123
-    },
-    {
-      "title": "Why is the sky blue?",
-      "summary": "247 comments",
-      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-      "createdAt": "2026-02-09 23:39:51",
-      "hot": 757
+      "title": "Show HN: HN Companion – web app that enhances the experience of reading HN",
+      "summary": "2 comments",
+      "url": "https://hncompanion.com",
+      "createdAt": "2026-02-11 01:01:34",
+      "hot": 6
     }
   ]
 }
