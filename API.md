@@ -1,4 +1,6 @@
 # API 文档
+> 域名地址: https://hot-data.hocgin.top/
+
 
 本文档描述了系统生成的所有数据接口格式。
 
