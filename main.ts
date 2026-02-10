@@ -52,6 +52,9 @@ async function main() {
       case 'weibo':
         scrapers.push(new WeiboScraper());
         break;
+      case 'github':
+        scrapers.push(new GithubScraper());
+        break;
       case 'bilibili':
         scrapers.push(new BilibiliScraper());
         break;

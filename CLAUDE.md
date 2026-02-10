@@ -16,7 +16,7 @@
 | 今日头条    | toutiao-hot         | ✅ 已启用    | scrapers/toutiao.ts    | 992    |
 | CSDN        | csdn-hot            | ✅ 已启用    | scrapers/csdn.ts       | 991    |
 | 知乎        | zhihu-hot-questions | ⚠️ 需 Cookie | scrapers/zhihu.ts      | 1000   |
-| GitHub      | github-trending     | ❌ 未启用    | scrapers/bilibili.ts   | 998    |
+| GitHub      | github-trending     | ❌ 未启用    | -                      | 998    |
 | 百度        | baidu-hot-search    | ✅ 已启用    | scrapers/baidu.ts      | 997    |
 | 抖音        | douyin-hot          | ❌ 需 Token  | scrapers/douyin.ts     | 996    |
 | B站         | bilibili-hot        | ❌ 风控      | scrapers/bilibili.ts   | 995    |
