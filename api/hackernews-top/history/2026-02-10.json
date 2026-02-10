@@ -217,6 +217,222 @@
           "hot": 109
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770733611171",
+      "lastUpdatedAt": "2026-02-10 14:26:51",
+      "data": [
+        {
+          "title": "Simplifying Vulkan One Subsystem at a Time",
+          "summary": "2 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 13:26:14",
+          "hot": 24
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "13 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 11:21:56",
+          "hot": 102
+        },
+        {
+          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+          "summary": "271 comments",
+          "url": "https://arxiv.org/abs/2512.20798",
+          "createdAt": "2026-02-10 03:17:17",
+          "hot": 412
+        },
+        {
+          "title": "Discord will require a face scan or ID for full access next month",
+          "summary": "1776 comments",
+          "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+          "createdAt": "2026-02-09 14:37:38",
+          "hot": 1857
+        },
+        {
+          "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+          "summary": "3 comments",
+          "url": "https://github.com/distr-sh/distr",
+          "createdAt": "2026-02-10 12:19:23",
+          "hot": 18
+        },
+        {
+          "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+          "summary": "41 comments",
+          "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+          "createdAt": "2026-02-10 01:26:42",
+          "hot": 323
+        },
+        {
+          "title": "RLHF from Scratch",
+          "summary": "1 comments",
+          "url": "https://github.com/ashworks1706/rlhf-from-scratch",
+          "createdAt": "2026-02-10 11:39:26",
+          "hot": 9
+        },
+        {
+          "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+          "summary": "0 comments",
+          "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+          "createdAt": "2026-02-10 14:02:10",
+          "hot": 11
+        },
+        {
+          "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+          "summary": "21 comments",
+          "url": "https://github.com/antirez/voxtral.c",
+          "createdAt": "2026-02-10 01:17:35",
+          "hot": 233
+        },
+        {
+          "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+          "summary": "90 comments",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+          "createdAt": "2026-02-10 09:19:00",
+          "hot": 156
+        },
+        {
+          "title": "Why is the sky blue?",
+          "summary": "233 comments",
+          "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+          "createdAt": "2026-02-09 15:39:51",
+          "hot": 688
+        },
+        {
+          "title": "Discord Alternatives, Ranked",
+          "summary": "268 comments",
+          "url": "https://taggart-tech.com/discord-alternatives/",
+          "createdAt": "2026-02-09 19:15:14",
+          "hot": 438
+        },
+        {
+          "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+          "summary": "177 comments",
+          "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+          "createdAt": "2026-02-09 16:26:31",
+          "hot": 561
+        },
+        {
+          "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+          "summary": "6 comments",
+          "url": "https://elysiajs.com/internal/jit-compiler",
+          "createdAt": "2026-02-08 10:22:30",
+          "hot": 27
+        },
+        {
+          "title": "Zulip.com Values",
+          "summary": "37 comments",
+          "url": "https://zulip.com/values/",
+          "createdAt": "2026-02-10 00:46:14",
+          "hot": 161
+        },
+        {
+          "title": "Hard-braking events as indicators of road segment crash risk",
+          "summary": "478 comments",
+          "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+          "createdAt": "2026-02-09 17:09:37",
+          "hot": 334
+        },
+        {
+          "title": "Rice Theory: Why Eastern Cultures Are More Cooperative",
+          "summary": "38 comments",
+          "url": "https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative",
+          "createdAt": "2026-02-10 12:34:18",
+          "hot": 34
+        },
+        {
+          "title": "80386 Barrel Shifter",
+          "summary": "0 comments",
+          "url": "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/",
+          "createdAt": "2026-02-08 07:19:11",
+          "hot": 19
+        },
+        {
+          "title": "Show HN: Total Recall – write-gated memory for Claude Code",
+          "summary": "13 comments",
+          "url": "https://github.com/davegoldblatt/total-recall",
+          "createdAt": "2026-02-05 23:56:54",
+          "hot": 40
+        },
+        {
+          "title": "Luce: First Electric Ferrari",
+          "summary": "248 comments",
+          "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+          "createdAt": "2026-02-09 19:19:30",
+          "hot": 248
+        },
+        {
+          "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+          "summary": "123 comments",
+          "url": "https://www.chainlift.io/liftkit",
+          "createdAt": "2026-02-09 22:01:34",
+          "hot": 247
+        },
+        {
+          "title": "Sandboxels",
+          "summary": "42 comments",
+          "url": "https://neal.fun/sandboxels/",
+          "createdAt": "2026-02-09 15:31:09",
+          "hot": 349
+        },
+        {
+          "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+          "summary": "86 comments",
+          "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+          "createdAt": "2026-02-08 09:58:31",
+          "hot": 174
+        },
+        {
+          "title": "Is particle physics dead, dying, or just hard?",
+          "summary": "259 comments",
+          "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+          "createdAt": "2026-02-09 23:31:15",
+          "hot": 162
+        },
+        {
+          "title": "An articulated archer automaton [video]",
+          "summary": "6 comments",
+          "url": "https://www.youtube.com/watch?v=Bc0bIpDVEa8",
+          "createdAt": "2026-02-09 19:32:23",
+          "hot": 45
+        },
+        {
+          "title": "Eight more months of agents",
+          "summary": "188 comments",
+          "url": "https://crawshaw.io/blog/eight-more-months-of-agents",
+          "createdAt": "2026-02-08 11:00:32",
+          "hot": 180
+        },
+        {
+          "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+          "summary": "162 comments",
+          "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
+          "createdAt": "2026-02-09 20:31:44",
+          "hot": 150
+        },
+        {
+          "title": "UEFI Bindings for JavaScript",
+          "summary": "111 comments",
+          "url": "https://codeberg.org/smnx/promethee",
+          "createdAt": "2026-02-09 14:07:36",
+          "hot": 244
+        },
+        {
+          "title": "Ask HN: What are you working on? (February 2026)",
+          "summary": "992 comments",
+          "url": "https://news.ycombinator.com/item?id=46937696",
+          "createdAt": "2026-02-08 19:35:55",
+          "hot": 294
+        },
+        {
+          "title": "Game Theory Patterns at Work (2016)",
+          "summary": "7 comments",
+          "url": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
+          "createdAt": "2026-02-09 20:30:10",
+          "hot": 112
+        }
+      ]
     }
   ]
 }
