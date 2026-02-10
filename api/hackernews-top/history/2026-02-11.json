@@ -1081,6 +1081,222 @@
           "hot": 272
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770754319960",
+      "lastUpdatedAt": "2026-02-11 04:11:59",
+      "data": [
+        {
+          "title": "The Singularity will occur on a Tuesday",
+          "summary": "194 comments",
+          "url": "https://campedersen.com/singularity",
+          "createdAt": "2026-02-11 01:04:31",
+          "hot": 347
+        },
+        {
+          "title": "The Switch to Linux and the Beginning of My Self-Hosting Journey",
+          "summary": "1 comments",
+          "url": "https://hazemkrimi.tech/blog/linux-self-hosting-journey/",
+          "createdAt": "2026-02-11 02:09:10",
+          "hot": 39
+        },
+        {
+          "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+          "summary": "31 comments",
+          "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+          "createdAt": "2026-02-11 01:52:46",
+          "hot": 58
+        },
+        {
+          "title": "Simplifying Vulkan one subsystem at a time",
+          "summary": "77 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 21:26:14",
+          "hot": 164
+        },
+        {
+          "title": "Mathematicians disagree on the essential structure of the complex numbers",
+          "summary": "79 comments",
+          "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+          "createdAt": "2026-02-11 00:36:30",
+          "hot": 81
+        },
+        {
+          "title": "Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis",
+          "summary": "10 comments",
+          "url": "https://livedocs.com",
+          "createdAt": "2026-02-11 02:09:14",
+          "hot": 27
+        },
+        {
+          "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+          "summary": "18 comments",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "createdAt": "2026-02-11 00:47:29",
+          "hot": 60
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "50 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 19:21:56",
+          "hot": 260
+        },
+        {
+          "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+          "summary": "94 comments",
+          "url": "https://entire.io/blog/hello-entire-world/",
+          "createdAt": "2026-02-10 23:44:47",
+          "hot": 112
+        },
+        {
+          "title": "Toyotas and Terrorists: \"Why are ISIS's trucks better than ours?\"",
+          "summary": "0 comments",
+          "url": "https://www.airuniversity.af.edu/Wild-Blue-Yonder/Articles/Article-Display/Article/3600155/toyotas-and-terrorists-why-are-isiss-trucks-better-than-ours-said-the-american/",
+          "createdAt": "2026-02-11 03:49:02",
+          "hot": 7
+        },
+        {
+          "title": "China's Data Center Boom: A View from Zhangjiakou (2025)",
+          "summary": "4 comments",
+          "url": "https://sinocities.substack.com/p/chinas-data-center-boom-a-view-from",
+          "createdAt": "2026-02-11 03:19:56",
+          "hot": 10
+        },
+        {
+          "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+          "summary": "146 comments",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+          "createdAt": "2026-02-10 17:19:00",
+          "hot": 296
+        },
+        {
+          "title": "Markdown CLI viewer with VI keybindings",
+          "summary": "8 comments",
+          "url": "https://github.com/taf2/mdvi",
+          "createdAt": "2026-02-11 01:51:10",
+          "hot": 24
+        },
+        {
+          "title": "The Evolution of Bengt Betjänt",
+          "summary": "0 comments",
+          "url": "https://andonlabs.com/blog/evolution-of-bengt",
+          "createdAt": "2026-02-10 11:24:38",
+          "hot": 9
+        },
+        {
+          "title": "Google handed ICE student journalist's bank and credit card numbers",
+          "summary": "115 comments",
+          "url": "https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/",
+          "createdAt": "2026-02-11 01:48:05",
+          "hot": 313
+        },
+        {
+          "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
+          "summary": "7 comments",
+          "url": "https://github.com/pretzelai/stripe-no-webhooks",
+          "createdAt": "2026-02-11 01:14:48",
+          "hot": 20
+        },
+        {
+          "title": "Show HN: I made paperboat.website, a platform for friends and creativity",
+          "summary": "22 comments",
+          "url": "https://paperboat.website/home/",
+          "createdAt": "2026-02-11 00:57:52",
+          "hot": 37
+        },
+        {
+          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+          "summary": "324 comments",
+          "url": "https://arxiv.org/abs/2512.20798",
+          "createdAt": "2026-02-10 11:17:17",
+          "hot": 502
+        },
+        {
+          "title": "Oxide raises $200M Series C",
+          "summary": "208 comments",
+          "url": "https://oxide.computer/blog/our-200m-series-c",
+          "createdAt": "2026-02-10 22:20:49",
+          "hot": 410
+        },
+        {
+          "title": "Show HN: Multimodal perception system for real-time conversation",
+          "summary": "1 comments",
+          "url": "https://raven.tavuslabs.org",
+          "createdAt": "2026-02-11 02:58:35",
+          "hot": 12
+        },
+        {
+          "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+          "summary": "39 comments",
+          "url": "https://www.netviews.app",
+          "createdAt": "2026-02-10 13:20:32",
+          "hot": 126
+        },
+        {
+          "title": "A brief history of oral peptides",
+          "summary": "7 comments",
+          "url": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
+          "createdAt": "2026-02-10 05:23:27",
+          "hot": 15
+        },
+        {
+          "title": "I started programming when I was 7. I'm 50 now and the thing I loved has changed",
+          "summary": "342 comments",
+          "url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+          "createdAt": "2026-02-10 23:08:36",
+          "hot": 388
+        },
+        {
+          "title": "Parse, Don't Validate (2019)",
+          "summary": "117 comments",
+          "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
+          "createdAt": "2026-02-10 22:49:29",
+          "hot": 183
+        },
+        {
+          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+          "summary": "374 comments",
+          "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+          "createdAt": "2026-02-10 19:42:14",
+          "hot": 410
+        },
+        {
+          "title": "Semaglutide improves knee osteoarthritis independant of weight loss",
+          "summary": "103 comments",
+          "url": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2",
+          "createdAt": "2026-02-11 00:55:03",
+          "hot": 143
+        },
+        {
+          "title": "Competition is not market validation",
+          "summary": "1 comments",
+          "url": "https://www.ablg.io/blog/competition-is-not-validation",
+          "createdAt": "2026-02-11 00:04:21",
+          "hot": 8
+        },
+        {
+          "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
+          "summary": "128 comments",
+          "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
+          "createdAt": "2026-02-10 22:58:35",
+          "hot": 184
+        },
+        {
+          "title": "Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks",
+          "summary": "0 comments",
+          "url": "https://github.com/stevenctl/deadlog",
+          "createdAt": "2026-02-11 01:44:13",
+          "hot": 10
+        },
+        {
+          "title": "ClawHub",
+          "summary": "32 comments",
+          "url": "https://clawhub.ai/",
+          "createdAt": "2026-02-11 01:40:55",
+          "hot": 35
+        }
+      ]
     }
   ]
 }
