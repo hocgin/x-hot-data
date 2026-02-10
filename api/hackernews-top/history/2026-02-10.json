@@ -433,6 +433,222 @@
           "hot": 112
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770737806532",
+      "lastUpdatedAt": "2026-02-10 15:36:46",
+      "data": [
+        {
+          "title": "Oxide raises $200M Series C",
+          "summary": "80 comments",
+          "url": "https://oxide.computer/blog/our-200m-series-c",
+          "createdAt": "2026-02-10 14:20:49",
+          "hot": 155
+        },
+        {
+          "title": "Simplifying Vulkan One Subsystem at a Time",
+          "summary": "4 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 13:26:14",
+          "hot": 64
+        },
+        {
+          "title": "Disruption with Some GitHub Services",
+          "summary": "3 comments",
+          "url": "https://www.githubstatus.com/incidents/wkgqj4546z1c",
+          "createdAt": "2026-02-10 15:12:11",
+          "hot": 17
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "21 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 11:21:56",
+          "hot": 146
+        },
+        {
+          "title": "Vercel's CEO offers to cover expenses of 'Jmail'",
+          "summary": "32 comments",
+          "url": "https://www.threads.com/@qa_test_hq/post/DUkC_zjiGQh",
+          "createdAt": "2026-02-10 14:58:35",
+          "hot": 64
+        },
+        {
+          "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+          "summary": "3 comments",
+          "url": "https://www.netviews.app",
+          "createdAt": "2026-02-10 05:20:32",
+          "hot": 28
+        },
+        {
+          "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+          "summary": "288 comments",
+          "url": "https://arxiv.org/abs/2512.20798",
+          "createdAt": "2026-02-10 03:17:17",
+          "hot": 435
+        },
+        {
+          "title": "Jury told that Meta, Google 'engineered addiction' at landmark US trial",
+          "summary": "129 comments",
+          "url": "https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html",
+          "createdAt": "2026-02-10 14:02:10",
+          "hot": 153
+        },
+        {
+          "title": "Discord will require a face scan or ID for full access next month",
+          "summary": "1814 comments",
+          "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+          "createdAt": "2026-02-09 14:37:38",
+          "hot": 1884
+        },
+        {
+          "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+          "summary": "103 comments",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+          "createdAt": "2026-02-10 09:19:00",
+          "hot": 183
+        },
+        {
+          "title": "Redefining Go Functions",
+          "summary": "0 comments",
+          "url": "https://pboyd.io/posts/redefining-go-functions/",
+          "createdAt": "2026-02-10 14:27:16",
+          "hot": 8
+        },
+        {
+          "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+          "summary": "9 comments",
+          "url": "https://github.com/distr-sh/distr",
+          "createdAt": "2026-02-10 12:19:23",
+          "hot": 34
+        },
+        {
+          "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+          "summary": "44 comments",
+          "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+          "createdAt": "2026-02-10 01:26:42",
+          "hot": 341
+        },
+        {
+          "title": "A method and calculator for building foamcore drawer organisers",
+          "summary": "2 comments",
+          "url": "https://capnfabs.net/posts/foamcore-would-be-a-sick-name-for-a-music-genre/",
+          "createdAt": "2026-02-09 19:32:45",
+          "hot": 5
+        },
+        {
+          "title": "Discord Alternatives, Ranked",
+          "summary": "297 comments",
+          "url": "https://taggart-tech.com/discord-alternatives/",
+          "createdAt": "2026-02-09 19:15:14",
+          "hot": 483
+        },
+        {
+          "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+          "summary": "22 comments",
+          "url": "https://github.com/antirez/voxtral.c",
+          "createdAt": "2026-02-10 01:17:35",
+          "hot": 251
+        },
+        {
+          "title": "RLHF from Scratch",
+          "summary": "1 comments",
+          "url": "https://github.com/ashworks1706/rlhf-from-scratch",
+          "createdAt": "2026-02-10 11:39:26",
+          "hot": 20
+        },
+        {
+          "title": "The US Is Flirting with Its First-Ever Population Decline",
+          "summary": "4 comments",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-immigration-crackdown-could-shrink-us-population-for-first-time",
+          "createdAt": "2026-02-10 15:05:24",
+          "hot": 13
+        },
+        {
+          "title": "Why is the sky blue?",
+          "summary": "242 comments",
+          "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+          "createdAt": "2026-02-09 15:39:51",
+          "hot": 713
+        },
+        {
+          "title": "80386 Barrel Shifter",
+          "summary": "1 comments",
+          "url": "https://nand2mario.github.io/posts/2026/80386_barrel_shifter/",
+          "createdAt": "2026-02-08 07:19:11",
+          "hot": 35
+        },
+        {
+          "title": "Lance table format explained simply, stupid (Animated)",
+          "summary": "0 comments",
+          "url": "https://tontinton.com/posts/lance/",
+          "createdAt": "2026-02-08 12:45:56",
+          "hot": 7
+        },
+        {
+          "title": "Zulip.com Values",
+          "summary": "45 comments",
+          "url": "https://zulip.com/values/",
+          "createdAt": "2026-02-10 00:46:14",
+          "hot": 190
+        },
+        {
+          "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+          "summary": "178 comments",
+          "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+          "createdAt": "2026-02-09 16:26:31",
+          "hot": 574
+        },
+        {
+          "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+          "summary": "7 comments",
+          "url": "https://elysiajs.com/internal/jit-compiler",
+          "createdAt": "2026-02-08 10:22:30",
+          "hot": 34
+        },
+        {
+          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+          "summary": "1 comments",
+          "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+          "createdAt": "2026-02-10 11:42:14",
+          "hot": 16
+        },
+        {
+          "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+          "summary": "99 comments",
+          "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+          "createdAt": "2026-02-08 09:58:31",
+          "hot": 194
+        },
+        {
+          "title": "Hard-braking events as indicators of road segment crash risk",
+          "summary": "499 comments",
+          "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+          "createdAt": "2026-02-09 17:09:37",
+          "hot": 343
+        },
+        {
+          "title": "Luce: First Electric Ferrari",
+          "summary": "260 comments",
+          "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+          "createdAt": "2026-02-09 19:19:30",
+          "hot": 265
+        },
+        {
+          "title": "Sandboxels",
+          "summary": "44 comments",
+          "url": "https://neal.fun/sandboxels/",
+          "createdAt": "2026-02-09 15:31:09",
+          "hot": 360
+        },
+        {
+          "title": "Show HN: Total Recall – write-gated memory for Claude Code",
+          "summary": "18 comments",
+          "url": "https://github.com/davegoldblatt/total-recall",
+          "createdAt": "2026-02-05 23:56:54",
+          "hot": 46
+        }
+      ]
     }
   ]
 }
