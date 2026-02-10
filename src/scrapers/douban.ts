@@ -11,7 +11,11 @@ export class DoubanScraper extends BaseScraper {
 
   async fetchTrending(): Promise<TrendingItem[]> {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
-    const response = await this.fetchWithRetry(url);
+    const response = await this.fetchWithRetry(url, {
+      headers: {
+        'Cookie': 'bid=12345678901',
+      }
+    });
     const html = await response.text();
     const $ = cheerio.load(html);
 

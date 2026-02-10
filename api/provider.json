@@ -1,9 +1,9 @@
 {
   "provider": [
     {
-      "id": "zhihu-hot-questions",
-      "lastUpdateAt": "2026-02-10 20:31:15",
-      "priority": 1000
+      "id": "douban-group-hot",
+      "lastUpdateAt": "2026-02-10 20:37:41",
+      "priority": 984
     }
   ]
 }
