@@ -166,7 +166,7 @@ export class ApiService {
 
     const history = dates.map((date) => ({
       date,
-      uri: `${this.config.baseUri}/${providerId}/history/${date}.json`,
+      uri: `/${providerId}/history/${date}.json`,
     }));
 
     const historyData: HistoryResponse = {
