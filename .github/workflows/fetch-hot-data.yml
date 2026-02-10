@@ -95,7 +95,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/ api/
+          git add -f api/
           if ! git diff --cached --quiet; then
             git commit -m "Update trending data $(date '+%Y-%m-%d %H:%M:%S')"
             git push
