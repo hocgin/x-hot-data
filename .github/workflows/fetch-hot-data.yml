@@ -1,0 +1,47 @@
+name: Fetch Hot Data
+
+on:
+  # 每小时执行一次
+  schedule:
+    - cron: '0 * * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run data collection
+        run: deno task start
+        env:
+          LOG_LEVEL: info
+
+      - name: Upload data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-data-${{ github.run_number }}
+          path: data/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update trending data $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
