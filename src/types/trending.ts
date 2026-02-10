@@ -51,7 +51,9 @@ export type Platform =
   | 'acfun'
   | 'anquanke'
   | 'hupu'
-  | 'kr36';
+  | 'kr36'
+  | 'douban'
+  | 'wuaipojie';
 
 /**
  * 每日数据集合
