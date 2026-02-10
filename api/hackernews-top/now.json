@@ -1,0 +1,216 @@
+{
+  "id": "hackernews-top.1770727360649",
+  "lastUpdatedAt": "2026-02-10 12:42:40",
+  "data": [
+    {
+      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+      "summary": "228 comments",
+      "url": "https://arxiv.org/abs/2512.20798",
+      "createdAt": "2026-02-10 03:17:17",
+      "hot": 346
+    },
+    {
+      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
+      "summary": "2 comments",
+      "url": "https://github.com/luckyPipewrench/pipelock",
+      "createdAt": "2026-02-10 12:04:20",
+      "hot": 8
+    },
+    {
+      "title": "Discord will require a face scan or ID for full access next month",
+      "summary": "1713 comments",
+      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "createdAt": "2026-02-09 14:37:38",
+      "hot": 1769
+    },
+    {
+      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+      "summary": "29 comments",
+      "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+      "createdAt": "2026-02-10 01:26:42",
+      "hot": 287
+    },
+    {
+      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+      "summary": "18 comments",
+      "url": "https://github.com/antirez/voxtral.c",
+      "createdAt": "2026-02-10 01:17:35",
+      "hot": 196
+    },
+    {
+      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "summary": "1 comments",
+      "url": "https://code.idtech.space/fn/hl2",
+      "createdAt": "2026-02-10 11:21:56",
+      "hot": 8
+    },
+    {
+      "title": "Discord Alternatives, Ranked",
+      "summary": "199 comments",
+      "url": "https://taggart-tech.com/discord-alternatives/",
+      "createdAt": "2026-02-09 19:15:14",
+      "hot": 352
+    },
+    {
+      "title": "Why is the sky blue?",
+      "summary": "226 comments",
+      "url": "https://explainers.blog/posts/why-is-the-sky-blue/",
+      "createdAt": "2026-02-09 15:39:51",
+      "hot": 643
+    },
+    {
+      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+      "summary": "165 comments",
+      "url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+      "createdAt": "2026-02-09 16:26:31",
+      "hot": 534
+    },
+    {
+      "title": "Hard-braking events as indicators of road segment crash risk",
+      "summary": "438 comments",
+      "url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+      "createdAt": "2026-02-09 17:09:37",
+      "hot": 312
+    },
+    {
+      "title": "Show HN: Elysia JIT \"Compiler\", why it's one of the fastest JavaScript framework",
+      "summary": "0 comments",
+      "url": "https://elysiajs.com/internal/jit-compiler",
+      "createdAt": "2026-02-08 10:22:30",
+      "hot": 17
+    },
+    {
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "summary": "105 comments",
+      "url": "https://www.chainlift.io/liftkit",
+      "createdAt": "2026-02-09 22:01:34",
+      "hot": 213
+    },
+    {
+      "title": "Luce: First Electric Ferrari",
+      "summary": "229 comments",
+      "url": "https://www.ferrari.com/en-US/auto/ferrari-luce",
+      "createdAt": "2026-02-09 19:19:30",
+      "hot": 212
+    },
+    {
+      "title": "Zulip.com Values",
+      "summary": "23 comments",
+      "url": "https://zulip.com/values/",
+      "createdAt": "2026-02-10 00:46:14",
+      "hot": 112
+    },
+    {
+      "title": "Is particle physics dead, dying, or just hard?",
+      "summary": "229 comments",
+      "url": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "createdAt": "2026-02-09 23:31:15",
+      "hot": 146
+    },
+    {
+      "title": "Sandboxels",
+      "summary": "41 comments",
+      "url": "https://neal.fun/sandboxels/",
+      "createdAt": "2026-02-09 15:31:09",
+      "hot": 320
+    },
+    {
+      "title": "Show HN: Total Recall – write-gated memory for Claude Code",
+      "summary": "11 comments",
+      "url": "https://github.com/davegoldblatt/total-recall",
+      "createdAt": "2026-02-05 23:56:54",
+      "hot": 23
+    },
+    {
+      "title": "MIT Technology Review has confirmed that posts on Moltbook were fake",
+      "summary": "60 comments",
+      "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
+      "createdAt": "2026-02-08 09:58:31",
+      "hot": 129
+    },
+    {
+      "title": "Eight more months of agents",
+      "summary": "161 comments",
+      "url": "https://crawshaw.io/blog/eight-more-months-of-agents",
+      "createdAt": "2026-02-08 11:00:32",
+      "hot": 155
+    },
+    {
+      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
+      "summary": "152 comments",
+      "url": "https://blog.prosody.im/2026-letsencrypt-changes/",
+      "createdAt": "2026-02-09 20:31:44",
+      "hot": 135
+    },
+    {
+      "title": "AI doesn’t reduce work, it intensifies it",
+      "summary": "162 comments",
+      "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+      "createdAt": "2026-02-10 05:19:00",
+      "hot": 168
+    },
+    {
+      "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+      "summary": "79 comments",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.0",
+      "createdAt": "2026-02-10 09:19:00",
+      "hot": 111
+    },
+    {
+      "title": "UEFI Bindings for JavaScript",
+      "summary": "111 comments",
+      "url": "https://codeberg.org/smnx/promethee",
+      "createdAt": "2026-02-09 14:07:36",
+      "hot": 235
+    },
+    {
+      "title": "America has a tungsten problem",
+      "summary": "175 comments",
+      "url": "https://www.noleary.com/blog/posts/1",
+      "createdAt": "2026-02-09 20:49:21",
+      "hot": 180
+    },
+    {
+      "title": "Ask HN: What are you working on? (February 2026)",
+      "summary": "973 comments",
+      "url": "https://news.ycombinator.com/item?id=46937696",
+      "createdAt": "2026-02-08 19:35:55",
+      "hot": 286
+    },
+    {
+      "title": "Thoughts on Generating C",
+      "summary": "81 comments",
+      "url": "https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c",
+      "createdAt": "2026-02-09 13:54:48",
+      "hot": 231
+    },
+    {
+      "title": "Game Theory Patterns at Work (2016)",
+      "summary": "7 comments",
+      "url": "https://daeus.blog/2026/01/18/game-theory-patterns-at-work/",
+      "createdAt": "2026-02-09 20:30:10",
+      "hot": 97
+    },
+    {
+      "title": "Corruption Perceptions Index 2025",
+      "summary": "2 comments",
+      "url": "https://www.transparency.org/en/cpi/2025",
+      "createdAt": "2026-02-10 10:31:59",
+      "hot": 24
+    },
+    {
+      "title": "The Abstraction Rises",
+      "summary": "16 comments",
+      "url": "https://cyber-omelette.com/posts/the-abstraction-rises.html",
+      "createdAt": "2026-02-08 08:15:36",
+      "hot": 59
+    },
+    {
+      "title": "Generative Pen-Trained Transformer",
+      "summary": "1 comments",
+      "url": "https://theodore.net/projects/Polargraph/",
+      "createdAt": "2026-02-06 04:28:08",
+      "hot": 54
+    }
+  ]
+}
