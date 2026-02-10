@@ -115,6 +115,7 @@ export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   anquanke: 'anquanke-hot',
   hupu: 'hupu-hot',
   kr36: 'kr36-hot',
+  wuaipojie: 'wuaipojie-hot',
 };
 
 /**
@@ -137,4 +138,5 @@ export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
   'anquanke-hot': 'anquanke',
   'hupu-hot': 'hupu',
   'kr36-hot': 'kr36',
+  'wuaipojie-hot': 'wuaipojie',
 };

@@ -75,6 +75,7 @@ export class ApiService {
       anquanke: { id: 'anquanke-hot', priority: 987 },
       hupu: { id: 'hupu-hot', priority: 986 },
       kr36: { id: 'kr36-hot', priority: 985 },
+      wuaipojie: { id: 'wuaipojie-hot', priority: 983 },
     };
     return platformToProviderInfo[platform];
   }
