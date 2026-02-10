@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write
 
+env:
+  TZ: "Asia/Shanghai"
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
