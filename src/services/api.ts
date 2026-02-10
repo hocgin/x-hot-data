@@ -119,7 +119,7 @@ export class ApiService {
         return {
           id: info.id,
           title: config.displayName,
-          imageUrl: `https://cdn.brandfetch.io/${domain}?c=c=1idMtg8Xt8Gie1JFDdv`,
+          imageUrl: `https://cdn.brandfetch.io/${domain}?c=1idMtg8Xt8Gie1JFDdv`,
           url: `${this.config.baseUri}/${info.id}/now.json`,
           lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
           priority: info.priority,
