@@ -8,11 +8,21 @@ import { BilibiliScraper } from './src/scrapers/bilibili.ts';
 import { DouyinScraper } from './src/scrapers/douyin.ts';
 import { ToutiaoScraper } from './src/scrapers/toutiao.ts';
 import { CsdnScraper } from './src/scrapers/csdn.ts';
-import { ITHomeScraper } from './src/scrapers/ithome.ts';
+import { IthomeScraper } from './src/scrapers/ithome.ts';
 import { SspaiScraper } from './src/scrapers/sspai.ts';
 import { AcfunScraper } from './src/scrapers/acfun.ts';
 import { AnquankeScraper } from './src/scrapers/anquanke.ts';
 import { HupuScraper } from './src/scrapers/hupu.ts';
+import { WuaipojieScraper } from './src/scrapers/wuaipojie.ts';
+import { SmzdmScraper } from './src/scrapers/smzdm.ts';
+import { TiebaScraper } from './src/scrapers/tieba.ts';
+import { QQNewsScraper } from './src/scrapers/qqnews.ts';
+import { DoubanScraper } from './src/scrapers/douban.ts';
+import { BaiduScraper } from './src/scrapers/baidu.ts';
+import { V2exScraper } from './src/scrapers/v2ex.ts';
+import { HackerNewsScraper } from './src/scrapers/hackernews.ts';
+import { SoScraper } from './src/scrapers/so.ts';
+import { YicheScraper } from './src/scrapers/yiche.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
@@ -52,7 +62,7 @@ async function main() {
         scrapers.push(new CsdnScraper());
         break;
       case 'ithome':
-        scrapers.push(new ITHomeScraper());
+        scrapers.push(new IthomeScraper());
         break;
       case 'sspai':
         scrapers.push(new SspaiScraper());
@@ -65,6 +75,36 @@ async function main() {
         break;
       case 'hupu':
         scrapers.push(new HupuScraper());
+        break;
+      case 'wuaipojie':
+        scrapers.push(new WuaipojieScraper());
+        break;
+      case 'smzdm':
+        scrapers.push(new SmzdmScraper());
+        break;
+      case 'tieba':
+        scrapers.push(new TiebaScraper());
+        break;
+      case 'qqnews':
+        scrapers.push(new QQNewsScraper());
+        break;
+      case 'douban':
+        scrapers.push(new DoubanScraper());
+        break;
+      case 'baidu':
+        scrapers.push(new BaiduScraper());
+        break;
+      case 'v2ex':
+        scrapers.push(new V2exScraper());
+        break;
+      case 'hackernews':
+        scrapers.push(new HackerNewsScraper());
+        break;
+      case 'so':
+        scrapers.push(new SoScraper());
+        break;
+      case 'yiche':
+        scrapers.push(new YicheScraper());
         break;
       // 添加更多平台的爬虫
       default:

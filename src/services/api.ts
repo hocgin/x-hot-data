@@ -62,7 +62,6 @@ export class ApiService {
       zhihu: { id: 'zhihu-hot-questions', priority: 1000 },
       weibo: { id: 'weibo-top-search', priority: 999 },
       github: { id: 'github-trending', priority: 998 },
-      baidu: { id: 'baidu-hot-search', priority: 997 },
       douyin: { id: 'douyin-hot', priority: 996 },
       bilibili: { id: 'bilibili-hot', priority: 995 },
       v2ex: { id: 'v2ex-hot', priority: 994 },
@@ -75,8 +74,15 @@ export class ApiService {
       anquanke: { id: 'anquanke-hot', priority: 987 },
       hupu: { id: 'hupu-hot', priority: 986 },
       kr36: { id: 'kr36-hot', priority: 985 },
+      douban: { id: 'douban-group-hot', priority: 984 },
       wuaipojie: { id: 'wuaipojie-hot', priority: 983 },
-    };
+      smzdm: { id: 'smzdm-hot', priority: 978 },
+      tieba: { id: 'tieba-hot', priority: 980 },
+      qqnews: { id: 'qqnews-hot', priority: 979 },
+      so: { id: '360search-hot', priority: 981 },
+      baidu: { id: 'baidu-hot-search', priority: 997 },
+      yiche: { id: 'yiche-hot', priority: 977 },
+  };
     return platformToProviderInfo[platform];
   }
 

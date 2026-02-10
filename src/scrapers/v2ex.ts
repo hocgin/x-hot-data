@@ -1,74 +1,63 @@
-/**
- * V2EX爬虫
- */
-
 import { BaseScraper } from './base.ts';
 import type { TrendingItem } from '../types/trending.ts';
-import { logger } from '../utils/logger.ts';
+import * as cheerio from 'https://esm.sh/cheerio@1.0.0-rc.12';
 
-/**
- * V2EX爬虫
- */
 export class V2exScraper extends BaseScraper {
   readonly platform = 'v2ex' as const;
   readonly displayName = 'V2EX';
   readonly baseUrl = 'https://www.v2ex.com';
   readonly apiEndpoint = '/?tab=hot';
-  protected override readonly timeout = 15000;
-  private log = logger.child('V2exScraper');
+  protected override readonly timeout = 10000;
 
-  /**
-   * 获取V2EX热榜数据
-   */
   async fetchTrending(): Promise<TrendingItem[]> {
     const url = `${this.baseUrl}${this.apiEndpoint}`;
-    this.log.debug(`开始获取V2EX热榜数据: ${url}`);
-
-    try {
-      const response = await this.fetchWithRetry(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        },
-      });
-
-      const html = await response.text();
-      const items = this.parseHTML(html);
-
-      this.log.success(`成功获取 ${items.length} 条V2EX热榜数据`);
-      return items;
-    } catch (error) {
-      this.log.error('V2EX热榜数据获取失败', error);
-      return [];
-    }
-  }
-
-  /**
-   * 解析HTML响应
-   */
-  private parseHTML(html: string): TrendingItem[] {
+    const response = await this.fetchWithRetry(url);
+    const html = await response.text();
+    const $ = cheerio.load(html);
+    
     const items: TrendingItem[] = [];
-    const timestamp = Date.now();
 
-    // 匹配 <span class="item_hot_topic_title"><a href="...">标题</a></span>
-    const pattern = /<span\s+class="item_hot_topic_title">\s*<a\s+href="(.*?)">(.*?)<\/a>\s*<\/span>/g;
-    let match: RegExpExecArray | null;
-    let index = 0;
+    // V2EX 的列表项结构
+    $('.item_hot_topic_title').each((_index, element) => {
+      const $title = $(element);
+      const $a = $title.find('a');
+      const href = $a.attr('href');
+      const title = $a.text().trim();
+      
+      // 查找父级 cell，再找对应的其他信息
+      // 结构通常是: table -> tr -> td (avatar) + td (title/meta) + td (reply count)
+      const $cell = $title.closest('.cell');
+      
+      // 回复数
+      const $count = $cell.find('.count_livid');
+      const replyCount = $count.text().trim();
+      
+      // 头像
+      const $avatar = $cell.find('.avatar');
+      const cover = $avatar.attr('src');
+      
+      // 节点/分类
+      const $node = $cell.find('.node');
+      const category = $node.text().trim();
 
-    while ((match = pattern.exec(html)) !== null && index < 30) {
-      const url = match[1]?.trim();
-      const title = match[2]?.trim();
+      if (title && href) {
+        // href 包含类似 /t/123456#reply12，需要提取 ID
+        const idMatch = href.match(/\/t\/(\d+)/);
+        const id = idMatch ? idMatch[1] : href;
 
-      if (url && title) {
         items.push({
-          id: this.generateId(title, `v2ex_${index}`),
+          id,
           title,
-          url: url.startsWith('http') ? url : `https://www.v2ex.com${url}`,
-          timestamp,
+          url: `${this.baseUrl}${href}`,
+          hot: parseInt(replyCount) || 0,
+          hotText: replyCount ? `${replyCount}回复` : undefined,
+          category,
+          cover,
+          timestamp: Date.now(),
           source: this.platform,
         });
-        index++;
       }
-    }
+    });
 
     return items;
   }

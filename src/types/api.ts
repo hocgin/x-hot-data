@@ -116,6 +116,12 @@ export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   hupu: 'hupu-hot',
   kr36: 'kr36-hot',
   wuaipojie: 'wuaipojie-hot',
+  smzdm: 'smzdm-hot',
+  tieba: 'tieba-hot',
+  qqnews: 'qqnews-hot',
+  douban: 'douban-group-hot',
+  so: '360search-hot',
+  yiche: 'yiche-hot',
 };
 
 /**
@@ -139,4 +145,10 @@ export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
   'hupu-hot': 'hupu',
   'kr36-hot': 'kr36',
   'wuaipojie-hot': 'wuaipojie',
+  'smzdm-hot': 'smzdm',
+  'tieba-hot': 'tieba',
+  'qqnews-hot': 'qqnews',
+  'douban-group-hot': 'douban',
+  '360search-hot': 'so',
+  'yiche-hot': 'yiche',
 };

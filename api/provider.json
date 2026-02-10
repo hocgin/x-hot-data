@@ -1,49 +1,14 @@
 {
   "provider": [
     {
-      "id": "weibo-top-search",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 999
+      "id": "360search-hot",
+      "lastUpdateAt": "2026-02-10 18:31:36",
+      "priority": 981
     },
     {
-      "id": "ithome-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 990
-    },
-    {
-      "id": "sspai-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 989
-    },
-    {
-      "id": "acfun-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 988
-    },
-    {
-      "id": "anquanke-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 987
-    },
-    {
-      "id": "hupu-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 986
-    },
-    {
-      "id": "wuaipojie-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 983
-    },
-    {
-      "id": "toutiao-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 992
-    },
-    {
-      "id": "csdn-hot",
-      "lastUpdateAt": "2026-02-10 18:03:46",
-      "priority": 991
+      "id": "yiche-hot",
+      "lastUpdateAt": "2026-02-10 18:31:36",
+      "priority": 977
     }
   ]
 }

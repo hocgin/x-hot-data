@@ -53,7 +53,12 @@ export type Platform =
   | 'hupu'
   | 'kr36'
   | 'douban'
-  | 'wuaipojie';
+  | 'so'
+  | 'wuaipojie'
+  | 'smzdm'
+  | 'tieba'
+  | 'qqnews'
+  | 'yiche';
 
 /**
  * 每日数据集合
