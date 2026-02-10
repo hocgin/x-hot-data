@@ -33,7 +33,7 @@ export const PLATFORM_CONFIGS: Record<Platform, PlatformConfig> = {
     displayName: '知乎',
     baseUrl: 'https://www.zhihu.com',
     apiEndpoint: '/api/v3/feed/topstory/hot-lists/total',
-    enabled: true,
+    enabled: false,  // 暂时禁用，需要 Cookie 验证
     timeout: 10000,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
   },
@@ -64,22 +64,22 @@ export const PLATFORM_CONFIGS: Record<Platform, PlatformConfig> = {
     timeout: 10000,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
   },
-  douyin: {
-    name: 'douyin',
-    displayName: '抖音',
-    baseUrl: 'https://www.douyin.com',
-    apiEndpoint: '/aweme/v1/hotsearch/list/',
-    enabled: false,
-    timeout: 10000,
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-  },
   bilibili: {
     name: 'bilibili',
     displayName: 'B站',
     baseUrl: 'https://api.bilibili.com',
     apiEndpoint: '/x/web-interface/hot',
-    enabled: false,
-    timeout: 10000,
+    enabled: false,  // 暂时禁用，触发风控策略
+    timeout: 15000,
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+  },
+  douyin: {
+    name: 'douyin',
+    displayName: '抖音',
+    baseUrl: 'https://www.douyin.com',
+    apiEndpoint: '/aweme/v1/web/search/item/general/',
+    enabled: false,  // 暂时禁用，需要复杂的 Token 验证
+    timeout: 15000,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
   },
   v2ex: {
@@ -98,6 +98,24 @@ export const PLATFORM_CONFIGS: Record<Platform, PlatformConfig> = {
     apiEndpoint: '/v0/topstories.json',
     enabled: false,
     timeout: 10000,
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+  },
+  toutiao: {
+    name: 'toutiao',
+    displayName: '今日头条',
+    baseUrl: 'https://www.toutiao.com',
+    apiEndpoint: '/hot-event/hot-board/?origin=toutiao_pc',
+    enabled: true,
+    timeout: 15000,
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+  },
+  csdn: {
+    name: 'csdn',
+    displayName: 'CSDN',
+    baseUrl: 'https://blog.csdn.net',
+    apiEndpoint: '/phoenix/web/blog/hotRank',
+    enabled: true,
+    timeout: 15000,
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
   },
 };

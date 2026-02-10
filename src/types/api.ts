@@ -105,6 +105,8 @@ export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   bilibili: 'bilibili-hot',
   v2ex: 'v2ex-hot',
   hackernews: 'hackernews-top',
+  toutiao: 'toutiao-hot',
+  csdn: 'csdn-hot',
 };
 
 /**

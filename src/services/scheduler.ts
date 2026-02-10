@@ -3,7 +3,7 @@
  */
 
 import type { Platform, TrendingItem, PlatformData, FetchResult } from '../types/trending.ts';
-import { logger } from '../utils/logger.ts';
+import { logger, Logger } from '../utils/logger.ts';
 import { getPlatformConfig } from '../config/platforms.ts';
 import type { BaseScraper } from '../scrapers/base.ts';
 
@@ -12,7 +12,7 @@ import type { BaseScraper } from '../scrapers/base.ts';
  */
 export class SchedulerService {
   private scrapers: Map<Platform, BaseScraper>;
-  private log: logger;
+  private log: Logger;
 
   constructor(scrapers: BaseScraper[]) {
     this.scrapers = new Map(scrapers.map((s) => [s.platform, s]));

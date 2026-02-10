@@ -43,7 +43,9 @@ export type Platform =
   | 'douyin'
   | 'bilibili'
   | 'v2ex'
-  | 'hackernews';
+  | 'hackernews'
+  | 'toutiao'
+  | 'csdn';
 
 /**
  * 每日数据集合

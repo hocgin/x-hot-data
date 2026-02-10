@@ -4,6 +4,10 @@
 
 import { ZhihuScraper } from './src/scrapers/zhihu.ts';
 import { WeiboScraper } from './src/scrapers/weibo.ts';
+import { BilibiliScraper } from './src/scrapers/bilibili.ts';
+import { DouyinScraper } from './src/scrapers/douyin.ts';
+import { ToutiaoScraper } from './src/scrapers/toutiao.ts';
+import { CsdnScraper } from './src/scrapers/csdn.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
@@ -32,6 +36,18 @@ async function devMain() {
       case 'weibo':
         scrapers.push(new WeiboScraper());
         break;
+      case 'bilibili':
+        scrapers.push(new BilibiliScraper());
+        break;
+      case 'douyin':
+        scrapers.push(new DouyinScraper());
+        break;
+      case 'toutiao':
+        scrapers.push(new ToutiaoScraper());
+        break;
+      case 'csdn':
+        scrapers.push(new CsdnScraper());
+        break;
       // 添加更多平台的爬虫
       default:
         logger.warn(`未实现 ${platform} 平台的爬虫`);
@@ -50,23 +66,26 @@ async function devMain() {
 
   logger.debug(`已注册平台: ${scheduler.getRegisteredPlatforms().join(', ')}`);
 
-  // 获取数据
-  const result = await scheduler.fetchAll();
+  // 只执行一次爬取，获取 Map 格式数据
+  const platformsData = await scheduler.fetchAllAsMap();
 
   // 调试输出
-  for (const platformData of result.platforms) {
-    if (platformData.success && platformData.items.length > 0) {
-      logger.debug(`${platformData.platform} 获取到 ${platformData.items.length} 条数据`);
+  for (const [platform, items] of platformsData.entries()) {
+    if (items && items.length > 0) {
+      logger.debug(`${platform} 获取到 ${items.length} 条数据`);
       // 输出前 3 条
-      platformData.items.slice(0, 3).forEach((item, index) => {
+      items.slice(0, 3).forEach((item, index) => {
         console.log(`  ${index + 1}. ${item.title} (${item.hotText || item.hot || 'N/A'})`);
       });
     }
   }
 
+  // 统计信息
+  const totalItems = Array.from(platformsData.values()).reduce((sum, items) => sum + items.length, 0);
+  const successCount = platformsData.size;
+
   // 保存数据
   const today = dayjs().format('YYYY-MM-DD');
-  const platformsData = await scheduler.fetchAllAsMap();
 
   // 保存到 data 目录（原始数据）
   await storage.saveDailyData(today, platformsData);
@@ -78,9 +97,8 @@ async function devMain() {
 
   // 输出统计信息
   console.log('\n' + '='.repeat(60));
-  console.log(`获取完成: ${result.totalItems} 条数据`);
-  console.log(`成功: ${result.successCount} | 失败: ${result.failedCount}`);
-  console.log(`耗时: ${result.duration}ms`);
+  console.log(`获取完成: ${totalItems} 条数据`);
+  console.log(`成功: ${successCount} 个平台`);
   console.log('='.repeat(60));
 }
 

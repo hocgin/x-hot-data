@@ -67,6 +67,8 @@ export class ApiService {
       bilibili: 'bilibili-hot',
       v2ex: 'v2ex-hot',
       hackernews: 'hackernews-top',
+      toutiao: 'toutiao-hot',
+      csdn: 'csdn-hot',
     };
     return platformToProviderId[platform];
   }
@@ -142,7 +144,7 @@ export class ApiService {
     items: TrendingItem[]
   ): Promise<void> {
     const providerId = this.getProviderId(platform);
-    const historyDir = path.join(this.config.basePath, providerId, 'history', date);
+    const historyDir = path.join(this.config.basePath, providerId, 'history');
     await ensureDir(historyDir);
 
     const timestamp = Date.now();
@@ -158,10 +160,8 @@ export class ApiService {
       ],
     };
 
-    // 文件名格式: 2026-02-10#12_00_00.json
-    const time = dayjs().format('HH_mm_ss');
-    const fileName = `${date}#${time}.json`;
-    const filePath = path.join(this.config.basePath, providerId, 'history', fileName);
+    // 文件名格式: 2026-02-10.json（同一天覆盖之前的文件）
+    const filePath = path.join(historyDir, `${date}.json`);
     await Deno.writeTextFile(filePath, JSON.stringify(historyDetail, null, 2));
   }
 
@@ -203,11 +203,11 @@ export class ApiService {
         const files = Array.from(Deno.readDirSync(historyDir));
         const dates = files
           .filter((f) => f.name.endsWith('.json'))
-          .map((f) => f.name.split('#')[0])
-          .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d));
+          .map((f) => f.name.replace('.json', ''))  // 移除 .json 后缀
+          .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d));  // 验证日期格式
 
         // 合并现有日期和新日期
-        const allDates = Array.from(new Set([...existingDates, ...dates])).sort().reverse();
+        const allDates = Array.from(new Set([...existingDates, ...dates, date])).sort().reverse();
         await this.generateHistoryList(platform, allDates);
       } catch {
         // 目录不存在，只添加当前日期

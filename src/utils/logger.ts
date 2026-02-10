@@ -4,9 +4,13 @@
 
 import chalk from 'chalk';
 import { LogLevel } from '../config/constants.ts';
+import { ensureDir } from 'jsr:@std/fs';
 
 // 重新导出 LogLevel 以便其他模块使用
 export { LogLevel };
+
+/** 日志文件路径 */
+const LOG_FILE_PATH = './app.log';
 
 /**
  * 日志服务类
@@ -14,10 +18,16 @@ export { LogLevel };
 export class Logger {
   private level: LogLevel;
   private prefix: string;
+  private logFilePath: string;
 
-  constructor(level: LogLevel = LogLevel.Info, prefix: string = '') {
+  constructor(
+    level: LogLevel = LogLevel.Info,
+    prefix: string = '',
+    logFilePath: string = LOG_FILE_PATH
+  ) {
     this.level = level;
     this.prefix = prefix;
+    this.logFilePath = logFilePath;
   }
 
   /**
@@ -52,11 +62,31 @@ export class Logger {
   }
 
   /**
+   * 写入日志文件
+   */
+  private async writeToFile(message: string): Promise<void> {
+    try {
+      await ensureDir('./');
+      await Deno.writeTextFile(
+        this.logFilePath,
+        message + '\n',
+        { append: true }
+      );
+    } catch (error) {
+      // 文件写入失败不影响程序运行
+      // 避免递归调用 logger
+      console.error(`写入日志文件失败: ${error}`);
+    }
+  }
+
+  /**
    * 调试日志
    */
   debug(message: string, ...args: unknown[]): void {
     if (this.shouldLog(LogLevel.Debug)) {
-      console.log(chalk.gray(this.format('DEBUG', message)), ...args);
+      const formatted = this.format('DEBUG', message);
+      console.log(chalk.gray(formatted), ...args);
+      this.writeToFile(formatted + (args.length > 0 ? ' ' + args.map(String).join(' ') : ''));
     }
   }
 
@@ -65,7 +95,9 @@ export class Logger {
    */
   info(message: string, ...args: unknown[]): void {
     if (this.shouldLog(LogLevel.Info)) {
-      console.log(chalk.blue(this.format('INFO', message)), ...args);
+      const formatted = this.format('INFO', message);
+      console.log(chalk.blue(formatted), ...args);
+      this.writeToFile(formatted + (args.length > 0 ? ' ' + args.map(String).join(' ') : ''));
     }
   }
 
@@ -74,7 +106,9 @@ export class Logger {
    */
   warn(message: string, ...args: unknown[]): void {
     if (this.shouldLog(LogLevel.Warn)) {
-      console.warn(chalk.yellow(this.format('WARN', message)), ...args);
+      const formatted = this.format('WARN', message);
+      console.warn(chalk.yellow(formatted), ...args);
+      this.writeToFile(formatted + (args.length > 0 ? ' ' + args.map(String).join(' ') : ''));
     }
   }
 
@@ -83,15 +117,24 @@ export class Logger {
    */
   error(message: string, error?: unknown): void {
     if (this.shouldLog(LogLevel.Error)) {
-      console.error(chalk.red(this.format('ERROR', message)));
+      const formatted = this.format('ERROR', message);
+      console.error(chalk.red(formatted));
+      let logMessage = formatted;
+
       if (error instanceof Error) {
         console.error(chalk.red(`  ${error.message}`));
+        logMessage += '\n  ' + error.message;
         if (error.stack) {
-          console.error(chalk.gray(`  ${error.stack.split('\n').slice(1).join('\n')}`));
+          const stackTrace = error.stack.split('\n').slice(1).join('\n');
+          console.error(chalk.gray(`  ${stackTrace}`));
+          logMessage += '\n  ' + stackTrace;
         }
       } else if (error) {
         console.error(chalk.red(`  ${String(error)}`));
+        logMessage += '\n  ' + String(error);
       }
+
+      this.writeToFile(logMessage);
     }
   }
 
@@ -100,7 +143,9 @@ export class Logger {
    */
   success(message: string, ...args: unknown[]): void {
     if (this.shouldLog(LogLevel.Info)) {
-      console.log(chalk.green(this.format('SUCCESS', message)), ...args);
+      const formatted = this.format('SUCCESS', message);
+      console.log(chalk.green(formatted), ...args);
+      this.writeToFile(formatted + (args.length > 0 ? ' ' + args.map(String).join(' ') : ''));
     }
   }
 
@@ -116,7 +161,7 @@ export class Logger {
    * 创建子日志器
    */
   child(prefix: string): Logger {
-    return new Logger(this.level, this.prefix ? `${this.prefix}:${prefix}` : prefix);
+    return new Logger(this.level, this.prefix ? `${this.prefix}:${prefix}` : prefix, this.logFilePath);
   }
 }
 

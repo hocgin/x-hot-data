@@ -4,6 +4,10 @@
 
 import { ZhihuScraper } from './src/scrapers/zhihu.ts';
 import { WeiboScraper } from './src/scrapers/weibo.ts';
+import { BilibiliScraper } from './src/scrapers/bilibili.ts';
+import { DouyinScraper } from './src/scrapers/douyin.ts';
+import { ToutiaoScraper } from './src/scrapers/toutiao.ts';
+import { CsdnScraper } from './src/scrapers/csdn.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
 import { ApiService } from './src/services/api.ts';
@@ -30,6 +34,18 @@ async function main() {
       case 'weibo':
         scrapers.push(new WeiboScraper());
         break;
+      case 'bilibili':
+        scrapers.push(new BilibiliScraper());
+        break;
+      case 'douyin':
+        scrapers.push(new DouyinScraper());
+        break;
+      case 'toutiao':
+        scrapers.push(new ToutiaoScraper());
+        break;
+      case 'csdn':
+        scrapers.push(new CsdnScraper());
+        break;
       // 添加更多平台的爬虫
       default:
         logger.warn(`未实现 ${platform} 平台的爬虫`);
@@ -47,11 +63,14 @@ async function main() {
   const apiService = new ApiService();
 
   // 获取数据
-  const result = await scheduler.fetchAll();
-
-  // 保存数据
   const today = dayjs().format('YYYY-MM-DD');
   const platformsData = await scheduler.fetchAllAsMap();
+
+  // 计算统计信息
+  const items = Array.from(platformsData.values()).flat();
+  const totalItems = items.length;
+  const successCount = platformsData.size;
+  const failedCount = scrapers.length - successCount;
 
   // 保存到 data 目录（原始数据）
   await storage.saveDailyData(today, platformsData);
@@ -63,13 +82,12 @@ async function main() {
 
   // 输出统计信息
   console.log('\n' + '='.repeat(60));
-  console.log(`获取完成: ${result.totalItems} 条数据`);
-  console.log(`成功: ${result.successCount} | 失败: ${result.failedCount}`);
-  console.log(`耗时: ${result.duration}ms`);
+  console.log(`获取完成: ${totalItems} 条数据`);
+  console.log(`成功: ${successCount} | 失败: ${failedCount}`);
   console.log('='.repeat(60));
 
   // 如果有失败的平台，返回错误码
-  if (result.failedCount > 0) {
+  if (failedCount > 0) {
     Deno.exit(1);
   }
 }
