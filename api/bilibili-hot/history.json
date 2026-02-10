@@ -2,6 +2,10 @@
   "id": "bilibili-hot.history",
   "history": [
     {
+      "date": "2026-02-11",
+      "uri": "/bilibili-hot/history/2026-02-11.json"
+    },
+    {
       "date": "2026-02-10",
       "uri": "/bilibili-hot/history/2026-02-10.json"
     }
