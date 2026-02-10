@@ -50,7 +50,7 @@
 
 ## 平台对接规范
 
-添加平台配置：
+添加平台配置 (src/config/platforms.ts)：
 
 ```typescript
 platformName: {
@@ -106,20 +106,18 @@ export class PlatformNameScraper extends BaseScraper {
 }
 ```
 
-### 4. API 映射 (src/types/api.ts)
+### 4. API 映射 (src/services/api.ts)
 
 添加到平台映射：
 
 ```typescript
-export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
-  // ...
-  platformName: 'platformName-hot',
-};
-
-export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
-  // ...
-  'platformName-hot': 'platformName',
-};
+private getProviderInfo(platform: Platform): { id: string; priority: number } {
+  const platformToProviderInfo: Record<Platform, { id: string; priority: number }> = {
+    // ...
+    platformName: { id: 'platformName-hot', priority: 990 },
+  };
+  return platformToProviderInfo[platform];
+}
 ```
 
 ### 5. 注册爬虫 (main.ts & dev.ts)
@@ -138,20 +136,6 @@ async function main() {
         break;
     }
   }
-}
-```
-
-### 6. 优先级配置 (src/services/api.ts)
-
-添加平台优先级：
-
-```typescript
-private getProviderInfo(platform: Platform): { id: string; priority: number } {
-  const platformToProviderInfo: Record<Platform, { id: string; priority: number }> = {
-    // ...
-    platformName: { id: 'platformName-hot', priority: 990 },
-  };
-  return platformToProviderInfo[platform];
 }
 ```
 
@@ -246,10 +230,10 @@ private getProviderInfo(platform: Platform): { id: string; priority: number } {
 
 ```bash
 # 开发模式（详细日志）
-deno task dev
+deno task dev --platform <platform_name>
 
 # 生产模式
-deno task start
+deno task start --platform <platform_name>
 
 # 代码检查
 deno task lint
@@ -260,7 +244,7 @@ deno task fmt
 
 ### 调试新爬虫
 
-1. 在 `dev.ts` 中单独测试新爬虫
+1. 在 `dev.ts` 中单独测试新爬虫，使用 `--platform` 参数指定平台
 2. 查看日志输出验证数据格式
 3. 确认无误后在 `main.ts` 中注册
 
