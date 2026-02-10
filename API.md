@@ -4,20 +4,20 @@
 
 ## 接口总览
 
-所有 API 数据均以静态 JSON 文件形式提供，位于 `api/` 目录下。
+所有 API 数据均以静态 JSON 文件形式提供，位于 `/` 目录下。
 
 | 接口 | 路径 | 描述 |
 | --- | --- | --- |
-| 获取支持的平台 | `/api/provider.json` | 返回所有已启用平台的列表信息 |
-| 获取最新热门数据 | `/api/{provider-id}/now.json` | 返回指定平台最新的热门数据 |
-| 获取历史记录列表 | `/api/{provider-id}/history.json` | 返回指定平台的历史数据日期列表 |
-| 获取历史数据详情 | `/api/{provider-id}/history/{date}.json` | 返回指定平台特定日期的所有数据快照 |
+| 获取支持的平台 | `/provider.json` | 返回所有已启用平台的列表信息 |
+| 获取最新热门数据 | `/{provider-id}/now.json` | 返回指定平台最新的热门数据 |
+| 获取历史记录列表 | `/{provider-id}/history.json` | 返回指定平台的历史数据日期列表 |
+| 获取历史数据详情 | `/{provider-id}/history/{date}.json` | 返回指定平台特定日期的所有数据快照 |
 
 ## 数据结构
 
 ### 1. 平台列表
 
-**接口路径**: `/api/provider.json`
+**接口路径**: `/provider.json`
 
 **响应格式**:
 
@@ -28,7 +28,7 @@
       "id": "zhihu-hot-questions",
       "title": "知乎",
       "imageUrl": "https://cdn.brandfetch.io/zhihu.com?c=c=1idMtg8Xt8Gie1JFDdv",
-      "url": "/api/zhihu-hot-questions/now.json",
+      "url": "/zhihu-hot-questions/now.json",
       "lastUpdateAt": "2024-03-21 12:00:00",
       "priority": 1000
     },
@@ -48,7 +48,7 @@
 
 ### 2. 最新热门数据
 
-**接口路径**: `/api/{provider-id}/now.json`
+**接口路径**: `/{provider-id}/now.json`
 
 **响应格式**:
 
@@ -86,7 +86,7 @@
 
 ### 3. 历史记录列表
 
-**接口路径**: `/api/{provider-id}/history.json`
+**接口路径**: `/{provider-id}/history.json`
 
 **响应格式**:
 
@@ -96,7 +96,7 @@
   "history": [
     {
       "date": "2024-03-21",
-      "uri": "/api/zhihu-hot-questions/history/2024-03-21.json"
+      "uri": "/zhihu-hot-questions/history/2024-03-21.json"
     },
     // ...
   ]
@@ -112,7 +112,7 @@
 
 ### 4. 历史数据详情
 
-**接口路径**: `/api/{provider-id}/history/{date}.json`
+**接口路径**: `/{provider-id}/history/{date}.json`
 
 **响应格式**:
 
