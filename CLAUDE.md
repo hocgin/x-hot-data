@@ -15,11 +15,11 @@
 | 微博        | weibo-top-search    | ✅ 已启用    | scrapers/weibo.ts      | 999    |
 | 今日头条    | toutiao-hot         | ✅ 已启用    | scrapers/toutiao.ts    | 992    |
 | CSDN        | csdn-hot            | ✅ 已启用    | scrapers/csdn.ts       | 991    |
-| 知乎        | zhihu-hot-questions | ⚠️ 需 Cookie | scrapers/zhihu.ts      | 1000   |
+| 知乎        | zhihu-hot-questions | ✅ 已启用    | scrapers/zhihu.ts      | 1000   |
 | GitHub      | github-trending     | ✅ 已启用    | scrapers/github.ts     | 998    |
 | 百度        | baidu-hot-search    | ✅ 已启用    | scrapers/baidu.ts      | 997    |
-| 抖音        | douyin-hot          | ❌ 需 Token  | scrapers/douyin.ts     | 996    |
-| B站         | bilibili-hot        | ❌ 风控      | scrapers/bilibili.ts   | 995    |
+| 抖音        | douyin-hot          | ✅ 已启用    | scrapers/douyin.ts     | 996    |
+| B站         | bilibili-hot        | ✅ 已启用    | scrapers/bilibili.ts   | 995    |
 | V2EX        | v2ex-hot            | ✅ 已启用    | scrapers/v2ex.ts       | 994    |
 | Hacker News | hackernews-top      | ✅ 已启用    | scrapers/hackernews.ts | 993    |
 
@@ -35,7 +35,7 @@
 | 虎扑       | hupu-hot         | ✅ 已启用 | scrapers/hupu.ts       | 985    |
 | 豆瓣小组   | douban-group-hot | ✅ 已启用 | scrapers/douban.ts     | 984    |
 | 吾爱破解   | wuaipojie-hot    | ✅ 已启用 | scrapers/wuaipojie.ts  | 983    |
-| 搜狗       | sougou-hot       | ❌ 已下线 | -                      | 982    |
+| 搜狗       | sougou-hot       | ✅ 已启用 | scrapers/sougou.ts     | 982    |
 | 360搜索    | 360search-hot    | ✅ 已启用 | scrapers/so.ts         | 981    |
 | 贴吧       | tieba-hot        | ✅ 已启用 | scrapers/tieba.ts      | 980    |
 | 腾讯新闻   | qqnews-hot       | ✅ 已启用 | scrapers/qqnews.ts     | 979    |
