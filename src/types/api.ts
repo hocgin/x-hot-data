@@ -109,6 +109,12 @@ export const PLATFORM_TO_PROVIDER_ID: Record<Platform, string> = {
   hackernews: 'hackernews-top',
   toutiao: 'toutiao-hot',
   csdn: 'csdn-hot',
+  ithome: 'ithome-hot',
+  sspai: 'sspai-hot',
+  acfun: 'acfun-hot',
+  anquanke: 'anquanke-hot',
+  hupu: 'hupu-hot',
+  kr36: 'kr36-hot',
 };
 
 /**
@@ -125,4 +131,10 @@ export const PROVIDER_ID_TO_PLATFORM: Record<string, Platform> = {
   'hackernews-top': 'hackernews',
   'toutiao-hot': 'toutiao',
   'csdn-hot': 'csdn',
+  'ithome-hot': 'ithome',
+  'sspai-hot': 'sspai',
+  'acfun-hot': 'acfun',
+  'anquanke-hot': 'anquanke',
+  'hupu-hot': 'hupu',
+  'kr36-hot': 'kr36',
 };

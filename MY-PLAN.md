@@ -5,7 +5,7 @@
 知乎热门话题，https://github.com/justjavac/zhihu-trending-hot-questions
 微博热搜榜，https://github.com/justjavac/weibo-trending-hot-search
 少数派热门榜，https://github.com/hua1995116/shaoshupai-trending-hot-search
-参考 https://github.com/skadoosh-Q/hot-trending/tree/master/script
+参考 /Users/hocgin/GitHub/hot-trending-master
 
 
 ## 数据存放目录设计

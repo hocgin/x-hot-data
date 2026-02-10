@@ -69,6 +69,12 @@ export class ApiService {
       hackernews: { id: 'hackernews-top', priority: 993 },
       toutiao: { id: 'toutiao-hot', priority: 992 },
       csdn: { id: 'csdn-hot', priority: 991 },
+      ithome: { id: 'ithome-hot', priority: 990 },
+      sspai: { id: 'sspai-hot', priority: 989 },
+      acfun: { id: 'acfun-hot', priority: 988 },
+      anquanke: { id: 'anquanke-hot', priority: 987 },
+      hupu: { id: 'hupu-hot', priority: 986 },
+      kr36: { id: 'kr36-hot', priority: 985 },
     };
     return platformToProviderInfo[platform];
   }

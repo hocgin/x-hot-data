@@ -45,7 +45,13 @@ export type Platform =
   | 'v2ex'
   | 'hackernews'
   | 'toutiao'
-  | 'csdn';
+  | 'csdn'
+  | 'ithome'
+  | 'sspai'
+  | 'acfun'
+  | 'anquanke'
+  | 'hupu'
+  | 'kr36';
 
 /**
  * 每日数据集合
