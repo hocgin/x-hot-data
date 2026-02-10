@@ -6,6 +6,7 @@ import { ZhihuScraper } from './src/scrapers/zhihu.ts';
 import { WeiboScraper } from './src/scrapers/weibo.ts';
 import { SchedulerService } from './src/services/scheduler.ts';
 import { StorageService } from './src/utils/storage.ts';
+import { ApiService } from './src/services/api.ts';
 import { logger, LogLevel } from './src/utils/logger.ts';
 import { getEnabledPlatforms } from './src/config/platforms.ts';
 import dayjs from 'dayjs';
@@ -45,6 +46,7 @@ async function devMain() {
   // 初始化服务
   const scheduler = new SchedulerService(scrapers);
   const storage = new StorageService();
+  const apiService = new ApiService();
 
   logger.debug(`已注册平台: ${scheduler.getRegisteredPlatforms().join(', ')}`);
 
@@ -66,8 +68,13 @@ async function devMain() {
   const today = dayjs().format('YYYY-MM-DD');
   const platformsData = await scheduler.fetchAllAsMap();
 
+  // 保存到 data 目录（原始数据）
   await storage.saveDailyData(today, platformsData);
-  logger.success(`数据已保存到 ${today}/ 目录`);
+  logger.success(`原始数据已保存到 data/${today}/ 目录`);
+
+  // 保存到 api 目录（API 格式）
+  await apiService.generateAllApiData(platformsData, today);
+  logger.success(`API 数据已生成到 api/ 目录`);
 
   // 输出统计信息
   console.log('\n' + '='.repeat(60));

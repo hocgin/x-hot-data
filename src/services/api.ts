@@ -1,0 +1,247 @@
+/**
+ * API 数据服务
+ * 用于生成符合 API 接口规范的 JSON 数据
+ */
+
+import * as path from '@std/path';
+import { ensureDir } from '@std/fs';
+import dayjs from 'dayjs';
+import type { TrendingItem, Platform } from '../types/trending.ts';
+import type {
+  ApiDataItem,
+  ProviderListResponse,
+  NowResponse,
+  HistoryResponse,
+  HistoryDetailResponse,
+  PLATFORM_TO_PROVIDER_ID,
+} from '../types/api.ts';
+
+/**
+ * API 服务配置
+ */
+interface ApiServiceConfig {
+  /** API 基础路径 */
+  basePath: string;
+  /** API URI 基础路径 */
+  baseUri: string;
+}
+
+/**
+ * API 数据服务类
+ */
+export class ApiService {
+  private config: ApiServiceConfig;
+
+  constructor(config?: Partial<ApiServiceConfig>) {
+    this.config = {
+      basePath: config?.basePath || './api',
+      baseUri: config?.baseUri || '/api',
+    };
+  }
+
+  /**
+   * �换 TrendingItem 为 ApiDataItem
+   */
+  private trendingToApiData(item: TrendingItem): ApiDataItem {
+    return {
+      title: item.title,
+      summary: item.description,
+      url: item.url,
+      imageUrl: item.cover,
+      createdAt: dayjs(item.timestamp).format('YYYY-MM-DD HH:mm:ss'),
+      tags: item.tags,
+      hot: item.hot,
+    };
+  }
+
+  /**
+   * 获取 Provider ID
+   */
+  private getProviderId(platform: Platform): string {
+    const platformToProviderId: Record<Platform, string> = {
+      zhihu: 'zhihu-hot-questions',
+      weibo: 'weibo-top-search',
+      github: 'github-trending',
+      baidu: 'baidu-hot-search',
+      douyin: 'douyin-hot',
+      bilibili: 'bilibili-hot',
+      v2ex: 'v2ex-hot',
+      hackernews: 'hackernews-top',
+    };
+    return platformToProviderId[platform];
+  }
+
+  /**
+   * 生成 provider.json
+   */
+  async generateProviderList(
+    platforms: Map<Platform, TrendingItem[]>
+  ): Promise<void> {
+    const providers = Array.from(platforms.keys()).map((platform) => ({
+      id: this.getProviderId(platform),
+      lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+    }));
+
+    const providerList: ProviderListResponse = { provider: providers };
+
+    const filePath = path.join(this.config.basePath, 'provider.json');
+    await ensureDir(this.config.basePath);
+    await Deno.writeTextFile(filePath, JSON.stringify(providerList, null, 2));
+  }
+
+  /**
+   * 生成 {provider-id}/now.json
+   */
+  async generateNowData(
+    platform: Platform,
+    items: TrendingItem[]
+  ): Promise<void> {
+    const providerId = this.getProviderId(platform);
+    const providerDir = path.join(this.config.basePath, providerId);
+    await ensureDir(providerDir);
+
+    const timestamp = Date.now();
+    const nowData: NowResponse = {
+      id: `${providerId}.${timestamp}`,
+      lastUpdatedAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+      data: items.map(this.trendingToApiData),
+    };
+
+    const filePath = path.join(providerDir, 'now.json');
+    await Deno.writeTextFile(filePath, JSON.stringify(nowData, null, 2));
+  }
+
+  /**
+   * 生成 {provider-id}/history.json
+   */
+  async generateHistoryList(platform: Platform, dates: string[]): Promise<void> {
+    const providerId = this.getProviderId(platform);
+    const providerDir = path.join(this.config.basePath, providerId);
+    await ensureDir(providerDir);
+
+    const history = dates.map((date) => ({
+      date,
+      uri: `${this.config.baseUri}/${providerId}/history/${date}.json`,
+    }));
+
+    const historyData: HistoryResponse = {
+      id: `${providerId}.history`,
+      history,
+    };
+
+    const filePath = path.join(providerDir, 'history.json');
+    await Deno.writeTextFile(filePath, JSON.stringify(historyData, null, 2));
+  }
+
+  /**
+   * 生成 {provider-id}/history/{date}.json
+   */
+  async generateHistoryDetail(
+    platform: Platform,
+    date: string,
+    items: TrendingItem[]
+  ): Promise<void> {
+    const providerId = this.getProviderId(platform);
+    const historyDir = path.join(this.config.basePath, providerId, 'history', date);
+    await ensureDir(historyDir);
+
+    const timestamp = Date.now();
+    const historyDetail: HistoryDetailResponse = {
+      id: `${providerId}.history.${date}`,
+      createdAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+      data: [
+        {
+          id: `${providerId}.${timestamp}`,
+          lastUpdatedAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+          data: items.map(this.trendingToApiData),
+        },
+      ],
+    };
+
+    // 文件名格式: 2026-02-10#12_00_00.json
+    const time = dayjs().format('HH_mm_ss');
+    const fileName = `${date}#${time}.json`;
+    const filePath = path.join(this.config.basePath, providerId, 'history', fileName);
+    await Deno.writeTextFile(filePath, JSON.stringify(historyDetail, null, 2));
+  }
+
+  /**
+   * 生成所有 API 数据
+   */
+  async generateAllApiData(
+    platforms: Map<Platform, TrendingItem[]>,
+    date: string
+  ): Promise<void> {
+    // 生成 provider.json
+    await this.generateProviderList(platforms);
+
+    // 为每个平台生成数据
+    for (const [platform, items] of platforms.entries()) {
+      // 生成 now.json
+      await this.generateNowData(platform, items);
+
+      // 生成 history/{date}#time.json
+      await this.generateHistoryDetail(platform, date, items);
+
+      // 更新 history.json
+      const providerId = this.getProviderId(platform);
+      const historyDir = path.join(this.config.basePath, providerId, 'history');
+
+      // 读取现有历史文件
+      let existingDates: string[] = [];
+      try {
+        const historyPath = path.join(this.config.basePath, providerId, 'history.json');
+        const historyContent = await Deno.readTextFile(historyPath);
+        const historyData = JSON.parse(historyContent) as HistoryResponse;
+        existingDates = historyData.history.map((h) => h.date);
+      } catch {
+        // 文件不存在，忽略
+      }
+
+      // 获取所有历史文件日期
+      try {
+        const files = Array.from(Deno.readDirSync(historyDir));
+        const dates = files
+          .filter((f) => f.name.endsWith('.json'))
+          .map((f) => f.name.split('#')[0])
+          .filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d));
+
+        // 合并现有日期和新日期
+        const allDates = Array.from(new Set([...existingDates, ...dates])).sort().reverse();
+        await this.generateHistoryList(platform, allDates);
+      } catch {
+        // 目录不存在，只添加当前日期
+        await this.generateHistoryList(platform, [date]);
+      }
+    }
+  }
+
+  /**
+   * 读取 now.json
+   */
+  async readNowData(platform: Platform): Promise<NowResponse | null> {
+    const providerId = this.getProviderId(platform);
+    const filePath = path.join(this.config.basePath, providerId, 'now.json');
+
+    try {
+      const content = await Deno.readTextFile(filePath);
+      return JSON.parse(content) as NowResponse;
+    } catch {
+      return null;
+    }
+  }
+
+  /**
+   * 读取 provider.json
+   */
+  async readProviderList(): Promise<ProviderListResponse | null> {
+    const filePath = path.join(this.config.basePath, 'provider.json');
+
+    try {
+      const content = await Deno.readTextFile(filePath);
+      return JSON.parse(content) as ProviderListResponse;
+    } catch {
+      return null;
+    }
+  }
+}

@@ -5,6 +5,9 @@
 import chalk from 'chalk';
 import { LogLevel } from '../config/constants.ts';
 
+// 重新导出 LogLevel 以便其他模块使用
+export { LogLevel };
+
 /**
  * 日志服务类
  */

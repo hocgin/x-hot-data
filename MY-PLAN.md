@@ -1,4 +1,4 @@
-基于 deno + github action 定时爬取平台数据，每个类目都用一个定时任务触发
+基于 deno + github action 定时爬取平台数据，每个 provider 都用一个定时 github action 触发
 
 ## 项目参考
 知乎热搜榜，https://github.com/justjavac/zhihu-trending-top-search
