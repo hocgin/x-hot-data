@@ -7,6 +7,7 @@ import * as path from '@std/path';
 import { ensureDir } from '@std/fs';
 import dayjs from 'dayjs';
 import type { Platform, TrendingItem } from '../types/trending.ts';
+import { PLATFORM_CONFIGS } from '../config/platforms.ts';
 import type {
   ApiDataItem,
   HistoryDetailResponse,
@@ -102,14 +103,29 @@ export class ApiService {
   async generateProviderList(
     platforms: Map<Platform, TrendingItem[]>,
   ): Promise<void> {
-    const providers = Array.from(platforms.keys()).map((platform) => {
-      const info = this.getProviderInfo(platform);
-      return {
-        id: info.id,
-        lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
-        priority: info.priority,
-      };
-    });
+    const providers = Array.from(platforms.keys())
+      .map((platform) => {
+        const info = this.getProviderInfo(platform);
+        const config = PLATFORM_CONFIGS[platform];
+        
+        // 提取域名用于生成 logo URL
+        let domain = '';
+        try {
+          domain = new URL(config.baseUrl).hostname;
+        } catch {
+          domain = config.baseUrl;
+        }
+
+        return {
+          id: info.id,
+          title: config.displayName,
+          imageUrl: `https://cdn.brandfetch.io/${domain}?c=c=1idMtg8Xt8Gie1JFDdv`,
+          url: `${this.config.baseUri}/${info.id}/now.json`,
+          lastUpdateAt: dayjs().format('YYYY-MM-DD HH:mm:ss'),
+          priority: info.priority,
+        };
+      })
+      .sort((a, b) => b.priority - a.priority);
 
     const providerList: ProviderListResponse = { provider: providers };
 

@@ -31,6 +31,12 @@ export interface ApiDataItem {
 export interface ProviderInfo {
   /** Provider ID */
   id: string;
+  /** 标题 */
+  title: string;
+  /** 封面图片 */
+  imageUrl: string | null;
+  /** 链接地址 */
+  url: string;
   /** 最后更新时间 */
   lastUpdateAt: string;
   /** 优先级 */
