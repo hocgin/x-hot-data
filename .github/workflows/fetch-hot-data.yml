@@ -66,6 +66,7 @@ jobs:
 
   merge-and-commit:
     needs: fetch
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 30
     
