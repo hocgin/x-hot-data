@@ -1,111 +1,167 @@
 {
-  "id": "hackernews-top.1770812620840",
-  "lastUpdatedAt": "2026-02-11 20:23:40",
+  "id": "hackernews-top.1770827392164",
+  "lastUpdatedAt": "2026-02-12 00:29:52",
   "data": [
     {
-      "title": "Windows Notepad App Remote Code Execution Vulnerability",
-      "summary": "207 comments",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
-      "createdAt": "2026-02-11 14:15:33",
-      "hot": 369
+      "title": "GLM-OCR: Accurate × Fast × Comprehensive",
+      "summary": "13 comments",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "createdAt": "2026-02-07 22:15:36",
+      "hot": 56
     },
     {
-      "title": "Chrome extensions spying on 37M users' browsing data",
-      "summary": "6 comments",
-      "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
-      "createdAt": "2026-02-11 18:00:56",
-      "hot": 40
-    },
-    {
-      "title": "It's All a Blur",
-      "summary": "11 comments",
+      "title": "It's all a blur",
+      "summary": "45 comments",
       "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
       "createdAt": "2026-02-06 12:50:09",
-      "hot": 74
+      "hot": 212
     },
     {
-      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-      "summary": "33 comments",
-      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
-      "createdAt": "2026-02-11 19:27:38",
-      "hot": 111
-    },
-    {
-      "title": "Exposure Simulator",
-      "summary": "2 comments",
-      "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
-      "createdAt": "2026-02-11 19:16:23",
-      "hot": 18
-    },
-    {
-      "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
-      "summary": "14 comments",
-      "url": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
-      "createdAt": "2026-02-11 16:43:58",
-      "hot": 40
-    },
-    {
-      "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+      "title": "Railway Global Outage",
       "summary": "6 comments",
-      "url": "https://itsyhome.app",
-      "createdAt": "2026-02-11 06:31:12",
+      "url": "https://status.railway.com",
+      "createdAt": "2026-02-11 23:51:11",
       "hot": 15
     },
     {
-      "title": "The Feynman Lectures on Physics (1961-1964)",
-      "summary": "90 comments",
-      "url": "https://www.feynmanlectures.caltech.edu/",
-      "createdAt": "2026-02-10 19:36:14",
-      "hot": 360
+      "title": "Show HN: AI agents play SimCity through a REST API",
+      "summary": "26 comments",
+      "url": "https://hallucinatingsplines.com",
+      "createdAt": "2026-02-09 23:54:33",
+      "hot": 78
     },
     {
-      "title": "The Singularity will occur on a Tuesday",
-      "summary": "628 comments",
-      "url": "https://campedersen.com/singularity",
-      "createdAt": "2026-02-11 01:04:31",
-      "hot": 1159
+      "title": "WiFi Could Become an Invisible Mass Surveillance System",
+      "summary": "25 comments",
+      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+      "createdAt": "2026-02-07 09:16:42",
+      "hot": 66
     },
     {
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "summary": "488 comments",
-      "url": "https://entire.io/blog/hello-entire-world/",
-      "createdAt": "2026-02-10 23:44:47",
-      "hot": 525
+      "title": "GLM5 Released on Z.ai Platform",
+      "summary": "134 comments",
+      "url": "https://chat.z.ai/",
+      "createdAt": "2026-02-11 21:42:16",
+      "hot": 154
     },
     {
-      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
-      "summary": "16 comments",
-      "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
-      "createdAt": "2026-02-08 22:09:39",
-      "hot": 114
+      "title": "FAA Halts All Flights at El Paso Airport for 10 Days",
+      "summary": "357 comments",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "createdAt": "2026-02-11 17:04:00",
+      "hot": 168
     },
     {
-      "title": "Show HN: CodeMic",
-      "summary": "11 comments",
-      "url": "https://codemic.io/#hn",
-      "createdAt": "2026-02-08 18:42:29",
-      "hot": 24
+      "title": "AI-First Company Memos",
+      "summary": "55 comments",
+      "url": "https://the-ai-native.company/",
+      "createdAt": "2026-02-11 23:41:18",
+      "hot": 57
+    },
+    {
+      "title": "Exposure Simulator",
+      "summary": "27 comments",
+      "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+      "createdAt": "2026-02-11 19:16:23",
+      "hot": 71
+    },
+    {
+      "title": "Chrome extensions spying on users' browsing data",
+      "summary": "142 comments",
+      "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+      "createdAt": "2026-02-11 18:00:56",
+      "hot": 348
+    },
+    {
+      "title": "Show HN: Renovate – The Kubernetes-Native Way",
+      "summary": "10 comments",
+      "url": "https://github.com/mogenius/renovate-operator",
+      "createdAt": "2026-02-11 22:36:18",
+      "hot": 16
+    },
+    {
+      "title": "Communities are not fungible",
+      "summary": "60 comments",
+      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+      "createdAt": "2026-02-11 15:42:57",
+      "hot": 119
+    },
+    {
+      "title": "Rome is studded with cannon balls (2022)",
+      "summary": "3 comments",
+      "url": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
+      "createdAt": "2026-02-07 17:10:26",
+      "hot": 41
     },
     {
       "title": "The Day the Telnet Died",
-      "summary": "261 comments",
+      "summary": "313 comments",
       "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
       "createdAt": "2026-02-11 06:20:40",
-      "hot": 377
+      "hot": 429
     },
     {
-      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "summary": "81 comments",
-      "url": "https://code.idtech.space/fn/hl2",
-      "createdAt": "2026-02-10 19:21:56",
-      "hot": 393
+      "title": "Lessons you will learn living in a snowy place",
+      "summary": "192 comments",
+      "url": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
+      "createdAt": "2026-02-06 22:49:25",
+      "hot": 213
     },
     {
-      "title": "Signy: Signed URLs for Small Devices",
-      "summary": "2 comments",
-      "url": "https://github.com/golioth/signy",
-      "createdAt": "2026-02-06 19:25:55",
-      "hot": 43
+      "title": "Windows Notepad App Remote Code Execution Vulnerability",
+      "summary": "367 comments",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+      "createdAt": "2026-02-11 14:15:33",
+      "hot": 601
+    },
+    {
+      "title": "The Feynman Lectures on Physics (1961-1964)",
+      "summary": "104 comments",
+      "url": "https://www.feynmanlectures.caltech.edu/",
+      "createdAt": "2026-02-10 19:36:14",
+      "hot": 409
+    },
+    {
+      "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+      "summary": "31 comments",
+      "url": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+      "createdAt": "2026-02-11 16:43:58",
+      "hot": 65
+    },
+    {
+      "title": "Mamdani Hires Lisa Gelobter as Chief Tech Officer",
+      "summary": "31 comments",
+      "url": "https://www.nytimes.com/2026/02/10/nyregion/mamdani-lisa-gelobter-gif.html",
+      "createdAt": "2026-02-11 23:13:21",
+      "hot": 49
+    },
+    {
+      "title": "Visualize MySQL query execution plans as interactive FlameGraphs",
+      "summary": "7 comments",
+      "url": "https://github.com/vgrippa/myflames",
+      "createdAt": "2026-02-07 06:02:13",
+      "hot": 41
+    },
+    {
+      "title": "Ask HN: Why electronics are still so unrecyclable?",
+      "summary": "17 comments",
+      "url": "https://news.ycombinator.com/item?id=46975933",
+      "createdAt": "2026-02-11 23:12:53",
+      "hot": 10
+    },
+    {
+      "title": "The Singularity will occur on a Tuesday",
+      "summary": "678 comments",
+      "url": "https://campedersen.com/singularity",
+      "createdAt": "2026-02-11 01:04:31",
+      "hot": 1248
+    },
+    {
+      "title": "Do not apologize for replying late to my email",
+      "summary": "124 comments",
+      "url": "https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html",
+      "createdAt": "2026-02-11 18:38:55",
+      "hot": 140
     },
     {
       "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
@@ -115,102 +171,46 @@
       "hot": 1
     },
     {
-      "title": "Fun With Pinball",
-      "summary": "9 comments",
-      "url": "https://www.funwithpinball.com/exhibits/small-boards",
-      "createdAt": "2026-02-11 08:21:55",
-      "hot": 106
+      "title": "End of an era for me: no more self-hosted git",
+      "summary": "100 comments",
+      "url": "https://www.kraxel.org/blog/2026/01/thank-you-ai/",
+      "createdAt": "2026-02-11 09:50:44",
+      "hot": 138
     },
     {
-      "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-      "summary": "19 comments",
-      "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-      "createdAt": "2026-02-08 22:01:11",
-      "hot": 168
+      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+      "summary": "536 comments",
+      "url": "https://entire.io/blog/hello-entire-world/",
+      "createdAt": "2026-02-10 23:44:47",
+      "hot": 570
     },
     {
-      "title": "My eighth year as a bootstrapped founder",
-      "summary": "73 comments",
-      "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
-      "createdAt": "2026-02-08 19:47:02",
-      "hot": 255
-    },
-    {
-      "title": "Simplifying Vulkan one subsystem at a time",
-      "summary": "173 comments",
-      "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-      "createdAt": "2026-02-10 21:26:14",
-      "hot": 262
-    },
-    {
-      "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
-      "summary": "16 comments",
-      "url": "https://news.ycombinator.com/item?id=46971287",
-      "createdAt": "2026-02-11 13:40:20",
-      "hot": 33
-    },
-    {
-      "title": "The Torture Will Continue Until Shareholder Value Improves [video]",
+      "title": "NanoClaw solves one of OpenClaw's biggest security issues",
       "summary": "0 comments",
-      "url": "https://www.youtube.com/watch?v=NIXd3PEbsNk",
-      "createdAt": "2026-02-11 19:54:53",
-      "hot": 6
+      "url": "https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already",
+      "createdAt": "2026-02-12 00:17:00",
+      "hot": 5
     },
     {
-      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
-      "summary": "280 comments",
-      "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-      "createdAt": "2026-02-11 00:36:30",
-      "hot": 217
+      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+      "summary": "31 comments",
+      "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+      "createdAt": "2026-02-08 22:09:39",
+      "hot": 127
     },
     {
-      "title": "Communities Are Not Fungible",
-      "summary": "35 comments",
-      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
-      "createdAt": "2026-02-11 15:42:57",
+      "title": "Both GCC and Clang generate strange/inefficient code",
+      "summary": "20 comments",
+      "url": "https://codingmarginalia.blogspot.com/2026/02/both-gcc-and-clang-generate.html",
+      "createdAt": "2026-02-07 06:11:06",
       "hot": 56
     },
     {
-      "title": "Visualize MySQL query execution plans as interactive FlameGraphs",
-      "summary": "1 comments",
-      "url": "https://github.com/vgrippa/myflames",
-      "createdAt": "2026-02-07 06:02:13",
-      "hot": 8
-    },
-    {
-      "title": "Flirt: The Native Backend",
-      "summary": "6 comments",
-      "url": "https://blog.buenzli.dev/flirt-native-backend/",
-      "createdAt": "2026-02-07 19:31:11",
-      "hot": 25
-    },
-    {
-      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-      "summary": "822 comments",
-      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "createdAt": "2026-02-10 19:42:14",
-      "hot": 958
-    },
-    {
-      "title": "The Falkirk Wheel",
-      "summary": "46 comments",
-      "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
-      "createdAt": "2026-02-11 04:42:20",
-      "hot": 86
-    },
-    {
-      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-      "summary": "41 comments",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "createdAt": "2026-02-11 00:47:29",
-      "hot": 170
-    },
-    {
-      "title": "Willow – Protocols for an uncertain future [video]",
-      "summary": "7 comments",
-      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-      "createdAt": "2026-02-08 16:52:50",
-      "hot": 67
+      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "summary": "84 comments",
+      "url": "https://code.idtech.space/fn/hl2",
+      "createdAt": "2026-02-10 19:21:56",
+      "hot": 412
     }
   ]
 }
