@@ -2377,6 +2377,222 @@
           "hot": 85
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770812620841",
+      "lastUpdatedAt": "2026-02-11 20:23:40",
+      "data": [
+        {
+          "title": "Windows Notepad App Remote Code Execution Vulnerability",
+          "summary": "207 comments",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+          "createdAt": "2026-02-11 14:15:33",
+          "hot": 369
+        },
+        {
+          "title": "Chrome extensions spying on 37M users' browsing data",
+          "summary": "6 comments",
+          "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+          "createdAt": "2026-02-11 18:00:56",
+          "hot": 40
+        },
+        {
+          "title": "It's All a Blur",
+          "summary": "11 comments",
+          "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
+          "createdAt": "2026-02-06 12:50:09",
+          "hot": 74
+        },
+        {
+          "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+          "summary": "33 comments",
+          "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+          "createdAt": "2026-02-11 19:27:38",
+          "hot": 111
+        },
+        {
+          "title": "Exposure Simulator",
+          "summary": "2 comments",
+          "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+          "createdAt": "2026-02-11 19:16:23",
+          "hot": 18
+        },
+        {
+          "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+          "summary": "14 comments",
+          "url": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+          "createdAt": "2026-02-11 16:43:58",
+          "hot": 40
+        },
+        {
+          "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+          "summary": "6 comments",
+          "url": "https://itsyhome.app",
+          "createdAt": "2026-02-11 06:31:12",
+          "hot": 15
+        },
+        {
+          "title": "The Feynman Lectures on Physics (1961-1964)",
+          "summary": "90 comments",
+          "url": "https://www.feynmanlectures.caltech.edu/",
+          "createdAt": "2026-02-10 19:36:14",
+          "hot": 360
+        },
+        {
+          "title": "The Singularity will occur on a Tuesday",
+          "summary": "628 comments",
+          "url": "https://campedersen.com/singularity",
+          "createdAt": "2026-02-11 01:04:31",
+          "hot": 1159
+        },
+        {
+          "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+          "summary": "488 comments",
+          "url": "https://entire.io/blog/hello-entire-world/",
+          "createdAt": "2026-02-10 23:44:47",
+          "hot": 525
+        },
+        {
+          "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+          "summary": "16 comments",
+          "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+          "createdAt": "2026-02-08 22:09:39",
+          "hot": 114
+        },
+        {
+          "title": "Show HN: CodeMic",
+          "summary": "11 comments",
+          "url": "https://codemic.io/#hn",
+          "createdAt": "2026-02-08 18:42:29",
+          "hot": 24
+        },
+        {
+          "title": "The Day the Telnet Died",
+          "summary": "261 comments",
+          "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+          "createdAt": "2026-02-11 06:20:40",
+          "hot": 377
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "81 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 19:21:56",
+          "hot": 393
+        },
+        {
+          "title": "Signy: Signed URLs for Small Devices",
+          "summary": "2 comments",
+          "url": "https://github.com/golioth/signy",
+          "createdAt": "2026-02-06 19:25:55",
+          "hot": 43
+        },
+        {
+          "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+          "summary": "0 comments",
+          "url": "https://www.workatastartup.com/jobs/90016",
+          "createdAt": "2026-02-11 15:00:46",
+          "hot": 1
+        },
+        {
+          "title": "Fun With Pinball",
+          "summary": "9 comments",
+          "url": "https://www.funwithpinball.com/exhibits/small-boards",
+          "createdAt": "2026-02-11 08:21:55",
+          "hot": 106
+        },
+        {
+          "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
+          "summary": "19 comments",
+          "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+          "createdAt": "2026-02-08 22:01:11",
+          "hot": 168
+        },
+        {
+          "title": "My eighth year as a bootstrapped founder",
+          "summary": "73 comments",
+          "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
+          "createdAt": "2026-02-08 19:47:02",
+          "hot": 255
+        },
+        {
+          "title": "Simplifying Vulkan one subsystem at a time",
+          "summary": "173 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 21:26:14",
+          "hot": 262
+        },
+        {
+          "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
+          "summary": "16 comments",
+          "url": "https://news.ycombinator.com/item?id=46971287",
+          "createdAt": "2026-02-11 13:40:20",
+          "hot": 33
+        },
+        {
+          "title": "The Torture Will Continue Until Shareholder Value Improves [video]",
+          "summary": "0 comments",
+          "url": "https://www.youtube.com/watch?v=NIXd3PEbsNk",
+          "createdAt": "2026-02-11 19:54:53",
+          "hot": 6
+        },
+        {
+          "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+          "summary": "280 comments",
+          "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+          "createdAt": "2026-02-11 00:36:30",
+          "hot": 217
+        },
+        {
+          "title": "Communities Are Not Fungible",
+          "summary": "35 comments",
+          "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+          "createdAt": "2026-02-11 15:42:57",
+          "hot": 56
+        },
+        {
+          "title": "Visualize MySQL query execution plans as interactive FlameGraphs",
+          "summary": "1 comments",
+          "url": "https://github.com/vgrippa/myflames",
+          "createdAt": "2026-02-07 06:02:13",
+          "hot": 8
+        },
+        {
+          "title": "Flirt: The Native Backend",
+          "summary": "6 comments",
+          "url": "https://blog.buenzli.dev/flirt-native-backend/",
+          "createdAt": "2026-02-07 19:31:11",
+          "hot": 25
+        },
+        {
+          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+          "summary": "822 comments",
+          "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+          "createdAt": "2026-02-10 19:42:14",
+          "hot": 958
+        },
+        {
+          "title": "The Falkirk Wheel",
+          "summary": "46 comments",
+          "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+          "createdAt": "2026-02-11 04:42:20",
+          "hot": 86
+        },
+        {
+          "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+          "summary": "41 comments",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "createdAt": "2026-02-11 00:47:29",
+          "hot": 170
+        },
+        {
+          "title": "Willow – Protocols for an uncertain future [video]",
+          "summary": "7 comments",
+          "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+          "createdAt": "2026-02-08 16:52:50",
+          "hot": 67
+        }
+      ]
     }
   ]
 }

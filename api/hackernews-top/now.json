@@ -1,62 +1,111 @@
 {
-  "id": "hackernews-top.1770798020194",
-  "lastUpdatedAt": "2026-02-11 16:20:20",
+  "id": "hackernews-top.1770812620840",
+  "lastUpdatedAt": "2026-02-11 20:23:40",
   "data": [
     {
+      "title": "Windows Notepad App Remote Code Execution Vulnerability",
+      "summary": "207 comments",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+      "createdAt": "2026-02-11 14:15:33",
+      "hot": 369
+    },
+    {
+      "title": "Chrome extensions spying on 37M users' browsing data",
+      "summary": "6 comments",
+      "url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+      "createdAt": "2026-02-11 18:00:56",
+      "hot": 40
+    },
+    {
+      "title": "It's All a Blur",
+      "summary": "11 comments",
+      "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
+      "createdAt": "2026-02-06 12:50:09",
+      "hot": 74
+    },
+    {
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "summary": "33 comments",
+      "url": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "createdAt": "2026-02-11 19:27:38",
+      "hot": 111
+    },
+    {
+      "title": "Exposure Simulator",
+      "summary": "2 comments",
+      "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+      "createdAt": "2026-02-11 19:16:23",
+      "hot": 18
+    },
+    {
+      "title": "A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST",
+      "summary": "14 comments",
+      "url": "https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst",
+      "createdAt": "2026-02-11 16:43:58",
+      "hot": 40
+    },
+    {
+      "title": "Show HN: Itsyhome – Control HomeKit from your Mac menu bar (open source)",
+      "summary": "6 comments",
+      "url": "https://itsyhome.app",
+      "createdAt": "2026-02-11 06:31:12",
+      "hot": 15
+    },
+    {
       "title": "The Feynman Lectures on Physics (1961-1964)",
-      "summary": "74 comments",
+      "summary": "90 comments",
       "url": "https://www.feynmanlectures.caltech.edu/",
       "createdAt": "2026-02-10 19:36:14",
-      "hot": 286
-    },
-    {
-      "title": "Lessons you will learn living in a snowy place",
-      "summary": "86 comments",
-      "url": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
-      "createdAt": "2026-02-06 22:49:25",
-      "hot": 122
-    },
-    {
-      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
-      "summary": "8 comments",
-      "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
-      "createdAt": "2026-02-08 22:09:39",
-      "hot": 93
+      "hot": 360
     },
     {
       "title": "The Singularity will occur on a Tuesday",
-      "summary": "575 comments",
+      "summary": "628 comments",
       "url": "https://campedersen.com/singularity",
       "createdAt": "2026-02-11 01:04:31",
-      "hot": 1021
+      "hot": 1159
     },
     {
       "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "summary": "425 comments",
+      "summary": "488 comments",
       "url": "https://entire.io/blog/hello-entire-world/",
       "createdAt": "2026-02-10 23:44:47",
-      "hot": 464
+      "hot": 525
+    },
+    {
+      "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+      "summary": "16 comments",
+      "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+      "createdAt": "2026-02-08 22:09:39",
+      "hot": 114
+    },
+    {
+      "title": "Show HN: CodeMic",
+      "summary": "11 comments",
+      "url": "https://codemic.io/#hn",
+      "createdAt": "2026-02-08 18:42:29",
+      "hot": 24
     },
     {
       "title": "The Day the Telnet Died",
-      "summary": "218 comments",
+      "summary": "261 comments",
       "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
       "createdAt": "2026-02-11 06:20:40",
-      "hot": 319
+      "hot": 377
     },
     {
-      "title": "Stay Hungry, Stay Foolish (2005)",
-      "summary": "4 comments",
-      "url": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
-      "createdAt": "2026-02-11 13:32:10",
-      "hot": 16
+      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "summary": "81 comments",
+      "url": "https://code.idtech.space/fn/hl2",
+      "createdAt": "2026-02-10 19:21:56",
+      "hot": 393
     },
     {
-      "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
-      "summary": "7 comments",
-      "url": "https://news.ycombinator.com/item?id=46971287",
-      "createdAt": "2026-02-11 13:40:20",
-      "hot": 18
+      "title": "Signy: Signed URLs for Small Devices",
+      "summary": "2 comments",
+      "url": "https://github.com/golioth/signy",
+      "createdAt": "2026-02-06 19:25:55",
+      "hot": 43
     },
     {
       "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
@@ -67,150 +116,101 @@
     },
     {
       "title": "Fun With Pinball",
-      "summary": "8 comments",
+      "summary": "9 comments",
       "url": "https://www.funwithpinball.com/exhibits/small-boards",
       "createdAt": "2026-02-11 08:21:55",
-      "hot": 76
-    },
-    {
-      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
-      "summary": "78 comments",
-      "url": "https://code.idtech.space/fn/hl2",
-      "createdAt": "2026-02-10 19:21:56",
-      "hot": 374
-    },
-    {
-      "title": "Flirt: The Native Backend",
-      "summary": "1 comments",
-      "url": "https://blog.buenzli.dev/flirt-native-backend/",
-      "createdAt": "2026-02-07 19:31:11",
-      "hot": 14
+      "hot": 106
     },
     {
       "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-      "summary": "18 comments",
+      "summary": "19 comments",
       "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
       "createdAt": "2026-02-08 22:01:11",
-      "hot": 142
-    },
-    {
-      "title": "Simplifying Vulkan one subsystem at a time",
-      "summary": "156 comments",
-      "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
-      "createdAt": "2026-02-10 21:26:14",
-      "hot": 243
-    },
-    {
-      "title": "Signy: Signed URLs for Small Devices",
-      "summary": "0 comments",
-      "url": "https://github.com/golioth/signy",
-      "createdAt": "2026-02-06 19:25:55",
-      "hot": 5
+      "hot": 168
     },
     {
       "title": "My eighth year as a bootstrapped founder",
-      "summary": "62 comments",
+      "summary": "73 comments",
       "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
       "createdAt": "2026-02-08 19:47:02",
-      "hot": 222
+      "hot": 255
     },
     {
-      "title": "Willow – Protocols for an uncertain future [video]",
-      "summary": "2 comments",
-      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-      "createdAt": "2026-02-08 16:52:50",
-      "hot": 53
+      "title": "Simplifying Vulkan one subsystem at a time",
+      "summary": "173 comments",
+      "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+      "createdAt": "2026-02-10 21:26:14",
+      "hot": 262
     },
     {
-      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
-      "summary": "247 comments",
-      "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
-      "createdAt": "2026-02-11 00:36:30",
-      "hot": 198
+      "title": "Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV",
+      "summary": "16 comments",
+      "url": "https://news.ycombinator.com/item?id=46971287",
+      "createdAt": "2026-02-11 13:40:20",
+      "hot": 33
     },
     {
-      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
-      "summary": "697 comments",
-      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
-      "createdAt": "2026-02-10 19:42:14",
-      "hot": 853
-    },
-    {
-      "title": "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
-      "summary": "26 comments",
-      "url": "https://github.com/eigenpal/docx-js-editor",
-      "createdAt": "2026-02-10 00:33:38",
-      "hot": 83
-    },
-    {
-      "title": "Rivian R2: Electric Mid-Size SUV",
-      "summary": "185 comments",
-      "url": "https://rivian.com/r2",
-      "createdAt": "2026-02-11 09:00:15",
-      "hot": 100
-    },
-    {
-      "title": "Communities Are Not Fungible",
-      "summary": "1 comments",
-      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
-      "createdAt": "2026-02-11 15:42:57",
+      "title": "The Torture Will Continue Until Shareholder Value Improves [video]",
+      "summary": "0 comments",
+      "url": "https://www.youtube.com/watch?v=NIXd3PEbsNk",
+      "createdAt": "2026-02-11 19:54:53",
       "hot": 6
     },
     {
-      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-      "summary": "38 comments",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "createdAt": "2026-02-11 00:47:29",
-      "hot": 153
+      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+      "summary": "280 comments",
+      "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+      "createdAt": "2026-02-11 00:36:30",
+      "hot": 217
+    },
+    {
+      "title": "Communities Are Not Fungible",
+      "summary": "35 comments",
+      "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+      "createdAt": "2026-02-11 15:42:57",
+      "hot": 56
+    },
+    {
+      "title": "Visualize MySQL query execution plans as interactive FlameGraphs",
+      "summary": "1 comments",
+      "url": "https://github.com/vgrippa/myflames",
+      "createdAt": "2026-02-07 06:02:13",
+      "hot": 8
+    },
+    {
+      "title": "Flirt: The Native Backend",
+      "summary": "6 comments",
+      "url": "https://blog.buenzli.dev/flirt-native-backend/",
+      "createdAt": "2026-02-07 19:31:11",
+      "hot": 25
+    },
+    {
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "summary": "822 comments",
+      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "createdAt": "2026-02-10 19:42:14",
+      "hot": 958
     },
     {
       "title": "The Falkirk Wheel",
-      "summary": "26 comments",
+      "summary": "46 comments",
       "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
       "createdAt": "2026-02-11 04:42:20",
-      "hot": 63
+      "hot": 86
     },
     {
-      "title": "A brief history of oral peptides",
-      "summary": "42 comments",
-      "url": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
-      "createdAt": "2026-02-10 05:23:27",
-      "hot": 115
+      "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+      "summary": "41 comments",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "createdAt": "2026-02-11 00:47:29",
+      "hot": 170
     },
     {
-      "title": "Competition is not market validation",
-      "summary": "29 comments",
-      "url": "https://www.ablg.io/blog/competition-is-not-validation",
-      "createdAt": "2026-02-11 00:04:21",
-      "hot": 99
-    },
-    {
-      "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
-      "summary": "19 comments",
-      "url": "https://github.com/tambo-ai/tambo",
-      "createdAt": "2026-02-11 04:16:12",
-      "hot": 88
-    },
-    {
-      "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
-      "summary": "55 comments",
-      "url": "https://www.netviews.app",
-      "createdAt": "2026-02-10 13:20:32",
-      "hot": 205
-    },
-    {
-      "title": "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
-      "summary": "126 comments",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
-      "createdAt": "2026-02-11 03:25:55",
-      "hot": 165
-    },
-    {
-      "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-      "summary": "21 comments",
-      "url": "https://github.com/distr-sh/distr",
-      "createdAt": "2026-02-10 20:19:23",
-      "hot": 85
+      "title": "Willow – Protocols for an uncertain future [video]",
+      "summary": "7 comments",
+      "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+      "createdAt": "2026-02-08 16:52:50",
+      "hot": 67
     }
   ]
 }
