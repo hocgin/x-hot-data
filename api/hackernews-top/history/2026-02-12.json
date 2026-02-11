@@ -217,6 +217,222 @@
           "hot": 412
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770840909347",
+      "lastUpdatedAt": "2026-02-12 04:15:09",
+      "data": [
+        {
+          "title": "The risk of a hothouse Earth trajectory",
+          "summary": "48 comments",
+          "url": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
+          "createdAt": "2026-02-12 03:25:18",
+          "hot": 96
+        },
+        {
+          "title": "Toyota Fluorite: \"console-grade\" Flutter game engine",
+          "summary": "116 comments",
+          "url": "https://fluorite.game/",
+          "createdAt": "2026-02-12 00:21:10",
+          "hot": 209
+        },
+        {
+          "title": "Claude Code Is Being Dumbed Down",
+          "summary": "245 comments",
+          "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+          "createdAt": "2026-02-12 02:23:39",
+          "hot": 331
+        },
+        {
+          "title": "NetNewsWire Turns 23",
+          "summary": "14 comments",
+          "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+          "createdAt": "2026-02-12 02:06:11",
+          "hot": 73
+        },
+        {
+          "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+          "summary": "125 comments",
+          "url": "https://z.ai/blog/glm-5",
+          "createdAt": "2026-02-12 00:41:33",
+          "hot": 237
+        },
+        {
+          "title": "Single bone in Spain offers first direct evidence of Hannibal's war elephants",
+          "summary": "10 comments",
+          "url": "https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html",
+          "createdAt": "2026-02-07 03:25:52",
+          "hot": 46
+        },
+        {
+          "title": "GLM-OCR: Accurate × Fast × Comprehensive",
+          "summary": "53 comments",
+          "url": "https://github.com/zai-org/GLM-OCR",
+          "createdAt": "2026-02-07 22:15:36",
+          "hot": 163
+        },
+        {
+          "title": "We rendered and embedded one million CAD files",
+          "summary": "18 comments",
+          "url": "https://cad-search-three.vercel.app/",
+          "createdAt": "2026-02-11 07:12:36",
+          "hot": 39
+        },
+        {
+          "title": "WiFi Could Become an Invisible Mass Surveillance System",
+          "summary": "98 comments",
+          "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+          "createdAt": "2026-02-07 09:16:42",
+          "hot": 204
+        },
+        {
+          "title": "Should your developer company go open source?",
+          "summary": "13 comments",
+          "url": "https://extremefoundership.substack.com/p/should-your-developer-company-go",
+          "createdAt": "2026-02-12 01:34:27",
+          "hot": 22
+        },
+        {
+          "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+          "summary": "34 comments",
+          "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+          "createdAt": "2026-02-12 02:43:01",
+          "hot": 82
+        },
+        {
+          "title": "It's all a blur",
+          "summary": "58 comments",
+          "url": "https://lcamtuf.substack.com/p/its-all-a-blur",
+          "createdAt": "2026-02-06 12:50:09",
+          "hot": 295
+        },
+        {
+          "title": "iOS 26.3 and macOS 26.3 Fix Dozens of Vulnerabilities, Including Zero-Day",
+          "summary": "2 comments",
+          "url": "https://www.macrumors.com/2026/02/11/ios-26-3-security-vulnerabilities/",
+          "createdAt": "2026-02-12 03:30:30",
+          "hot": 25
+        },
+        {
+          "title": "A shortage of tenors",
+          "summary": "35 comments",
+          "url": "https://www.economist.com/culture/2026/02/09/the-world-is-suffering-from-a-shortage-of-tenors",
+          "createdAt": "2026-02-10 14:18:30",
+          "hot": 44
+        },
+        {
+          "title": "FAA halts all flights at El Paso airport for 10 days",
+          "summary": "456 comments",
+          "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+          "createdAt": "2026-02-11 17:04:00",
+          "hot": 273
+        },
+        {
+          "title": "Show HN: AI agents play SimCity through a REST API",
+          "summary": "49 comments",
+          "url": "https://hallucinatingsplines.com",
+          "createdAt": "2026-02-09 23:54:33",
+          "hot": 132
+        },
+        {
+          "title": "Show HN: Hibana – An Affine MPST Runtime for Rust",
+          "summary": "2 comments",
+          "url": "https://hibanaworks.dev",
+          "createdAt": "2026-02-06 23:09:49",
+          "hot": 7
+        },
+        {
+          "title": "Rome is studded with cannon balls (2022)",
+          "summary": "7 comments",
+          "url": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
+          "createdAt": "2026-02-07 17:10:26",
+          "hot": 85
+        },
+        {
+          "title": "Exposure Simulator",
+          "summary": "42 comments",
+          "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+          "createdAt": "2026-02-11 19:16:23",
+          "hot": 99
+        },
+        {
+          "title": "How Did the FBI Get Nancy Guthrie's Nest Doorbell Footage?",
+          "summary": "27 comments",
+          "url": "https://lifehacker.com/tech/how-did-the-fbi-get-nancy-guthries-doorbell-footage",
+          "createdAt": "2026-02-12 02:48:50",
+          "hot": 47
+        },
+        {
+          "title": "The Day the Telnet Died",
+          "summary": "346 comments",
+          "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+          "createdAt": "2026-02-11 06:20:40",
+          "hot": 474
+        },
+        {
+          "title": "Why Vampires Live Forever",
+          "summary": "106 comments",
+          "url": "https://machielreyneke.com/blog/vampires-longevity/",
+          "createdAt": "2026-02-11 23:50:04",
+          "hot": 200
+        },
+        {
+          "title": "Lessons you will learn living in a snowy place",
+          "summary": "260 comments",
+          "url": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
+          "createdAt": "2026-02-06 22:49:25",
+          "hot": 262
+        },
+        {
+          "title": "Communities are not fungible",
+          "summary": "82 comments",
+          "url": "https://www.joanwestenberg.com/communities-are-not-fungible/",
+          "createdAt": "2026-02-11 15:42:57",
+          "hot": 180
+        },
+        {
+          "title": "The Feynman Lectures on Physics (1961-1964)",
+          "summary": "123 comments",
+          "url": "https://www.feynmanlectures.caltech.edu/",
+          "createdAt": "2026-02-10 19:36:14",
+          "hot": 455
+        },
+        {
+          "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+          "summary": "0 comments",
+          "url": "https://www.workatastartup.com/jobs/90016",
+          "createdAt": "2026-02-11 15:00:46",
+          "hot": 1
+        },
+        {
+          "title": "Show HN: Renovate – The Kubernetes-Native Way",
+          "summary": "13 comments",
+          "url": "https://github.com/mogenius/renovate-operator",
+          "createdAt": "2026-02-11 22:36:18",
+          "hot": 34
+        },
+        {
+          "title": "AI-First Company Memos",
+          "summary": "148 comments",
+          "url": "https://the-ai-native.company/",
+          "createdAt": "2026-02-11 23:41:18",
+          "hot": 98
+        },
+        {
+          "title": "Windows Notepad App Remote Code Execution Vulnerability",
+          "summary": "422 comments",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+          "createdAt": "2026-02-11 14:15:33",
+          "hot": 686
+        },
+        {
+          "title": "The Singularity will occur on a Tuesday",
+          "summary": "705 comments",
+          "url": "https://campedersen.com/singularity",
+          "createdAt": "2026-02-11 01:04:31",
+          "hot": 1309
+        }
+      ]
     }
   ]
 }
