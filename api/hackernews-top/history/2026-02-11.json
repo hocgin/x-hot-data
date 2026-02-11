@@ -1945,6 +1945,222 @@
           "hot": 568
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770785375034",
+      "lastUpdatedAt": "2026-02-11 12:49:35",
+      "data": [
+        {
+          "title": "YouTube's $60B revenue revealed amid paid subscriber push",
+          "summary": "36 comments",
+          "url": "https://www.bbc.com/news/articles/crkrkd2xlx6o",
+          "createdAt": "2026-02-11 10:55:06",
+          "hot": 40
+        },
+        {
+          "title": "The Feynman Lectures on Physics (1961-1964)",
+          "summary": "57 comments",
+          "url": "https://www.feynmanlectures.caltech.edu/",
+          "createdAt": "2026-02-10 19:36:14",
+          "hot": 171
+        },
+        {
+          "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+          "summary": "5 comments",
+          "url": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+          "createdAt": "2026-02-08 22:09:39",
+          "hot": 51
+        },
+        {
+          "title": "Software design is now cheap",
+          "summary": "14 comments",
+          "url": "https://dottedmag.net/blog/cheap-design/",
+          "createdAt": "2026-02-08 17:35:20",
+          "hot": 24
+        },
+        {
+          "title": "The Day the Telnet Died",
+          "summary": "176 comments",
+          "url": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+          "createdAt": "2026-02-11 06:20:40",
+          "hot": 253
+        },
+        {
+          "title": "The Singularity will occur on a Tuesday",
+          "summary": "519 comments",
+          "url": "https://campedersen.com/singularity",
+          "createdAt": "2026-02-11 01:04:31",
+          "hot": 898
+        },
+        {
+          "title": "Fun With Pinball",
+          "summary": "6 comments",
+          "url": "https://www.funwithpinball.com/exhibits/small-boards",
+          "createdAt": "2026-02-11 08:21:55",
+          "hot": 45
+        },
+        {
+          "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+          "summary": "349 comments",
+          "url": "https://entire.io/blog/hello-entire-world/",
+          "createdAt": "2026-02-10 23:44:47",
+          "hot": 398
+        },
+        {
+          "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
+          "summary": "16 comments",
+          "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
+          "createdAt": "2026-02-08 22:01:11",
+          "hot": 110
+        },
+        {
+          "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+          "summary": "69 comments",
+          "url": "https://code.idtech.space/fn/hl2",
+          "createdAt": "2026-02-10 19:21:56",
+          "hot": 350
+        },
+        {
+          "title": "Willow – Protocols for an uncertain future [video]",
+          "summary": "1 comments",
+          "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
+          "createdAt": "2026-02-08 16:52:50",
+          "hot": 29
+        },
+        {
+          "title": "My eighth year as a bootstrapped founder",
+          "summary": "52 comments",
+          "url": "https://mtlynch.io/bootstrapped-founder-year-8/",
+          "createdAt": "2026-02-08 19:47:02",
+          "hot": 172
+        },
+        {
+          "title": "Rivian R2: Electric Mid-Size SUV",
+          "summary": "71 comments",
+          "url": "https://rivian.com/r2",
+          "createdAt": "2026-02-11 09:00:15",
+          "hot": 62
+        },
+        {
+          "title": "Simplifying Vulkan one subsystem at a time",
+          "summary": "149 comments",
+          "url": "https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time",
+          "createdAt": "2026-02-10 21:26:14",
+          "hot": 223
+        },
+        {
+          "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
+          "summary": "217 comments",
+          "url": "https://www.infinitelymore.xyz/p/complex-numbers-essential-structure",
+          "createdAt": "2026-02-11 00:36:30",
+          "hot": 169
+        },
+        {
+          "title": "The Falkirk Wheel",
+          "summary": "20 comments",
+          "url": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
+          "createdAt": "2026-02-11 04:42:20",
+          "hot": 54
+        },
+        {
+          "title": "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
+          "summary": "17 comments",
+          "url": "https://github.com/eigenpal/docx-js-editor",
+          "createdAt": "2026-02-10 00:33:38",
+          "hot": 60
+        },
+        {
+          "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+          "summary": "32 comments",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "createdAt": "2026-02-11 00:47:29",
+          "hot": 134
+        },
+        {
+          "title": "A brief history of oral peptides",
+          "summary": "35 comments",
+          "url": "https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides",
+          "createdAt": "2026-02-10 05:23:27",
+          "hot": 94
+        },
+        {
+          "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
+          "summary": "16 comments",
+          "url": "https://github.com/tambo-ai/tambo",
+          "createdAt": "2026-02-11 04:16:12",
+          "hot": 71
+        },
+        {
+          "title": "How did Windows 95 get permission to put Weezer video 'Buddy Holly' on the CD?",
+          "summary": "108 comments",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052",
+          "createdAt": "2026-02-11 03:25:55",
+          "hot": 141
+        },
+        {
+          "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+          "summary": "614 comments",
+          "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+          "createdAt": "2026-02-10 19:42:14",
+          "hot": 740
+        },
+        {
+          "title": "Show HN: Model Training Memory Simulator",
+          "summary": "0 comments",
+          "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
+          "createdAt": "2026-02-08 17:39:06",
+          "hot": 3
+        },
+        {
+          "title": "Competition is not market validation",
+          "summary": "26 comments",
+          "url": "https://www.ablg.io/blog/competition-is-not-validation",
+          "createdAt": "2026-02-11 00:04:21",
+          "hot": 78
+        },
+        {
+          "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
+          "summary": "53 comments",
+          "url": "https://www.netviews.app",
+          "createdAt": "2026-02-10 13:20:32",
+          "hot": 187
+        },
+        {
+          "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
+          "summary": "18 comments",
+          "url": "https://github.com/distr-sh/distr",
+          "createdAt": "2026-02-10 20:19:23",
+          "hot": 72
+        },
+        {
+          "title": "Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure",
+          "summary": "1 comments",
+          "url": "https://artisanforge.online/",
+          "createdAt": "2026-02-08 15:15:54",
+          "hot": 25
+        },
+        {
+          "title": "Markdown CLI viewer with VI keybindings",
+          "summary": "30 comments",
+          "url": "https://github.com/taf2/mdvi",
+          "createdAt": "2026-02-11 01:51:10",
+          "hot": 60
+        },
+        {
+          "title": "Oxide raises $200M Series C",
+          "summary": "290 comments",
+          "url": "https://oxide.computer/blog/our-200m-series-c",
+          "createdAt": "2026-02-10 22:20:49",
+          "hot": 544
+        },
+        {
+          "title": "Show HN: Sol LeWitt-style instruction-based drawings in the browser",
+          "summary": "6 comments",
+          "url": "https://intervolz.com/sollewitt/",
+          "createdAt": "2026-02-11 04:02:05",
+          "hot": 34
+        }
+      ]
     }
   ]
 }
