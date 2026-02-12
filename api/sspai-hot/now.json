@@ -1,6 +1,6 @@
 {
-  "id": "sspai-hot.1770913512872",
-  "lastUpdatedAt": "2026-02-13 00:25:12",
+  "id": "sspai-hot.1770927263261",
+  "lastUpdatedAt": "2026-02-13 04:14:23",
   "data": [
     {
       "title": "从特斯拉一日自驾，看纯电在日本的实际体验",
@@ -33,6 +33,14 @@
       "imageUrl": "2026/1/29/article/49f5cb83-b4fb-a66a-afe9-29140c7b9f1c.png",
       "createdAt": "2026-01-29 17:07:26",
       "hot": 24
+    },
+    {
+      "title": "我的 AI 工具日常使用与工作流是怎样的？",
+      "summary": "你准备让哪个 AI 先「上岗」，让哪几个 AI「打配合」呢？更重要的是——你准备在这个工作流里充当何种角色？",
+      "url": "https://sspai.com/post/105481",
+      "imageUrl": "2026/01/15/d9db6a4fefc0e074057794d476de83dc.jpg",
+      "createdAt": "2026-01-15 17:57:09",
+      "hot": 112
     },
     {
       "title": "新玩意 233｜少数派的编辑们最近买了啥？",
@@ -153,14 +161,6 @@
       "imageUrl": "2026/1/16/article/43b6e475-b4e6-ac54-ac0a-a42561c6b770.jpeg",
       "createdAt": "2025-12-15 13:21:17",
       "hot": 43
-    },
-    {
-      "title": "那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例",
-      "summary": "大部分人对 Material 3 的认知依然停留在 Material You「壁纸取色」上，那究竟什么是 Material 3 Expressive？我们在 Android 16 正式版的视觉翻新细节里找一找。",
-      "url": "https://sspai.com/post/104595",
-      "imageUrl": "2025/12/14/acbd030da13ad5a258867d836382fd96.jpg",
-      "createdAt": "2025-12-14 17:42:41",
-      "hot": 56
     }
   ]
 }

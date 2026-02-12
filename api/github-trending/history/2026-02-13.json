@@ -85,6 +85,90 @@
           "createdAt": "2026-02-13 00:24:40"
         }
       ]
+    },
+    {
+      "id": "github-trending.1770927263268",
+      "lastUpdatedAt": "2026-02-13 04:14:23",
+      "data": [
+        {
+          "title": "tambo-ai/tambo",
+          "summary": "Generative UI SDK for React",
+          "url": "https://github.com/tambo-ai/tambo",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "danielmiessler/Personal_AI_Infrastructure",
+          "summary": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "google/langextract",
+          "summary": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+          "url": "https://github.com/google/langextract",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Chrome DevTools for coding agents",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "microsoft/PowerToys",
+          "summary": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+          "url": "https://github.com/microsoft/PowerToys",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "iOfficeAI/AionUi",
+          "summary": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "summary": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "rowboatlabs/rowboat",
+          "summary": "Open-source AI coworker, with memory",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "github/gh-aw",
+          "summary": "GitHub Agentic Workflows",
+          "url": "https://github.com/github/gh-aw",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "unslothai/unsloth",
+          "summary": "Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+          "url": "https://github.com/unslothai/unsloth",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "cinnyapp/cinny",
+          "summary": "Yet another matrix client",
+          "url": "https://github.com/cinnyapp/cinny",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "Jeffallan/claude-skills",
+          "summary": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+          "url": "https://github.com/Jeffallan/claude-skills",
+          "createdAt": "2026-02-13 04:13:47"
+        },
+        {
+          "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+          "summary": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+          "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "createdAt": "2026-02-13 04:13:47"
+        }
+      ]
     }
   ]
 }
