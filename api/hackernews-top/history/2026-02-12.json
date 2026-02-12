@@ -1011,6 +1011,222 @@
           "hot": 54
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770898868896",
+      "lastUpdatedAt": "2026-02-12 20:21:08",
+      "data": [
+        {
+          "title": "Warcraft III Peon Voice Notifications for Claude Code",
+          "summary": "162 comments",
+          "url": "https://github.com/tonyyont/peon-ping",
+          "createdAt": "2026-02-12 13:18:49",
+          "hot": 475
+        },
+        {
+          "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+          "summary": "77 comments",
+          "url": "https://github.com/matplotlib/matplotlib/pull/31132",
+          "createdAt": "2026-02-12 19:46:01",
+          "hot": 127
+        },
+        {
+          "title": "Discord/Twitch/Snapchat age verification bypass",
+          "summary": "356 comments",
+          "url": "https://age-verifier.kibty.town/",
+          "createdAt": "2026-02-12 06:56:41",
+          "hot": 795
+        },
+        {
+          "title": "Resist and Unsubscribe",
+          "summary": "4 comments",
+          "url": "https://www.resistandunsubscribe.com",
+          "createdAt": "2026-02-12 19:40:50",
+          "hot": 38
+        },
+        {
+          "title": "The missing digit of Stela C",
+          "summary": "12 comments",
+          "url": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
+          "createdAt": "2026-02-12 16:35:34",
+          "hot": 47
+        },
+        {
+          "title": "“Nothing” is the secret to structuring your work",
+          "summary": "112 comments",
+          "url": "https://www.vangemert.dev/blog/nothing",
+          "createdAt": "2026-02-08 20:01:50",
+          "hot": 311
+        },
+        {
+          "title": "Using an engineering notebook",
+          "summary": "78 comments",
+          "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+          "createdAt": "2026-02-10 03:29:53",
+          "hot": 206
+        },
+        {
+          "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+          "summary": "481 comments",
+          "url": "https://z.ai/blog/glm-5",
+          "createdAt": "2026-02-11 21:42:16",
+          "hot": 402
+        },
+        {
+          "title": "How to make a living as an artist",
+          "summary": "57 comments",
+          "url": "https://essays.fnnch.com/make-a-living",
+          "createdAt": "2026-02-12 11:56:26",
+          "hot": 125
+        },
+        {
+          "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+          "summary": "274 comments",
+          "url": "https://fluorite.game/",
+          "createdAt": "2026-02-12 00:21:10",
+          "hot": 487
+        },
+        {
+          "title": "Ireland rolls out basic income scheme for artists",
+          "summary": "393 comments",
+          "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+          "createdAt": "2026-02-12 00:39:11",
+          "hot": 353
+        },
+        {
+          "title": "Text classification with Python 3.14's ZSTD module",
+          "summary": "46 comments",
+          "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+          "createdAt": "2026-02-09 16:14:28",
+          "hot": 218
+        },
+        {
+          "title": "Hologram v0.7.0: Milestone release for Elixir-to-JavaScript porting initiative",
+          "summary": "9 comments",
+          "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+          "createdAt": "2026-02-12 07:54:59",
+          "hot": 57
+        },
+        {
+          "title": "HeyWhatsThat",
+          "summary": "13 comments",
+          "url": "https://www.heywhatsthat.com/faq.html",
+          "createdAt": "2026-02-09 22:57:25",
+          "hot": 64
+        },
+        {
+          "title": "RISC-V Vector Primer",
+          "summary": "12 comments",
+          "url": "https://github.com/simplex-micro/riscv-vector-primer/blob/main/index.md",
+          "createdAt": "2026-02-07 19:38:12",
+          "hot": 38
+        },
+        {
+          "title": "NetNewsWire Turns 23",
+          "summary": "78 comments",
+          "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+          "createdAt": "2026-02-12 02:06:11",
+          "hot": 302
+        },
+        {
+          "title": "Show HN: A free online British accent generator for instant voice conversion",
+          "summary": "21 comments",
+          "url": "https://audioconvert.ai/british-accent-generator",
+          "createdAt": "2026-02-12 17:25:17",
+          "hot": 7
+        },
+        {
+          "title": "Kanchipuram Saris and Thinking Machines",
+          "summary": "34 comments",
+          "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+          "createdAt": "2026-02-07 14:19:05",
+          "hot": 172
+        },
+        {
+          "title": "Put Your Reputation on the Deadline (2023)",
+          "summary": "0 comments",
+          "url": "https://taylor.town/reputation-deadline",
+          "createdAt": "2026-02-08 23:12:44",
+          "hot": 3
+        },
+        {
+          "title": "Clay Christensen's Milkshake Marketing (2011)",
+          "summary": "7 comments",
+          "url": "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
+          "createdAt": "2026-02-08 16:42:08",
+          "hot": 19
+        },
+        {
+          "title": "Reports of Telnet's death have been greatly exaggerated",
+          "summary": "48 comments",
+          "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+          "createdAt": "2026-02-12 04:20:48",
+          "hot": 122
+        },
+        {
+          "title": "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
+          "summary": "2 comments",
+          "url": "https://geo-racers.com/",
+          "createdAt": "2026-02-12 18:27:50",
+          "hot": 8
+        },
+        {
+          "title": "WiFi could become an invisible mass surveillance system",
+          "summary": "171 comments",
+          "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+          "createdAt": "2026-02-07 09:16:42",
+          "hot": 389
+        },
+        {
+          "title": "The other Markov's inequality",
+          "summary": "2 comments",
+          "url": "https://www.ethanepperly.com/index.php/2026/01/16/the-other-markovs-inequality/",
+          "createdAt": "2026-02-08 10:03:27",
+          "hot": 40
+        },
+        {
+          "title": "Lance table format explained with simple animations",
+          "summary": "1 comments",
+          "url": "https://tontinton.com/posts/lance/",
+          "createdAt": "2026-02-09 06:26:52",
+          "hot": 10
+        },
+        {
+          "title": "Claude Code is being dumbed down?",
+          "summary": "624 comments",
+          "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+          "createdAt": "2026-02-12 02:23:39",
+          "hot": 972
+        },
+        {
+          "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
+          "summary": "73 comments",
+          "url": "https://github.com/zai-org/GLM-OCR",
+          "createdAt": "2026-02-07 22:15:36",
+          "hot": 276
+        },
+        {
+          "title": "Apple's latest attempt to launch the new Siri runs into snags",
+          "summary": "177 comments",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
+          "createdAt": "2026-02-12 03:59:17",
+          "hot": 103
+        },
+        {
+          "title": "D Programming Language",
+          "summary": "147 comments",
+          "url": "https://dlang.org/",
+          "createdAt": "2026-02-12 13:18:09",
+          "hot": 142
+        },
+        {
+          "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+          "summary": "19 comments",
+          "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+          "createdAt": "2026-02-11 21:10:23",
+          "hot": 63
+        }
+      ]
     }
   ]
 }
