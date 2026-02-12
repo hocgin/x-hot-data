@@ -433,6 +433,152 @@
           "hot": 1309
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770856594577",
+      "lastUpdatedAt": "2026-02-12 08:36:34",
+      "data": [
+        {
+          "title": "Discord/Twitch/Snapchat age verification bypass",
+          "summary": "95 comments",
+          "url": "https://age-verifier.kibty.town/",
+          "createdAt": "2026-02-12 06:56:41",
+          "hot": 201
+        },
+        {
+          "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+          "summary": "25 comments",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+          "createdAt": "2026-02-12 07:37:11",
+          "hot": 40
+        },
+        {
+          "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+          "summary": "221 comments",
+          "url": "https://fluorite.game/",
+          "createdAt": "2026-02-12 00:21:10",
+          "hot": 379
+        },
+        {
+          "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+          "summary": "386 comments",
+          "url": "https://z.ai/blog/glm-5",
+          "createdAt": "2026-02-11 21:42:16",
+          "hot": 223
+        },
+        {
+          "title": "Text classification with Python 3.14's ZSTD module",
+          "summary": "10 comments",
+          "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+          "createdAt": "2026-02-09 16:14:28",
+          "hot": 53
+        },
+        {
+          "title": "NetNewsWire Turns 23",
+          "summary": "46 comments",
+          "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+          "createdAt": "2026-02-12 02:06:11",
+          "hot": 186
+        },
+        {
+          "title": "\"Nothing\" is the secret to structuring your work",
+          "summary": "4 comments",
+          "url": "https://www.vangemert.dev/blog/nothing",
+          "createdAt": "2026-02-08 20:01:50",
+          "hot": 26
+        },
+        {
+          "title": "Claude Code is being dumbed down?",
+          "summary": "478 comments",
+          "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+          "createdAt": "2026-02-12 02:23:39",
+          "hot": 696
+        },
+        {
+          "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+          "summary": "23 comments",
+          "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+          "createdAt": "2026-02-12 03:50:43",
+          "hot": 61
+        },
+        {
+          "title": "WiFi Could Become an Invisible Mass Surveillance System",
+          "summary": "143 comments",
+          "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+          "createdAt": "2026-02-07 09:16:42",
+          "hot": 286
+        },
+        {
+          "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+          "summary": "9 comments",
+          "url": "https://github.com/adenhq/hive/blob/main/README.md",
+          "createdAt": "2026-02-12 03:39:43",
+          "hot": 28
+        },
+        {
+          "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
+          "summary": "62 comments",
+          "url": "https://github.com/zai-org/GLM-OCR",
+          "createdAt": "2026-02-07 22:15:36",
+          "hot": 214
+        },
+        {
+          "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+          "summary": "501 comments",
+          "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+          "createdAt": "2026-02-11 17:04:00",
+          "hot": 320
+        },
+        {
+          "title": "Why vampires live forever",
+          "summary": "143 comments",
+          "url": "https://machielreyneke.com/blog/vampires-longevity/",
+          "createdAt": "2026-02-11 23:50:04",
+          "hot": 300
+        },
+        {
+          "title": "Show HN: AI agents play SimCity through a REST API",
+          "summary": "68 comments",
+          "url": "https://hallucinatingsplines.com",
+          "createdAt": "2026-02-09 23:54:33",
+          "hot": 167
+        },
+        {
+          "title": "Paragon accidentally uploaded a photo of its spyware control panel",
+          "summary": "40 comments",
+          "url": "https://twitter.com/DrWhax/status/2021608609595945442",
+          "createdAt": "2026-02-12 03:42:28",
+          "hot": 133
+        },
+        {
+          "title": "Exposure Simulator",
+          "summary": "59 comments",
+          "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+          "createdAt": "2026-02-11 19:16:23",
+          "hot": 123
+        },
+        {
+          "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
+          "summary": "7 comments",
+          "url": "https://agentalcove.ai",
+          "createdAt": "2026-02-12 04:15:21",
+          "hot": 10
+        },
+        {
+          "title": "Typing for Love or Money: The Hidden Labor Behind Modern Literary Masterpieces",
+          "summary": "3 comments",
+          "url": "https://publicdomainreview.org/essay/typing-for-love-or-money/",
+          "createdAt": "2026-02-07 13:50:07",
+          "hot": 21
+        },
+        {
+          "title": "Rome is studded with cannon balls (2022)",
+          "summary": "12 comments",
+          "url": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
+          "createdAt": "2026-02-07 17:10:26",
+          "hot": 106
+        }
+      ]
     }
   ]
 }
