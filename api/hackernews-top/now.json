@@ -1,146 +1,216 @@
 {
-  "id": "hackernews-top.1770856594577",
-  "lastUpdatedAt": "2026-02-12 08:36:34",
+  "id": "hackernews-top.1770871505227",
+  "lastUpdatedAt": "2026-02-12 12:45:05",
   "data": [
     {
       "title": "Discord/Twitch/Snapchat age verification bypass",
-      "summary": "95 comments",
+      "summary": "215 comments",
       "url": "https://age-verifier.kibty.town/",
       "createdAt": "2026-02-12 06:56:41",
-      "hot": 201
+      "hot": 485
     },
     {
-      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
-      "summary": "25 comments",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "createdAt": "2026-02-12 07:37:11",
-      "hot": 40
+      "title": "Using an engineering notebook",
+      "summary": "14 comments",
+      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "createdAt": "2026-02-10 03:29:53",
+      "hot": 47
     },
     {
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "summary": "221 comments",
-      "url": "https://fluorite.game/",
-      "createdAt": "2026-02-12 00:21:10",
-      "hot": 379
-    },
-    {
-      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-      "summary": "386 comments",
-      "url": "https://z.ai/blog/glm-5",
-      "createdAt": "2026-02-11 21:42:16",
-      "hot": 223
+      "title": "“Nothing” is the secret to structuring your work",
+      "summary": "45 comments",
+      "url": "https://www.vangemert.dev/blog/nothing",
+      "createdAt": "2026-02-08 20:01:50",
+      "hot": 137
     },
     {
       "title": "Text classification with Python 3.14's ZSTD module",
-      "summary": "10 comments",
+      "summary": "18 comments",
       "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
       "createdAt": "2026-02-09 16:14:28",
-      "hot": 53
+      "hot": 146
+    },
+    {
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "summary": "245 comments",
+      "url": "https://fluorite.game/",
+      "createdAt": "2026-02-12 00:21:10",
+      "hot": 424
+    },
+    {
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "summary": "415 comments",
+      "url": "https://z.ai/blog/glm-5",
+      "createdAt": "2026-02-11 21:42:16",
+      "hot": 301
+    },
+    {
+      "title": "Kanchipuram Saris and Thinking Machines",
+      "summary": "10 comments",
+      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+      "createdAt": "2026-02-07 14:19:05",
+      "hot": 68
+    },
+    {
+      "title": "Reports of Telnet's death have been greatly exaggerated",
+      "summary": "19 comments",
+      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "createdAt": "2026-02-12 04:20:48",
+      "hot": 71
+    },
+    {
+      "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+      "summary": "2 comments",
+      "url": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+      "createdAt": "2026-02-12 07:54:59",
+      "hot": 17
     },
     {
       "title": "NetNewsWire Turns 23",
-      "summary": "46 comments",
+      "summary": "57 comments",
       "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
       "createdAt": "2026-02-12 02:06:11",
-      "hot": 186
+      "hot": 244
     },
     {
-      "title": "\"Nothing\" is the secret to structuring your work",
-      "summary": "4 comments",
-      "url": "https://www.vangemert.dev/blog/nothing",
-      "createdAt": "2026-02-08 20:01:50",
-      "hot": 26
+      "title": "The Problem with LLMs",
+      "summary": "7 comments",
+      "url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+      "createdAt": "2026-02-12 10:03:33",
+      "hot": 18
     },
     {
-      "title": "Claude Code is being dumbed down?",
-      "summary": "478 comments",
-      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-      "createdAt": "2026-02-12 02:23:39",
-      "hot": 696
-    },
-    {
-      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-      "summary": "23 comments",
-      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-      "createdAt": "2026-02-12 03:50:43",
-      "hot": 61
-    },
-    {
-      "title": "WiFi Could Become an Invisible Mass Surveillance System",
-      "summary": "143 comments",
-      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
-      "createdAt": "2026-02-07 09:16:42",
-      "hot": 286
+      "title": "Ireland rolls out basic income scheme for artists",
+      "summary": "195 comments",
+      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "createdAt": "2026-02-12 00:39:11",
+      "hot": 185
     },
     {
       "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
-      "summary": "9 comments",
+      "summary": "19 comments",
       "url": "https://github.com/adenhq/hive/blob/main/README.md",
       "createdAt": "2026-02-12 03:39:43",
-      "hot": 28
+      "hot": 61
+    },
+    {
+      "title": "Claude Code is being dumbed down?",
+      "summary": "542 comments",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "createdAt": "2026-02-12 02:23:39",
+      "hot": 807
+    },
+    {
+      "title": "Deobfuscation and Analysis of Ring-1.io",
+      "summary": "1 comments",
+      "url": "https://back.engineering/blog/04/02/2026/",
+      "createdAt": "2026-02-09 03:09:28",
+      "hot": 6
+    },
+    {
+      "title": "WiFi Could Become an Invisible Mass Surveillance System",
+      "summary": "154 comments",
+      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+      "createdAt": "2026-02-07 09:16:42",
+      "hot": 321
+    },
+    {
+      "title": "Lessons from Zig",
+      "summary": "9 comments",
+      "url": "https://www.vinniefalco.com/p/lessons-from-zig",
+      "createdAt": "2026-02-12 09:05:04",
+      "hot": 17
+    },
+    {
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+      "summary": "147 comments",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "createdAt": "2026-02-12 07:37:11",
+      "hot": 203
+    },
+    {
+      "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+      "summary": "13 comments",
+      "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+      "createdAt": "2026-02-11 21:10:23",
+      "hot": 27
+    },
+    {
+      "title": "Heroku is not dead",
+      "summary": "22 comments",
+      "url": "https://nombiezinja.com/word-things/2026/2/8/heroku-is-not-dead",
+      "createdAt": "2026-02-12 08:20:30",
+      "hot": 27
+    },
+    {
+      "title": "Covering electricity price increases from our data centers",
+      "summary": "26 comments",
+      "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+      "createdAt": "2026-02-12 05:12:59",
+      "hot": 59
+    },
+    {
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "summary": "30 comments",
+      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "createdAt": "2026-02-12 03:50:43",
+      "hot": 78
+    },
+    {
+      "title": "Sekka Zusetsu: A Book of Snowflakes (1832)",
+      "summary": "3 comments",
+      "url": "https://publicdomainreview.org/collection/japanese-snowflake-book/",
+      "createdAt": "2026-02-09 11:49:52",
+      "hot": 23
     },
     {
       "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
-      "summary": "62 comments",
+      "summary": "71 comments",
       "url": "https://github.com/zai-org/GLM-OCR",
       "createdAt": "2026-02-07 22:15:36",
-      "hot": 214
+      "hot": 242
     },
     {
-      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-      "summary": "501 comments",
-      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-      "createdAt": "2026-02-11 17:04:00",
-      "hot": 320
+      "title": "Hacking the last Z80 computer – FOSDEM 2026 [video]",
+      "summary": "2 comments",
+      "url": "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/",
+      "createdAt": "2026-02-07 21:09:12",
+      "hot": 33
     },
     {
-      "title": "Why vampires live forever",
-      "summary": "143 comments",
-      "url": "https://machielreyneke.com/blog/vampires-longevity/",
-      "createdAt": "2026-02-11 23:50:04",
-      "hot": 300
+      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+      "summary": "264 comments",
+      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+      "createdAt": "2026-02-12 02:43:01",
+      "hot": 493
     },
     {
-      "title": "Show HN: AI agents play SimCity through a REST API",
-      "summary": "68 comments",
-      "url": "https://hallucinatingsplines.com",
-      "createdAt": "2026-02-09 23:54:33",
-      "hot": 167
-    },
-    {
-      "title": "Paragon accidentally uploaded a photo of its spyware control panel",
-      "summary": "40 comments",
-      "url": "https://twitter.com/DrWhax/status/2021608609595945442",
-      "createdAt": "2026-02-12 03:42:28",
-      "hot": 133
-    },
-    {
-      "title": "Exposure Simulator",
-      "summary": "59 comments",
-      "url": "http://www.andersenimages.com/tutorials/exposure-simulator/",
-      "createdAt": "2026-02-11 19:16:23",
-      "hot": 123
+      "title": "Apple's latest attempt to launch the new Siri runs into snags",
+      "summary": "56 comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
+      "createdAt": "2026-02-12 03:59:17",
+      "hot": 48
     },
     {
       "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
-      "summary": "7 comments",
+      "summary": "14 comments",
       "url": "https://agentalcove.ai",
       "createdAt": "2026-02-12 04:15:21",
-      "hot": 10
+      "hot": 40
     },
     {
-      "title": "Typing for Love or Money: The Hidden Labor Behind Modern Literary Masterpieces",
-      "summary": "3 comments",
-      "url": "https://publicdomainreview.org/essay/typing-for-love-or-money/",
-      "createdAt": "2026-02-07 13:50:07",
-      "hot": 21
+      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+      "summary": "542 comments",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "createdAt": "2026-02-11 17:04:00",
+      "hot": 342
     },
     {
-      "title": "Rome is studded with cannon balls (2022)",
-      "summary": "12 comments",
-      "url": "https://essenceofrome.com/rome-is-studded-with-cannon-balls",
-      "createdAt": "2026-02-07 17:10:26",
-      "hot": 106
+      "title": "We rendered and embedded one million CAD files",
+      "summary": "43 comments",
+      "url": "https://cad-search-three.vercel.app/",
+      "createdAt": "2026-02-11 07:12:36",
+      "hot": 110
     }
   ]
 }
