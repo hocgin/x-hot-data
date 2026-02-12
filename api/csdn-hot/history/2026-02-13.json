@@ -1,0 +1,362 @@
+{
+  "id": "csdn-hot.history.2026-02-13",
+  "createdAt": "2026-02-13 00:25:12",
+  "data": [
+    {
+      "id": "csdn-hot.1770913512859",
+      "lastUpdatedAt": "2026-02-13 00:25:12",
+      "data": [
+        {
+          "title": "告别重复劳动：用AI数据标注工具提速3倍的实战经验",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157903966",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 32762
+        },
+        {
+          "title": "让 Markdown 编辑器随时随地可用：doocs/md + cpolar 全流程搭建",
+          "summary": "作者: 一键难忘",
+          "url": "https://blog.csdn.net/weixin_52908342/article/details/157982193",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 21839
+        },
+        {
+          "title": "【数据库】时序数据库选型指南：从大数据角度解析IoTDB的优势",
+          "summary": "作者: 杰西笔记",
+          "url": "https://blog.csdn.net/qq_38628970/article/details/157992632",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 20602
+        },
+        {
+          "title": "KingbaseES 文档数据实践：MongoDB 兼容性评估与替换落地",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158007238",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 16319
+        },
+        {
+          "title": "Seedance 2.0 完整操作手册：AI 视频创作进入人人都是导演时代",
+          "summary": "作者: 小雯AIGC",
+          "url": "https://blog.csdn.net/m0_62672602/article/details/157912517",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 10454
+        },
+        {
+          "title": "优雅终结启动顺序噩梦：ObjectProvider —— Spring 4.3 开始引入",
+          "summary": "作者: 越重天",
+          "url": "https://blog.csdn.net/lilinhai548/article/details/158006481",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 9044
+        },
+        {
+          "title": "K8S 之 Taints（污点）与 Tolerations（容忍）",
+          "summary": "作者: A-刘晨阳",
+          "url": "https://blog.csdn.net/liu_chen_yang/article/details/157975059",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 6813
+        },
+        {
+          "title": "【连续八届EI快检索|IEEE出版】第九届大数据与应用统计国际学术研讨会（ISBDAS 2026）",
+          "summary": "作者: 扑克中的黑桃A",
+          "url": "https://blog.csdn.net/Pocker_Spades_A/article/details/157911302",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 6166
+        },
+        {
+          "title": "【SpringBoot】一篇文章讲清楚拦截器所有知识",
+          "summary": "作者: 那我掉的头发算什么",
+          "url": "https://blog.csdn.net/2301_81614213/article/details/157876258",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 5991
+        },
+        {
+          "title": "Kotlin Multiplatform 深度指南：从原理到实践",
+          "summary": "作者: 木易 士心",
+          "url": "https://blog.csdn.net/csdn_silent/article/details/157905435",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 5660
+        },
+        {
+          "title": "TCP 服务器如何支持高并发？单进程、多进程、多线程模型详解",
+          "summary": "作者: Byte不洛",
+          "url": "https://blog.csdn.net/2302_77620024/article/details/158007291",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 4657
+        },
+        {
+          "title": "Python-文字＞语音转换器",
+          "summary": "作者: 温轻舟",
+          "url": "https://blog.csdn.net/qiao_yue/article/details/157912453",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3704
+        },
+        {
+          "title": "【LE Audio】BAP协议精讲[10]: LC3 codec核心揭秘——蓝牙LE音频的数据包传输底层逻辑",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/157870737",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3537
+        },
+        {
+          "title": "C++socket网络编程——udp服务器",
+          "summary": "作者: 冯诺依man",
+          "url": "https://blog.csdn.net/Yu_Lijing/article/details/157912937",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3370
+        },
+        {
+          "title": "【Nginx】Nginx实现动态路由映射",
+          "summary": "作者: No8g攻城狮",
+          "url": "https://blog.csdn.net/weixin_44299027/article/details/158008532",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3144
+        },
+        {
+          "title": "Vibe Coding - AI 编程五件套：Rules、Commands、Subagent、MCP、Skills 实战指南",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/157980978",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3142
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：DartX — 极致简练的开发超能力集",
+          "summary": "作者: 左手厨刀右手茼蒿",
+          "url": "https://blog.csdn.net/jiang_style/article/details/157973640",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3086
+        },
+        {
+          "title": "达梦数据库 Core Dump配置与验证",
+          "summary": "作者: 喝醉酒的小白",
+          "url": "https://blog.csdn.net/hezuijiudexiaobai/article/details/158009459",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 3040
+        },
+        {
+          "title": "欧拉全景解析：从开源基石到安全桌面的国产操作系统突围",
+          "summary": "作者: 109702008",
+          "url": "https://blog.csdn.net/eidolon_foot/article/details/157979056",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2994
+        },
+        {
+          "title": "时序数据库选型指南：聚焦Apache IoTDB的核心优势与应用实践",
+          "summary": "作者: 正在走向自律",
+          "url": "https://blog.csdn.net/beautifulmemory/article/details/158005189",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2683
+        },
+        {
+          "title": "Ruoyi框架防重复提交组件深度解析：从注解到拦截器的完整实现",
+          "summary": "作者: 夜郎king",
+          "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/157877576",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2639
+        },
+        {
+          "title": "美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化",
+          "summary": "作者: 美团技术团队",
+          "url": "https://blog.csdn.net/MeituanTech/article/details/157940598",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2495
+        },
+        {
+          "title": "易捷问数（NewmindExAI）平台解决 ES 升级后 AI 助手与 Attack Discovery 不正常问题",
+          "summary": "作者: Elastic 中国社区官方博客",
+          "url": "https://blog.csdn.net/UbuntuTouch/article/details/158005412",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2489
+        },
+        {
+          "title": "【2025最新高维多目标优化】基于城市场景下无人机三维路径规划的导航变量的多目标粒子群优化算法NMOPSO研究（Matlab代码实现）",
+          "summary": "作者: 程序辅导帮",
+          "url": "https://blog.csdn.net/2201_75454341/article/details/157986905",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2456
+        },
+        {
+          "title": "PyTorch实战（28）——PyTorch深度学习模型部署",
+          "summary": "作者: 盼小辉丶",
+          "url": "https://blog.csdn.net/LOVEmy134611/article/details/150991255",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2449
+        },
+        {
+          "title": "深度学习实战-基于CNN与Transformer的人工智能艺术VS人类艺术识别模型",
+          "summary": "作者: 艾派森",
+          "url": "https://blog.csdn.net/m0_64336780/article/details/157328212",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2442
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：JWT Decoder — 移动端令牌解析利器",
+          "summary": "作者: 加农炮手Jinx",
+          "url": "https://blog.csdn.net/cannonjinx/article/details/157974278",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2409
+        },
+        {
+          "title": "从PPO到ORPO：LLaMA Factory强化学习算法技术详解",
+          "summary": "作者: 羊城迷鹿",
+          "url": "https://blog.csdn.net/jining11/article/details/158006840",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2319
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：Bloc Concurrency — 精密控制异步流",
+          "summary": "作者: 键盘鼓手苏苏",
+          "url": "https://blog.csdn.net/2609_95049439/article/details/157975617",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2142
+        },
+        {
+          "title": "探索Vortex开源GPGPU：RISC-V SIMT架构(4-2)，TCU 矩阵计算(1)",
+          "summary": "作者: weixin_55313207",
+          "url": "https://blog.csdn.net/weixin_55313207/article/details/157395313",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2132
+        },
+        {
+          "title": "PostgreSQL：如何定期验证备份的有效性？（灾备演练）",
+          "summary": "作者: 数据知道",
+          "url": "https://blog.csdn.net/cui_yonghua/article/details/158011108",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2111
+        },
+        {
+          "title": "HarmonyOS PC 多窗口最难的一层",
+          "summary": "作者: 子玥酱",
+          "url": "https://blog.csdn.net/qq_36863796/article/details/158005755",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2070
+        },
+        {
+          "title": "基石之力:掌握 C++ 继承的核心奥秘",
+          "summary": "作者: 夜雨声烦1413",
+          "url": "https://blog.csdn.net/ABWSO/article/details/157586586",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 2000
+        },
+        {
+          "title": "IP 协议到底在干嘛？——从通信本质理解网络世界的运行逻辑",
+          "summary": "作者: 海棠蚀omo",
+          "url": "https://blog.csdn.net/2301_80236968/article/details/157212636",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1921
+        },
+        {
+          "title": "Linux Camera驱动开发（IPCam Soc驱动开发特点）",
+          "summary": "作者: 嵌入式-老费",
+          "url": "https://blog.csdn.net/feixiaoxing/article/details/157980865",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1830
+        },
+        {
+          "title": "【企业级】RuoYi-Vue-Plus AI 智能开发助手 | Claude Code + Codex 双引擎 | 40+ 专业技能包 | 10 大快捷命令 | 开箱即用",
+          "summary": "作者: 抓蛙师",
+          "url": "https://blog.csdn.net/leoisaking/article/details/157911968",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1768
+        },
+        {
+          "title": "HarmonyOS 6 自定义人脸识别模型3：OH_NativeXComponent基于OpenGL绘制",
+          "summary": "作者: 轻口味",
+          "url": "https://blog.csdn.net/sjw890821sjw/article/details/157935932",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1604
+        },
+        {
+          "title": "Ansible自动化部署Kubernetes",
+          "summary": "作者: insomniafish",
+          "url": "https://blog.csdn.net/weixin_74812406/article/details/157914152",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1584
+        },
+        {
+          "title": "字节即梦Seedance 2.0使用手册与教程操作说明（全新多模态创作体验）",
+          "summary": "作者: seoread",
+          "url": "https://blog.csdn.net/seoread/article/details/157937583",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1437
+        },
+        {
+          "title": "python脚本批量导出csdn里的文章",
+          "summary": "作者: 麦芽糖0219",
+          "url": "https://blog.csdn.net/qq_33417321/article/details/157911626",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1414
+        },
+        {
+          "title": "从单体到分布式：SLDS 2.0 全球物流履约网络架构演进之路",
+          "summary": "作者: C澒",
+          "url": "https://blog.csdn.net/weixin_45242865/article/details/156198531",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1402
+        },
+        {
+          "title": "21. 供应链配置：多阶段决策优化与模型解析",
+          "summary": "作者: 大闲在人",
+          "url": "https://blog.csdn.net/u012045365/article/details/157968858",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1369
+        },
+        {
+          "title": "OpenFeign全解 声明式REST客户端原理与配置实战",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/157976490",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1300
+        },
+        {
+          "title": "Flutter 定位插件 flutter_z_location 适配 OpenHarmony 全流程实战",
+          "summary": "作者: 程序媛夏天",
+          "url": "https://blog.csdn.net/weixin_45822171/article/details/158006243",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1291
+        },
+        {
+          "title": "专栏系列02(模块1第2篇) 《从0.1秒启动到97.3%性能提升：日志系统V2重构实战》",
+          "summary": "作者: 带娃的IT创业者",
+          "url": "https://blog.csdn.net/yweng18/article/details/157912872",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1248
+        },
+        {
+          "title": "计算机网络（第8版）（全9章）",
+          "summary": "作者: 鹿鸣天涯",
+          "url": "https://blog.csdn.net/jayjaydream/article/details/157980815",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1205
+        },
+        {
+          "title": "鸿蒙学习实战之路-Reader Kit适配深浅色模式最佳实践",
+          "summary": "作者: 盐焗西兰花",
+          "url": "https://blog.csdn.net/u011864152/article/details/157721731",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1027
+        },
+        {
+          "title": "Kali信息收集",
+          "summary": "作者: 17-debryne",
+          "url": "https://blog.csdn.net/2504_93502346/article/details/157937768",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1017
+        },
+        {
+          "title": "【HarmonyOS】Flutter实战项目+校园通服务平台全解",
+          "summary": "作者: sdff11396",
+          "url": "https://blog.csdn.net/sdff11/article/details/157993479",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1011
+        },
+        {
+          "title": "告别局域网限制✨ Serv-U+cpolar 让内网文件访问自由到离谱",
+          "summary": "作者: 云边有个稻草人",
+          "url": "https://blog.csdn.net/lrq13965748542/article/details/157944942",
+          "createdAt": "2026-02-13 00:24:55",
+          "hot": 1007
+        }
+      ]
+    }
+  ]
+}
