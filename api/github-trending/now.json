@@ -1,64 +1,64 @@
 {
-  "id": "github-trending.1770999572518",
-  "lastUpdatedAt": "2026-02-14 00:19:32",
+  "id": "github-trending.1771013821056",
+  "lastUpdatedAt": "2026-02-14 04:17:01",
   "data": [
     {
       "title": "SynkraAI/aios-core",
       "summary": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "url": "https://github.com/SynkraAI/aios-core",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "summary": "Chrome DevTools for coding agents",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "danielmiessler/Personal_AI_Infrastructure",
       "summary": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "patchy631/ai-engineering-hub",
       "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "url": "https://github.com/patchy631/ai-engineering-hub",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "TelegramMessenger/MTProxy",
       "url": "https://github.com/TelegramMessenger/MTProxy",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "google-deepmind/superhuman",
       "url": "https://github.com/google-deepmind/superhuman",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "cheahjs/free-llm-api-resources",
       "summary": "A list of free LLM inference resources accessible via API.",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "HandsOnLLM/Hands-On-Large-Language-Models",
       "summary": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "THUDM/slime",
       "summary": "slime is an LLM post-training framework for RL Scaling.",
       "url": "https://github.com/THUDM/slime",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     },
     {
       "title": "DebugSwift/DebugSwift",
       "summary": "A toolkit to make debugging iOS applications easier 🚀",
       "url": "https://github.com/DebugSwift/DebugSwift",
-      "createdAt": "2026-02-14 00:18:56"
+      "createdAt": "2026-02-14 04:14:36"
     }
   ]
 }
