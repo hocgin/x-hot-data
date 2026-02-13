@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-14",
+  "createdAt": "2026-02-14 00:19:32",
+  "data": [
+    {
+      "id": "hackernews-top.1770999572517",
+      "lastUpdatedAt": "2026-02-14 00:19:32",
+      "data": [
+        {
+          "title": "Zed editor switching graphics lib from blade to wgpu",
+          "summary": "87 comments",
+          "url": "https://github.com/zed-industries/zed/pull/46758",
+          "createdAt": "2026-02-13 22:03:14",
+          "hot": 142
+        },
+        {
+          "title": "Monosketch",
+          "summary": "55 comments",
+          "url": "https://monosketch.io/",
+          "createdAt": "2026-02-13 20:18:05",
+          "hot": 293
+        },
+        {
+          "title": "Open Source Is Not About You (2018)",
+          "summary": "23 comments",
+          "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+          "createdAt": "2026-02-13 22:36:28",
+          "hot": 70
+        },
+        {
+          "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+          "summary": "9 comments",
+          "url": "https://greensdictofslang.com/",
+          "createdAt": "2026-02-08 13:10:36",
+          "hot": 36
+        },
+        {
+          "title": "Faster Than Dijkstra?",
+          "summary": "9 comments",
+          "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+          "createdAt": "2026-02-10 10:36:34",
+          "hot": 24
+        },
+        {
+          "title": "Resizing windows on macOS Tahoe – the saga continues",
+          "summary": "370 comments",
+          "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+          "createdAt": "2026-02-13 07:52:24",
+          "hot": 736
+        },
+        {
+          "title": "MinIO repository is no longer maintained",
+          "summary": "238 comments",
+          "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+          "createdAt": "2026-02-13 15:46:03",
+          "hot": 364
+        },
+        {
+          "title": "Implementing Auto Tiling with Just 5 Tiles",
+          "summary": "7 comments",
+          "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
+          "createdAt": "2026-02-08 09:37:36",
+          "hot": 42
+        },
+        {
+          "title": "GPT‑5.3‑Codex‑Spark",
+          "summary": "358 comments",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+          "createdAt": "2026-02-13 02:06:09",
+          "hot": 818
+        },
+        {
+          "title": "Gemini 3 Deep Think",
+          "summary": "639 comments",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "createdAt": "2026-02-13 00:55:50",
+          "hot": 961
+        },
+        {
+          "title": "Cache Monet",
+          "summary": "23 comments",
+          "url": "https://cachemonet.com",
+          "createdAt": "2026-02-08 18:22:00",
+          "hot": 86
+        },
+        {
+          "title": "Advanced Aerial Robotics Made Simple",
+          "summary": "6 comments",
+          "url": "https://www.drehmflight.com",
+          "createdAt": "2026-02-08 23:10:30",
+          "hot": 55
+        },
+        {
+          "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
+          "summary": "0 comments",
+          "url": "http://qualify.gauntletAI.com",
+          "createdAt": "2026-02-13 20:32:05",
+          "hot": 1
+        },
+        {
+          "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+          "summary": "19 comments",
+          "url": "https://news.ycombinator.com/item?id=46996490",
+          "createdAt": "2026-02-13 06:58:58",
+          "hot": 391
+        },
+        {
+          "title": "MMAcevedo aka Lena by qntm",
+          "summary": "123 comments",
+          "url": "https://qntm.org/mmacevedo",
+          "createdAt": "2026-02-13 13:24:40",
+          "hot": 199
+        },
+        {
+          "title": "An AI agent published a hit piece on me",
+          "summary": "847 comments",
+          "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+          "createdAt": "2026-02-13 00:23:24",
+          "hot": 2082
+        },
+        {
+          "title": "An open replacement for the IBM 3174 Establishment Controller",
+          "summary": "1 comments",
+          "url": "https://github.com/lowobservable/oec",
+          "createdAt": "2026-02-08 02:39:16",
+          "hot": 5
+        },
+        {
+          "title": "Particle Lenia",
+          "summary": "1 comments",
+          "url": "https://znah.net/lenia/",
+          "createdAt": "2026-02-09 04:15:19",
+          "hot": 45
+        },
+        {
+          "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
+          "summary": "129 comments",
+          "url": "https://ios-countdown.win/",
+          "createdAt": "2026-02-13 22:21:01",
+          "hot": 166
+        },
+        {
+          "title": "CSS-Doodle",
+          "summary": "4 comments",
+          "url": "https://css-doodle.com/",
+          "createdAt": "2026-02-13 16:02:23",
+          "hot": 65
+        },
+        {
+          "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+          "summary": "7 comments",
+          "url": "https://antithesis.com/blog/2026/rust_cpp/",
+          "createdAt": "2026-02-07 21:45:47",
+          "hot": 76
+        },
+        {
+          "title": "AWS Adds support for nested virtualization",
+          "summary": "100 comments",
+          "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+          "createdAt": "2026-02-13 08:07:57",
+          "hot": 259
+        },
+        {
+          "title": "Polis: Open-source platform for large-scale civic deliberation",
+          "summary": "112 comments",
+          "url": "https://pol.is/home2",
+          "createdAt": "2026-02-13 02:23:20",
+          "hot": 299
+        },
+        {
+          "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+          "summary": "268 comments",
+          "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+          "createdAt": "2026-02-12 21:30:20",
+          "hot": 740
+        },
+        {
+          "title": "What Drives Stock Market Returns?",
+          "summary": "5 comments",
+          "url": "https://outlookzen.com/2018/10/27/where-do-stock-market-returns-come-from/",
+          "createdAt": "2026-02-13 23:36:55",
+          "hot": 10
+        },
+        {
+          "title": "Apocalypse no: how almost everything we thought we knew about the Maya is wrong",
+          "summary": "10 comments",
+          "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
+          "createdAt": "2026-02-13 22:36:07",
+          "hot": 19
+        },
+        {
+          "title": "Ruby Newbie Is Joining the Ruby Users Forum",
+          "summary": "14 comments",
+          "url": "https://www.rubyforum.org/tag/getting-started",
+          "createdAt": "2026-02-09 22:39:45",
+          "hot": 59
+        },
+        {
+          "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+          "summary": "319 comments",
+          "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+          "createdAt": "2026-02-13 00:10:29",
+          "hot": 254
+        },
+        {
+          "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+          "summary": "1 comments",
+          "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+          "createdAt": "2026-02-14 00:11:08",
+          "hot": 3
+        },
+        {
+          "title": "Major European payment processor can't send email to Google Workspace users",
+          "summary": "391 comments",
+          "url": "https://atha.io/blog/2026-02-12-viva",
+          "createdAt": "2026-02-12 22:24:15",
+          "hot": 571
+        }
+      ]
+    }
+  ]
+}
