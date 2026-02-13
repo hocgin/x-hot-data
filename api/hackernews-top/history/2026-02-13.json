@@ -433,6 +433,222 @@
           "hot": 302
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1770943143073",
+      "lastUpdatedAt": "2026-02-13 08:39:03",
+      "data": [
+        {
+          "title": "GPT‑5.3‑Codex‑Spark",
+          "summary": "206 comments",
+          "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+          "createdAt": "2026-02-13 02:06:09",
+          "hot": 510
+        },
+        {
+          "title": "Gemini 3 Deep Think",
+          "summary": "355 comments",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "createdAt": "2026-02-13 00:55:50",
+          "hot": 604
+        },
+        {
+          "title": "An AI agent published a hit piece on me",
+          "summary": "591 comments",
+          "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+          "createdAt": "2026-02-13 00:23:24",
+          "hot": 1372
+        },
+        {
+          "title": "Polis: Open-source platform for large-scale civic deliberation",
+          "summary": "65 comments",
+          "url": "https://pol.is/home2",
+          "createdAt": "2026-02-13 02:23:20",
+          "hot": 158
+        },
+        {
+          "title": "AWS Adds support for nested virtualization",
+          "summary": "2 comments",
+          "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+          "createdAt": "2026-02-13 08:07:57",
+          "hot": 7
+        },
+        {
+          "title": "Recoverable and Irrecoverable Decisions",
+          "summary": "5 comments",
+          "url": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+          "createdAt": "2026-02-13 07:08:01",
+          "hot": 21
+        },
+        {
+          "title": "Resizing windows on macOS Tahoe – the saga continues",
+          "summary": "4 comments",
+          "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+          "createdAt": "2026-02-13 07:52:24",
+          "hot": 16
+        },
+        {
+          "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+          "summary": "218 comments",
+          "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+          "createdAt": "2026-02-12 21:30:20",
+          "hot": 540
+        },
+        {
+          "title": "Major European payment processor can't send email to Google Workspace users",
+          "summary": "293 comments",
+          "url": "https://atha.io/blog/2026-02-12-viva",
+          "createdAt": "2026-02-12 22:24:15",
+          "hot": 442
+        },
+        {
+          "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+          "summary": "15 comments",
+          "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+          "createdAt": "2026-02-13 07:51:16",
+          "hot": 49
+        },
+        {
+          "title": "Rari – Rust-powered React framework",
+          "summary": "42 comments",
+          "url": "https://rari.build/",
+          "createdAt": "2026-02-13 03:15:47",
+          "hot": 88
+        },
+        {
+          "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+          "summary": "123 comments",
+          "url": "https://news.ycombinator.com/item?id=46991591",
+          "createdAt": "2026-02-13 01:14:28",
+          "hot": 93
+        },
+        {
+          "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+          "summary": "130 comments",
+          "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+          "createdAt": "2026-02-13 00:10:29",
+          "hot": 138
+        },
+        {
+          "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+          "summary": "0 comments",
+          "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
+          "createdAt": "2026-02-08 22:33:22",
+          "hot": 6
+        },
+        {
+          "title": "Fixing retail with land value capture",
+          "summary": "80 comments",
+          "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+          "createdAt": "2026-02-13 04:44:17",
+          "hot": 51
+        },
+        {
+          "title": "Apache Arrow is 10 years old",
+          "summary": "44 comments",
+          "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+          "createdAt": "2026-02-12 21:13:30",
+          "hot": 180
+        },
+        {
+          "title": "ICE, CBP Knew Facial Recognition App Couldn't Do What DHS Says It Could",
+          "summary": "29 comments",
+          "url": "https://www.techdirt.com/2026/02/12/ice-cbp-knew-facial-recognition-app-couldnt-do-what-dhs-says-it-could-deployed-it-anyway/",
+          "createdAt": "2026-02-13 04:53:30",
+          "hot": 133
+        },
+        {
+          "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+          "summary": "10 comments",
+          "url": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+          "createdAt": "2026-02-13 03:01:54",
+          "hot": 48
+        },
+        {
+          "title": "A brief history of barbed wire fence telephone networks (2024)",
+          "summary": "34 comments",
+          "url": "https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/",
+          "createdAt": "2026-02-12 22:56:18",
+          "hot": 121
+        },
+        {
+          "title": "Partial 8-Piece Tablebase",
+          "summary": "0 comments",
+          "url": "https://lichess.org/@/Lichess/blog/op1-partial-8-piece-tablebase-available/1ptPBDpC",
+          "createdAt": "2026-02-09 20:09:59",
+          "hot": 27
+        },
+        {
+          "title": "Discord Just Killed Anonymity",
+          "summary": "84 comments",
+          "url": "https://michael-dev-tech.github.io/Website/matrix.html",
+          "createdAt": "2026-02-13 06:18:01",
+          "hot": 89
+        },
+        {
+          "title": "Welcoming Discord users amidst the challenge of Age Verification",
+          "summary": "99 comments",
+          "url": "https://matrix.org/blog/2026/02/welcome-discord/",
+          "createdAt": "2026-02-13 04:57:33",
+          "hot": 201
+        },
+        {
+          "title": "Culture Is the Mass-Synchronization of Framings",
+          "summary": "68 comments",
+          "url": "https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings",
+          "createdAt": "2026-02-12 22:17:37",
+          "hot": 122
+        },
+        {
+          "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+          "summary": "258 comments",
+          "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+          "createdAt": "2026-02-13 02:58:56",
+          "hot": 225
+        },
+        {
+          "title": "The \"Crown of Nobles\" Noble Gas Tube Display (2024)",
+          "summary": "27 comments",
+          "url": "https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/",
+          "createdAt": "2026-02-12 20:23:05",
+          "hot": 120
+        },
+        {
+          "title": "Barn Owls Know When to Wait",
+          "summary": "1 comments",
+          "url": "https://blog.typeobject.com/posts/2026-barn-owls-know-when-to-wait/",
+          "createdAt": "2026-02-08 05:14:08",
+          "hot": 15
+        },
+        {
+          "title": "Show HN: Geo Racers – Race from London to Tokyo on a single bus pass",
+          "summary": "69 comments",
+          "url": "https://geo-racers.com/",
+          "createdAt": "2026-02-12 18:27:50",
+          "hot": 90
+        },
+        {
+          "title": "Show HN: Generate Web Interfaces from Data",
+          "summary": "7 comments",
+          "url": "https://github.com/puffinsoft/syntux",
+          "createdAt": "2026-02-13 03:59:52",
+          "hot": 28
+        },
+        {
+          "title": "The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware",
+          "summary": "32 comments",
+          "url": "https://lwn.net/Articles/1055590/",
+          "createdAt": "2026-02-12 22:17:06",
+          "hot": 114
+        },
+        {
+          "title": "Shut Up: Comment Blocker",
+          "summary": "32 comments",
+          "url": "https://rickyromero.com/shutup/",
+          "createdAt": "2026-02-13 01:05:36",
+          "hot": 80
+        }
+      ]
     }
   ]
 }

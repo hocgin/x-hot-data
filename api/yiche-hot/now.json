@@ -1,55 +1,55 @@
 {
-  "id": "yiche-hot.1770927263270",
-  "lastUpdatedAt": "2026-02-13 04:14:23",
+  "id": "yiche-hot.1770943143076",
+  "lastUpdatedAt": "2026-02-13 08:39:03",
   "data": [
     {
       "title": "奥迪A6L",
       "summary": "价格: 42.79-55.89万",
       "url": "https://car.yiche.com/langyi/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 179400
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 179300
     },
     {
       "title": "雅阁",
       "summary": "价格: 17.98-23.88万",
       "url": "https://car.yiche.com/dibadaiyage/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 150000
-    },
-    {
-      "title": "奔驰E级",
-      "summary": "价格: 42.99-59.98万",
-      "url": "https://car.yiche.com/benchieji/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 146900
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 152400
     },
     {
       "title": "小米SU7",
       "summary": "价格: 22.99-30.99万",
       "url": "https://car.yiche.com/xiaomisu7/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 145500
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 148100
     },
     {
-      "title": "星越L",
-      "summary": "价格: 14.77-17.97万",
-      "url": "https://car.yiche.com/jilikx11/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 139500
+      "title": "奔驰E级",
+      "summary": "价格: 42.99-59.98万",
+      "url": "https://car.yiche.com/benchieji/",
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 148000
     },
     {
       "title": "途观L",
       "summary": "价格: 18.68-26.68万",
       "url": "https://car.yiche.com/tuguanl/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 139200
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 140800
     },
     {
       "title": "帕萨特",
       "summary": "价格: 16.45-30.98万",
       "url": "https://car.yiche.com/pasate/",
-      "createdAt": "2026-02-13 04:13:47",
-      "hot": 138700
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 138900
+    },
+    {
+      "title": "凯美瑞",
+      "summary": "价格: 17.18-25.98万",
+      "url": "https://car.yiche.com/kaimeirui/",
+      "createdAt": "2026-02-13 08:38:44",
+      "hot": 136200
     }
   ]
 }
