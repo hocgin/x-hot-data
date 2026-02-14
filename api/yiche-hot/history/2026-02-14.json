@@ -166,6 +166,61 @@
           "hot": 134600
         }
       ]
+    },
+    {
+      "id": "yiche-hot.1771056672929",
+      "lastUpdatedAt": "2026-02-14 16:11:12",
+      "data": [
+        {
+          "title": "奥迪A6L",
+          "summary": "价格: 42.79-55.89万",
+          "url": "https://car.yiche.com/langyi/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 179300
+        },
+        {
+          "title": "小米SU7",
+          "summary": "价格: 22.99-30.99万",
+          "url": "https://car.yiche.com/xiaomisu7/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 153000
+        },
+        {
+          "title": "雅阁",
+          "summary": "价格: 17.98-23.88万",
+          "url": "https://car.yiche.com/dibadaiyage/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 151900
+        },
+        {
+          "title": "奔驰E级",
+          "summary": "价格: 42.99-59.98万",
+          "url": "https://car.yiche.com/benchieji/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 149600
+        },
+        {
+          "title": "途观L",
+          "summary": "价格: 18.68-26.68万",
+          "url": "https://car.yiche.com/tuguanl/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 141400
+        },
+        {
+          "title": "帕萨特",
+          "summary": "价格: 16.45-30.98万",
+          "url": "https://car.yiche.com/pasate/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 138400
+        },
+        {
+          "title": "汉兰达",
+          "summary": "价格: 24.98-32.58万",
+          "url": "https://car.yiche.com/hanlanda/",
+          "createdAt": "2026-02-14 16:10:27",
+          "hot": 134600
+        }
+      ]
     }
   ]
 }
