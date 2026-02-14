@@ -1,0 +1,362 @@
+{
+  "id": "csdn-hot.history.2026-02-15",
+  "createdAt": "2026-02-15 00:09:51",
+  "data": [
+    {
+      "id": "csdn-hot.1771085391224",
+      "lastUpdatedAt": "2026-02-15 00:09:51",
+      "data": [
+        {
+          "title": "【AI应用开发工程师】-分享Java 转 AI成功经验",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158042822",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 27245
+        },
+        {
+          "title": "磁盘到 inode：深入理解 Linux ext 文件系统底层原理",
+          "summary": "作者: 敲上瘾",
+          "url": "https://blog.csdn.net/2302_80105876/article/details/157979876",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 15815
+        },
+        {
+          "title": "《MySQL 事务深度解析：从 ACID 到实战，守住数据一致性的最后防线》",
+          "summary": "作者: 雾非雾の迷惘",
+          "url": "https://blog.csdn.net/Dovis5884/article/details/156157191",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 14215
+        },
+        {
+          "title": "深入剖析Spring框架：架构、缺陷与演进之路",
+          "summary": "作者: 郝学胜-神的一滴",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/158043016",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 13537
+        },
+        {
+          "title": "SQL 数据分析终极指南",
+          "summary": "作者: SQL必知必会",
+          "url": "https://blog.csdn.net/jinahong101/article/details/158012927",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 12637
+        },
+        {
+          "title": "C++学习之旅【C++多态概念指南与核心内容介绍】",
+          "summary": "作者: 承渊政道",
+          "url": "https://blog.csdn.net/2401_87629362/article/details/158006470",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 11476
+        },
+        {
+          "title": "Sentinel - 集成 Nacos 实现规则动态推送与持久化",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157358549",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 11398
+        },
+        {
+          "title": "新能源汽车多测试设备联调与多物理信息融合测试方法及数据价值挖掘",
+          "summary": "作者: 新能源汽车研发＆测试入门指南",
+          "url": "https://blog.csdn.net/weixin_62244995/article/details/158039000",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 11011
+        },
+        {
+          "title": "Scikit-learn高级实战：自定义评估器与流水线架构设计",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/158068613",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 10967
+        },
+        {
+          "title": "KingbaseES 文档数据实践：MongoDB 兼容性评估与替换落地",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158007238",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 10896
+        },
+        {
+          "title": "K8S 之 Taints（污点）与 Tolerations（容忍）",
+          "summary": "作者: A-刘晨阳",
+          "url": "https://blog.csdn.net/liu_chen_yang/article/details/157975059",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 10448
+        },
+        {
+          "title": "【SpringBoot】统一功能处理详解",
+          "summary": "作者: 那我掉的头发算什么",
+          "url": "https://blog.csdn.net/2301_81614213/article/details/157904424",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 10141
+        },
+        {
+          "title": "吃透大模型系统：提示工程、符号推理、智能体实战全解",
+          "summary": "作者: 三掌柜666",
+          "url": "https://blog.csdn.net/CC1991_/article/details/158044229",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 9520
+        },
+        {
+          "title": "Seedance 2.0 字节跳动推出的最新AI视频生成模型",
+          "summary": "作者: LS_learner",
+          "url": "https://blog.csdn.net/qq_39777550/article/details/157981298",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 9446
+        },
+        {
+          "title": "Vibe Coding - AI 编程五件套：Rules、Commands、Subagent、MCP、Skills 实战指南",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/157980978",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 8447
+        },
+        {
+          "title": "5个关键优势：MyBatis Dynamic SQL如何让SQL编写效率提升3倍？",
+          "summary": "作者: 墨瑾轩",
+          "url": "https://blog.csdn.net/z_344791576/article/details/151921497",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 8229
+        },
+        {
+          "title": "ARM Thumb/Thumb-2指令集完全指南：从嵌入式开发到性能优化",
+          "summary": "作者: 一个平凡而乐于分享的小比特",
+          "url": "https://blog.csdn.net/qq_44647100/article/details/158070948",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 8193
+        },
+        {
+          "title": "优雅终结启动顺序噩梦：ObjectProvider —— Spring 4.3 开始引入",
+          "summary": "作者: 越重天",
+          "url": "https://blog.csdn.net/lilinhai548/article/details/158006481",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 8099
+        },
+        {
+          "title": "C/C++跳动的爱心",
+          "summary": "作者: Want595",
+          "url": "https://blog.csdn.net/m0_68111267/article/details/158006139",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 8005
+        },
+        {
+          "title": "时序数据库选型指南：聚焦Apache IoTDB的核心优势与应用实践",
+          "summary": "作者: 正在走向自律",
+          "url": "https://blog.csdn.net/beautifulmemory/article/details/158005189",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 7910
+        },
+        {
+          "title": "Elasticsearch 8.17.2 升级到 9.2.4 完整升级过程",
+          "summary": "作者: Elastic 中国社区官方博客",
+          "url": "https://blog.csdn.net/UbuntuTouch/article/details/158000898",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 7299
+        },
+        {
+          "title": "【魔法森林冒险】11/14 战斗系统（二）：多波战斗与BOSS战",
+          "summary": "作者: 黎雁",
+          "url": "https://blog.csdn.net/2502_93596214/article/details/157814106",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 7150
+        },
+        {
+          "title": "【Linux】TCP可靠性与性能优化详解：从确认应答到拥塞控制",
+          "summary": "作者: 半截诗​",
+          "url": "https://blog.csdn.net/2301_79849925/article/details/158008781",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 6956
+        },
+        {
+          "title": "大数据时代时序数据库选型深度指南：Apache IoTDB的技术内核与场景落地",
+          "summary": "作者: 云边有个稻草人",
+          "url": "https://blog.csdn.net/lrq13965748542/article/details/158036647",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 6787
+        },
+        {
+          "title": "数据治理5大核心概念：分清、用好，支撑AI智能化应用",
+          "summary": "作者: 梦想画家",
+          "url": "https://blog.csdn.net/neweastsun/article/details/158044789",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 6586
+        },
+        {
+          "title": "【HarmonyOS】RN of HarmonyOS实战开发项目+TanStack缓存策略",
+          "summary": "作者: 果粒蹬i",
+          "url": "https://blog.csdn.net/2301_81152266/article/details/158010972",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 6184
+        },
+        {
+          "title": "OpenClaw 多机器人多 Agent 模式：打造你的 AI 助手团队",
+          "summary": "作者: 秒懂AI+",
+          "url": "https://blog.csdn.net/xianyu120/article/details/158041837",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 6116
+        },
+        {
+          "title": "【2026具身智能大模型·系列20】Kairos 3.0：大晓机器人的开源世界模型，开启具身智能新纪元",
+          "summary": "作者: 寻道AI小兵",
+          "url": "https://blog.csdn.net/xiaobing259/article/details/157873577",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 5459
+        },
+        {
+          "title": "我的第一部AIGC电影《编钟》制作幕后",
+          "summary": "作者: zstar-_",
+          "url": "https://blog.csdn.net/qq1198768105/article/details/158069198",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 5352
+        },
+        {
+          "title": "一文吃透RAG：从原理到优化，解决大模型幻觉与时效性",
+          "summary": "作者: User_芊芊君子",
+          "url": "https://blog.csdn.net/user340/article/details/157976086",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 4907
+        },
+        {
+          "title": "ARM Linux 驱动开发篇---TFTP挂载内核设备树，NFS挂载文件系统教程--解决高版本 Ubuntu的nfs挂载系统失败-- Ubuntu20.04",
+          "summary": "作者: 渡水无言",
+          "url": "https://blog.csdn.net/weixin_61186812/article/details/158037609",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 4892
+        },
+        {
+          "title": "【Nginx】Nginx实现动态路由映射",
+          "summary": "作者: No8g攻城狮",
+          "url": "https://blog.csdn.net/weixin_44299027/article/details/158008532",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 4735
+        },
+        {
+          "title": "FPGA软件verilog编码规则分析与总结",
+          "summary": "作者: fpga和matlab",
+          "url": "https://blog.csdn.net/ccsss22/article/details/158069134",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 4569
+        },
+        {
+          "title": "Android tinyalsa深度解析之pcm_frames_to_bytes调用流程与实战(一百一十五)",
+          "summary": "作者: Android系统攻城狮",
+          "url": "https://blog.csdn.net/u010164190/article/details/157837746",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 4346
+        },
+        {
+          "title": "Docker Compose部署多.NET后端API+多Vue前端Web 完整记录（含多数据库扩展+实用场景，亲测无坑）",
+          "summary": "作者: .NET快速开发框架",
+          "url": "https://blog.csdn.net/chinahuyong/article/details/157993813",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 3377
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：Supabase — 跨平台后端服务首选",
+          "summary": "作者: 钛态",
+          "url": "https://blog.csdn.net/cannonmonster01/article/details/158037418",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 3343
+        },
+        {
+          "title": "Flutter for OpenHarmony：cli_util 告别手写 print，用专业级日志系统构建你的 Dart 命令行工具 深度解析与鸿蒙适配指南",
+          "summary": "作者: 左手厨刀右手茼蒿",
+          "url": "https://blog.csdn.net/jiang_style/article/details/158045320",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 3165
+        },
+        {
+          "title": "TCP 服务器如何支持高并发？单进程、多进程、多线程模型详解",
+          "summary": "作者: Byte不洛",
+          "url": "https://blog.csdn.net/2302_77620024/article/details/158007291",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 3117
+        },
+        {
+          "title": "Flink Kerberos 安全接入整体机制、三大安全模块、Standalone/K8s/YARN 部署与 Token 续期策略",
+          "summary": "作者: Hello.Reader",
+          "url": "https://blog.csdn.net/weixin_43114209/article/details/158044383",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 3036
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：ObjectBox — 突破极限的毫秒级持久化引擎",
+          "summary": "作者: 加农炮手Jinx",
+          "url": "https://blog.csdn.net/cannonjinx/article/details/157980988",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2997
+        },
+        {
+          "title": "【Linux我做主】从 fopen 到 open：Linux 文件 I/O 的本质与内核视角",
+          "summary": "作者: Q雨巷",
+          "url": "https://blog.csdn.net/2301_80064645/article/details/155617691",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2757
+        },
+        {
+          "title": "Flutter for OpenHarmony 实战：State Notifier — 极致简约的状态管理内功",
+          "summary": "作者: 键盘鼓手苏苏",
+          "url": "https://blog.csdn.net/2609_95049439/article/details/157975919",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2740
+        },
+        {
+          "title": "即梦Seedance 2.0 全能参考完全指南：从素材管理到长视频制作的系统化工作流",
+          "summary": "作者: 一头老黄牛@",
+          "url": "https://blog.csdn.net/u014177256/article/details/158013628",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2628
+        },
+        {
+          "title": "Unity 2D游戏开发 Ruby‘s Adventure 2：主角和第一脚本",
+          "summary": "作者: 玉梅小洋",
+          "url": "https://blog.csdn.net/SaberJYang/article/details/157992413",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2502
+        },
+        {
+          "title": "【Qt开发】Qt界面优化（三）-＞ Qt样式表(QSS) 设置方式",
+          "summary": "作者: 枫叶丹4",
+          "url": "https://blog.csdn.net/weixin_74809706/article/details/157689231",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2424
+        },
+        {
+          "title": "Windows后门应急（二）--计划任务后门分析与处置|Windows取证分析",
+          "summary": "作者: 0xSec笔记本挖呀瓦呀挖",
+          "url": "https://blog.csdn.net/2401_84830066/article/details/157993074",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2378
+        },
+        {
+          "title": "Vuex 的核心作用深度解析：构建高效可维护的 Vue 应用状态管理体系",
+          "summary": "作者: 阿珊和她的猫",
+          "url": "https://blog.csdn.net/weixin_42554191/article/details/157903699",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2271
+        },
+        {
+          "title": "Linux搭建轻量级日志系统Loki+Grafana+Promtail",
+          "summary": "作者: moxiaoran5753",
+          "url": "https://blog.csdn.net/shenxiaomo1688/article/details/158040735",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2174
+        },
+        {
+          "title": "微算法科技（NASDAQ： MLGO）引入量子启发式算法与区块链融合的数据预测与安全传输方案",
+          "summary": "作者: MicroTech2025",
+          "url": "https://blog.csdn.net/MicroTech2025/article/details/158040695",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2114
+        },
+        {
+          "title": "从 0 到真机：用 AI 一天开发上架 Flutter 跨平台 App——含内购变现全流程",
+          "summary": "作者: 打破砂锅问到底007",
+          "url": "https://blog.csdn.net/xinkuaile/article/details/158036440",
+          "createdAt": "2026-02-15 00:09:20",
+          "hot": 2006
+        }
+      ]
+    }
+  ]
+}

@@ -1,104 +1,139 @@
 {
-  "id": "hackernews-top.1771071181087",
-  "lastUpdatedAt": "2026-02-14 20:13:01",
+  "id": "hackernews-top.1771085391215",
+  "lastUpdatedAt": "2026-02-15 00:09:51",
   "data": [
     {
-      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "summary": "74 comments",
-      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "createdAt": "2026-02-14 16:22:11",
-      "hot": 138
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "summary": "37 comments",
+      "url": "https://ooh.directory/",
+      "createdAt": "2026-02-14 21:40:20",
+      "hot": 146
     },
     {
-      "title": "4chan for Clankers",
-      "summary": "34 comments",
-      "url": "https://www.4claw.org",
-      "createdAt": "2026-02-14 18:47:01",
-      "hot": 24
+      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+      "summary": "25 comments",
+      "url": "https://github.com/datavorous/sameshi",
+      "createdAt": "2026-02-14 21:47:44",
+      "hot": 62
+    },
+    {
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "summary": "5 comments",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+      "createdAt": "2026-02-14 23:35:47",
+      "hot": 13
+    },
+    {
+      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+      "summary": "152 comments",
+      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+      "createdAt": "2026-02-14 16:22:11",
+      "hot": 248
+    },
+    {
+      "title": "Shades of Halftone",
+      "summary": "0 comments",
+      "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+      "createdAt": "2026-02-10 21:35:47",
+      "hot": 23
     },
     {
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "summary": "136 comments",
+      "summary": "183 comments",
       "url": "https://www.wallstreetraider.com/story.html",
       "createdAt": "2026-02-10 10:44:58",
-      "hot": 356
+      "hot": 551
+    },
+    {
+      "title": "How many registers does an x86-64 CPU have? (2020)",
+      "summary": "12 comments",
+      "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+      "createdAt": "2026-02-14 21:33:03",
+      "hot": 31
     },
     {
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "summary": "21 comments",
+      "summary": "29 comments",
       "url": "https://github.com/mickamy/sql-tap",
       "createdAt": "2026-02-14 12:27:35",
-      "hot": 119
-    },
-    {
-      "title": "The Three Year Myth",
-      "summary": "43 comments",
-      "url": "https://green.spacedino.net/the-three-year-myth/",
-      "createdAt": "2026-02-11 03:51:38",
-      "hot": 79
-    },
-    {
-      "title": "Understanding the Go Compiler: The Linker",
-      "summary": "14 comments",
-      "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "createdAt": "2026-02-09 01:46:46",
-      "hot": 94
-    },
-    {
-      "title": "YouTube as Storage",
-      "summary": "48 comments",
-      "url": "https://github.com/PulseBeat02/yt-media-storage",
-      "createdAt": "2026-02-14 17:10:15",
-      "hot": 51
-    },
-    {
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "summary": "133 comments",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "createdAt": "2026-02-13 16:49:02",
-      "hot": 265
-    },
-    {
-      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "summary": "20 comments",
-      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-      "createdAt": "2026-02-14 05:35:52",
-      "hot": 176
+      "hot": 181
     },
     {
       "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "summary": "12 comments",
+      "summary": "119 comments",
       "url": "https://infosec.exchange/@mttaggart/116065340523529645",
       "createdAt": "2026-02-14 17:28:45",
+      "hot": 319
+    },
+    {
+      "title": "Code Storage by the Pierre Computer Company",
+      "summary": "9 comments",
+      "url": "https://code.storage/",
+      "createdAt": "2026-02-10 18:12:27",
+      "hot": 25
+    },
+    {
+      "title": "What color are your bits? (2004)",
+      "summary": "5 comments",
+      "url": "https://ansuz.sooke.bc.ca/entry/23",
+      "createdAt": "2026-02-11 13:37:11",
+      "hot": 16
+    },
+    {
+      "title": "Homeland Security has sent out subpoenas to identify ICE critics",
+      "summary": "1 comments",
+      "url": "https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html",
+      "createdAt": "2026-02-14 23:10:23",
+      "hot": 65
+    },
+    {
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "summary": "219 comments",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "createdAt": "2026-02-13 16:49:02",
+      "hot": 437
+    },
+    {
+      "title": "Switzerland to Vote on Capping Population at 10M",
+      "summary": "15 comments",
+      "url": "https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html",
+      "createdAt": "2026-02-14 23:42:26",
+      "hot": 12
+    },
+    {
+      "title": "Understanding the Go Compiler: The Linker",
+      "summary": "32 comments",
+      "url": "https://internals-for-interns.com/posts/the-go-linker/",
+      "createdAt": "2026-02-09 01:46:46",
+      "hot": 131
+    },
+    {
+      "title": "The Sling: Humanity's Forgotten Power",
+      "summary": "10 comments",
+      "url": "https://www.slinging.org/",
+      "createdAt": "2026-02-10 05:13:54",
+      "hot": 60
+    },
+    {
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "summary": "13 comments",
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "createdAt": "2026-02-09 20:53:09",
       "hot": 55
     },
     {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "summary": "334 comments",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "createdAt": "2026-02-14 03:20:12",
-      "hot": 500
+      "title": "The mathematics of compression in database systems",
+      "summary": "2 comments",
+      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+      "createdAt": "2026-02-11 01:07:17",
+      "hot": 28
     },
     {
-      "title": "How the Little Guy Moved",
-      "summary": "1 comments",
-      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
-      "createdAt": "2026-02-10 01:30:27",
-      "hot": 43
-    },
-    {
-      "title": "Common Lisp Screenshots: today's CL applications in action",
-      "summary": "39 comments",
-      "url": "http://www.lisp-screenshots.org",
-      "createdAt": "2026-02-12 09:44:35",
-      "hot": 122
-    },
-    {
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "summary": "44 comments",
-      "url": "https://npmx.dev",
-      "createdAt": "2026-02-14 10:14:34",
-      "hot": 108
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "summary": "24 comments",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "createdAt": "2026-02-14 05:35:52",
+      "hot": 205
     },
     {
       "title": "Cogram (YC W22) – Hiring former technical founders",
@@ -108,109 +143,74 @@
       "hot": 1
     },
     {
+      "title": "How the Little Guy Moved",
+      "summary": "3 comments",
+      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+      "createdAt": "2026-02-10 01:30:27",
+      "hot": 74
+    },
+    {
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "summary": "43 comments",
+      "url": "http://www.lisp-screenshots.org",
+      "createdAt": "2026-02-12 09:44:35",
+      "hot": 142
+    },
+    {
       "title": "Building a TUI is easy now",
-      "summary": "181 comments",
+      "summary": "204 comments",
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
       "createdAt": "2026-02-14 01:50:54",
-      "hot": 238
+      "hot": 266
     },
     {
-      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
-      "summary": "4 comments",
-      "url": "https://mynoise.net/vlog.php?ep=20260204",
-      "createdAt": "2026-02-09 20:53:09",
-      "hot": 17
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "summary": "360 comments",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "createdAt": "2026-02-14 03:20:12",
+      "hot": 534
     },
     {
-      "title": "Backblaze Drive Stats for 2025",
-      "summary": "14 comments",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-      "createdAt": "2026-02-14 12:35:01",
-      "hot": 90
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "summary": "55 comments",
+      "url": "https://npmx.dev",
+      "createdAt": "2026-02-14 10:14:34",
+      "hot": 130
     },
     {
       "title": "Font Rendering from First Principles",
-      "summary": "28 comments",
+      "summary": "34 comments",
       "url": "https://mccloskeybr.com/articles/font_rendering.html",
       "createdAt": "2026-02-08 08:58:29",
-      "hot": 164
+      "hot": 185
     },
     {
-      "title": "Gradient.horse",
-      "summary": "55 comments",
-      "url": "https://gradient.horse",
-      "createdAt": "2026-02-10 12:13:49",
-      "hot": 275
+      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+      "summary": "0 comments",
+      "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+      "createdAt": "2026-02-14 23:49:56",
+      "hot": 5
     },
     {
-      "title": "The EU moves to kill infinite scrolling",
-      "summary": "654 comments",
-      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "createdAt": "2026-02-14 04:52:11",
-      "hot": 623
+      "title": "Epstein's Ugly World of Science",
+      "summary": "3 comments",
+      "url": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
+      "createdAt": "2026-02-14 22:59:28",
+      "hot": 33
     },
     {
-      "title": "Monosketch",
-      "summary": "133 comments",
-      "url": "https://monosketch.io/",
-      "createdAt": "2026-02-13 20:18:05",
-      "hot": 789
+      "title": "Backblaze Drive Stats for 2025",
+      "summary": "22 comments",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "createdAt": "2026-02-14 12:35:01",
+      "hot": 125
     },
     {
-      "title": "Adventures in Neural Rendering",
-      "summary": "1 comments",
-      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-      "createdAt": "2026-02-11 05:26:16",
-      "hot": 31
-    },
-    {
-      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-      "summary": "725 comments",
-      "url": "https://ios-countdown.win/",
-      "createdAt": "2026-02-13 22:21:01",
-      "hot": 1468
-    },
-    {
-      "title": "gRPC: From service definition to wire format",
-      "summary": "20 comments",
-      "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "createdAt": "2026-02-09 20:17:23",
-      "hot": 130
-    },
-    {
-      "title": "The Sling: Humanity's Forgotten Power",
-      "summary": "2 comments",
-      "url": "https://www.slinging.org/",
-      "createdAt": "2026-02-10 05:13:54",
-      "hot": 7
-    },
-    {
-      "title": "CSS-Doodle",
-      "summary": "17 comments",
-      "url": "https://css-doodle.com/",
-      "createdAt": "2026-02-13 16:02:23",
-      "hot": 171
-    },
-    {
-      "title": "The wonder of modern drywall",
-      "summary": "175 comments",
-      "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
-      "createdAt": "2026-02-13 11:33:27",
-      "hot": 113
-    },
-    {
-      "title": "Advanced Aerial Robotics Made Simple",
-      "summary": "11 comments",
-      "url": "https://www.drehmflight.com",
-      "createdAt": "2026-02-08 23:10:30",
-      "hot": 130
-    },
-    {
-      "title": "WolfSSL sucks too, so now what?",
-      "summary": "100 comments",
-      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
-      "createdAt": "2026-02-13 18:18:56",
-      "hot": 126
+      "title": "YouTube as Storage",
+      "summary": "95 comments",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "createdAt": "2026-02-14 17:10:15",
+      "hot": 115
     }
   ]
 }

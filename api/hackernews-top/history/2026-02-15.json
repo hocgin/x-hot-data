@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-15",
+  "createdAt": "2026-02-15 00:09:51",
+  "data": [
+    {
+      "id": "hackernews-top.1771085391215",
+      "lastUpdatedAt": "2026-02-15 00:09:51",
+      "data": [
+        {
+          "title": "Ooh.directory: a place to find good blogs that interest you",
+          "summary": "37 comments",
+          "url": "https://ooh.directory/",
+          "createdAt": "2026-02-14 21:40:20",
+          "hot": 146
+        },
+        {
+          "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+          "summary": "25 comments",
+          "url": "https://github.com/datavorous/sameshi",
+          "createdAt": "2026-02-14 21:47:44",
+          "hot": 62
+        },
+        {
+          "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+          "summary": "5 comments",
+          "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+          "createdAt": "2026-02-14 23:35:47",
+          "hot": 13
+        },
+        {
+          "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+          "summary": "152 comments",
+          "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+          "createdAt": "2026-02-14 16:22:11",
+          "hot": 248
+        },
+        {
+          "title": "Shades of Halftone",
+          "summary": "0 comments",
+          "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
+          "createdAt": "2026-02-10 21:35:47",
+          "hot": 23
+        },
+        {
+          "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+          "summary": "183 comments",
+          "url": "https://www.wallstreetraider.com/story.html",
+          "createdAt": "2026-02-10 10:44:58",
+          "hot": 551
+        },
+        {
+          "title": "How many registers does an x86-64 CPU have? (2020)",
+          "summary": "12 comments",
+          "url": "https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have",
+          "createdAt": "2026-02-14 21:33:03",
+          "hot": 31
+        },
+        {
+          "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+          "summary": "29 comments",
+          "url": "https://github.com/mickamy/sql-tap",
+          "createdAt": "2026-02-14 12:27:35",
+          "hot": 181
+        },
+        {
+          "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+          "summary": "119 comments",
+          "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+          "createdAt": "2026-02-14 17:28:45",
+          "hot": 319
+        },
+        {
+          "title": "Code Storage by the Pierre Computer Company",
+          "summary": "9 comments",
+          "url": "https://code.storage/",
+          "createdAt": "2026-02-10 18:12:27",
+          "hot": 25
+        },
+        {
+          "title": "What color are your bits? (2004)",
+          "summary": "5 comments",
+          "url": "https://ansuz.sooke.bc.ca/entry/23",
+          "createdAt": "2026-02-11 13:37:11",
+          "hot": 16
+        },
+        {
+          "title": "Homeland Security has sent out subpoenas to identify ICE critics",
+          "summary": "1 comments",
+          "url": "https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html",
+          "createdAt": "2026-02-14 23:10:23",
+          "hot": 65
+        },
+        {
+          "title": "Babylon 5 is now free to watch on YouTube",
+          "summary": "219 comments",
+          "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+          "createdAt": "2026-02-13 16:49:02",
+          "hot": 437
+        },
+        {
+          "title": "Switzerland to Vote on Capping Population at 10M",
+          "summary": "15 comments",
+          "url": "https://www.nytimes.com/2026/02/11/world/europe/switzerland-to-vote-on-capping-population-at-10-million.html",
+          "createdAt": "2026-02-14 23:42:26",
+          "hot": 12
+        },
+        {
+          "title": "Understanding the Go Compiler: The Linker",
+          "summary": "32 comments",
+          "url": "https://internals-for-interns.com/posts/the-go-linker/",
+          "createdAt": "2026-02-09 01:46:46",
+          "hot": 131
+        },
+        {
+          "title": "The Sling: Humanity's Forgotten Power",
+          "summary": "10 comments",
+          "url": "https://www.slinging.org/",
+          "createdAt": "2026-02-10 05:13:54",
+          "hot": 60
+        },
+        {
+          "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+          "summary": "13 comments",
+          "url": "https://mynoise.net/vlog.php?ep=20260204",
+          "createdAt": "2026-02-09 20:53:09",
+          "hot": 55
+        },
+        {
+          "title": "The mathematics of compression in database systems",
+          "summary": "2 comments",
+          "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+          "createdAt": "2026-02-11 01:07:17",
+          "hot": 28
+        },
+        {
+          "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+          "summary": "24 comments",
+          "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+          "createdAt": "2026-02-14 05:35:52",
+          "hot": 205
+        },
+        {
+          "title": "Cogram (YC W22) – Hiring former technical founders",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+          "createdAt": "2026-02-14 15:00:15",
+          "hot": 1
+        },
+        {
+          "title": "How the Little Guy Moved",
+          "summary": "3 comments",
+          "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+          "createdAt": "2026-02-10 01:30:27",
+          "hot": 74
+        },
+        {
+          "title": "Common Lisp Screenshots: today's CL applications in action",
+          "summary": "43 comments",
+          "url": "http://www.lisp-screenshots.org",
+          "createdAt": "2026-02-12 09:44:35",
+          "hot": 142
+        },
+        {
+          "title": "Building a TUI is easy now",
+          "summary": "204 comments",
+          "url": "https://hatchet.run/blog/tuis-are-easy-now",
+          "createdAt": "2026-02-14 01:50:54",
+          "hot": 266
+        },
+        {
+          "title": "GPT-5.2 derives a new result in theoretical physics",
+          "summary": "360 comments",
+          "url": "https://openai.com/index/new-result-theoretical-physics/",
+          "createdAt": "2026-02-14 03:20:12",
+          "hot": 534
+        },
+        {
+          "title": "NPMX – a fast, modern browser for the NPM registry",
+          "summary": "55 comments",
+          "url": "https://npmx.dev",
+          "createdAt": "2026-02-14 10:14:34",
+          "hot": 130
+        },
+        {
+          "title": "Font Rendering from First Principles",
+          "summary": "34 comments",
+          "url": "https://mccloskeybr.com/articles/font_rendering.html",
+          "createdAt": "2026-02-08 08:58:29",
+          "hot": 185
+        },
+        {
+          "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+          "summary": "0 comments",
+          "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+          "createdAt": "2026-02-14 23:49:56",
+          "hot": 5
+        },
+        {
+          "title": "Epstein's Ugly World of Science",
+          "summary": "3 comments",
+          "url": "https://homunculusmusic.wordpress.com/2026/02/14/epsteins-ugly-world-of-science/",
+          "createdAt": "2026-02-14 22:59:28",
+          "hot": 33
+        },
+        {
+          "title": "Backblaze Drive Stats for 2025",
+          "summary": "22 comments",
+          "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+          "createdAt": "2026-02-14 12:35:01",
+          "hot": 125
+        },
+        {
+          "title": "YouTube as Storage",
+          "summary": "95 comments",
+          "url": "https://github.com/PulseBeat02/yt-media-storage",
+          "createdAt": "2026-02-14 17:10:15",
+          "hot": 115
+        }
+      ]
+    }
+  ]
+}
