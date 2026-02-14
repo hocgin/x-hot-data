@@ -1,64 +1,72 @@
 {
-  "id": "github-trending.1771056672926",
-  "lastUpdatedAt": "2026-02-14 16:11:12",
+  "id": "github-trending.1771071181089",
+  "lastUpdatedAt": "2026-02-14 20:13:01",
   "data": [
+    {
+      "title": "tambo-ai/tambo",
+      "summary": "Generative UI SDK for React",
+      "url": "https://github.com/tambo-ai/tambo",
+      "createdAt": "2026-02-14 20:12:23"
+    },
     {
       "title": "SynkraAI/aios-core",
       "summary": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "url": "https://github.com/SynkraAI/aios-core",
-      "createdAt": "2026-02-14 16:10:27"
+      "createdAt": "2026-02-14 20:12:23"
+    },
+    {
+      "title": "rowboatlabs/rowboat",
+      "summary": "Open-source AI coworker, with memory",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "createdAt": "2026-02-14 20:12:23"
+    },
+    {
+      "title": "minio/minio",
+      "summary": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "url": "https://github.com/minio/minio",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "summary": "Chrome DevTools for coding agents",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "createdAt": "2026-02-14 16:10:27"
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "summary": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "alibaba/zvec",
+      "summary": "A lightweight, lightning-fast, in-process vector database",
+      "url": "https://github.com/alibaba/zvec",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "patchy631/ai-engineering-hub",
-      "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "ruvnet/wifi-densepose",
+      "summary": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "TelegramMessenger/MTProxy",
-      "url": "https://github.com/TelegramMessenger/MTProxy",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "Zipstack/unstract",
+      "summary": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+      "url": "https://github.com/Zipstack/unstract",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "google-deepmind/superhuman",
-      "url": "https://github.com/google-deepmind/superhuman",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "letta-ai/letta-code",
+      "summary": "The memory-first coding agent",
+      "url": "https://github.com/letta-ai/letta-code",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "cheahjs/free-llm-api-resources",
-      "summary": "A list of free LLM inference resources accessible via API.",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "ruby/ruby",
+      "summary": "The Ruby Programming Language",
+      "url": "https://github.com/ruby/ruby",
+      "createdAt": "2026-02-14 20:12:23"
     },
     {
-      "title": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "summary": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "createdAt": "2026-02-14 16:10:27"
-    },
-    {
-      "title": "THUDM/slime",
-      "summary": "slime is an LLM post-training framework for RL Scaling.",
-      "url": "https://github.com/THUDM/slime",
-      "createdAt": "2026-02-14 16:10:27"
-    },
-    {
-      "title": "DebugSwift/DebugSwift",
-      "summary": "A toolkit to make debugging iOS applications easier 🚀",
-      "url": "https://github.com/DebugSwift/DebugSwift",
-      "createdAt": "2026-02-14 16:10:27"
+      "title": "cinnyapp/cinny",
+      "summary": "Yet another matrix client",
+      "url": "https://github.com/cinnyapp/cinny",
+      "createdAt": "2026-02-14 20:12:23"
     }
   ]
 }

@@ -1,55 +1,104 @@
 {
-  "id": "hackernews-top.1771056672924",
-  "lastUpdatedAt": "2026-02-14 16:11:12",
+  "id": "hackernews-top.1771071181087",
+  "lastUpdatedAt": "2026-02-14 20:13:01",
   "data": [
     {
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "summary": "12 comments",
-      "url": "https://github.com/mickamy/sql-tap",
-      "createdAt": "2026-02-14 12:27:35",
-      "hot": 72
+      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+      "summary": "74 comments",
+      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+      "createdAt": "2026-02-14 16:22:11",
+      "hot": 138
+    },
+    {
+      "title": "4chan for Clankers",
+      "summary": "34 comments",
+      "url": "https://www.4claw.org",
+      "createdAt": "2026-02-14 18:47:01",
+      "hot": 24
     },
     {
       "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "summary": "50 comments",
+      "summary": "136 comments",
       "url": "https://www.wallstreetraider.com/story.html",
       "createdAt": "2026-02-10 10:44:58",
-      "hot": 199
+      "hot": 356
     },
     {
-      "title": "Understanding the Go Compiler: The Linker",
-      "summary": "0 comments",
-      "url": "https://internals-for-interns.com/posts/the-go-linker/",
-      "createdAt": "2026-02-09 01:46:46",
-      "hot": 49
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "summary": "21 comments",
+      "url": "https://github.com/mickamy/sql-tap",
+      "createdAt": "2026-02-14 12:27:35",
+      "hot": 119
     },
     {
       "title": "The Three Year Myth",
-      "summary": "6 comments",
+      "summary": "43 comments",
       "url": "https://green.spacedino.net/the-three-year-myth/",
       "createdAt": "2026-02-11 03:51:38",
-      "hot": 18
+      "hot": 79
     },
     {
-      "title": "Do Not Outsource Judgement",
-      "summary": "7 comments",
-      "url": "https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9",
-      "createdAt": "2026-02-14 14:22:03",
-      "hot": 18
+      "title": "Understanding the Go Compiler: The Linker",
+      "summary": "14 comments",
+      "url": "https://internals-for-interns.com/posts/the-go-linker/",
+      "createdAt": "2026-02-09 01:46:46",
+      "hot": 94
     },
     {
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "summary": "39 comments",
-      "url": "https://npmx.dev",
-      "createdAt": "2026-02-14 10:14:34",
-      "hot": 80
+      "title": "YouTube as Storage",
+      "summary": "48 comments",
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "createdAt": "2026-02-14 17:10:15",
+      "hot": 51
+    },
+    {
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "summary": "133 comments",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "createdAt": "2026-02-13 16:49:02",
+      "hot": 265
     },
     {
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "summary": "12 comments",
+      "summary": "20 comments",
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
       "createdAt": "2026-02-14 05:35:52",
-      "hot": 145
+      "hot": 176
+    },
+    {
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "summary": "12 comments",
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "createdAt": "2026-02-14 17:28:45",
+      "hot": 55
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "summary": "334 comments",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "createdAt": "2026-02-14 03:20:12",
+      "hot": 500
+    },
+    {
+      "title": "How the Little Guy Moved",
+      "summary": "1 comments",
+      "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
+      "createdAt": "2026-02-10 01:30:27",
+      "hot": 43
+    },
+    {
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "summary": "39 comments",
+      "url": "http://www.lisp-screenshots.org",
+      "createdAt": "2026-02-12 09:44:35",
+      "hot": 122
+    },
+    {
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "summary": "44 comments",
+      "url": "https://npmx.dev",
+      "createdAt": "2026-02-14 10:14:34",
+      "hot": 108
     },
     {
       "title": "Cogram (YC W22) – Hiring former technical founders",
@@ -59,158 +108,109 @@
       "hot": 1
     },
     {
-      "title": "Common Lisp Screenshots: today's CL applications in action",
-      "summary": "29 comments",
-      "url": "http://www.lisp-screenshots.org",
-      "createdAt": "2026-02-12 09:44:35",
-      "hot": 93
+      "title": "Building a TUI is easy now",
+      "summary": "181 comments",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "createdAt": "2026-02-14 01:50:54",
+      "hot": 238
     },
     {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "summary": "318 comments",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "createdAt": "2026-02-14 03:20:12",
-      "hot": 459
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "summary": "4 comments",
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "createdAt": "2026-02-09 20:53:09",
+      "hot": 17
     },
     {
       "title": "Backblaze Drive Stats for 2025",
-      "summary": "5 comments",
+      "summary": "14 comments",
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
       "createdAt": "2026-02-14 12:35:01",
-      "hot": 51
-    },
-    {
-      "title": "Building a TUI is easy now",
-      "summary": "140 comments",
-      "url": "https://hatchet.run/blog/tuis-are-easy-now",
-      "createdAt": "2026-02-14 01:50:54",
-      "hot": 208
+      "hot": 90
     },
     {
       "title": "Font Rendering from First Principles",
-      "summary": "24 comments",
+      "summary": "28 comments",
       "url": "https://mccloskeybr.com/articles/font_rendering.html",
       "createdAt": "2026-02-08 08:58:29",
-      "hot": 140
+      "hot": 164
     },
     {
       "title": "Gradient.horse",
-      "summary": "48 comments",
+      "summary": "55 comments",
       "url": "https://gradient.horse",
       "createdAt": "2026-02-10 12:13:49",
-      "hot": 227
-    },
-    {
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "summary": "70 comments",
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "createdAt": "2026-02-13 16:49:02",
-      "hot": 137
-    },
-    {
-      "title": "Adventures in Neural Rendering",
-      "summary": "1 comments",
-      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-      "createdAt": "2026-02-11 05:26:16",
-      "hot": 24
+      "hot": 275
     },
     {
       "title": "The EU moves to kill infinite scrolling",
-      "summary": "534 comments",
+      "summary": "654 comments",
       "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
       "createdAt": "2026-02-14 04:52:11",
-      "hot": 524
-    },
-    {
-      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-      "summary": "193 comments",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-      "createdAt": "2026-02-14 08:37:53",
-      "hot": 380
-    },
-    {
-      "title": "gRPC: From service definition to wire format",
-      "summary": "18 comments",
-      "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "createdAt": "2026-02-09 20:17:23",
-      "hot": 119
-    },
-    {
-      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
-      "summary": "700 comments",
-      "url": "https://ios-countdown.win/",
-      "createdAt": "2026-02-13 22:21:01",
-      "hot": 1423
+      "hot": 623
     },
     {
       "title": "Monosketch",
       "summary": "133 comments",
       "url": "https://monosketch.io/",
       "createdAt": "2026-02-13 20:18:05",
-      "hot": 758
+      "hot": 789
     },
     {
-      "title": "I'm not worried about AI job loss",
-      "summary": "406 comments",
-      "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-      "createdAt": "2026-02-14 03:13:04",
-      "hot": 243
+      "title": "Adventures in Neural Rendering",
+      "summary": "1 comments",
+      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+      "createdAt": "2026-02-11 05:26:16",
+      "hot": 31
     },
     {
-      "title": "Advanced Aerial Robotics Made Simple",
-      "summary": "10 comments",
-      "url": "https://www.drehmflight.com",
-      "createdAt": "2026-02-08 23:10:30",
-      "hot": 125
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "summary": "725 comments",
+      "url": "https://ios-countdown.win/",
+      "createdAt": "2026-02-13 22:21:01",
+      "hot": 1468
     },
     {
-      "title": "WolfSSL sucks too, so now what?",
-      "summary": "86 comments",
-      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
-      "createdAt": "2026-02-13 18:18:56",
-      "hot": 109
+      "title": "gRPC: From service definition to wire format",
+      "summary": "20 comments",
+      "url": "https://kreya.app/blog/grpc-deep-dive/",
+      "createdAt": "2026-02-09 20:17:23",
+      "hot": 130
     },
     {
-      "title": "Faster Than Dijkstra?",
-      "summary": "72 comments",
-      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
-      "createdAt": "2026-02-10 10:36:34",
-      "hot": 122
+      "title": "The Sling: Humanity's Forgotten Power",
+      "summary": "2 comments",
+      "url": "https://www.slinging.org/",
+      "createdAt": "2026-02-10 05:13:54",
+      "hot": 7
     },
     {
       "title": "CSS-Doodle",
-      "summary": "16 comments",
+      "summary": "17 comments",
       "url": "https://css-doodle.com/",
       "createdAt": "2026-02-13 16:02:23",
-      "hot": 151
-    },
-    {
-      "title": "How did the Maya survive?",
-      "summary": "102 comments",
-      "url": "https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong",
-      "createdAt": "2026-02-13 22:36:07",
-      "hot": 125
+      "hot": 171
     },
     {
       "title": "The wonder of modern drywall",
-      "summary": "162 comments",
+      "summary": "175 comments",
       "url": "https://www.worksinprogress.news/p/the-wonder-of-modern-drywall",
       "createdAt": "2026-02-13 11:33:27",
-      "hot": 103
+      "hot": 113
     },
     {
-      "title": "OpenAI has deleted the word 'safely' from its mission",
-      "summary": "248 comments",
-      "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-      "createdAt": "2026-02-14 06:17:06",
-      "hot": 486
+      "title": "Advanced Aerial Robotics Made Simple",
+      "summary": "11 comments",
+      "url": "https://www.drehmflight.com",
+      "createdAt": "2026-02-08 23:10:30",
+      "hot": 130
     },
     {
-      "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
-      "summary": "12 comments",
-      "url": "https://news.ycombinator.com/item?id=47007584",
-      "createdAt": "2026-02-14 04:44:08",
-      "hot": 9
+      "title": "WolfSSL sucks too, so now what?",
+      "summary": "100 comments",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "createdAt": "2026-02-13 18:18:56",
+      "hot": 126
     }
   ]
 }
