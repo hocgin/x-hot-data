@@ -2,6 +2,10 @@
   "id": "tieba-hot.history",
   "history": [
     {
+      "date": "2026-02-16",
+      "uri": "/tieba-hot/history/2026-02-16.json"
+    },
+    {
       "date": "2026-02-15",
       "uri": "/tieba-hot/history/2026-02-15.json"
     },
