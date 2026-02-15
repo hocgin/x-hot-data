@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771171769690",
-  "lastUpdatedAt": "2026-02-16 00:09:29",
+  "id": "hackernews-top.1771186133653",
+  "lastUpdatedAt": "2026-02-16 04:08:53",
   "data": [
     {
-      "title": "I Fixed Windows Native Development",
-      "summary": "142 comments",
-      "url": "https://marler8997.github.io/blog/fixed-windows/",
-      "createdAt": "2026-02-15 19:25:26",
-      "hot": 298
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "summary": "43 comments",
+      "url": "https://github.com/TechPaula/LT6502",
+      "createdAt": "2026-02-16 01:12:35",
+      "hot": 163
     },
     {
-      "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
-      "summary": "0 comments",
-      "url": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
-      "createdAt": "2026-02-15 23:53:13",
-      "hot": 5
+      "title": "I Fixed Windows Native Development",
+      "summary": "259 comments",
+      "url": "https://marler8997.github.io/blog/fixed-windows/",
+      "createdAt": "2026-02-15 19:25:26",
+      "hot": 511
+    },
+    {
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "summary": "287 comments",
+      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "createdAt": "2026-02-16 01:10:18",
+      "hot": 399
+    },
+    {
+      "title": "Towards Autonomous Mathematics Research",
+      "summary": "6 comments",
+      "url": "https://arxiv.org/abs/2602.10177",
+      "createdAt": "2026-02-16 02:35:40",
+      "hot": 30
+    },
+    {
+      "title": "Gwtar: A static efficient single-file HTML format",
+      "summary": "26 comments",
+      "url": "https://gwern.net/gwtar",
+      "createdAt": "2026-02-15 23:37:06",
+      "hot": 103
+    },
+    {
+      "title": "Real-time PathTracing with global illumination in WebGL",
+      "summary": "7 comments",
+      "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+      "createdAt": "2026-02-13 02:35:39",
+      "hot": 56
+    },
+    {
+      "title": "Hideki Sato, designer of all Sega's consoles, has died",
+      "summary": "17 comments",
+      "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+      "createdAt": "2026-02-16 00:19:51",
+      "hot": 208
     },
     {
       "title": "I love the work of the ArchWiki maintainers",
-      "summary": "119 comments",
+      "summary": "149 comments",
       "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "createdAt": "2026-02-15 09:20:58",
-      "hot": 702
+      "hot": 828
     },
     {
-      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
-      "summary": "153 comments",
-      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
-      "createdAt": "2026-02-15 20:42:17",
-      "hot": 269
+      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+      "summary": "43 comments",
+      "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+      "createdAt": "2026-02-16 01:37:10",
+      "hot": 148
+    },
+    {
+      "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
+      "summary": "0 comments",
+      "url": "https://github.com/gpasquero/voog",
+      "createdAt": "2026-02-16 03:40:57",
+      "hot": 4
     },
     {
       "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-      "summary": "51 comments",
+      "summary": "72 comments",
       "url": "https://flashpointarchive.org",
       "createdAt": "2026-02-15 13:43:59",
-      "hot": 229
-    },
-    {
-      "title": "Reversed engineered game Starflight (1986)",
-      "summary": "16 comments",
-      "url": "https://github.com/s-macke/starflight-reverse",
-      "createdAt": "2026-02-15 19:37:29",
-      "hot": 40
-    },
-    {
-      "title": "RynnBrain",
-      "summary": "0 comments",
-      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-      "createdAt": "2026-02-11 08:08:01",
-      "hot": 31
-    },
-    {
-      "title": "How Is Data Stored?",
-      "summary": "0 comments",
-      "url": "https://www.makingsoftware.com/chapters/how-is-data-stored",
-      "createdAt": "2026-02-10 22:56:09",
-      "hot": 29
+      "hot": 291
     },
     {
       "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-      "summary": "65 comments",
+      "summary": "103 comments",
       "url": "https://oat.ink/",
       "createdAt": "2026-02-15 16:17:05",
-      "hot": 238
+      "hot": 371
+    },
+    {
+      "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
+      "summary": "45 comments",
+      "url": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
+      "createdAt": "2026-02-16 00:51:17",
+      "hot": 116
+    },
+    {
+      "title": "How Is Data Stored?",
+      "summary": "7 comments",
+      "url": "https://www.makingsoftware.com/chapters/how-is-data-stored",
+      "createdAt": "2026-02-10 22:56:09",
+      "hot": 110
+    },
+    {
+      "title": "Reversed engineered game Starflight (1986)",
+      "summary": "40 comments",
+      "url": "https://github.com/s-macke/starflight-reverse",
+      "createdAt": "2026-02-15 19:37:29",
+      "hot": 81
+    },
+    {
+      "title": "1940s Irish sci-fi novel features early mecha and gravity assists",
+      "summary": "17 comments",
+      "url": "https://github.com/cavedave/Manannan",
+      "createdAt": "2026-02-15 22:55:53",
+      "hot": 35
+    },
+    {
+      "title": "LEDs Enter the Nanoscale, But efficiency hurdles challenge the smallest LEDs yet",
+      "summary": "1 comments",
+      "url": "https://spectrum.ieee.org/nanoled-research-approaches",
+      "createdAt": "2026-02-12 23:40:42",
+      "hot": 4
+    },
+    {
+      "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
+      "summary": "36 comments",
+      "url": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
+      "createdAt": "2026-02-15 23:53:13",
+      "hot": 57
+    },
+    {
+      "title": "State Attorneys General Want to Tie Online Access to ID",
+      "summary": "1 comments",
+      "url": "https://reclaimthenet.org/40-attorneys-general-back-ids-online-safety-act",
+      "createdAt": "2026-02-16 03:49:17",
+      "hot": 13
+    },
+    {
+      "title": "Editor's Note: Retraction of article containing fabricated quotations",
+      "summary": "47 comments",
+      "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "createdAt": "2026-02-16 02:29:54",
+      "hot": 64
     },
     {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "summary": "229 comments",
+      "summary": "239 comments",
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "createdAt": "2026-02-14 23:35:47",
-      "hot": 531
+      "hot": 573
+    },
+    {
+      "title": "The Spy Who Found T. Rex",
+      "summary": "0 comments",
+      "url": "https://nautil.us/the-spy-who-found-t-rex-1267359/",
+      "createdAt": "2026-02-13 02:46:38",
+      "hot": 7
+    },
+    {
+      "title": "RynnBrain",
+      "summary": "5 comments",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+      "createdAt": "2026-02-11 08:08:01",
+      "hot": 56
+    },
+    {
+      "title": "Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State",
+      "summary": "380 comments",
+      "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+      "createdAt": "2026-02-15 20:42:17",
+      "hot": 541
+    },
+    {
+      "title": "The seam through the center of things",
+      "summary": "6 comments",
+      "url": "https://usefulfictions.substack.com/p/the-seam-through-the-center-of-things",
+      "createdAt": "2026-02-13 04:13:13",
+      "hot": 37
+    },
+    {
+      "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+      "summary": "6 comments",
+      "url": "https://knock-knock.net",
+      "createdAt": "2026-02-16 01:06:25",
+      "hot": 13
+    },
+    {
+      "title": "Build Gaussian Splat Experiences with SuperSplat Studio",
+      "summary": "5 comments",
+      "url": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/",
+      "createdAt": "2026-02-12 01:00:20",
+      "hot": 27
     },
     {
       "title": "A practical guide to observing the night sky for real skies and real equipment",
-      "summary": "9 comments",
+      "summary": "18 comments",
       "url": "https://stargazingbuddy.com/",
       "createdAt": "2026-02-13 00:35:10",
-      "hot": 80
+      "hot": 107
     },
     {
       "title": "Two different tricks for fast LLM inference",
-      "summary": "44 comments",
+      "summary": "64 comments",
       "url": "https://www.seangoedecke.com/fast-llm-inference/",
       "createdAt": "2026-02-15 17:27:33",
-      "hot": 98
-    },
-    {
-      "title": "AI is going to kill app subscriptions",
-      "summary": "71 comments",
-      "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
-      "createdAt": "2026-02-15 23:21:08",
-      "hot": 56
+      "hot": 142
     },
     {
       "title": "Constraint Propagation for Fun",
       "summary": "0 comments",
       "url": "https://eli.li/constraint-propagation-for-fun",
       "createdAt": "2026-02-10 22:43:16",
-      "hot": 28
-    },
-    {
-      "title": "Build Gaussian Splat Experiences with SuperSplat Studio",
-      "summary": "0 comments",
-      "url": "https://blog.playcanvas.com/build-gaussian-splat-experiences-with-supersplat-studio/",
-      "createdAt": "2026-02-12 01:00:20",
-      "hot": 6
-    },
-    {
-      "title": "Zvec: A lightweight, fast, in-process vector database",
-      "summary": "35 comments",
-      "url": "https://github.com/alibaba/zvec",
-      "createdAt": "2026-02-13 16:53:51",
-      "hot": 189
-    },
-    {
-      "title": "Interference Pattern Formed in a Finger Gap Is Not Single Slit Diffraction",
-      "summary": "10 comments",
-      "url": "https://note.com/hydraenids/n/nbe89030deaba",
-      "createdAt": "2026-02-13 11:28:47",
-      "hot": 72
-    },
-    {
-      "title": "Instagram's URL Blackhole",
-      "summary": "43 comments",
-      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-      "createdAt": "2026-02-14 00:42:04",
-      "hot": 263
-    },
-    {
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "summary": "306 comments",
-      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-      "createdAt": "2026-02-15 01:36:45",
-      "hot": 1026
-    },
-    {
-      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
-      "summary": "55 comments",
-      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
-      "createdAt": "2026-02-11 12:12:00",
-      "hot": 146
-    },
-    {
-      "title": "DjVu and its connection to Deep Learning (2023)",
-      "summary": "3 comments",
-      "url": "https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/",
-      "createdAt": "2026-02-15 17:05:35",
-      "hot": 30
-    },
-    {
-      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
-      "summary": "11 comments",
-      "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-      "createdAt": "2026-02-15 11:29:39",
-      "hot": 75
-    },
-    {
-      "title": "Amsterdam Compiler Kit",
-      "summary": "53 comments",
-      "url": "https://github.com/davidgiven/ack",
-      "createdAt": "2026-02-15 00:50:47",
-      "hot": 147
-    },
-    {
-      "title": "Show HN: Copy-and-patch compiler for hard real-time Python",
-      "summary": "2 comments",
-      "url": "https://github.com/Nonannet/copapy",
-      "createdAt": "2026-02-11 16:34:51",
-      "hot": 36
-    },
-    {
-      "title": "OpenAI should build Slack",
-      "summary": "260 comments",
-      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-      "createdAt": "2026-02-14 15:50:13",
-      "hot": 218
-    },
-    {
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "summary": "337 comments",
-      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "createdAt": "2026-02-15 02:46:32",
-      "hot": 533
-    },
-    {
-      "title": "Breaking the spell of vibe coding",
-      "summary": "268 comments",
-      "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-      "createdAt": "2026-02-14 03:22:18",
-      "hot": 350
-    },
-    {
-      "title": "A Visual Source for Shakespeare's 'Tempest'",
-      "summary": "2 comments",
-      "url": "https://profadamroberts.substack.com/p/a-visual-source-for-shakespeares",
-      "createdAt": "2026-02-12 01:31:43",
-      "hot": 23
-    },
-    {
-      "title": "How often do full-body MRIs find cancer?",
-      "summary": "208 comments",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
-      "createdAt": "2026-02-14 06:21:55",
-      "hot": 139
-    },
-    {
-      "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
-      "summary": "92 comments",
-      "url": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
-      "createdAt": "2026-02-15 14:00:42",
-      "hot": 158
+      "hot": 49
     }
   ]
 }
