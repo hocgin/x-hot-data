@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771244390860",
-  "lastUpdatedAt": "2026-02-16 20:19:50",
+  "id": "hackernews-top.1771258736794",
+  "lastUpdatedAt": "2026-02-17 00:18:56",
   "data": [
     {
-      "title": "MessageFormat: Unicode standard for localizable message strings",
-      "summary": "21 comments",
-      "url": "https://github.com/unicode-org/message-format-wg",
-      "createdAt": "2026-02-16 18:26:22",
-      "hot": 46
-    },
-    {
-      "title": "I’m joining OpenAI",
-      "summary": "817 comments",
-      "url": "https://steipete.me/posts/2026/openclaw",
-      "createdAt": "2026-02-16 05:54:15",
-      "hot": 1122
-    },
-    {
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "summary": "435 comments",
-      "url": "https://mastodon.world/@knowmadd/116072773118828295",
-      "createdAt": "2026-02-16 14:31:48",
-      "hot": 636
-    },
-    {
-      "title": "Vim-pencil: Rethinking Vim as a tool for writing",
-      "summary": "1 comments",
-      "url": "https://github.com/preservim/vim-pencil",
-      "createdAt": "2026-02-13 08:35:23",
-      "hot": 22
-    },
-    {
-      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "summary": "193 comments",
-      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "createdAt": "2026-02-16 06:17:10",
-      "hot": 307
-    },
-    {
-      "title": "picol: A Tcl interpreter in 500 lines of code",
-      "summary": "32 comments",
-      "url": "https://github.com/antirez/picol",
-      "createdAt": "2026-02-16 16:04:11",
-      "hot": 41
-    },
-    {
-      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "summary": "207 comments",
-      "url": "https://modern-css.com",
-      "createdAt": "2026-02-16 02:04:10",
-      "hot": 507
-    },
-    {
-      "title": "Building SQLite with a small swarm",
-      "summary": "51 comments",
-      "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
-      "createdAt": "2026-02-16 13:38:51",
-      "hot": 73
-    },
-    {
-      "title": "Qwen3.5: Towards Native Multimodal Agents",
-      "summary": "6 comments",
-      "url": "https://qwen.ai/blog?id=qwen3.5",
-      "createdAt": "2026-02-16 17:32:21",
-      "hot": 16
-    },
-    {
-      "title": "Arm wants a bigger slice of the chip business",
-      "summary": "59 comments",
-      "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
-      "createdAt": "2026-02-16 10:36:14",
-      "hot": 97
-    },
-    {
-      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-      "summary": "25 comments",
-      "url": "https://blog.exe.dev/expensively-quadratic",
-      "createdAt": "2026-02-13 15:44:50",
-      "hot": 51
-    },
-    {
-      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
-      "summary": "3 comments",
-      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
-      "createdAt": "2026-02-16 19:06:28",
-      "hot": 22
-    },
-    {
-      "title": "1,300-year-old world chronicle unearthed in Sinai",
-      "summary": "8 comments",
-      "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-      "createdAt": "2026-02-12 12:01:48",
-      "hot": 57
-    },
-    {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "summary": "176 comments",
-      "url": "https://github.com/TechPaula/LT6502",
-      "createdAt": "2026-02-16 01:12:35",
-      "hot": 363
-    },
-    {
-      "title": "Audio is the one area small labs are winning",
-      "summary": "58 comments",
-      "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
-      "createdAt": "2026-02-13 13:39:45",
+      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+      "summary": "149 comments",
+      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+      "createdAt": "2026-02-16 21:30:07",
       "hot": 222
     },
     {
-      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
-      "summary": "117 comments",
-      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
-      "createdAt": "2026-02-16 08:26:23",
-      "hot": 105
+      "title": "The Sideprocalypse",
+      "summary": "35 comments",
+      "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+      "createdAt": "2026-02-16 22:26:39",
+      "hot": 58
+    },
+    {
+      "title": "Running My Own XMPP Server",
+      "summary": "43 comments",
+      "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+      "createdAt": "2026-02-16 21:39:45",
+      "hot": 91
+    },
+    {
+      "title": "What Your Bluetooth Devices Reveal About You",
+      "summary": "13 comments",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "createdAt": "2026-02-16 22:39:32",
+      "hot": 47
+    },
+    {
+      "title": "Ghidra by NSA",
+      "summary": "59 comments",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "createdAt": "2026-02-14 12:24:18",
+      "hot": 107
+    },
+    {
+      "title": "Qwen3.5: Towards Native Multimodal Agents",
+      "summary": "89 comments",
+      "url": "https://qwen.ai/blog?id=qwen3.5",
+      "createdAt": "2026-02-16 17:32:21",
+      "hot": 210
+    },
+    {
+      "title": "I’m joining OpenAI",
+      "summary": "949 comments",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "createdAt": "2026-02-16 05:54:15",
+      "hot": 1266
+    },
+    {
+      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "summary": "652 comments",
+      "url": "https://mastodon.world/@knowmadd/116072773118828295",
+      "createdAt": "2026-02-16 14:31:48",
+      "hot": 1015
+    },
+    {
+      "title": "MessageFormat: Unicode standard for localizable message strings",
+      "summary": "46 comments",
+      "url": "https://github.com/unicode-org/message-format-wg",
+      "createdAt": "2026-02-16 18:26:22",
+      "hot": 120
+    },
+    {
+      "title": "Rolling your own serverless OCR in 40 lines of code",
+      "summary": "29 comments",
+      "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+      "createdAt": "2026-02-12 21:23:22",
+      "hot": 62
+    },
+    {
+      "title": "iOS 27 'Rave' Update to Clean Up Code, Could Boost Battery Life",
+      "summary": "45 comments",
+      "url": "https://www.macrumors.com/2026/02/16/apple-plans-snow-leopard-cleanup-ios-27/",
+      "createdAt": "2026-02-16 22:50:48",
+      "hot": 64
+    },
+    {
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "summary": "122 comments",
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "createdAt": "2026-02-16 19:06:28",
+      "hot": 184
+    },
+    {
+      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+      "summary": "242 comments",
+      "url": "https://modern-css.com",
+      "createdAt": "2026-02-16 02:04:10",
+      "hot": 596
+    },
+    {
+      "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+      "summary": "2 comments",
+      "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+      "createdAt": "2026-02-16 22:48:25",
+      "hot": 35
+    },
+    {
+      "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+      "summary": "32 comments",
+      "url": "https://github.com/preservim/vim-pencil",
+      "createdAt": "2026-02-13 08:35:23",
+      "hot": 87
+    },
+    {
+      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+      "summary": "51 comments",
+      "url": "https://blog.exe.dev/expensively-quadratic",
+      "createdAt": "2026-02-13 15:44:50",
+      "hot": 98
+    },
+    {
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "summary": "229 comments",
+      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "createdAt": "2026-02-16 06:17:10",
+      "hot": 333
+    },
+    {
+      "title": "picol: A Tcl interpreter in 500 lines of code",
+      "summary": "44 comments",
+      "url": "https://github.com/antirez/picol",
+      "createdAt": "2026-02-16 16:04:11",
+      "hot": 89
+    },
+    {
+      "title": "1,300-year-old world chronicle unearthed in Sinai",
+      "summary": "11 comments",
+      "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+      "createdAt": "2026-02-12 12:01:48",
+      "hot": 102
+    },
+    {
+      "title": "LT6502: A 6502-based homebrew laptop",
+      "summary": "191 comments",
+      "url": "https://github.com/TechPaula/LT6502",
+      "createdAt": "2026-02-16 01:12:35",
+      "hot": 390
+    },
+    {
+      "title": "Audio is the one area small labs are winning",
+      "summary": "77 comments",
+      "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+      "createdAt": "2026-02-13 13:39:45",
+      "hot": 269
+    },
+    {
+      "title": "Arm wants a bigger slice of the chip business",
+      "summary": "81 comments",
+      "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "createdAt": "2026-02-16 10:36:14",
+      "hot": 128
+    },
+    {
+      "title": "Thanks a lot, AI: Hard drives are sold out for the year, says WD",
+      "summary": "177 comments",
+      "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+      "createdAt": "2026-02-16 20:28:31",
+      "hot": 223
+    },
+    {
+      "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+      "summary": "0 comments",
+      "url": "https://github.com/nineties/planckforth",
+      "createdAt": "2026-02-16 19:44:07",
+      "hot": 10
     },
     {
       "title": "I gave Claude access to my pen plotter",
-      "summary": "134 comments",
+      "summary": "165 comments",
       "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
       "createdAt": "2026-02-14 00:15:58",
-      "hot": 208
+      "hot": 253
+    },
+    {
+      "title": "Hard problems in social media archiving",
+      "summary": "4 comments",
+      "url": "https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/",
+      "createdAt": "2026-02-12 23:19:13",
+      "hot": 34
+    },
+    {
+      "title": "Intermittent fasting may make little difference to weight loss, review finds",
+      "summary": "8 comments",
+      "url": "https://www.bbc.co.uk/news/articles/c4ge7n3pq62o",
+      "createdAt": "2026-02-16 23:19:01",
+      "hot": 9
     },
     {
       "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
       "summary": "23 comments",
       "url": "https://microgpt.boratto.ca",
       "createdAt": "2026-02-16 02:40:35",
-      "hot": 206
+      "hot": 250
     },
     {
-      "title": "Rolling your own serverless OCR in 40 lines of code",
-      "summary": "0 comments",
-      "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
-      "createdAt": "2026-02-12 21:23:22",
-      "hot": 3
+      "title": "How DSQL makes sure sequences scale",
+      "summary": "1 comments",
+      "url": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
+      "createdAt": "2026-02-14 06:10:45",
+      "hot": 6
     },
     {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "summary": "699 comments",
-      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "createdAt": "2026-02-16 01:10:18",
-      "hot": 1044
-    },
-    {
-      "title": "Designing a 36-key custom keyboard layout (2021)",
-      "summary": "8 comments",
-      "url": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
-      "createdAt": "2026-02-13 22:44:44",
-      "hot": 20
-    },
-    {
-      "title": "Hard problems in social media archiving",
-      "summary": "2 comments",
-      "url": "https://alexwlchan.net/2025/hard-problems-in-social-media-archiving/",
-      "createdAt": "2026-02-12 23:19:13",
-      "hot": 10
-    },
-    {
-      "title": "Real-time PathTracing with global illumination in WebGL",
-      "summary": "15 comments",
-      "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
-      "createdAt": "2026-02-13 02:35:39",
-      "hot": 169
-    },
-    {
-      "title": "Gwtar: A static efficient single-file HTML format",
-      "summary": "77 comments",
-      "url": "https://gwern.net/gwtar",
-      "createdAt": "2026-02-15 23:37:06",
-      "hot": 244
-    },
-    {
-      "title": "Pocketblue – Fedora Atomic for mobile devices",
-      "summary": "32 comments",
-      "url": "https://github.com/pocketblue/pocketblue",
-      "createdAt": "2026-02-16 00:40:13",
-      "hot": 114
-    },
-    {
-      "title": "Error payloads in Zig",
-      "summary": "28 comments",
-      "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
-      "createdAt": "2026-02-16 07:08:43",
-      "hot": 77
-    },
-    {
-      "title": "Lost Soviet Moon Lander May Have Been Found",
-      "summary": "44 comments",
-      "url": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
-      "createdAt": "2026-02-11 23:03:08",
-      "hot": 64
-    },
-    {
-      "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
-      "summary": "69 comments",
-      "url": "https://knock-knock.net",
-      "createdAt": "2026-02-16 01:06:25",
-      "hot": 162
-    },
-    {
-      "title": "GNU Pies – Program Invocation and Execution Supervisor",
-      "summary": "57 comments",
-      "url": "https://www.gnu.org.ua/software/pies/",
-      "createdAt": "2026-02-16 04:53:26",
-      "hot": 91
-    },
-    {
-      "title": "Databases should contain their own Metadata – Use SQL Everywhere",
-      "summary": "23 comments",
-      "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-      "createdAt": "2026-02-11 23:36:10",
-      "hot": 31
+      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "summary": "158 comments",
+      "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "createdAt": "2026-02-16 08:26:23",
+      "hot": 141
     }
   ]
 }
