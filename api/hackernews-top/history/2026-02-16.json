@@ -433,6 +433,222 @@
           "hot": 49
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771202225497",
+      "lastUpdatedAt": "2026-02-16 08:37:05",
+      "data": [
+        {
+          "title": "I’m joining OpenAI",
+          "summary": "301 comments",
+          "url": "https://steipete.me/posts/2026/openclaw",
+          "createdAt": "2026-02-16 05:54:15",
+          "hot": 408
+        },
+        {
+          "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+          "summary": "20 comments",
+          "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+          "createdAt": "2026-02-16 06:17:10",
+          "hot": 88
+        },
+        {
+          "title": "LT6502: A 6502-based homebrew laptop",
+          "summary": "121 comments",
+          "url": "https://github.com/TechPaula/LT6502",
+          "createdAt": "2026-02-16 01:12:35",
+          "hot": 288
+        },
+        {
+          "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+          "summary": "49 comments",
+          "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+          "createdAt": "2026-02-16 02:05:24",
+          "hot": 71
+        },
+        {
+          "title": "Audio is the one area small labs are winning",
+          "summary": "9 comments",
+          "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+          "createdAt": "2026-02-13 13:39:45",
+          "hot": 67
+        },
+        {
+          "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+          "summary": "67 comments",
+          "url": "https://modern-css.com",
+          "createdAt": "2026-02-16 02:04:10",
+          "hot": 177
+        },
+        {
+          "title": "I fixed Windows native development",
+          "summary": "315 comments",
+          "url": "https://marler8997.github.io/blog/fixed-windows/",
+          "createdAt": "2026-02-15 19:25:26",
+          "hot": 645
+        },
+        {
+          "title": "Error payloads in Zig",
+          "summary": "0 comments",
+          "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+          "createdAt": "2026-02-16 07:08:43",
+          "hot": 12
+        },
+        {
+          "title": "I Gave Claude Access to My Pen Plotter",
+          "summary": "27 comments",
+          "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+          "createdAt": "2026-02-14 00:15:58",
+          "hot": 58
+        },
+        {
+          "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+          "summary": "484 comments",
+          "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+          "createdAt": "2026-02-16 01:10:18",
+          "hot": 741
+        },
+        {
+          "title": "GNU Pies – Program Invocation and Execution Supervisor",
+          "summary": "39 comments",
+          "url": "https://www.gnu.org.ua/software/pies/",
+          "createdAt": "2026-02-16 04:53:26",
+          "hot": 52
+        },
+        {
+          "title": "Show HN: Klaw.sh – Kubernetes for AI agents",
+          "summary": "10 comments",
+          "url": "https://github.com/klawsh/klaw.sh",
+          "createdAt": "2026-02-16 01:22:59",
+          "hot": 21
+        },
+        {
+          "title": "Pocketblue – Fedora Atomic for mobile devices",
+          "summary": "8 comments",
+          "url": "https://github.com/pocketblue/pocketblue",
+          "createdAt": "2026-02-16 00:40:13",
+          "hot": 43
+        },
+        {
+          "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
+          "summary": "10 comments",
+          "url": "https://github.com/gpasquero/voog",
+          "createdAt": "2026-02-16 03:40:57",
+          "hot": 58
+        },
+        {
+          "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+          "summary": "8 comments",
+          "url": "https://microgpt.boratto.ca",
+          "createdAt": "2026-02-16 02:40:35",
+          "hot": 79
+        },
+        {
+          "title": "Towards Autonomous Mathematics Research",
+          "summary": "35 comments",
+          "url": "https://arxiv.org/abs/2602.10177",
+          "createdAt": "2026-02-16 02:35:40",
+          "hot": 75
+        },
+        {
+          "title": "Real-time PathTracing with global illumination in WebGL",
+          "summary": "10 comments",
+          "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+          "createdAt": "2026-02-13 02:35:39",
+          "hot": 114
+        },
+        {
+          "title": "Continuous batching from first principles (2025)",
+          "summary": "2 comments",
+          "url": "https://huggingface.co/blog/continuous_batching",
+          "createdAt": "2026-02-16 06:47:26",
+          "hot": 14
+        },
+        {
+          "title": "Gwtar: A static efficient single-file HTML format",
+          "summary": "62 comments",
+          "url": "https://gwern.net/gwtar",
+          "createdAt": "2026-02-15 23:37:06",
+          "hot": 164
+        },
+        {
+          "title": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
+          "summary": "15 comments",
+          "url": "https://github.com/fosrl/pangolin",
+          "createdAt": "2026-02-15 18:50:18",
+          "hot": 27
+        },
+        {
+          "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+          "summary": "28 comments",
+          "url": "https://knock-knock.net",
+          "createdAt": "2026-02-16 01:06:25",
+          "hot": 86
+        },
+        {
+          "title": "Two different tricks for fast LLM inference",
+          "summary": "63 comments",
+          "url": "https://www.seangoedecke.com/fast-llm-inference/",
+          "createdAt": "2026-02-15 17:27:33",
+          "hot": 161
+        },
+        {
+          "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
+          "summary": "122 comments",
+          "url": "https://oat.ink/",
+          "createdAt": "2026-02-15 16:17:05",
+          "hot": 456
+        },
+        {
+          "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+          "summary": "473 comments",
+          "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+          "createdAt": "2026-02-15 20:42:17",
+          "hot": 659
+        },
+        {
+          "title": "Editor's Note: Retraction of article containing fabricated quotations",
+          "summary": "108 comments",
+          "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+          "createdAt": "2026-02-16 02:29:54",
+          "hot": 124
+        },
+        {
+          "title": "Hideki Sato, designer of all Sega's consoles, has died",
+          "summary": "31 comments",
+          "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
+          "createdAt": "2026-02-16 00:19:51",
+          "hot": 316
+        },
+        {
+          "title": "I'm Always in the Club",
+          "summary": "1 comments",
+          "url": "https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club",
+          "createdAt": "2026-02-11 09:32:59",
+          "hot": 7
+        },
+        {
+          "title": "Show HN: DSCI – Dead Simple CI",
+          "summary": "5 comments",
+          "url": "https://github.com/melezhik/DSCI",
+          "createdAt": "2026-02-16 00:55:24",
+          "hot": 15
+        },
+        {
+          "title": "How Is Data Stored?",
+          "summary": "16 comments",
+          "url": "https://www.makingsoftware.com/chapters/how-is-data-stored",
+          "createdAt": "2026-02-10 22:56:09",
+          "hot": 145
+        },
+        {
+          "title": "Show HN: Deadlog – almost drop-in mutex for debugging Go deadlocks",
+          "summary": "1 comments",
+          "url": "https://github.com/stevenctl/deadlog",
+          "createdAt": "2026-02-11 01:44:13",
+          "hot": 25
+        }
+      ]
     }
   ]
 }
