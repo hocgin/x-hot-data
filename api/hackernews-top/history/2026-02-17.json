@@ -217,6 +217,222 @@
           "hot": 141
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771272655098",
+      "lastUpdatedAt": "2026-02-17 04:10:55",
+      "data": [
+        {
+          "title": "Use Protocols, Not Services",
+          "summary": "38 comments",
+          "url": "https://notnotp.com/notes/use-protocols-not-services/",
+          "createdAt": "2026-02-17 02:44:58",
+          "hot": 149
+        },
+        {
+          "title": "Wero – Digital payment wallet, Made in Europe",
+          "summary": "28 comments",
+          "url": "https://wero-wallet.eu",
+          "createdAt": "2026-02-17 03:09:58",
+          "hot": 55
+        },
+        {
+          "title": "Show HN: Jemini – Gemini for the Epstein Files",
+          "summary": "7 comments",
+          "url": "https://jmail.world/jemini",
+          "createdAt": "2026-02-16 13:53:03",
+          "hot": 56
+        },
+        {
+          "title": "\"token anxiety\"; or, a slot machine by any other name",
+          "summary": "8 comments",
+          "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+          "createdAt": "2026-02-17 02:23:36",
+          "hot": 29
+        },
+        {
+          "title": "WebMCP Proposal",
+          "summary": "42 comments",
+          "url": "https://webmachinelearning.github.io/webmcp/",
+          "createdAt": "2026-02-17 01:08:20",
+          "hot": 82
+        },
+        {
+          "title": "What Your Bluetooth Devices Reveal About You",
+          "summary": "63 comments",
+          "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+          "createdAt": "2026-02-16 22:39:32",
+          "hot": 175
+        },
+        {
+          "title": "Ghidra by NSA",
+          "summary": "119 comments",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "createdAt": "2026-02-14 12:24:18",
+          "hot": 232
+        },
+        {
+          "title": "How to take a photo with scotch tape (lensless imaging) [video]",
+          "summary": "1 comments",
+          "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+          "createdAt": "2026-02-17 00:55:02",
+          "hot": 56
+        },
+        {
+          "title": "Qwen3.5: Towards Native Multimodal Agents",
+          "summary": "142 comments",
+          "url": "https://qwen.ai/blog?id=qwen3.5",
+          "createdAt": "2026-02-16 17:32:21",
+          "hot": 312
+        },
+        {
+          "title": "How Not to Answer the Salary Question",
+          "summary": "3 comments",
+          "url": "https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/",
+          "createdAt": "2026-02-17 02:54:27",
+          "hot": 9
+        },
+        {
+          "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
+          "summary": "286 comments",
+          "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
+          "createdAt": "2026-02-16 21:30:07",
+          "hot": 438
+        },
+        {
+          "title": "Running My Own XMPP Server",
+          "summary": "104 comments",
+          "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+          "createdAt": "2026-02-16 21:39:45",
+          "hot": 176
+        },
+        {
+          "title": "Show HN: Simple org-mode web adapter",
+          "summary": "2 comments",
+          "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
+          "createdAt": "2026-02-17 00:19:16",
+          "hot": 39
+        },
+        {
+          "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+          "summary": "1 comments",
+          "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+          "createdAt": "2026-02-17 02:41:50",
+          "hot": 8
+        },
+        {
+          "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+          "summary": "783 comments",
+          "url": "https://mastodon.world/@knowmadd/116072773118828295",
+          "createdAt": "2026-02-16 14:31:48",
+          "hot": 1276
+        },
+        {
+          "title": "Looks: A Halide Mark III Preview",
+          "summary": "5 comments",
+          "url": "https://www.lux.camera/mark-iii-looks/",
+          "createdAt": "2026-02-14 08:46:02",
+          "hot": 48
+        },
+        {
+          "title": "Robert Duvall Dead at 95",
+          "summary": "38 comments",
+          "url": "https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295",
+          "createdAt": "2026-02-17 02:52:50",
+          "hot": 56
+        },
+        {
+          "title": "PCB Rework and Repair Guide [pdf]",
+          "summary": "2 comments",
+          "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+          "createdAt": "2026-02-14 21:42:04",
+          "hot": 15
+        },
+        {
+          "title": "History of AT&T Long Lines",
+          "summary": "13 comments",
+          "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
+          "createdAt": "2026-02-17 00:22:24",
+          "hot": 31
+        },
+        {
+          "title": "The Sideprocalypse",
+          "summary": "107 comments",
+          "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+          "createdAt": "2026-02-16 22:26:39",
+          "hot": 132
+        },
+        {
+          "title": "Rolling your own serverless OCR in 40 lines of code",
+          "summary": "47 comments",
+          "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+          "createdAt": "2026-02-12 21:23:22",
+          "hot": 98
+        },
+        {
+          "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
+          "summary": "57 comments",
+          "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
+          "createdAt": "2026-02-16 22:48:25",
+          "hot": 247
+        },
+        {
+          "title": "Show HN: Maths, CS and AI Compendium",
+          "summary": "9 comments",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "createdAt": "2026-02-16 23:15:50",
+          "hot": 33
+        },
+        {
+          "title": "Show HN: Nerve: Stitches all your data sources into one mega-API",
+          "summary": "0 comments",
+          "url": "https://playground.get-nerve.com/",
+          "createdAt": "2026-02-15 07:07:41",
+          "hot": 7
+        },
+        {
+          "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
+          "summary": "9 comments",
+          "url": "https://github.com/nineties/planckforth",
+          "createdAt": "2026-02-16 19:44:07",
+          "hot": 49
+        },
+        {
+          "title": "MessageFormat: Unicode standard for localizable message strings",
+          "summary": "58 comments",
+          "url": "https://github.com/unicode-org/message-format-wg",
+          "createdAt": "2026-02-16 18:26:22",
+          "hot": 141
+        },
+        {
+          "title": "Show HN: 2D Coulomb Gas Simulator",
+          "summary": "0 comments",
+          "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
+          "createdAt": "2026-02-17 03:17:46",
+          "hot": 6
+        },
+        {
+          "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+          "summary": "45 comments",
+          "url": "https://github.com/preservim/vim-pencil",
+          "createdAt": "2026-02-13 08:35:23",
+          "hot": 128
+        },
+        {
+          "title": "STM32G431 Analogue TV Transmitter",
+          "summary": "0 comments",
+          "url": "https://slyka.net/blog/2026/tinyvision/",
+          "createdAt": "2026-02-17 00:19:08",
+          "hot": 19
+        },
+        {
+          "title": "Castlevania and Bloodstained developer Shutaro Ida dies aged 52",
+          "summary": "5 comments",
+          "url": "https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/",
+          "createdAt": "2026-02-17 02:01:38",
+          "hot": 33
+        }
+      ]
     }
   ]
 }
