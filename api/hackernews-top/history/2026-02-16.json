@@ -649,6 +649,222 @@
           "hot": 25
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771217201407",
+      "lastUpdatedAt": "2026-02-16 12:46:41",
+      "data": [
+        {
+          "title": "I’m joining OpenAI",
+          "summary": "502 comments",
+          "url": "https://steipete.me/posts/2026/openclaw",
+          "createdAt": "2026-02-16 05:54:15",
+          "hot": 716
+        },
+        {
+          "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+          "summary": "104 comments",
+          "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+          "createdAt": "2026-02-16 06:17:10",
+          "hot": 175
+        },
+        {
+          "title": "Arm wants a bigger slice of the chip business",
+          "summary": "16 comments",
+          "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+          "createdAt": "2026-02-16 10:36:14",
+          "hot": 29
+        },
+        {
+          "title": "LT6502: A 6502-based homebrew laptop",
+          "summary": "143 comments",
+          "url": "https://github.com/TechPaula/LT6502",
+          "createdAt": "2026-02-16 01:12:35",
+          "hot": 328
+        },
+        {
+          "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+          "summary": "123 comments",
+          "url": "https://modern-css.com",
+          "createdAt": "2026-02-16 02:04:10",
+          "hot": 294
+        },
+        {
+          "title": "Audio is the one area small labs are winning",
+          "summary": "21 comments",
+          "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+          "createdAt": "2026-02-13 13:39:45",
+          "hot": 139
+        },
+        {
+          "title": "I gave Claude access to my pen plotter",
+          "summary": "60 comments",
+          "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+          "createdAt": "2026-02-14 00:15:58",
+          "hot": 131
+        },
+        {
+          "title": "Error payloads in Zig",
+          "summary": "11 comments",
+          "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+          "createdAt": "2026-02-16 07:08:43",
+          "hot": 60
+        },
+        {
+          "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+          "summary": "26 comments",
+          "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+          "createdAt": "2026-02-16 08:26:23",
+          "hot": 30
+        },
+        {
+          "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
+          "summary": "8 comments",
+          "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+          "createdAt": "2026-02-12 01:13:17",
+          "hot": 19
+        },
+        {
+          "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
+          "summary": "70 comments",
+          "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+          "createdAt": "2026-02-16 02:05:24",
+          "hot": 122
+        },
+        {
+          "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+          "summary": "9 comments",
+          "url": "https://microgpt.boratto.ca",
+          "createdAt": "2026-02-16 02:40:35",
+          "hot": 141
+        },
+        {
+          "title": "Transforming a Clojure Database into a Library with GraalVM Native Image and FFI",
+          "summary": "0 comments",
+          "url": "https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/",
+          "createdAt": "2026-02-12 05:03:58",
+          "hot": 27
+        },
+        {
+          "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+          "summary": "575 comments",
+          "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+          "createdAt": "2026-02-16 01:10:18",
+          "hot": 822
+        },
+        {
+          "title": "Pocketblue – Fedora Atomic for mobile devices",
+          "summary": "14 comments",
+          "url": "https://github.com/pocketblue/pocketblue",
+          "createdAt": "2026-02-16 00:40:13",
+          "hot": 72
+        },
+        {
+          "title": "Real-time PathTracing with global illumination in WebGL",
+          "summary": "13 comments",
+          "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
+          "createdAt": "2026-02-13 02:35:39",
+          "hot": 136
+        },
+        {
+          "title": "Language a Wood for Thought: Susan Howe's Work",
+          "summary": "1 comments",
+          "url": "https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought",
+          "createdAt": "2026-02-12 07:07:10",
+          "hot": 21
+        },
+        {
+          "title": "GNU Pies – Program Invocation and Execution Supervisor",
+          "summary": "49 comments",
+          "url": "https://www.gnu.org.ua/software/pies/",
+          "createdAt": "2026-02-16 04:53:26",
+          "hot": 70
+        },
+        {
+          "title": "Gwtar: A static efficient single-file HTML format",
+          "summary": "66 comments",
+          "url": "https://gwern.net/gwtar",
+          "createdAt": "2026-02-15 23:37:06",
+          "hot": 196
+        },
+        {
+          "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
+          "summary": "19 comments",
+          "url": "https://github.com/gpasquero/voog",
+          "createdAt": "2026-02-16 03:40:57",
+          "hot": 73
+        },
+        {
+          "title": "How long do job postings stay open?",
+          "summary": "0 comments",
+          "url": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
+          "createdAt": "2026-02-15 06:35:07",
+          "hot": 6
+        },
+        {
+          "title": "Pink noise reduces REM sleep and may harm sleep quality",
+          "summary": "48 comments",
+          "url": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+          "createdAt": "2026-02-16 08:35:12",
+          "hot": 76
+        },
+        {
+          "title": "Benchmarking Automatic Typesetting Systems",
+          "summary": "1 comments",
+          "url": "https://news.speedata.de/2026/02/10/typesetting-benchmark/",
+          "createdAt": "2026-02-11 14:20:08",
+          "hot": 3
+        },
+        {
+          "title": "Why I don't think AGI is imminent",
+          "summary": "86 comments",
+          "url": "https://dlants.me/agi-not-imminent.html",
+          "createdAt": "2026-02-16 07:34:18",
+          "hot": 39
+        },
+        {
+          "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+          "summary": "46 comments",
+          "url": "https://knock-knock.net",
+          "createdAt": "2026-02-16 01:06:25",
+          "hot": 111
+        },
+        {
+          "title": "DHS pushes social media giants to dox anonymous accounts critical of ICE",
+          "summary": "4 comments",
+          "url": "https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out",
+          "createdAt": "2026-02-16 11:20:23",
+          "hot": 24
+        },
+        {
+          "title": "Towards Autonomous Mathematics Research",
+          "summary": "47 comments",
+          "url": "https://arxiv.org/abs/2602.10177",
+          "createdAt": "2026-02-16 02:35:40",
+          "hot": 88
+        },
+        {
+          "title": "DHS has reportedly sent out subpoenas to identify ICE critics online",
+          "summary": "1 comments",
+          "url": "https://www.engadget.com/big-tech/homeland-security-has-reportedly-sent-out-hundreds-of-subpoenas-to-identify-ice-critics-online-135245457.html",
+          "createdAt": "2026-02-16 12:16:05",
+          "hot": 12
+        },
+        {
+          "title": "Editor's Note: Retraction of article containing fabricated quotations",
+          "summary": "148 comments",
+          "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+          "createdAt": "2026-02-16 02:29:54",
+          "hot": 187
+        },
+        {
+          "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+          "summary": "547 comments",
+          "url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+          "createdAt": "2026-02-15 20:42:17",
+          "hot": 742
+        }
+      ]
     }
   ]
 }
