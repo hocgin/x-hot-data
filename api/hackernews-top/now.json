@@ -1,132 +1,188 @@
 {
-  "id": "hackernews-top.1771303303755",
-  "lastUpdatedAt": "2026-02-17 12:41:43",
+  "id": "hackernews-top.1771316392766",
+  "lastUpdatedAt": "2026-02-17 16:19:52",
   "data": [
     {
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "summary": "124 comments",
-      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-      "createdAt": "2026-02-17 09:01:00",
-      "hot": 252
-    },
-    {
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "summary": "92 comments",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
-      "createdAt": "2026-02-17 02:41:50",
-      "hot": 476
-    },
-    {
-      "title": "Study: Self-generated Agent Skills are useless",
-      "summary": "128 comments",
-      "url": "https://arxiv.org/abs/2602.12670",
-      "createdAt": "2026-02-17 05:15:56",
-      "hot": 299
-    },
-    {
-      "title": "Why Affordability and the Vibecession Are Real Economic Problems",
-      "summary": "33 comments",
-      "url": "https://newsletter.mikekonczal.com/p/why-affordability-and-the-vibecession",
-      "createdAt": "2026-02-17 10:49:04",
-      "hot": 36
-    },
-    {
-      "title": "Rise of the Triforce",
-      "summary": "13 comments",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
-      "createdAt": "2026-02-17 05:24:04",
-      "hot": 143
-    },
-    {
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "summary": "192 comments",
-      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-      "createdAt": "2026-02-17 08:26:20",
-      "hot": 252
-    },
-    {
-      "title": "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
-      "summary": "2 comments",
-      "url": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
-      "createdAt": "2026-02-13 22:21:41",
-      "hot": 28
-    },
-    {
-      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-      "summary": "63 comments",
-      "url": "https://github.com/zachlatta/freeflow",
-      "createdAt": "2026-02-17 05:10:44",
-      "hot": 128
-    },
-    {
-      "title": "What your Bluetooth devices reveal",
-      "summary": "136 comments",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "createdAt": "2026-02-16 22:39:32",
-      "hot": 340
-    },
-    {
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "summary": "9 comments",
-      "url": "https://forestrydiary.com/",
-      "createdAt": "2026-02-17 07:40:33",
-      "hot": 66
-    },
-    {
-      "title": "Visual Introduction to PyTorch",
-      "summary": "13 comments",
-      "url": "https://0byte.io/articles/pytorch_introduction.html",
-      "createdAt": "2026-02-13 20:59:33",
-      "hot": 157
-    },
-    {
-      "title": "Testing Postgres race conditions with synchronization barriers",
-      "summary": "37 comments",
-      "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-      "createdAt": "2026-02-17 04:23:36",
+      "title": "Four Column ASCII (2017)",
+      "summary": "17 comments",
+      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "createdAt": "2026-02-15 17:15:16",
       "hot": 74
     },
     {
-      "title": "PCB Rework and Repair Guide [pdf]",
-      "summary": "32 comments",
-      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-      "createdAt": "2026-02-14 21:42:04",
-      "hot": 112
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "summary": "121 comments",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "createdAt": "2026-02-17 02:41:50",
+      "hot": 627
+    },
+    {
+      "title": "Rise of the Triforce",
+      "summary": "28 comments",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "createdAt": "2026-02-17 05:24:04",
+      "hot": 237
+    },
+    {
+      "title": "A deep dive into Apple's .car file format",
+      "summary": "0 comments",
+      "url": "https://dbg.re/posts/car-file-format/",
+      "createdAt": "2026-02-14 20:18:04",
+      "hot": 64
+    },
+    {
+      "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+      "summary": "48 comments",
+      "url": "https://arxiv.org/abs/2602.11988",
+      "createdAt": "2026-02-16 20:15:39",
+      "hot": 80
+    },
+    {
+      "title": "What your Bluetooth devices reveal",
+      "summary": "150 comments",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "createdAt": "2026-02-16 22:39:32",
+      "hot": 400
+    },
+    {
+      "title": "Poor Deming never stood a chance",
+      "summary": "5 comments",
+      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+      "createdAt": "2026-02-17 10:13:37",
+      "hot": 52
+    },
+    {
+      "title": "Visual introduction to PyTorch",
+      "summary": "16 comments",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "createdAt": "2026-02-13 20:59:33",
+      "hot": 225
+    },
+    {
+      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "summary": "81 comments",
+      "url": "https://github.com/zachlatta/freeflow",
+      "createdAt": "2026-02-17 05:10:44",
+      "hot": 173
+    },
+    {
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "summary": "194 comments",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "createdAt": "2026-02-17 09:01:00",
+      "hot": 370
+    },
+    {
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "summary": "16 comments",
+      "url": "https://forestrydiary.com/",
+      "createdAt": "2026-02-17 07:40:33",
+      "hot": 88
     },
     {
       "title": "Building for an audience of one: starting and finishing side projects with AI",
-      "summary": "8 comments",
+      "summary": "25 comments",
       "url": "https://codemade.net/blog/building-for-one/",
       "createdAt": "2026-02-17 08:00:03",
-      "hot": 24
+      "hot": 55
     },
     {
-      "title": "State of Show HN: 2025",
-      "summary": "15 comments",
-      "url": "https://blog.sturdystatistics.com/posts/show_hn/",
-      "createdAt": "2026-02-17 03:55:23",
-      "hot": 75
+      "title": "DBASE on the Kaypro II",
+      "summary": "14 comments",
+      "url": "https://stonetools.ghost.io/dbase-cpm/",
+      "createdAt": "2026-02-14 15:35:41",
+      "hot": 41
+    },
+    {
+      "title": "Ghidra by NSA",
+      "summary": "190 comments",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "createdAt": "2026-02-14 12:24:18",
+      "hot": 356
+    },
+    {
+      "title": "Thinking hard burns almost no calories but destroys your next workout",
+      "summary": "33 comments",
+      "url": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+      "createdAt": "2026-02-17 09:55:50",
+      "hot": 89
+    },
+    {
+      "title": "SvarDOS – an open-source DOS distribution",
+      "summary": "3 comments",
+      "url": "http://svardos.org/",
+      "createdAt": "2026-02-17 14:18:34",
+      "hot": 30
     },
     {
       "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
-      "summary": "13 comments",
+      "summary": "19 comments",
       "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
       "createdAt": "2026-02-13 17:17:54",
-      "hot": 25
+      "hot": 43
+    },
+    {
+      "title": "State of Show HN: 2025",
+      "summary": "16 comments",
+      "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+      "createdAt": "2026-02-17 03:55:23",
+      "hot": 92
     },
     {
       "title": "Running NanoClaw in a Docker Shell Sandbox",
-      "summary": "28 comments",
+      "summary": "47 comments",
       "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
       "createdAt": "2026-02-17 06:53:02",
-      "hot": 72
+      "hot": 101
+    },
+    {
+      "title": "\"Token anxiety\", a slot machine by any other name",
+      "summary": "85 comments",
+      "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+      "createdAt": "2026-02-17 02:23:36",
+      "hot": 105
+    },
+    {
+      "title": "Rendering the Visible Spectrum",
+      "summary": "3 comments",
+      "url": "https://brandonli.net/spectra/doc/",
+      "createdAt": "2026-02-14 16:56:46",
+      "hot": 15
+    },
+    {
+      "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+      "summary": "49 comments",
+      "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+      "createdAt": "2026-02-17 05:12:07",
+      "hot": 76
     },
     {
       "title": "Neurons outside the brain",
-      "summary": "27 comments",
+      "summary": "36 comments",
       "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
       "createdAt": "2026-02-17 02:54:37",
-      "hot": 70
+      "hot": 86
+    },
+    {
+      "title": "Show HN: Jemini – Gemini for the Epstein Files",
+      "summary": "66 comments",
+      "url": "https://jmail.world/jemini",
+      "createdAt": "2026-02-16 13:53:03",
+      "hot": 343
+    },
+    {
+      "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
+      "summary": "139 comments",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "createdAt": "2026-02-17 05:15:56",
+      "hot": 329
+    },
+    {
+      "title": "PCB Rework and Repair Guide [pdf]",
+      "summary": "36 comments",
+      "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+      "createdAt": "2026-02-14 21:42:04",
+      "hot": 128
     },
     {
       "title": "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
@@ -136,81 +192,25 @@
       "hot": 1
     },
     {
-      "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "summary": "57 comments",
-      "url": "https://jmail.world/jemini",
-      "createdAt": "2026-02-16 13:53:03",
-      "hot": 296
-    },
-    {
-      "title": "The long tail of LLM-assisted decompilation",
-      "summary": "15 comments",
-      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
-      "createdAt": "2026-02-17 02:19:16",
-      "hot": 59
-    },
-    {
-      "title": "DBASE on the Kaypro II",
-      "summary": "4 comments",
-      "url": "https://stonetools.ghost.io/dbase-cpm/",
-      "createdAt": "2026-02-14 15:35:41",
-      "hot": 17
+      "title": "Testing Postgres race conditions with synchronization barriers",
+      "summary": "46 comments",
+      "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+      "createdAt": "2026-02-17 04:23:36",
+      "hot": 83
     },
     {
       "title": "LCM: Lossless Context Management [pdf]",
-      "summary": "16 comments",
+      "summary": "20 comments",
       "url": "http://papers.voltropy.com/LCM",
       "createdAt": "2026-02-17 02:31:19",
-      "hot": 42
+      "hot": 61
     },
     {
-      "title": "Suicide Linux (2009)",
-      "summary": "55 comments",
-      "url": "https://qntm.org/suicide",
-      "createdAt": "2026-02-17 04:34:27",
-      "hot": 90
-    },
-    {
-      "title": "A Deep Dive into Apple's .car File Format",
-      "summary": "0 comments",
-      "url": "https://dbg.re/posts/car-file-format/",
-      "createdAt": "2026-02-14 20:18:04",
-      "hot": 13
-    },
-    {
-      "title": "Ghidra by NSA",
-      "summary": "185 comments",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "createdAt": "2026-02-14 12:24:18",
-      "hot": 329
-    },
-    {
-      "title": "Privilege is bad grammar",
-      "summary": "241 comments",
-      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
-      "createdAt": "2026-02-17 02:05:32",
-      "hot": 253
-    },
-    {
-      "title": "Building a model that visualizes strategic golf",
-      "summary": "9 comments",
-      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-      "createdAt": "2026-02-17 01:15:27",
-      "hot": 26
-    },
-    {
-      "title": "Show HN: 2D Coulomb Gas Simulator",
-      "summary": "5 comments",
-      "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
-      "createdAt": "2026-02-17 03:17:46",
-      "hot": 34
-    },
-    {
-      "title": "PascalABC.net",
-      "summary": "9 comments",
-      "url": "https://pascalabc.net:443/en",
-      "createdAt": "2026-02-15 00:52:11",
-      "hot": 32
+      "title": "Portable 1MV X-ray system combines Cockcroft–Walton with Van de Graaff dome",
+      "summary": "2 comments",
+      "url": "https://www.lanl.gov/media/publications/1663/0624-x-rays-light",
+      "createdAt": "2026-02-12 23:51:07",
+      "hot": 11
     }
   ]
 }
