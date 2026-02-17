@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771272655097",
-  "lastUpdatedAt": "2026-02-17 04:10:55",
+  "id": "hackernews-top.1771288594323",
+  "lastUpdatedAt": "2026-02-17 08:36:34",
   "data": [
     {
-      "title": "Use Protocols, Not Services",
-      "summary": "38 comments",
-      "url": "https://notnotp.com/notes/use-protocols-not-services/",
-      "createdAt": "2026-02-17 02:44:58",
-      "hot": 149
-    },
-    {
-      "title": "Wero – Digital payment wallet, Made in Europe",
-      "summary": "28 comments",
-      "url": "https://wero-wallet.eu",
-      "createdAt": "2026-02-17 03:09:58",
-      "hot": 55
-    },
-    {
-      "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "summary": "7 comments",
-      "url": "https://jmail.world/jemini",
-      "createdAt": "2026-02-16 13:53:03",
-      "hot": 56
-    },
-    {
-      "title": "\"token anxiety\"; or, a slot machine by any other name",
-      "summary": "8 comments",
-      "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
-      "createdAt": "2026-02-17 02:23:36",
-      "hot": 29
-    },
-    {
-      "title": "WebMCP Proposal",
-      "summary": "42 comments",
-      "url": "https://webmachinelearning.github.io/webmcp/",
-      "createdAt": "2026-02-17 01:08:20",
-      "hot": 82
-    },
-    {
-      "title": "What Your Bluetooth Devices Reveal About You",
-      "summary": "63 comments",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
-      "createdAt": "2026-02-16 22:39:32",
-      "hot": 175
-    },
-    {
-      "title": "Ghidra by NSA",
-      "summary": "119 comments",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "createdAt": "2026-02-14 12:24:18",
-      "hot": 232
-    },
-    {
-      "title": "How to take a photo with scotch tape (lensless imaging) [video]",
-      "summary": "1 comments",
-      "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
-      "createdAt": "2026-02-17 00:55:02",
-      "hot": 56
-    },
-    {
-      "title": "Qwen3.5: Towards Native Multimodal Agents",
-      "summary": "142 comments",
-      "url": "https://qwen.ai/blog?id=qwen3.5",
-      "createdAt": "2026-02-16 17:32:21",
-      "hot": 312
-    },
-    {
-      "title": "How Not to Answer the Salary Question",
-      "summary": "3 comments",
-      "url": "https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/",
-      "createdAt": "2026-02-17 02:54:27",
-      "hot": 9
-    },
-    {
-      "title": "Ministry of Justice orders deletion of the UK's largest court reporting database",
-      "summary": "286 comments",
-      "url": "https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/",
-      "createdAt": "2026-02-16 21:30:07",
-      "hot": 438
-    },
-    {
-      "title": "Running My Own XMPP Server",
-      "summary": "104 comments",
-      "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
-      "createdAt": "2026-02-16 21:39:45",
-      "hot": 176
-    },
-    {
-      "title": "Show HN: Simple org-mode web adapter",
-      "summary": "2 comments",
-      "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
-      "createdAt": "2026-02-17 00:19:16",
-      "hot": 39
+      "title": "Study: Self-generated Agent Skills are useless",
+      "summary": "88 comments",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "createdAt": "2026-02-17 05:15:56",
+      "hot": 193
     },
     {
       "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "summary": "1 comments",
+      "summary": "69 comments",
       "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
       "createdAt": "2026-02-17 02:41:50",
-      "hot": 8
+      "hot": 360
     },
     {
-      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "summary": "783 comments",
-      "url": "https://mastodon.world/@knowmadd/116072773118828295",
-      "createdAt": "2026-02-16 14:31:48",
-      "hot": 1276
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "summary": "3 comments",
+      "url": "https://forestrydiary.com/",
+      "createdAt": "2026-02-17 07:40:33",
+      "hot": 27
     },
     {
-      "title": "Looks: A Halide Mark III Preview",
-      "summary": "5 comments",
-      "url": "https://www.lux.camera/mark-iii-looks/",
-      "createdAt": "2026-02-14 08:46:02",
-      "hot": 48
+      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+      "summary": "35 comments",
+      "url": "https://github.com/zachlatta/freeflow",
+      "createdAt": "2026-02-17 05:10:44",
+      "hot": 64
     },
     {
-      "title": "Robert Duvall Dead at 95",
-      "summary": "38 comments",
-      "url": "https://www.newsweek.com/entertainment/hollywood-legend-robert-duvall-dead-at-95-11531295",
-      "createdAt": "2026-02-17 02:52:50",
-      "hot": 56
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "summary": "15 comments",
+      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "createdAt": "2026-02-17 06:53:02",
+      "hot": 39
+    },
+    {
+      "title": "Rise of the Triforce",
+      "summary": "3 comments",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "createdAt": "2026-02-17 05:24:04",
+      "hot": 40
+    },
+    {
+      "title": "Testing Postgres race conditions with synchronization barriers",
+      "summary": "22 comments",
+      "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+      "createdAt": "2026-02-17 04:23:36",
+      "hot": 53
+    },
+    {
+      "title": "Visual Introduction to PyTorch",
+      "summary": "12 comments",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "createdAt": "2026-02-13 20:59:33",
+      "hot": 104
+    },
+    {
+      "title": "What your Bluetooth devices reveal",
+      "summary": "111 comments",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "createdAt": "2026-02-16 22:39:32",
+      "hot": 282
+    },
+    {
+      "title": "Nvidia with unusually fast coding model on plate-sized chips",
+      "summary": "4 comments",
+      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "createdAt": "2026-02-13 07:37:31",
+      "hot": 10
+    },
+    {
+      "title": "PascalABC.net",
+      "summary": "4 comments",
+      "url": "https://pascalabc.net:443/en",
+      "createdAt": "2026-02-15 00:52:11",
+      "hot": 22
+    },
+    {
+      "title": "Suicide Linux (2009)",
+      "summary": "45 comments",
+      "url": "https://qntm.org/suicide",
+      "createdAt": "2026-02-17 04:34:27",
+      "hot": 71
+    },
+    {
+      "title": "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
+      "summary": "0 comments",
+      "url": "https://news.ycombinator.com/item?id=47040268",
+      "createdAt": "2026-02-17 05:00:13",
+      "hot": 1
+    },
+    {
+      "title": "State of Show HN: 2025",
+      "summary": "8 comments",
+      "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+      "createdAt": "2026-02-17 03:55:23",
+      "hot": 52
     },
     {
       "title": "PCB Rework and Repair Guide [pdf]",
-      "summary": "2 comments",
+      "summary": "22 comments",
       "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
       "createdAt": "2026-02-14 21:42:04",
-      "hot": 15
+      "hot": 82
     },
     {
-      "title": "History of AT&T Long Lines",
-      "summary": "13 comments",
-      "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-      "createdAt": "2026-02-17 00:22:24",
-      "hot": 31
+      "title": "Show HN: Jemini – Gemini for the Epstein Files",
+      "summary": "46 comments",
+      "url": "https://jmail.world/jemini",
+      "createdAt": "2026-02-16 13:53:03",
+      "hot": 235
     },
     {
-      "title": "The Sideprocalypse",
-      "summary": "107 comments",
-      "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
-      "createdAt": "2026-02-16 22:26:39",
-      "hot": 132
+      "title": "Neurons outside the brain",
+      "summary": "18 comments",
+      "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+      "createdAt": "2026-02-17 02:54:37",
+      "hot": 47
     },
     {
-      "title": "Rolling your own serverless OCR in 40 lines of code",
-      "summary": "47 comments",
-      "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
-      "createdAt": "2026-02-12 21:23:22",
-      "hot": 98
-    },
-    {
-      "title": "UK Discord users were part of a Peter Thiel-linked data collection experiment",
-      "summary": "57 comments",
-      "url": "https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment",
-      "createdAt": "2026-02-16 22:48:25",
-      "hot": 247
+      "title": "Qwen3.5: Towards Native Multimodal Agents",
+      "summary": "178 comments",
+      "url": "https://qwen.ai/blog?id=qwen3.5",
+      "createdAt": "2026-02-16 17:32:21",
+      "hot": 366
     },
     {
       "title": "Show HN: Maths, CS and AI Compendium",
-      "summary": "9 comments",
+      "summary": "13 comments",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "createdAt": "2026-02-16 23:15:50",
-      "hot": 33
-    },
-    {
-      "title": "Show HN: Nerve: Stitches all your data sources into one mega-API",
-      "summary": "0 comments",
-      "url": "https://playground.get-nerve.com/",
-      "createdAt": "2026-02-15 07:07:41",
-      "hot": 7
-    },
-    {
-      "title": "planckforth: Bootstrapping a Forth interpreter from hand-written tiny ELF binary",
-      "summary": "9 comments",
-      "url": "https://github.com/nineties/planckforth",
-      "createdAt": "2026-02-16 19:44:07",
       "hot": 49
     },
     {
-      "title": "MessageFormat: Unicode standard for localizable message strings",
-      "summary": "58 comments",
-      "url": "https://github.com/unicode-org/message-format-wg",
-      "createdAt": "2026-02-16 18:26:22",
-      "hot": 141
-    },
-    {
       "title": "Show HN: 2D Coulomb Gas Simulator",
-      "summary": "0 comments",
+      "summary": "5 comments",
       "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
       "createdAt": "2026-02-17 03:17:46",
-      "hot": 6
+      "hot": 26
     },
     {
-      "title": "Vim-pencil: Rethinking Vim as a tool for writing",
-      "summary": "45 comments",
-      "url": "https://github.com/preservim/vim-pencil",
-      "createdAt": "2026-02-13 08:35:23",
-      "hot": 128
-    },
-    {
-      "title": "STM32G431 Analogue TV Transmitter",
-      "summary": "0 comments",
-      "url": "https://slyka.net/blog/2026/tinyvision/",
-      "createdAt": "2026-02-17 00:19:08",
+      "title": "LCM: Lossless Context Management [pdf]",
+      "summary": "12 comments",
+      "url": "http://papers.voltropy.com/LCM",
+      "createdAt": "2026-02-17 02:31:19",
       "hot": 19
     },
     {
-      "title": "Castlevania and Bloodstained developer Shutaro Ida dies aged 52",
-      "summary": "5 comments",
-      "url": "https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/",
-      "createdAt": "2026-02-17 02:01:38",
-      "hot": 33
+      "title": "Ghidra by NSA",
+      "summary": "167 comments",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "createdAt": "2026-02-14 12:24:18",
+      "hot": 303
+    },
+    {
+      "title": "Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU",
+      "summary": "1 comments",
+      "url": "https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md",
+      "createdAt": "2026-02-17 07:41:06",
+      "hot": 4
+    },
+    {
+      "title": "Building a model that visualizes strategic golf",
+      "summary": "3 comments",
+      "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
+      "createdAt": "2026-02-17 01:15:27",
+      "hot": 10
+    },
+    {
+      "title": "The long tail of LLM-assisted decompilation",
+      "summary": "9 comments",
+      "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+      "createdAt": "2026-02-17 02:19:16",
+      "hot": 36
+    },
+    {
+      "title": "Privilege is bad grammar",
+      "summary": "192 comments",
+      "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+      "createdAt": "2026-02-17 02:05:32",
+      "hot": 185
+    },
+    {
+      "title": "How to take a photo with scotch tape (lensless imaging) [video]",
+      "summary": "4 comments",
+      "url": "https://www.youtube.com/watch?v=97f0nfU5Px0",
+      "createdAt": "2026-02-17 00:55:02",
+      "hot": 91
+    },
+    {
+      "title": "Chiplets Get Physical: The Days of Mix-and-Match Silicon Draw Nigh",
+      "summary": "11 comments",
+      "url": "https://www.eejournal.com/article/chiplets-get-physical-the-days-of-mix-and-match-silicon-draw-nigh/",
+      "createdAt": "2026-02-14 19:07:08",
+      "hot": 19
+    },
+    {
+      "title": "WebMCP Proposal",
+      "summary": "68 comments",
+      "url": "https://webmachinelearning.github.io/webmcp/",
+      "createdAt": "2026-02-17 01:08:20",
+      "hot": 127
+    },
+    {
+      "title": "History of AT&T Long Lines",
+      "summary": "37 comments",
+      "url": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
+      "createdAt": "2026-02-17 00:22:24",
+      "hot": 62
     }
   ]
 }
