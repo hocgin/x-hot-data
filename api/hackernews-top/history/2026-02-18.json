@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-18",
+  "createdAt": "2026-02-18 00:24:09",
+  "data": [
+    {
+      "id": "hackernews-top.1771345449972",
+      "lastUpdatedAt": "2026-02-18 00:24:09",
+      "data": [
+        {
+          "title": "America's Pensions Can't Beat Vanguard but They Can Close Your Hospital",
+          "summary": "85 comments",
+          "url": "https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard",
+          "createdAt": "2026-02-17 23:04:18",
+          "hot": 104
+        },
+        {
+          "title": "GrapheneOS – Break Free from Google and Apple",
+          "summary": "424 comments",
+          "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+          "createdAt": "2026-02-17 18:02:36",
+          "hot": 664
+        },
+        {
+          "title": "I converted 2D conventional flight tracking into 3D",
+          "summary": "19 comments",
+          "url": "https://aeris.edbn.me/?city=SFO",
+          "createdAt": "2026-02-17 22:43:14",
+          "hot": 44
+        },
+        {
+          "title": "Four Column ASCII (2017)",
+          "summary": "62 comments",
+          "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+          "createdAt": "2026-02-15 17:15:16",
+          "hot": 275
+        },
+        {
+          "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+          "summary": "179 comments",
+          "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+          "createdAt": "2026-02-17 02:41:50",
+          "hot": 836
+        },
+        {
+          "title": "Hamming Distance for Hybrid Search in SQLite",
+          "summary": "3 comments",
+          "url": "https://notnotp.com/notes/hamming-distance-for-hybrid-search-in-sqlite/",
+          "createdAt": "2026-02-15 15:21:58",
+          "hot": 29
+        },
+        {
+          "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
+          "summary": "16 comments",
+          "url": "https://glitchycam.com",
+          "createdAt": "2026-02-16 19:57:01",
+          "hot": 128
+        },
+        {
+          "title": "Rise of the Triforce",
+          "summary": "54 comments",
+          "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+          "createdAt": "2026-02-17 05:24:04",
+          "hot": 367
+        },
+        {
+          "title": "How teaching molecules to think is revealing what a 'mind' is",
+          "summary": "38 comments",
+          "url": "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/",
+          "createdAt": "2026-02-14 00:37:22",
+          "hot": 55
+        },
+        {
+          "title": "Rendering the Visible Spectrum",
+          "summary": "21 comments",
+          "url": "https://brandonli.net/spectra/doc/",
+          "createdAt": "2026-02-14 16:56:46",
+          "hot": 123
+        },
+        {
+          "title": "This is What It's Like to Spend Your Life in Prison (2023) [video]",
+          "summary": "3 comments",
+          "url": "https://www.youtube.com/watch?v=chpgT_VTEjE",
+          "createdAt": "2026-02-15 03:23:52",
+          "hot": 8
+        },
+        {
+          "title": "Xbox UI Portfolio Site",
+          "summary": "29 comments",
+          "url": "https://gabrielcabrera.co/",
+          "createdAt": "2026-02-17 13:53:31",
+          "hot": 103
+        },
+        {
+          "title": "Visual introduction to PyTorch",
+          "summary": "25 comments",
+          "url": "https://0byte.io/articles/pytorch_introduction.html",
+          "createdAt": "2026-02-13 20:59:33",
+          "hot": 355
+        },
+        {
+          "title": "What your Bluetooth devices reveal",
+          "summary": "180 comments",
+          "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+          "createdAt": "2026-02-16 22:39:32",
+          "hot": 491
+        },
+        {
+          "title": "A Programmer's Loss of Identity",
+          "summary": "90 comments",
+          "url": "https://ratfactor.com/tech-nope2",
+          "createdAt": "2026-02-14 23:41:59",
+          "hot": 151
+        },
+        {
+          "title": "Undo in Vi and Its Successors",
+          "summary": "30 comments",
+          "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews",
+          "createdAt": "2026-02-17 21:47:56",
+          "hot": 33
+        },
+        {
+          "title": "Poor Deming never stood a chance",
+          "summary": "102 comments",
+          "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+          "createdAt": "2026-02-17 10:13:37",
+          "hot": 164
+        },
+        {
+          "title": "A deep dive into Apple's .car file format",
+          "summary": "52 comments",
+          "url": "https://dbg.re/posts/car-file-format/",
+          "createdAt": "2026-02-14 20:18:04",
+          "hot": 135
+        },
+        {
+          "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+          "summary": "110 comments",
+          "url": "https://github.com/zachlatta/freeflow",
+          "createdAt": "2026-02-17 05:10:44",
+          "hot": 242
+        },
+        {
+          "title": "\"Token anxiety\", a slot machine by any other name",
+          "summary": "194 comments",
+          "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+          "createdAt": "2026-02-17 02:23:36",
+          "hot": 212
+        },
+        {
+          "title": "Ghidra by NSA",
+          "summary": "207 comments",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "createdAt": "2026-02-14 12:24:18",
+          "hot": 416
+        },
+        {
+          "title": "DBASE on the Kaypro II",
+          "summary": "36 comments",
+          "url": "https://stonetools.ghost.io/dbase-cpm/",
+          "createdAt": "2026-02-14 15:35:41",
+          "hot": 74
+        },
+        {
+          "title": "Rethinking High-School Science Fairs",
+          "summary": "48 comments",
+          "url": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
+          "createdAt": "2026-02-14 02:37:32",
+          "hot": 56
+        },
+        {
+          "title": "Neurons outside the brain",
+          "summary": "69 comments",
+          "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+          "createdAt": "2026-02-17 02:54:37",
+          "hot": 133
+        },
+        {
+          "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+          "summary": "22 comments",
+          "url": "https://forestrydiary.com/",
+          "createdAt": "2026-02-17 07:40:33",
+          "hot": 110
+        },
+        {
+          "title": "Running NanoClaw in a Docker Shell Sandbox",
+          "summary": "72 comments",
+          "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+          "createdAt": "2026-02-17 06:53:02",
+          "hot": 150
+        },
+        {
+          "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
+          "summary": "37 comments",
+          "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
+          "createdAt": "2026-02-14 03:19:45",
+          "hot": 36
+        },
+        {
+          "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
+          "summary": "35 comments",
+          "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
+          "createdAt": "2026-02-13 17:17:54",
+          "hot": 71
+        },
+        {
+          "title": "State of Show HN: 2025",
+          "summary": "29 comments",
+          "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+          "createdAt": "2026-02-17 03:55:23",
+          "hot": 124
+        },
+        {
+          "title": "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
+          "summary": "0 comments",
+          "url": "https://news.ycombinator.com/item?id=47040268",
+          "createdAt": "2026-02-17 05:00:13",
+          "hot": 1
+        }
+      ]
+    }
+  ]
+}
