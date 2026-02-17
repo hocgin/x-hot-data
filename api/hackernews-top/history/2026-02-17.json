@@ -1081,6 +1081,222 @@
           "hot": 11
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771330754500",
+      "lastUpdatedAt": "2026-02-17 20:19:14",
+      "data": [
+        {
+          "title": "GrapheneOS – Break Free from Google and Apple",
+          "summary": "135 comments",
+          "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+          "createdAt": "2026-02-17 18:02:36",
+          "hot": 200
+        },
+        {
+          "title": "Four Column ASCII (2017)",
+          "summary": "32 comments",
+          "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+          "createdAt": "2026-02-15 17:15:16",
+          "hot": 189
+        },
+        {
+          "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+          "summary": "152 comments",
+          "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+          "createdAt": "2026-02-17 02:41:50",
+          "hot": 730
+        },
+        {
+          "title": "Rise of the Triforce",
+          "summary": "40 comments",
+          "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+          "createdAt": "2026-02-17 05:24:04",
+          "hot": 308
+        },
+        {
+          "title": "A deep dive into Apple's .car file format",
+          "summary": "26 comments",
+          "url": "https://dbg.re/posts/car-file-format/",
+          "createdAt": "2026-02-14 20:18:04",
+          "hot": 111
+        },
+        {
+          "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
+          "summary": "2 comments",
+          "url": "https://glitchycam.com",
+          "createdAt": "2026-02-16 19:57:01",
+          "hot": 47
+        },
+        {
+          "title": "Rendering the Visible Spectrum",
+          "summary": "8 comments",
+          "url": "https://brandonli.net/spectra/doc/",
+          "createdAt": "2026-02-14 16:56:46",
+          "hot": 58
+        },
+        {
+          "title": "Poor Deming never stood a chance",
+          "summary": "43 comments",
+          "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+          "createdAt": "2026-02-17 10:13:37",
+          "hot": 101
+        },
+        {
+          "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+          "summary": "96 comments",
+          "url": "https://arxiv.org/abs/2602.11988",
+          "createdAt": "2026-02-16 20:15:39",
+          "hot": 153
+        },
+        {
+          "title": "How teaching molecules to think is revealing what a 'mind' is",
+          "summary": "6 comments",
+          "url": "https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/",
+          "createdAt": "2026-02-14 00:37:22",
+          "hot": 15
+        },
+        {
+          "title": "What your Bluetooth devices reveal",
+          "summary": "164 comments",
+          "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+          "createdAt": "2026-02-16 22:39:32",
+          "hot": 449
+        },
+        {
+          "title": "Visual introduction to PyTorch",
+          "summary": "21 comments",
+          "url": "https://0byte.io/articles/pytorch_introduction.html",
+          "createdAt": "2026-02-13 20:59:33",
+          "hot": 286
+        },
+        {
+          "title": "Is Show HN Dead? No, but It's Drowning",
+          "summary": "85 comments",
+          "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+          "createdAt": "2026-02-17 18:29:14",
+          "hot": 79
+        },
+        {
+          "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+          "summary": "97 comments",
+          "url": "https://github.com/zachlatta/freeflow",
+          "createdAt": "2026-02-17 05:10:44",
+          "hot": 203
+        },
+        {
+          "title": "Xbox UI Portfolio Site",
+          "summary": "13 comments",
+          "url": "https://gabrielcabrera.co/",
+          "createdAt": "2026-02-17 13:53:31",
+          "hot": 39
+        },
+        {
+          "title": "The Rev. Jesse Jackson, pioneering civil rights activist, dies at 84",
+          "summary": "3 comments",
+          "url": "https://www.cnn.com/2026/02/17/us/reverend-jesse-jackson-death",
+          "createdAt": "2026-02-17 18:52:17",
+          "hot": 18
+        },
+        {
+          "title": "\"Token anxiety\", a slot machine by any other name",
+          "summary": "134 comments",
+          "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+          "createdAt": "2026-02-17 02:23:36",
+          "hot": 151
+        },
+        {
+          "title": "Ghidra by NSA",
+          "summary": "197 comments",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "createdAt": "2026-02-14 12:24:18",
+          "hot": 385
+        },
+        {
+          "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+          "summary": "244 comments",
+          "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+          "createdAt": "2026-02-17 09:01:00",
+          "hot": 460
+        },
+        {
+          "title": "Elephant trunk whiskers exhibit material intelligence",
+          "summary": "0 comments",
+          "url": "https://www.mpg.de/26113474/elephant-trunk-whiskers-exhibit-material-intelligence",
+          "createdAt": "2026-02-14 11:55:16",
+          "hot": 6
+        },
+        {
+          "title": "DBASE on the Kaypro II",
+          "summary": "20 comments",
+          "url": "https://stonetools.ghost.io/dbase-cpm/",
+          "createdAt": "2026-02-14 15:35:41",
+          "hot": 58
+        },
+        {
+          "title": "Show HN: GitHub \"Lines Viewed\" extension to keep you sane reviewing long AI PRs",
+          "summary": "21 comments",
+          "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
+          "createdAt": "2026-02-14 03:19:45",
+          "hot": 23
+        },
+        {
+          "title": "Running NanoClaw in a Docker Shell Sandbox",
+          "summary": "60 comments",
+          "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+          "createdAt": "2026-02-17 06:53:02",
+          "hot": 118
+        },
+        {
+          "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+          "summary": "16 comments",
+          "url": "https://forestrydiary.com/",
+          "createdAt": "2026-02-17 07:40:33",
+          "hot": 96
+        },
+        {
+          "title": "Building for an audience of one: starting and finishing side projects with AI",
+          "summary": "42 comments",
+          "url": "https://codemade.net/blog/building-for-one/",
+          "createdAt": "2026-02-17 08:00:03",
+          "hot": 75
+        },
+        {
+          "title": "State of Show HN: 2025",
+          "summary": "23 comments",
+          "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+          "createdAt": "2026-02-17 03:55:23",
+          "hot": 104
+        },
+        {
+          "title": "Neurons outside the brain",
+          "summary": "45 comments",
+          "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+          "createdAt": "2026-02-17 02:54:37",
+          "hot": 107
+        },
+        {
+          "title": "Hear the \"Amati King Cello\", the Oldest Known Cello in Existence",
+          "summary": "24 comments",
+          "url": "https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html",
+          "createdAt": "2026-02-13 17:17:54",
+          "hot": 57
+        },
+        {
+          "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+          "summary": "58 comments",
+          "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+          "createdAt": "2026-02-17 05:12:07",
+          "hot": 88
+        },
+        {
+          "title": "Show HN: Jemini – Gemini for the Epstein Files",
+          "summary": "74 comments",
+          "url": "https://jmail.world/jemini",
+          "createdAt": "2026-02-16 13:53:03",
+          "hot": 388
+        }
+      ]
     }
   ]
 }

@@ -1,66 +1,78 @@
 {
-  "id": "github-trending.1771316392768",
-  "lastUpdatedAt": "2026-02-17 16:19:52",
+  "id": "github-trending.1771330754501",
+  "lastUpdatedAt": "2026-02-17 20:19:14",
   "data": [
     {
-      "title": "alibaba/zvec",
-      "summary": "A lightweight, lightning-fast, in-process vector database",
-      "url": "https://github.com/alibaba/zvec",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "nautechsystems/nautilus_trader",
-      "summary": "A high-performance algorithmic trading platform and event-driven backtester",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "rowboatlabs/rowboat",
-      "summary": "Open-source AI coworker, with memory",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "steipete/gogcli",
-      "summary": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "url": "https://github.com/steipete/gogcli",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "openclaw/openclaw",
-      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "url": "https://github.com/openclaw/openclaw",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "SynkraAI/aios-core",
-      "summary": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "letta-ai/letta-code",
-      "summary": "The memory-first coding agent",
-      "url": "https://github.com/letta-ai/letta-code",
-      "createdAt": "2026-02-17 16:19:23"
-    },
-    {
-      "title": "ruvnet/wifi-densepose",
-      "summary": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "createdAt": "2026-02-17 16:19:23"
+      "title": "p-e-w/heretic",
+      "summary": "Fully automatic censorship removal for language models",
+      "url": "https://github.com/p-e-w/heretic",
+      "createdAt": "2026-02-17 20:18:48"
     },
     {
       "title": "seerr-team/seerr",
       "summary": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "url": "https://github.com/seerr-team/seerr",
-      "createdAt": "2026-02-17 16:19:23"
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "obra/superpowers",
+      "summary": "An agentic skills framework &amp; software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "steipete/gogcli",
+      "summary": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "url": "https://github.com/steipete/gogcli",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "alibaba/zvec",
+      "summary": "A lightweight, lightning-fast, in-process vector database",
+      "url": "https://github.com/alibaba/zvec",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "openclaw/openclaw",
+      "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "url": "https://github.com/openclaw/openclaw",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "SynkraAI/aios-core",
+      "summary": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "ashishps1/awesome-system-design-resources",
+      "summary": "Learn System Design concepts and prepare for interviews using free resources.",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "createdAt": "2026-02-17 20:18:48"
     },
     {
       "title": "hummingbot/hummingbot",
       "summary": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "url": "https://github.com/hummingbot/hummingbot",
-      "createdAt": "2026-02-17 16:19:23"
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "summary": "CLI tool for configuring and monitoring Claude Code",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "createdAt": "2026-02-17 20:18:48"
+    },
+    {
+      "title": "OpenCTI-Platform/opencti",
+      "summary": "Open Cyber Threat Intelligence Platform",
+      "url": "https://github.com/OpenCTI-Platform/opencti",
+      "createdAt": "2026-02-17 20:18:48"
     }
   ]
 }
