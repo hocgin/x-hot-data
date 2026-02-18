@@ -1,90 +1,146 @@
 {
-  "id": "hackernews-top.1771375024091",
-  "lastUpdatedAt": "2026-02-18 08:37:04",
+  "id": "hackernews-top.1771389756675",
+  "lastUpdatedAt": "2026-02-18 12:42:36",
   "data": [
     {
+      "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+      "summary": "81 comments",
+      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+      "createdAt": "2026-02-18 10:18:29",
+      "hot": 162
+    },
+    {
       "title": "Claude Sonnet 4.6",
-      "summary": "699 comments",
+      "summary": "865 comments",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "createdAt": "2026-02-18 01:48:52",
-      "hot": 798
+      "hot": 964
     },
     {
       "title": "Thank HN: You helped save 33k lives",
-      "summary": "33 comments",
+      "summary": "70 comments",
       "url": "https://news.ycombinator.com/item?id=47049824",
       "createdAt": "2026-02-18 01:06:18",
-      "hot": 277
+      "hot": 574
     },
     {
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "summary": "29 comments",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "createdAt": "2026-02-18 03:24:55",
-      "hot": 246
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "summary": "134 comments",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "createdAt": "2026-02-18 09:40:52",
+      "hot": 214
     },
     {
       "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "summary": "39 comments",
+      "summary": "61 comments",
       "url": "https://github.com/Zaneham/BarraCUDA",
       "createdAt": "2026-02-18 04:35:18",
-      "hot": 112
+      "hot": 201
+    },
+    {
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "summary": "35 comments",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "createdAt": "2026-02-18 03:24:55",
+      "hot": 305
+    },
+    {
+      "title": "Minimal x86 Kernel Zig",
+      "summary": "12 comments",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "createdAt": "2026-02-18 08:02:06",
+      "hot": 50
     },
     {
       "title": "Gentoo on Codeberg",
-      "summary": "71 comments",
+      "summary": "98 comments",
       "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
       "createdAt": "2026-02-18 01:21:04",
-      "hot": 239
+      "hot": 283
     },
     {
       "title": "Using go fix to modernize Go code",
-      "summary": "56 comments",
+      "summary": "69 comments",
       "url": "https://go.dev/blog/gofix",
       "createdAt": "2026-02-18 00:42:35",
-      "hot": 262
-    },
-    {
-      "title": "I swear the UFO is coming any minute",
-      "summary": "8 comments",
-      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
-      "createdAt": "2026-02-18 06:10:22",
-      "hot": 62
+      "hot": 306
     },
     {
       "title": "So you want to build a tunnel",
-      "summary": "60 comments",
+      "summary": "79 comments",
       "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
       "createdAt": "2026-02-18 00:59:34",
-      "hot": 148
+      "hot": 185
+    },
+    {
+      "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+      "summary": "5 comments",
+      "url": "https://www.vogons.org/viewtopic.php?t=105451",
+      "createdAt": "2026-02-14 23:17:46",
+      "hot": 36
     },
     {
       "title": "Async/Await on the GPU",
-      "summary": "44 comments",
+      "summary": "49 comments",
       "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
       "createdAt": "2026-02-18 00:53:05",
-      "hot": 144
+      "hot": 166
     },
     {
-      "title": "Physicists Make Electrons Flow Like Water",
-      "summary": "7 comments",
-      "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
-      "createdAt": "2026-02-14 04:05:27",
-      "hot": 72
+      "title": "I swear the UFO is coming any minute",
+      "summary": "41 comments",
+      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "createdAt": "2026-02-18 06:10:22",
+      "hot": 124
     },
     {
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "summary": "747 comments",
-      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-      "createdAt": "2026-02-17 18:02:36",
-      "hot": 1042
+      "title": "Google Public CA is down",
+      "summary": "110 comments",
+      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "createdAt": "2026-02-18 09:05:33",
+      "hot": 202
     },
     {
-      "title": "pg_background: Make Postgres do the long work (while your session stays light)",
-      "summary": "1 comments",
-      "url": "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/",
-      "createdAt": "2026-02-18 06:40:11",
-      "hot": 17
+      "title": "Is Show HN dead? No, but it's drowning",
+      "summary": "367 comments",
+      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+      "createdAt": "2026-02-17 18:29:14",
+      "hot": 435
+    },
+    {
+      "title": "Assistant to the Regional Manager",
+      "summary": "31 comments",
+      "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
+      "createdAt": "2026-02-13 22:11:42",
+      "hot": 80
+    },
+    {
+      "title": "Show HN: I wrote a technical history book on Lisp",
+      "summary": "66 comments",
+      "url": "https://berksoft.ca/gol/",
+      "createdAt": "2026-02-17 23:43:39",
+      "hot": 181
+    },
+    {
+      "title": "The Economics of a Super Bowl Ad",
+      "summary": "3 comments",
+      "url": "https://ro.co/perspectives/super-bowl-economics/",
+      "createdAt": "2026-02-16 05:57:29",
+      "hot": 3
+    },
+    {
+      "title": "I converted 2D conventional flight tracking into 3D",
+      "summary": "48 comments",
+      "url": "https://aeris.edbn.me/?city=SFO",
+      "createdAt": "2026-02-17 22:43:14",
+      "hot": 225
+    },
+    {
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
+      "summary": "8 comments",
+      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+      "createdAt": "2026-02-18 07:06:51",
+      "hot": 35
     },
     {
       "title": "Structured AI (YC F25) Is Hiring",
@@ -94,123 +150,67 @@
       "hot": 1
     },
     {
-      "title": "Assistant to the Regional Manager",
+      "title": "Physicists Make Electrons Flow Like Water",
       "summary": "10 comments",
-      "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
-      "createdAt": "2026-02-13 22:11:42",
-      "hot": 50
+      "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
+      "createdAt": "2026-02-14 04:05:27",
+      "hot": 86
+    },
+    {
+      "title": "It's not just you, YouTube is partially down in outage",
+      "summary": "2 comments",
+      "url": "https://9to5google.com/2026/02/17/youtube-outage-february-2026/",
+      "createdAt": "2026-02-18 10:00:52",
+      "hot": 42
     },
     {
       "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-      "summary": "18 comments",
+      "summary": "21 comments",
       "url": "https://github.com/n-e/pg-typesafe",
       "createdAt": "2026-02-18 02:15:36",
-      "hot": 36
-    },
-    {
-      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia",
-      "summary": "0 comments",
-      "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-      "createdAt": "2026-02-18 07:06:51",
-      "hot": 12
-    },
-    {
-      "title": "Show HN: I wrote a technical history book on Lisp",
-      "summary": "50 comments",
-      "url": "https://berksoft.ca/gol/",
-      "createdAt": "2026-02-17 23:43:39",
-      "hot": 145
-    },
-    {
-      "title": "I converted 2D conventional flight tracking into 3D",
-      "summary": "42 comments",
-      "url": "https://aeris.edbn.me/?city=SFO",
-      "createdAt": "2026-02-17 22:43:14",
-      "hot": 206
-    },
-    {
-      "title": "Old School Telecine, circa 1980s (2017)",
-      "summary": "0 comments",
-      "url": "https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/",
-      "createdAt": "2026-02-16 09:54:33",
-      "hot": 4
+      "hot": 52
     },
     {
       "title": "HackMyClaw",
-      "summary": "128 comments",
+      "summary": "141 comments",
       "url": "https://hackmyclaw.com/",
       "createdAt": "2026-02-18 00:48:43",
-      "hot": 239
+      "hot": 273
     },
     {
-      "title": "Is Show HN dead? No, but it's drowning",
-      "summary": "330 comments",
-      "url": "https://www.arthurcnops.blog/death-of-show-hn/",
-      "createdAt": "2026-02-17 18:29:14",
-      "hot": 381
+      "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+      "summary": "57 comments",
+      "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+      "createdAt": "2026-02-17 22:47:26",
+      "hot": 106
     },
     {
-      "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
-      "summary": "4 comments",
-      "url": "https://github.com/switz/box-of-rain",
-      "createdAt": "2026-02-15 05:42:11",
-      "hot": 8
-    },
-    {
-      "title": "Show HN: I'm launching a LPFM radio station",
-      "summary": "35 comments",
-      "url": "https://www.kpbj.fm/",
-      "createdAt": "2026-02-18 04:15:57",
-      "hot": 48
-    },
-    {
-      "title": "Contra \"Grandmaster-level chess without search\" (2024)",
-      "summary": "0 comments",
-      "url": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
-      "createdAt": "2026-02-16 11:22:31",
+      "title": "Use Microsoft Office Shortcuts in Libre Office",
+      "summary": "5 comments",
+      "url": "https://github.com/Zaki101Aslam/MS-office-shortcuts-for-Libre-Office",
+      "createdAt": "2026-02-15 14:30:54",
       "hot": 25
     },
     {
-      "title": "After 800 episodes, 'The Simpsons' creators look back and ahead",
-      "summary": "27 comments",
-      "url": "https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a",
-      "createdAt": "2026-02-15 20:49:22",
-      "hot": 33
+      "title": "I Use Obsidian (2023)",
+      "summary": "30 comments",
+      "url": "https://stephango.com/vault",
+      "createdAt": "2026-02-18 06:30:37",
+      "hot": 39
     },
     {
-      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
-      "summary": "89 comments",
-      "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "createdAt": "2026-02-18 01:40:50",
-      "hot": 188
+      "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
+      "summary": "52 comments",
+      "url": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
+      "createdAt": "2026-02-18 09:19:15",
+      "hot": 64
     },
     {
-      "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-      "summary": "70 comments",
-      "url": "https://mage-bench.com/",
-      "createdAt": "2026-02-18 00:22:49",
-      "hot": 89
-    },
-    {
-      "title": "Climbing Mount Fuji visualized through milestone stamps",
-      "summary": "9 comments",
-      "url": "https://fuji.halfof8.com/",
-      "createdAt": "2026-02-18 01:29:49",
-      "hot": 48
-    },
-    {
-      "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
-      "summary": "6 comments",
-      "url": "https://sonarly.com/",
-      "createdAt": "2026-02-18 01:03:09",
-      "hot": 23
-    },
-    {
-      "title": "Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File",
-      "summary": "27 comments",
-      "url": "https://github.com/christopherkarani/Wax",
-      "createdAt": "2026-02-17 23:43:37",
-      "hot": 80
+      "title": "Create bootable ISO image files which are compatible with the Amiga CD32",
+      "summary": "1 comments",
+      "url": "https://github.com/fuseoppl/isocd-win",
+      "createdAt": "2026-02-18 07:19:49",
+      "hot": 13
     }
   ]
 }
