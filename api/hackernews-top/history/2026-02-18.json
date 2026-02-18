@@ -433,6 +433,222 @@
           "hot": 22
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771375024092",
+      "lastUpdatedAt": "2026-02-18 08:37:04",
+      "data": [
+        {
+          "title": "Claude Sonnet 4.6",
+          "summary": "699 comments",
+          "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+          "createdAt": "2026-02-18 01:48:52",
+          "hot": 798
+        },
+        {
+          "title": "Thank HN: You helped save 33k lives",
+          "summary": "33 comments",
+          "url": "https://news.ycombinator.com/item?id=47049824",
+          "createdAt": "2026-02-18 01:06:18",
+          "hot": 277
+        },
+        {
+          "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+          "summary": "29 comments",
+          "url": "https://asteroidos.org/news/2-0-release/index.html",
+          "createdAt": "2026-02-18 03:24:55",
+          "hot": 246
+        },
+        {
+          "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+          "summary": "39 comments",
+          "url": "https://github.com/Zaneham/BarraCUDA",
+          "createdAt": "2026-02-18 04:35:18",
+          "hot": 112
+        },
+        {
+          "title": "Gentoo on Codeberg",
+          "summary": "71 comments",
+          "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+          "createdAt": "2026-02-18 01:21:04",
+          "hot": 239
+        },
+        {
+          "title": "Using go fix to modernize Go code",
+          "summary": "56 comments",
+          "url": "https://go.dev/blog/gofix",
+          "createdAt": "2026-02-18 00:42:35",
+          "hot": 262
+        },
+        {
+          "title": "I swear the UFO is coming any minute",
+          "summary": "8 comments",
+          "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+          "createdAt": "2026-02-18 06:10:22",
+          "hot": 62
+        },
+        {
+          "title": "So you want to build a tunnel",
+          "summary": "60 comments",
+          "url": "https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel",
+          "createdAt": "2026-02-18 00:59:34",
+          "hot": 148
+        },
+        {
+          "title": "Async/Await on the GPU",
+          "summary": "44 comments",
+          "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+          "createdAt": "2026-02-18 00:53:05",
+          "hot": 144
+        },
+        {
+          "title": "Physicists Make Electrons Flow Like Water",
+          "summary": "7 comments",
+          "url": "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/",
+          "createdAt": "2026-02-14 04:05:27",
+          "hot": 72
+        },
+        {
+          "title": "GrapheneOS – Break Free from Google and Apple",
+          "summary": "747 comments",
+          "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+          "createdAt": "2026-02-17 18:02:36",
+          "hot": 1042
+        },
+        {
+          "title": "pg_background: Make Postgres do the long work (while your session stays light)",
+          "summary": "1 comments",
+          "url": "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/",
+          "createdAt": "2026-02-18 06:40:11",
+          "hot": 17
+        },
+        {
+          "title": "Structured AI (YC F25) Is Hiring",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+          "createdAt": "2026-02-18 05:00:30",
+          "hot": 1
+        },
+        {
+          "title": "Assistant to the Regional Manager",
+          "summary": "10 comments",
+          "url": "https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager",
+          "createdAt": "2026-02-13 22:11:42",
+          "hot": 50
+        },
+        {
+          "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
+          "summary": "18 comments",
+          "url": "https://github.com/n-e/pg-typesafe",
+          "createdAt": "2026-02-18 02:15:36",
+          "hot": 36
+        },
+        {
+          "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia",
+          "summary": "0 comments",
+          "url": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+          "createdAt": "2026-02-18 07:06:51",
+          "hot": 12
+        },
+        {
+          "title": "Show HN: I wrote a technical history book on Lisp",
+          "summary": "50 comments",
+          "url": "https://berksoft.ca/gol/",
+          "createdAt": "2026-02-17 23:43:39",
+          "hot": 145
+        },
+        {
+          "title": "I converted 2D conventional flight tracking into 3D",
+          "summary": "42 comments",
+          "url": "https://aeris.edbn.me/?city=SFO",
+          "createdAt": "2026-02-17 22:43:14",
+          "hot": 206
+        },
+        {
+          "title": "Old School Telecine, circa 1980s (2017)",
+          "summary": "0 comments",
+          "url": "https://www.liftgammagain.com/forum/index.php?threads/old-school-telecine-circa-1980s.9984/",
+          "createdAt": "2026-02-16 09:54:33",
+          "hot": 4
+        },
+        {
+          "title": "HackMyClaw",
+          "summary": "128 comments",
+          "url": "https://hackmyclaw.com/",
+          "createdAt": "2026-02-18 00:48:43",
+          "hot": 239
+        },
+        {
+          "title": "Is Show HN dead? No, but it's drowning",
+          "summary": "330 comments",
+          "url": "https://www.arthurcnops.blog/death-of-show-hn/",
+          "createdAt": "2026-02-17 18:29:14",
+          "hot": 381
+        },
+        {
+          "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
+          "summary": "4 comments",
+          "url": "https://github.com/switz/box-of-rain",
+          "createdAt": "2026-02-15 05:42:11",
+          "hot": 8
+        },
+        {
+          "title": "Show HN: I'm launching a LPFM radio station",
+          "summary": "35 comments",
+          "url": "https://www.kpbj.fm/",
+          "createdAt": "2026-02-18 04:15:57",
+          "hot": 48
+        },
+        {
+          "title": "Contra \"Grandmaster-level chess without search\" (2024)",
+          "summary": "0 comments",
+          "url": "https://cosmo.tardis.ac/files/2024-02-13-searchless.html",
+          "createdAt": "2026-02-16 11:22:31",
+          "hot": 25
+        },
+        {
+          "title": "After 800 episodes, 'The Simpsons' creators look back and ahead",
+          "summary": "27 comments",
+          "url": "https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a",
+          "createdAt": "2026-02-15 20:49:22",
+          "hot": 33
+        },
+        {
+          "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
+          "summary": "89 comments",
+          "url": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
+          "createdAt": "2026-02-18 01:40:50",
+          "hot": 188
+        },
+        {
+          "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+          "summary": "70 comments",
+          "url": "https://mage-bench.com/",
+          "createdAt": "2026-02-18 00:22:49",
+          "hot": 89
+        },
+        {
+          "title": "Climbing Mount Fuji visualized through milestone stamps",
+          "summary": "9 comments",
+          "url": "https://fuji.halfof8.com/",
+          "createdAt": "2026-02-18 01:29:49",
+          "hot": 48
+        },
+        {
+          "title": "Launch HN: Sonarly (YC W26) – AI agent to triage and fix your production alerts",
+          "summary": "6 comments",
+          "url": "https://sonarly.com/",
+          "createdAt": "2026-02-18 01:03:09",
+          "hot": 23
+        },
+        {
+          "title": "Sub-Millisecond RAG on Apple Silicon. No Server. No API. One File",
+          "summary": "27 comments",
+          "url": "https://github.com/christopherkarani/Wax",
+          "createdAt": "2026-02-17 23:43:37",
+          "hot": 80
+        }
+      ]
     }
   ]
 }
