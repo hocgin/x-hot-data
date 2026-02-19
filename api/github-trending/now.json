@@ -1,84 +1,48 @@
 {
-  "id": "github-trending.1771402729340",
-  "lastUpdatedAt": "2026-02-18 16:18:49",
+  "id": "github-trending.1771505217352",
+  "lastUpdatedAt": "2026-02-19 20:46:57",
   "data": [
-    {
-      "title": "p-e-w/heretic",
-      "summary": "Fully automatic censorship removal for language models",
-      "url": "https://github.com/p-e-w/heretic",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "seerr-team/seerr",
-      "summary": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "url": "https://github.com/seerr-team/seerr",
-      "createdAt": "2026-02-18 16:18:31"
-    },
     {
       "title": "obra/superpowers",
       "summary": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "createdAt": "2026-02-18 16:18:31"
+      "createdAt": "2026-02-19 20:46:31"
     },
     {
-      "title": "steipete/gogcli",
-      "summary": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-      "url": "https://github.com/steipete/gogcli",
-      "createdAt": "2026-02-18 16:18:31"
+      "title": "open-mercato/open-mercato",
+      "summary": "AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "createdAt": "2026-02-19 20:46:31"
     },
     {
-      "title": "alibaba/zvec",
-      "summary": "A lightweight, lightning-fast, in-process vector database",
-      "url": "https://github.com/alibaba/zvec",
-      "createdAt": "2026-02-18 16:18:31"
+      "title": "harvard-edge/cs249r_book",
+      "summary": "Introduction to Machine Learning Systems",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "createdAt": "2026-02-19 20:46:31"
+    },
+    {
+      "title": "HailToDodongo/pyrite64",
+      "summary": "N64 Game-Engine and Editor using libdragon &amp; tiny3d",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "createdAt": "2026-02-19 20:46:31"
     },
     {
       "title": "openclaw/openclaw",
       "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "createdAt": "2026-02-18 16:18:31"
+      "createdAt": "2026-02-19 20:46:31"
     },
     {
-      "title": "SynkraAI/aios-core",
-      "summary": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "createdAt": "2026-02-18 16:18:31"
+      "title": "freemocap/freemocap",
+      "summary": "Free Motion Capture for Everyone 💀✨",
+      "url": "https://github.com/freemocap/freemocap",
+      "createdAt": "2026-02-19 20:46:31"
     },
     {
-      "title": "ashishps1/awesome-system-design-resources",
-      "summary": "Learn System Design concepts and prepare for interviews using free resources.",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "steipete/summarize",
-      "summary": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-      "url": "https://github.com/steipete/summarize",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "hummingbot/hummingbot",
-      "summary": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-      "url": "https://github.com/hummingbot/hummingbot",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "anthropics/claude-quickstarts",
-      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "davila7/claude-code-templates",
-      "summary": "CLI tool for configuring and monitoring Claude Code",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "createdAt": "2026-02-18 16:18:31"
-    },
-    {
-      "title": "OpenCTI-Platform/opencti",
-      "summary": "Open Cyber Threat Intelligence Platform",
-      "url": "https://github.com/OpenCTI-Platform/opencti",
-      "createdAt": "2026-02-18 16:18:31"
+      "title": "p-e-w/heretic",
+      "summary": "Fully automatic censorship removal for language models",
+      "url": "https://github.com/p-e-w/heretic",
+      "createdAt": "2026-02-19 20:46:31"
     }
   ]
 }

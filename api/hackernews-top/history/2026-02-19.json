@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-19",
+  "createdAt": "2026-02-19 20:46:57",
+  "data": [
+    {
+      "id": "hackernews-top.1771505217351",
+      "lastUpdatedAt": "2026-02-19 20:46:57",
+      "data": [
+        {
+          "title": "Show HN: An encrypted, local, cross-platform journaling app",
+          "summary": "10 comments",
+          "url": "https://github.com/fjrevoredo/mini-diarium",
+          "createdAt": "2026-02-19 19:54:21",
+          "hot": 21
+        },
+        {
+          "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+          "summary": "0 comments",
+          "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+          "createdAt": "2026-02-17 01:57:46",
+          "hot": 42
+        },
+        {
+          "title": "Bridging Elixir and Python with Oban",
+          "summary": "1 comments",
+          "url": "https://oban.pro/articles/bridging-with-oban",
+          "createdAt": "2026-02-19 19:07:15",
+          "hot": 18
+        },
+        {
+          "title": "The Mongol Khans of Medieval France",
+          "summary": "2 comments",
+          "url": "https://www.historytoday.com/archive/feature/mongol-khans-medieval-france",
+          "createdAt": "2026-02-17 06:27:47",
+          "hot": 25
+        },
+        {
+          "title": "Sizing chaos",
+          "summary": "354 comments",
+          "url": "https://pudding.cool/2026/02/womens-sizing/",
+          "createdAt": "2026-02-19 05:18:20",
+          "hot": 656
+        },
+        {
+          "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+          "summary": "206 comments",
+          "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+          "createdAt": "2026-02-19 04:54:31",
+          "hot": 379
+        },
+        {
+          "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+          "summary": "6 comments",
+          "url": "https://makie.org/website/blogposts/raytracing/",
+          "createdAt": "2026-02-19 18:55:13",
+          "hot": 15
+        },
+        {
+          "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+          "summary": "51 comments",
+          "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+          "createdAt": "2026-02-19 09:46:07",
+          "hot": 140
+        },
+        {
+          "title": "Voith Schneider Propeller",
+          "summary": "6 comments",
+          "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+          "createdAt": "2026-02-16 04:22:33",
+          "hot": 25
+        },
+        {
+          "title": "Lilush – LuaJIT static runtime and shell",
+          "summary": "0 comments",
+          "url": "https://lilush.link/",
+          "createdAt": "2026-02-17 08:14:57",
+          "hot": 13
+        },
+        {
+          "title": "Old School Visual Effects: The Cloud Tank (2010)",
+          "summary": "6 comments",
+          "url": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+          "createdAt": "2026-02-19 14:43:53",
+          "hot": 44
+        },
+        {
+          "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
+          "summary": "46 comments",
+          "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+          "createdAt": "2026-02-19 10:32:00",
+          "hot": 123
+        },
+        {
+          "title": "Cosmologically Unique IDs",
+          "summary": "122 comments",
+          "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+          "createdAt": "2026-02-19 02:37:22",
+          "hot": 414
+        },
+        {
+          "title": "Anthropic officially bans using subscription auth for third party use",
+          "summary": "528 comments",
+          "url": "https://code.claude.com/docs/en/legal-and-compliance",
+          "createdAt": "2026-02-19 10:52:26",
+          "hot": 440
+        },
+        {
+          "title": "Tailscale Peer Relays is now generally available",
+          "summary": "208 comments",
+          "url": "https://tailscale.com/blog/peer-relays-ga",
+          "createdAt": "2026-02-19 00:46:12",
+          "hot": 425
+        },
+        {
+          "title": "Visualizing the ARM64 Instruction Set (2024)",
+          "summary": "8 comments",
+          "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
+          "createdAt": "2026-02-16 07:20:04",
+          "hot": 53
+        },
+        {
+          "title": "ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory",
+          "summary": "1 comments",
+          "url": "https://github.com/sstraust/shannonmax",
+          "createdAt": "2026-02-19 19:15:38",
+          "hot": 4
+        },
+        {
+          "title": "How to choose between Hindley-Milner and bidirectional typing",
+          "summary": "29 comments",
+          "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+          "createdAt": "2026-02-16 02:07:44",
+          "hot": 114
+        },
+        {
+          "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+          "summary": "191 comments",
+          "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+          "createdAt": "2026-02-19 00:28:19",
+          "hot": 347
+        },
+        {
+          "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+          "summary": "26 comments",
+          "url": "https://tempus-word.de/en/index",
+          "createdAt": "2026-02-17 02:44:12",
+          "hot": 65
+        },
+        {
+          "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+          "summary": "127 comments",
+          "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+          "createdAt": "2026-02-19 02:04:13",
+          "hot": 282
+        },
+        {
+          "title": "Fff.nvim – Typo-resistant code search",
+          "summary": "7 comments",
+          "url": "https://github.com/dmtrKovalenko/fff.nvim",
+          "createdAt": "2026-02-17 03:52:30",
+          "hot": 54
+        },
+        {
+          "title": "Antarctica sits above Earth's strongest 'gravity hole' – how it got that way",
+          "summary": "8 comments",
+          "url": "https://phys.org/news/2026-02-antarctica-earth-strongest-gravity-hole.html",
+          "createdAt": "2026-02-17 01:23:56",
+          "hot": 16
+        },
+        {
+          "title": "Show HN: A Lisp where each function call runs a Docker container",
+          "summary": "17 comments",
+          "url": "https://github.com/a11ce/docker-lisp",
+          "createdAt": "2026-02-19 12:19:20",
+          "hot": 54
+        },
+        {
+          "title": "All Look Same?",
+          "summary": "63 comments",
+          "url": "https://alllooksame.com/",
+          "createdAt": "2026-02-19 06:48:03",
+          "hot": 82
+        },
+        {
+          "title": "What years of production-grade concurrency teaches us about building AI agents",
+          "summary": "23 comments",
+          "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+          "createdAt": "2026-02-19 06:37:35",
+          "hot": 100
+        },
+        {
+          "title": "Minecraft Java is switching from OpenGL to Vulkan",
+          "summary": "110 comments",
+          "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+          "createdAt": "2026-02-19 09:55:33",
+          "hot": 236
+        },
+        {
+          "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+          "createdAt": "2026-02-19 05:00:32",
+          "hot": 1
+        },
+        {
+          "title": "The Perils of ISBN",
+          "summary": "68 comments",
+          "url": "https://rygoldstein.com/posts/perils-of-isbn",
+          "createdAt": "2026-02-19 01:34:37",
+          "hot": 135
+        },
+        {
+          "title": "A Pokémon of a Different Color",
+          "summary": "18 comments",
+          "url": "https://matthew.verive.me/blog/color/",
+          "createdAt": "2026-02-15 18:40:49",
+          "hot": 121
+        }
+      ]
+    }
+  ]
+}
