@@ -1,75 +1,75 @@
 {
-  "id": "v2ex-hot.1771505217356",
-  "lastUpdatedAt": "2026-02-19 20:46:57",
+  "id": "v2ex-hot.1771531983235",
+  "lastUpdatedAt": "2026-02-20 04:13:03",
   "data": [
-    {
-      "title": "那些工作中浏览器要打开 50+标签的人都是啥想法",
-      "url": "https://www.v2ex.com/t/1193193",
-      "imageUrl": "https://cdn.v2ex.com/gravatar/d2854fa57733b4383ec7973c3ff09125?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
-      "hot": 0
-    },
     {
       "title": "Gemini 突然删除了我所有的 conversation history",
       "url": "https://www.v2ex.com/t/1193217",
       "imageUrl": "https://cdn.v2ex.com/gravatar/428ec66235e4b165d0981c1078c824e7?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
       "title": "各位现在还在用 GPT 还是转向别的 LLM",
       "url": "https://www.v2ex.com/t/1193220",
       "imageUrl": "https://cdn.v2ex.com/avatar/64e2/6a06/199603_normal.png?m=1741594861",
-      "createdAt": "2026-02-19 20:46:31",
-      "hot": 0
-    },
-    {
-      "title": "26 年研发环境预测，更累？",
-      "url": "https://www.v2ex.com/t/1193194",
-      "imageUrl": "https://cdn.v2ex.com/avatar/3f22/feff/383743_normal.png?m=1761577916",
-      "createdAt": "2026-02-19 20:46:31",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
       "title": "书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案",
       "url": "https://www.v2ex.com/t/1193238",
       "imageUrl": "https://cdn.v2ex.com/gravatar/4825315400439f9d1d3a57f5a4f9766e?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
-      "title": "大家怎么解决 claude 封号的问题的啊",
-      "url": "https://www.v2ex.com/t/1193200",
-      "imageUrl": "https://cdn.v2ex.com/gravatar/8f34ae4dff05da22cdbfe1eb18a97beb?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
-      "hot": 0
-    },
-    {
-      "title": "BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了",
-      "url": "https://www.v2ex.com/t/1193209",
-      "imageUrl": "https://cdn.v2ex.com/gravatar/1c86f7d986de7e3e1b1f3c009fd2c807?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
+      "title": "系统逼着用户升级到底是合理的还是不合理的",
+      "url": "https://www.v2ex.com/t/1193247",
+      "imageUrl": "https://cdn.v2ex.com/avatar/3f22/feff/383743_normal.png?m=1761577916",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
       "title": "同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗",
       "url": "https://www.v2ex.com/t/1193216",
       "imageUrl": "https://cdn.v2ex.com/gravatar/fb6aa6b2506dfba8b86ccada53ae97e6?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
+      "createdAt": "2026-02-20 04:12:34",
+      "hot": 0
+    },
+    {
+      "title": "有没有免费易用的 md 编辑器推荐一下",
+      "url": "https://www.v2ex.com/t/1193229",
+      "imageUrl": "https://cdn.v2ex.com/avatar/a3a6/e4eb/232409_normal.png?m=1752113289",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
       "title": "手机的定位好坏竟然和 SIM 卡几乎没有关系",
       "url": "https://www.v2ex.com/t/1193213",
       "imageUrl": "https://cdn.v2ex.com/avatar/c2dc/24ad/710616_normal.png?m=1771468254",
-      "createdAt": "2026-02-19 20:46:31",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     },
     {
-      "title": "有 Web 生态概念但静不下心学基础 HTML，导致永远卡在入门，这种状态怎么破？",
-      "url": "https://www.v2ex.com/t/1193198",
-      "imageUrl": "https://cdn.v2ex.com/gravatar/981535eff1282216516841cfce0aa643?s=24&d=retro",
-      "createdAt": "2026-02-19 20:46:31",
+      "title": "BNBrain 进展更新：现在可以全程 AI 部署并自动验证合约到 BSCScan 了",
+      "url": "https://www.v2ex.com/t/1193209",
+      "imageUrl": "https://cdn.v2ex.com/gravatar/1c86f7d986de7e3e1b1f3c009fd2c807?s=24&d=retro",
+      "createdAt": "2026-02-20 04:12:34",
+      "hot": 0
+    },
+    {
+      "title": "[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...",
+      "url": "https://www.v2ex.com/t/1193256",
+      "imageUrl": "https://cdn.v2ex.com/gravatar/00bd2c459f1285d4caca2033c21eab77?s=24&d=retro",
+      "createdAt": "2026-02-20 04:12:34",
+      "hot": 0
+    },
+    {
+      "title": "被裁员玩了快一年了",
+      "url": "https://www.v2ex.com/t/1193233",
+      "imageUrl": "https://cdn.v2ex.com/gravatar/1791bcba01f9477915470df7ef86b741?s=24&d=retro",
+      "createdAt": "2026-02-20 04:12:34",
       "hot": 0
     }
   ]
