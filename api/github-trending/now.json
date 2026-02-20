@@ -1,54 +1,54 @@
 {
-  "id": "github-trending.1771562299063",
-  "lastUpdatedAt": "2026-02-20 12:38:19",
+  "id": "github-trending.1771575505975",
+  "lastUpdatedAt": "2026-02-20 16:18:25",
   "data": [
     {
       "title": "obra/superpowers",
       "summary": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "RichardAtCT/claude-code-telegram",
       "summary": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
       "url": "https://github.com/RichardAtCT/claude-code-telegram",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "open-mercato/open-mercato",
       "summary": "AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
       "url": "https://github.com/open-mercato/open-mercato",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "harvard-edge/cs249r_book",
       "summary": "Introduction to Machine Learning Systems",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "HailToDodongo/pyrite64",
       "summary": "N64 Game-Engine and Editor using libdragon &amp; tiny3d",
       "url": "https://github.com/HailToDodongo/pyrite64",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "openclaw/openclaw",
       "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "url": "https://github.com/openclaw/openclaw",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "freemocap/freemocap",
       "summary": "Free Motion Capture for Everyone 💀✨",
       "url": "https://github.com/freemocap/freemocap",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     },
     {
       "title": "p-e-w/heretic",
       "summary": "Fully automatic censorship removal for language models",
       "url": "https://github.com/p-e-w/heretic",
-      "createdAt": "2026-02-20 12:38:01"
+      "createdAt": "2026-02-20 16:18:04"
     }
   ]
 }

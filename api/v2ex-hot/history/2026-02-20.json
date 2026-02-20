@@ -229,6 +229,82 @@
           "hot": 0
         }
       ]
+    },
+    {
+      "id": "v2ex-hot.1771575505981",
+      "lastUpdatedAt": "2026-02-20 16:18:25",
+      "data": [
+        {
+          "title": "系统逼着用户升级到底是合理的还是不合理的",
+          "url": "https://www.v2ex.com/t/1193247",
+          "imageUrl": "https://cdn.v2ex.com/avatar/3f22/feff/383743_normal.png?m=1761577916",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案",
+          "url": "https://www.v2ex.com/t/1193238",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/4825315400439f9d1d3a57f5a4f9766e?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "AI 能力大幅提升后，我们大部分人是不是躺平就可以了？",
+          "url": "https://www.v2ex.com/t/1193282",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/b904f10a521653b0a627e5378884a0c8?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...",
+          "url": "https://www.v2ex.com/t/1193256",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/00bd2c459f1285d4caca2033c21eab77?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "GLM5.0 一分钟不到， Lite 跟 Pro 都抢完了怎么回事",
+          "url": "https://www.v2ex.com/t/1193276",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/915fb2de310e47678e909d08946e9a45?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "介绍一下大一学生使用 Flutter+Rust 开发的一站式学习工作台",
+          "url": "https://www.v2ex.com/t/1193243",
+          "imageUrl": "https://cdn.v2ex.com/avatar/668c/6329/412745_normal.png?m=1771520468",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "不是，这就是吹的很火的 codex 5.3 吗？我才第一次体验就把我文件清空了。。",
+          "url": "https://www.v2ex.com/t/1193244",
+          "imageUrl": "https://cdn.v2ex.com/avatar/0967/0840/262810_normal.png?m=1767409426",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "顺风车从开始到放弃",
+          "url": "https://www.v2ex.com/t/1193284",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/89098de9956980517c8418995d52cd33?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "美团总是创建桌面广告",
+          "url": "https://www.v2ex.com/t/1193239",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/ba8a4d5bd3366f39b95db974e914e2da?s=24&d=retro",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        },
+        {
+          "title": "分享一个自己开发的 4 平台代理客户端：通途",
+          "url": "https://www.v2ex.com/t/1193252",
+          "imageUrl": "https://cdn.v2ex.com/avatar/aaeb/7f98/392603_normal.png?m=1771503070",
+          "createdAt": "2026-02-20 16:18:05",
+          "hot": 0
+        }
+      ]
     }
   ]
 }
