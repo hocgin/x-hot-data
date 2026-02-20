@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-21",
+  "createdAt": "2026-02-21 00:15:41",
+  "data": [
+    {
+      "id": "hackernews-top.1771604141887",
+      "lastUpdatedAt": "2026-02-21 00:15:41",
+      "data": [
+        {
+          "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+          "summary": "57 comments",
+          "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+          "createdAt": "2026-02-20 21:51:04",
+          "hot": 268
+        },
+        {
+          "title": "I found a useful Git one liner buried in leaked CIA developer docs",
+          "summary": "108 comments",
+          "url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
+          "createdAt": "2026-02-20 22:03:06",
+          "hot": 206
+        },
+        {
+          "title": "Child's Play: Tech's new generation and the end of thinking",
+          "summary": "29 comments",
+          "url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+          "createdAt": "2026-02-20 22:48:34",
+          "hot": 49
+        },
+        {
+          "title": "Trump's global tariffs struck down by US Supreme Court",
+          "summary": "158 comments",
+          "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+          "createdAt": "2026-02-20 23:27:38",
+          "hot": 251
+        },
+        {
+          "title": "The path to ubiquitous AI (17k tokens/sec)",
+          "summary": "280 comments",
+          "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+          "createdAt": "2026-02-20 18:32:52",
+          "hot": 434
+        },
+        {
+          "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+          "summary": "44 comments",
+          "url": "https://github.com/IronsideXXVI/Hacker-News",
+          "createdAt": "2026-02-20 22:02:05",
+          "hot": 81
+        },
+        {
+          "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+          "summary": "19 comments",
+          "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+          "createdAt": "2026-02-20 16:52:17",
+          "hot": 117
+        },
+        {
+          "title": "PayPal discloses data breach that exposed user info for 6 months",
+          "summary": "17 comments",
+          "url": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+          "createdAt": "2026-02-20 21:22:32",
+          "hot": 94
+        },
+        {
+          "title": "Web Components: The Framework-Free Renaissance",
+          "summary": "72 comments",
+          "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+          "createdAt": "2026-02-20 16:45:57",
+          "hot": 115
+        },
+        {
+          "title": "Minions – Stripe's Coding Agents Part 2",
+          "summary": "40 comments",
+          "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+          "createdAt": "2026-02-20 19:20:02",
+          "hot": 82
+        },
+        {
+          "title": "Mothers (YC X26) Is Hiring",
+          "summary": "0 comments",
+          "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+          "createdAt": "2026-02-20 21:44:42",
+          "hot": 1
+        },
+        {
+          "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+          "summary": "2 comments",
+          "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+          "createdAt": "2026-02-16 10:58:55",
+          "hot": 29
+        },
+        {
+          "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+          "summary": "63 comments",
+          "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+          "createdAt": "2026-02-20 12:15:58",
+          "hot": 170
+        },
+        {
+          "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+          "summary": "18 comments",
+          "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
+          "createdAt": "2026-02-20 16:48:05",
+          "hot": 83
+        },
+        {
+          "title": "AI is not a coworker, it's an exoskeleton",
+          "summary": "401 comments",
+          "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+          "createdAt": "2026-02-20 03:55:11",
+          "hot": 392
+        },
+        {
+          "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+          "summary": "166 comments",
+          "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+          "createdAt": "2026-02-17 11:23:16",
+          "hot": 380
+        },
+        {
+          "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+          "summary": "52 comments",
+          "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+          "createdAt": "2026-02-20 13:06:40",
+          "hot": 105
+        },
+        {
+          "title": "The Popper Principle",
+          "summary": "1 comments",
+          "url": "https://theamericanscholar.org/the-popper-principle/",
+          "createdAt": "2026-02-19 19:52:49",
+          "hot": 9
+        },
+        {
+          "title": "Notes on Clarifying Man Pages",
+          "summary": "21 comments",
+          "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
+          "createdAt": "2026-02-19 04:30:22",
+          "hot": 37
+        },
+        {
+          "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+          "summary": "186 comments",
+          "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+          "createdAt": "2026-02-20 20:04:35",
+          "hot": 220
+        },
+        {
+          "title": "Show HN: Micasa – track your house from the terminal",
+          "summary": "191 comments",
+          "url": "https://micasa.dev",
+          "createdAt": "2026-02-19 23:54:14",
+          "hot": 600
+        },
+        {
+          "title": "FreeCAD",
+          "summary": "122 comments",
+          "url": "https://www.freecad.org/index.php",
+          "createdAt": "2026-02-17 20:57:38",
+          "hot": 304
+        },
+        {
+          "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+          "summary": "769 comments",
+          "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+          "createdAt": "2026-02-19 06:25:13",
+          "hot": 400
+        },
+        {
+          "title": "I tried building my startup entirely on European infrastructure",
+          "summary": "299 comments",
+          "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+          "createdAt": "2026-02-20 17:02:05",
+          "hot": 561
+        },
+        {
+          "title": "Silicon Valley engineers were indicted for allegedly sending secrets to Iran",
+          "summary": "45 comments",
+          "url": "https://www.cnbc.com/2026/02/20/three-engineers-charged-stealing-google-trade-secrets-data-iran-soc-snapdragon.html",
+          "createdAt": "2026-02-20 18:50:58",
+          "hot": 80
+        },
+        {
+          "title": "A beginner's guide to split keyboards",
+          "summary": "211 comments",
+          "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+          "createdAt": "2026-02-16 08:31:01",
+          "hot": 195
+        },
+        {
+          "title": "Fast KV Compaction via Attention Matching",
+          "summary": "11 comments",
+          "url": "https://arxiv.org/abs/2602.16284",
+          "createdAt": "2026-02-20 12:46:37",
+          "hot": 56
+        },
+        {
+          "title": "Gemini 3.1 Pro",
+          "summary": "863 comments",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+          "createdAt": "2026-02-19 23:19:57",
+          "hot": 885
+        },
+        {
+          "title": "Defer available in gcc and clang",
+          "summary": "208 comments",
+          "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+          "createdAt": "2026-02-16 13:27:35",
+          "hot": 235
+        },
+        {
+          "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+          "summary": "84 comments",
+          "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+          "createdAt": "2026-02-20 09:33:36",
+          "hot": 103
+        }
+      ]
+    }
+  ]
+}
