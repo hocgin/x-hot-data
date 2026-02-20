@@ -865,6 +865,222 @@
           "hot": 101
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771589851720",
+      "lastUpdatedAt": "2026-02-20 20:17:31",
+      "data": [
+        {
+          "title": "The path to ubiquitous AI (17k tokens/sec)",
+          "summary": "96 comments",
+          "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+          "createdAt": "2026-02-20 18:32:52",
+          "hot": 132
+        },
+        {
+          "title": "Minions – Stripe's Coding Agents Part 2",
+          "summary": "8 comments",
+          "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+          "createdAt": "2026-02-20 19:20:02",
+          "hot": 11
+        },
+        {
+          "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+          "summary": "4 comments",
+          "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+          "createdAt": "2026-02-20 16:52:17",
+          "hot": 30
+        },
+        {
+          "title": "Gemini 3.1 Pro",
+          "summary": "834 comments",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+          "createdAt": "2026-02-19 23:19:57",
+          "hot": 811
+        },
+        {
+          "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+          "summary": "47 comments",
+          "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+          "createdAt": "2026-02-20 12:15:58",
+          "hot": 139
+        },
+        {
+          "title": "Defer available in gcc and clang",
+          "summary": "140 comments",
+          "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+          "createdAt": "2026-02-16 13:27:35",
+          "hot": 192
+        },
+        {
+          "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
+          "createdAt": "2026-02-20 20:01:14",
+          "hot": 1
+        },
+        {
+          "title": "Web Components: The Framework-Free Renaissance",
+          "summary": "17 comments",
+          "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+          "createdAt": "2026-02-20 16:45:57",
+          "hot": 25
+        },
+        {
+          "title": "I tried building my startup entirely on European infrastructure",
+          "summary": "192 comments",
+          "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+          "createdAt": "2026-02-20 17:02:05",
+          "hot": 354
+        },
+        {
+          "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+          "summary": "40 comments",
+          "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+          "createdAt": "2026-02-20 13:06:40",
+          "hot": 75
+        },
+        {
+          "title": "AI is not a coworker, it's an exoskeleton",
+          "summary": "346 comments",
+          "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+          "createdAt": "2026-02-20 03:55:11",
+          "hot": 299
+        },
+        {
+          "title": "Notes on Clarifying Man Pages",
+          "summary": "5 comments",
+          "url": "https://jvns.ca/blog/2026/02/18/man-pages/",
+          "createdAt": "2026-02-19 04:30:22",
+          "hot": 12
+        },
+        {
+          "title": "FreeCAD",
+          "summary": "70 comments",
+          "url": "https://www.freecad.org/index.php",
+          "createdAt": "2026-02-17 20:57:38",
+          "hot": 210
+        },
+        {
+          "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+          "summary": "130 comments",
+          "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+          "createdAt": "2026-02-17 11:23:16",
+          "hot": 291
+        },
+        {
+          "title": "Show HN: Micasa – track your house from the terminal",
+          "summary": "184 comments",
+          "url": "https://micasa.dev",
+          "createdAt": "2026-02-19 23:54:14",
+          "hot": 572
+        },
+        {
+          "title": "Raspberry Pi Pico 2 at 873.5MHz with 3.05V Core Abuse",
+          "summary": "2 comments",
+          "url": "https://learn.pimoroni.com/article/overclocking-the-pico-2",
+          "createdAt": "2026-02-20 16:48:05",
+          "hot": 30
+        },
+        {
+          "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+          "summary": "618 comments",
+          "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+          "createdAt": "2026-02-19 06:25:13",
+          "hot": 355
+        },
+        {
+          "title": "Fast KV Compaction via Attention Matching",
+          "summary": "1 comments",
+          "url": "https://arxiv.org/abs/2602.16284",
+          "createdAt": "2026-02-20 12:46:37",
+          "hot": 39
+        },
+        {
+          "title": "Pi for Excel: AI sidebar add-in for Excel",
+          "summary": "24 comments",
+          "url": "https://github.com/tmustier/pi-for-excel",
+          "createdAt": "2026-02-20 10:20:06",
+          "hot": 82
+        },
+        {
+          "title": "A beginner's guide to split keyboards",
+          "summary": "171 comments",
+          "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+          "createdAt": "2026-02-16 08:31:01",
+          "hot": 159
+        },
+        {
+          "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+          "summary": "73 comments",
+          "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+          "createdAt": "2026-02-20 09:33:36",
+          "hot": 78
+        },
+        {
+          "title": "America vs. Singapore: You can't save your way out of economic shocks",
+          "summary": "422 comments",
+          "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+          "createdAt": "2026-02-19 22:52:18",
+          "hot": 288
+        },
+        {
+          "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+          "summary": "350 comments",
+          "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+          "createdAt": "2026-02-20 11:05:08",
+          "hot": 409
+        },
+        {
+          "title": "SwiftUI Agent Skill: Build Better Views with AI",
+          "summary": "1 comments",
+          "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
+          "createdAt": "2026-02-20 18:31:17",
+          "hot": 16
+        },
+        {
+          "title": "Micropayments as a reality check for news sites",
+          "summary": "348 comments",
+          "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+          "createdAt": "2026-02-20 03:42:31",
+          "hot": 167
+        },
+        {
+          "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+          "summary": "40 comments",
+          "url": "https://github.com/Veirt/weathr",
+          "createdAt": "2026-02-20 01:47:25",
+          "hot": 226
+        },
+        {
+          "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+          "summary": "65 comments",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "createdAt": "2026-02-20 05:30:04",
+          "hot": 146
+        },
+        {
+          "title": "Paged Out Issue #8 [pdf]",
+          "summary": "60 comments",
+          "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+          "createdAt": "2026-02-19 20:13:44",
+          "hot": 400
+        },
+        {
+          "title": "Show HN: Write native binary web apps with TypeScript and Express",
+          "summary": "1 comments",
+          "url": "https://github.com/tsoniclang/express",
+          "createdAt": "2026-02-16 22:07:26",
+          "hot": 10
+        },
+        {
+          "title": "Spell Checking a Year's Worth of Hacker News",
+          "summary": "10 comments",
+          "url": "https://fi-le.net/spell/",
+          "createdAt": "2026-02-18 15:35:12",
+          "hot": 8
+        }
+      ]
     }
   ]
 }
