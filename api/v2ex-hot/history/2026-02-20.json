@@ -77,6 +77,82 @@
           "hot": 0
         }
       ]
+    },
+    {
+      "id": "v2ex-hot.1771547665118",
+      "lastUpdatedAt": "2026-02-20 08:34:25",
+      "data": [
+        {
+          "title": "Gemini 突然删除了我所有的 conversation history",
+          "url": "https://www.v2ex.com/t/1193217",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/428ec66235e4b165d0981c1078c824e7?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "各位现在还在用 GPT 还是转向别的 LLM",
+          "url": "https://www.v2ex.com/t/1193220",
+          "imageUrl": "https://cdn.v2ex.com/avatar/64e2/6a06/199603_normal.png?m=1741594861",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "书房桌子小， Studio Display 想接两台主机（Mac Mini + Win 4090），求方案",
+          "url": "https://www.v2ex.com/t/1193238",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/4825315400439f9d1d3a57f5a4f9766e?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "系统逼着用户升级到底是合理的还是不合理的",
+          "url": "https://www.v2ex.com/t/1193247",
+          "imageUrl": "https://cdn.v2ex.com/avatar/3f22/feff/383743_normal.png?m=1761577916",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "同级别年限差不多的测试 QA 薪资比开发高，你觉得合理吗",
+          "url": "https://www.v2ex.com/t/1193216",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/fb6aa6b2506dfba8b86ccada53ae97e6?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "有没有免费易用的 md 编辑器推荐一下",
+          "url": "https://www.v2ex.com/t/1193229",
+          "imageUrl": "https://cdn.v2ex.com/avatar/a3a6/e4eb/232409_normal.png?m=1752113289",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "手机的定位好坏竟然和 SIM 卡几乎没有关系",
+          "url": "https://www.v2ex.com/t/1193213",
+          "imageUrl": "https://cdn.v2ex.com/avatar/c2dc/24ad/710616_normal.png?m=1771468254",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "[吐槽] 零基础靠 AI 搓了个佳能打印小程序，自己还没用热乎就被微信永封了...",
+          "url": "https://www.v2ex.com/t/1193256",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/00bd2c459f1285d4caca2033c21eab77?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "被裁员玩了快一年了",
+          "url": "https://www.v2ex.com/t/1193233",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/1791bcba01f9477915470df7ef86b741?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        },
+        {
+          "title": "美团总是创建桌面广告",
+          "url": "https://www.v2ex.com/t/1193239",
+          "imageUrl": "https://cdn.v2ex.com/gravatar/ba8a4d5bd3366f39b95db974e914e2da?s=24&d=retro",
+          "createdAt": "2026-02-20 08:33:57",
+          "hot": 0
+        }
+      ]
     }
   ]
 }
