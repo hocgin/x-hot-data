@@ -713,6 +713,362 @@
           "hot": 2164
         }
       ]
+    },
+    {
+      "id": "csdn-hot.1771562299036",
+      "lastUpdatedAt": "2026-02-20 12:38:19",
+      "data": [
+        {
+          "title": "当AI遇见架构：Vibe Coding时代的设计模式复兴",
+          "summary": "作者: 郝学胜-神的一滴",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/158154168",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 28742
+        },
+        {
+          "title": "《MySQL 权限与访问进阶：普通用户搭建、跨端登录及 C/C++ 开发对接教程》",
+          "summary": "作者: 雾非雾の迷惘",
+          "url": "https://blog.csdn.net/Dovis5884/article/details/156240906",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 24613
+        },
+        {
+          "title": "A / B测试太慢？AI帮你实时优化实验策略",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157904258",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 21219
+        },
+        {
+          "title": "【C#】.net 6.0和8.0有什么区别，以及8.0增加了那些功能，这些功能有那些作用",
+          "summary": "作者: 全栈小5",
+          "url": "https://blog.csdn.net/lmy_520/article/details/155489328",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 16732
+        },
+        {
+          "title": "ARM Linux 驱动开发篇---Linux 设备树（DTS）语法-- Ubuntu20.04",
+          "summary": "作者: 渡水无言",
+          "url": "https://blog.csdn.net/weixin_61186812/article/details/158179730",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 15829
+        },
+        {
+          "title": "Transformer架构进化：从BERT到GPT-4，大语言模型如何重塑AI技术栈",
+          "summary": "作者: .摘星.",
+          "url": "https://blog.csdn.net/IRpickstars/article/details/158205703",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 14020
+        },
+        {
+          "title": "电影《惊蛰无声》迅雷下载[MP4/2.92GB/6.35GB]高清加长版共享[HD1280p中字已更新]",
+          "summary": "作者: lrkem",
+          "url": "https://blog.csdn.net/lrkem/article/details/158153845",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 10959
+        },
+        {
+          "title": "车道线检测：传统计算机视觉在自动驾驶中的应用",
+          "summary": "作者: Testopia",
+          "url": "https://blog.csdn.net/u013426468/article/details/158072328",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 8314
+        },
+        {
+          "title": "AI编程时代：发挥Rules约束在Vibe-Coding的重要作用",
+          "summary": "作者: 晔子yy",
+          "url": "https://blog.csdn.net/gdpu2400502251/article/details/158152954",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 7865
+        },
+        {
+          "title": "【金仓数据库】ksql 指南（七） —— 启动和管理事务（KingbaseES 数据一致性保障）",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158180337",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 7531
+        },
+        {
+          "title": "Modbus协议与RS-485的结合：工业通信的完美搭档",
+          "summary": "作者: 一个平凡而乐于分享的小比特",
+          "url": "https://blog.csdn.net/qq_44647100/article/details/157940367",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 6863
+        },
+        {
+          "title": "LLM -Awesome OpenClaw Skills：给本地 AI 助手装一个「超级插件市场」",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/158182209",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 6704
+        },
+        {
+          "title": "10-算力中心运维三剑客：Ansible + Jenkins + K8s 高效实战",
+          "summary": "作者: 迎仔",
+          "url": "https://blog.csdn.net/parker1234/article/details/158156158",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 6545
+        },
+        {
+          "title": "Sentinel + Spring Cloud Gateway 联动限流实战",
+          "summary": "作者: 递归尽头是星辰",
+          "url": "https://blog.csdn.net/qq_24597659/article/details/158156479",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 5701
+        },
+        {
+          "title": "微分中值定理与导数的应用",
+          "summary": "作者: 软件架构师何志丹",
+          "url": "https://blog.csdn.net/he_zhidan/article/details/158006035",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 5596
+        },
+        {
+          "title": "AI 如何改变传统 鸿蒙App 的信息架构",
+          "summary": "作者: 子玥酱",
+          "url": "https://blog.csdn.net/qq_36863796/article/details/158127990",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 5490
+        },
+        {
+          "title": "数据库MySQL兼容版权限隔离深度体验：从兼容到安全增强的实战之路",
+          "summary": "作者: 程序边界",
+          "url": "https://blog.csdn.net/qq_32682301/article/details/158206117",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4725
+        },
+        {
+          "title": "【HarmonyOS】RN_of_HarmonyOS实战项目_自动完成功能",
+          "summary": "作者: 果粒蹬i",
+          "url": "https://blog.csdn.net/2301_81152266/article/details/158210902",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4620
+        },
+        {
+          "title": "Flutter for OpenHarmony: Flutter 三方库 cryptography 在鸿蒙上实现金融级现代加解密（高性能安全库）",
+          "summary": "作者: 王码码2035",
+          "url": "https://blog.csdn.net/baronbool/article/details/158181993",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4435
+        },
+        {
+          "title": "【RFCOMM】协议深度解析[5]：RFCOMM 媒体适配解密——GSM 07.10 帧如何适配蓝牙无线传输",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/158098796",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4356
+        },
+        {
+          "title": "Android tinyalsa深度解析之pcm_ioctl调用流程与实战(一百二十)",
+          "summary": "作者: Android系统攻城狮",
+          "url": "https://blog.csdn.net/u010164190/article/details/158012749",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4301
+        },
+        {
+          "title": "使用 Elasticsearch 和神经模型为复杂语言提供更好的文本分析",
+          "summary": "作者: Elastic 中国社区官方博客",
+          "url": "https://blog.csdn.net/UbuntuTouch/article/details/158205814",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4267
+        },
+        {
+          "title": " 集成测试实战：构建可靠的测试金字塔体系",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/158209304",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4233
+        },
+        {
+          "title": "信道管理模块",
+          "summary": "作者: Ronin305",
+          "url": "https://blog.csdn.net/2402_82670467/article/details/158156716",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4177
+        },
+        {
+          "title": "机器人未来会发展出自我意识吗？",
+          "summary": "作者: 向上的车轮",
+          "url": "https://blog.csdn.net/ChailangCompany/article/details/158183603",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 4014
+        },
+        {
+          "title": "【VLM】Qwen3-VL模型架构和训练流程",
+          "summary": "作者: 山顶夕景",
+          "url": "https://blog.csdn.net/qq_35812205/article/details/153579551",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3972
+        },
+        {
+          "title": "春节禁放烟花后空气质量如何？湖南与新疆实证对比",
+          "summary": "作者: 夜郎king",
+          "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/158182347",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3815
+        },
+        {
+          "title": "AI作曲进入一句话时代：谷歌Gemini推出音乐模型",
+          "summary": "作者: systeminof",
+          "url": "https://blog.csdn.net/systeminof/article/details/158206604",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3814
+        },
+        {
+          "title": "【UUV编队控制】UUV编队控制中PID控制器设计研究附Matlab代码",
+          "summary": "作者: Matlab科研辅导帮",
+          "url": "https://blog.csdn.net/m0_60703264/article/details/158207174",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3468
+        },
+        {
+          "title": "渗透测试——Raven2靶机横向提权详细过程（PHPMailer框架利用，UDF提取）",
+          "summary": "作者: m0_73812072",
+          "url": "https://blog.csdn.net/m0_73812072/article/details/158179595",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3343
+        },
+        {
+          "title": "DAY4 基于 OpenClaw + 飞书开放平台实现 AI 新闻推送机器人",
+          "summary": "作者: zhangxp1234",
+          "url": "https://blog.csdn.net/m0_74451345/article/details/158179223",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3306
+        },
+        {
+          "title": "【Linux系统】磁盘ext文件系统与软硬链接",
+          "summary": "作者: 落羽的落羽",
+          "url": "https://blog.csdn.net/2402_86681376/article/details/158127192",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3294
+        },
+        {
+          "title": "【花雕学编程】Arduino BLDC 之自适应阻抗控制的外骨骼机器人",
+          "summary": "作者: 驴友花雕",
+          "url": "https://blog.csdn.net/weixin_41659040/article/details/158233457",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3259
+        },
+        {
+          "title": "【Linux】网络进阶：内网穿透、DNS与ICMP实战",
+          "summary": "作者: 半截诗​",
+          "url": "https://blog.csdn.net/2301_79849925/article/details/158103269",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3157
+        },
+        {
+          "title": "Windows11基于WSL2首次运行Openclaw，并对接飞书应用",
+          "summary": "作者: tinygone",
+          "url": "https://blog.csdn.net/tinygone/article/details/158183882",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3086
+        },
+        {
+          "title": "SpringBoot vs SpringMVC：以及SpringBoot的全流程开发（1）",
+          "summary": "作者: 北极的代码",
+          "url": "https://blog.csdn.net/chen_si_shang_/article/details/158208641",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3068
+        },
+        {
+          "title": "Spring AI Tool Calling（工具调用）详解——让大模型拥有“动手能力“",
+          "summary": "作者: callNull",
+          "url": "https://blog.csdn.net/cjejwe/article/details/158207744",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 3000
+        },
+        {
+          "title": "丰田正在使用 Flutter 开发游戏引擎 Fluorite",
+          "summary": "作者: 恋猫de小郭",
+          "url": "https://blog.csdn.net/ZuoYueLiang/article/details/158156817",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2768
+        },
+        {
+          "title": "本地部署中文OpenClaw 飞书机器人部署指南",
+          "summary": "作者: Neolnfra",
+          "url": "https://blog.csdn.net/cccxcmm/article/details/158211560",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2700
+        },
+        {
+          "title": "Flutter for OpenHarmony: Flutter 三方库 plugin_platform_interface 规范鸿蒙插件跨端接口契约（插件开发标准指南）",
+          "summary": "作者: 键盘鼓手苏苏",
+          "url": "https://blog.csdn.net/2609_95049439/article/details/158211311",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2519
+        },
+        {
+          "title": "电影《飞驰人生3》迅雷BT完整下载[5.68GB/7.56GB][HD1280P高清版磁力资源]",
+          "summary": "作者: kewelc",
+          "url": "https://blog.csdn.net/kewelc/article/details/158152644",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2512
+        },
+        {
+          "title": "如何将SQLFlow工具产生的血缘导入到Datahub平台中",
+          "summary": "作者: 与衫",
+          "url": "https://blog.csdn.net/qq_28822933/article/details/158182134",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2495
+        },
+        {
+          "title": "Flutter for OpenHarmony: Flutter 三方库 hashlib 为鸿蒙应用提供军用级加密哈希算法支持（安全数据完整性卫士）",
+          "summary": "作者: 左手厨刀右手茼蒿",
+          "url": "https://blog.csdn.net/jiang_style/article/details/158211015",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2488
+        },
+        {
+          "title": "2026年春节后，AI大模型格局彻底变了——Claude 4.6、GPT-5.2与六大国产模型全面横评",
+          "summary": "作者: 智算菩萨",
+          "url": "https://blog.csdn.net/nmdbbzcl/article/details/158205652",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2464
+        },
+        {
+          "title": "2026年OpenClaw（Clawdbot）阿里云搭建全流程深度解读版",
+          "summary": "作者: yunfuuwqi",
+          "url": "https://blog.csdn.net/yunfuuwqi/article/details/158207753",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2444
+        },
+        {
+          "title": "城市化进程与审美水平的动力学",
+          "summary": "作者: dog250",
+          "url": "https://blog.csdn.net/dog250/article/details/158184105",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2274
+        },
+        {
+          "title": "Flutter for OpenHarmony：zxing2 纯 Dart 条码扫描与生成库（不仅是扫码，更是编解码引擎） 深度解析与鸿蒙适配指南",
+          "summary": "作者: 亚历克斯神",
+          "url": "https://blog.csdn.net/alex_goden/article/details/158211442",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2252
+        },
+        {
+          "title": "解密OpenClaw系列10-OpenClawSparkle框架集成",
+          "summary": "作者: 带娃的IT创业者",
+          "url": "https://blog.csdn.net/yweng18/article/details/158184271",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2240
+        },
+        {
+          "title": "ZAB 协议深度解析：ZooKeeper 分布式一致性的核心",
+          "summary": "作者: only-qi",
+          "url": "https://blog.csdn.net/guoqi_666/article/details/158183697",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2188
+        },
+        {
+          "title": "对于linux形成整体性的认识",
+          "summary": "作者: invicinble",
+          "url": "https://blog.csdn.net/safsdfooo/article/details/158155256",
+          "createdAt": "2026-02-20 12:38:03",
+          "hot": 2122
+        }
+      ]
     }
   ]
 }

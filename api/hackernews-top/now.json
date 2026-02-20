@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771547665082",
-  "lastUpdatedAt": "2026-02-20 08:34:25",
+  "id": "hackernews-top.1771562299026",
+  "lastUpdatedAt": "2026-02-20 12:38:19",
   "data": [
     {
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "summary": "35 comments",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "createdAt": "2026-02-20 09:28:47",
+      "hot": 96
+    },
+    {
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "summary": "99 comments",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "createdAt": "2026-02-20 11:05:08",
+      "hot": 167
+    },
+    {
       "title": "Gemini 3.1 Pro",
-      "summary": "670 comments",
+      "summary": "736 comments",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
       "createdAt": "2026-02-19 23:19:57",
-      "hot": 471
+      "hot": 604
+    },
+    {
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "summary": "32 comments",
+      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "createdAt": "2026-02-20 09:33:36",
+      "hot": 32
     },
     {
       "title": "Show HN: Micasa – track your house from the terminal",
-      "summary": "124 comments",
+      "summary": "154 comments",
       "url": "https://micasa.dev",
       "createdAt": "2026-02-19 23:54:14",
-      "hot": 402
+      "hot": 487
     },
     {
-      "title": "Micropayments as a reality check for news sites",
-      "summary": "222 comments",
-      "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
-      "createdAt": "2026-02-20 03:42:31",
-      "hot": 102
+      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "summary": "1 comments",
+      "url": "https://github.com/tmustier/pi-for-excel",
+      "createdAt": "2026-02-20 10:20:06",
+      "hot": 20
     },
     {
-      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-      "summary": "38 comments",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "createdAt": "2026-02-20 05:30:04",
-      "hot": 76
-    },
-    {
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "summary": "20 comments",
-      "url": "https://github.com/Veirt/weathr",
-      "createdAt": "2026-02-20 01:47:25",
-      "hot": 143
-    },
-    {
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "summary": "300 comments",
-      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-      "createdAt": "2026-02-19 22:52:18",
-      "hot": 198
-    },
-    {
-      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
-      "summary": "21 comments",
-      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
-      "createdAt": "2026-02-20 02:31:50",
-      "hot": 68
-    },
-    {
-      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "summary": "114 comments",
-      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
-      "createdAt": "2026-02-19 06:25:13",
-      "hot": 129
-    },
-    {
-      "title": "Paged Out Issue #8 [pdf]",
-      "summary": "50 comments",
-      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
-      "createdAt": "2026-02-19 20:13:44",
-      "hot": 296
-    },
-    {
-      "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
-      "summary": "0 comments",
-      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-      "createdAt": "2026-02-17 11:23:16",
-      "hot": 10
-    },
-    {
-      "title": "Pebble Production: February Update",
-      "summary": "121 comments",
-      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "createdAt": "2026-02-19 20:36:00",
-      "hot": 259
-    },
-    {
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "summary": "225 comments",
-      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "createdAt": "2026-02-20 04:56:23",
-      "hot": 262
-    },
-    {
-      "title": "Dinosaur Food: 100M year old foods we still eat today (2022)",
-      "summary": "81 comments",
-      "url": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-      "createdAt": "2026-02-19 23:30:42",
-      "hot": 91
-    },
-    {
-      "title": "Single vaccine could protect against all coughs, colds and flus",
-      "summary": "56 comments",
-      "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-      "createdAt": "2026-02-20 06:08:24",
-      "hot": 83
-    },
-    {
-      "title": "My 1981 adventure game is now a multimedia extravaganza",
-      "summary": "15 comments",
-      "url": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
-      "createdAt": "2026-02-17 06:35:50",
-      "hot": 52
-    },
-    {
-      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-      "summary": "74 comments",
-      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-      "createdAt": "2026-02-17 01:57:46",
-      "hot": 175
-    },
-    {
-      "title": "Overall, the colorectal cancer story is encouraging",
-      "summary": "88 comments",
-      "url": "https://www.hankgreen.com/crc",
-      "createdAt": "2026-02-20 04:32:09",
-      "hot": 94
-    },
-    {
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "summary": "140 comments",
-      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "createdAt": "2026-02-20 03:55:11",
-      "hot": 129
-    },
-    {
-      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-      "summary": "60 comments",
-      "url": "https://makie.org/website/blogposts/raytracing/",
-      "createdAt": "2026-02-19 18:55:13",
-      "hot": 157
-    },
-    {
-      "title": "Measuring AI agent autonomy in practice",
-      "summary": "34 comments",
-      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-      "createdAt": "2026-02-19 22:14:14",
-      "hot": 73
-    },
-    {
-      "title": "Type-based alias analysis in the Toy Optimizer",
-      "summary": "0 comments",
-      "url": "https://bernsteinbear.com/blog/toy-tbaa/",
-      "createdAt": "2026-02-17 02:37:39",
-      "hot": 7
-    },
-    {
-      "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
-      "summary": "50 comments",
-      "url": "https://github.com/fjrevoredo/mini-diarium",
-      "createdAt": "2026-02-19 19:54:21",
-      "hot": 106
-    },
-    {
-      "title": "AI makes you boring",
-      "summary": "289 comments",
-      "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-      "createdAt": "2026-02-20 02:12:16",
-      "hot": 516
-    },
-    {
-      "title": "Coding Tricks Used in the C64 Game Seawolves (2025)",
-      "summary": "17 comments",
-      "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
-      "createdAt": "2026-02-19 20:24:33",
-      "hot": 118
-    },
-    {
-      "title": "Zero downtime migrations at petabyte scale (2024)",
-      "summary": "16 comments",
-      "url": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
-      "createdAt": "2026-02-17 01:35:00",
-      "hot": 78
-    },
-    {
-      "title": "Mark Zuckerberg grilled on usage goals and underage users at California trial",
-      "summary": "88 comments",
-      "url": "https://www.wsj.com/us-news/law/meta-mark-zuckerberg-social-media-trial-0e9a7fa0",
-      "createdAt": "2026-02-20 00:07:14",
-      "hot": 156
-    },
-    {
-      "title": "Level of Detail",
-      "summary": "3 comments",
-      "url": "https://phinze.com/writing/level-of-detail",
-      "createdAt": "2026-02-18 00:14:50",
+      "title": "Lindenmayer.jl: Defining recursive patterns in Julia",
+      "summary": "2 comments",
+      "url": "https://cormullion.github.io/Lindenmayer.jl/stable/",
+      "createdAt": "2026-02-16 22:49:24",
       "hot": 26
     },
     {
-      "title": "Farewell, Rust for web",
-      "summary": "106 comments",
-      "url": "https://yieldcode.blog/post/farewell-rust/",
-      "createdAt": "2026-02-20 02:42:51",
-      "hot": 115
+      "title": "Micropayments as a reality check for news sites",
+      "summary": "313 comments",
+      "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "createdAt": "2026-02-20 03:42:31",
+      "hot": 136
     },
     {
-      "title": "Voith Schneider Propeller",
+      "title": "A Famous Enigma: On Alexandre Kojève",
+      "summary": "0 comments",
+      "url": "https://clereviewofbooks.com/isabel-jacobs-boris-groys-marco-filoni/",
+      "createdAt": "2026-02-18 15:42:05",
+      "hot": 5
+    },
+    {
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "summary": "376 comments",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "createdAt": "2026-02-19 22:52:18",
+      "hot": 252
+    },
+    {
+      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+      "summary": "283 comments",
+      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "createdAt": "2026-02-19 06:25:13",
+      "hot": 221
+    },
+    {
+      "title": "A beginner's guide to split keyboards",
+      "summary": "69 comments",
+      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+      "createdAt": "2026-02-16 08:31:01",
+      "hot": 57
+    },
+    {
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
       "summary": "31 comments",
-      "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-      "createdAt": "2026-02-16 04:22:33",
-      "hot": 118
+      "url": "https://github.com/Veirt/weathr",
+      "createdAt": "2026-02-20 01:47:25",
+      "hot": 186
     },
     {
-      "title": "A psychedelic medicine performs well against depression",
-      "summary": "48 comments",
-      "url": "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression",
-      "createdAt": "2026-02-20 05:21:27",
-      "hot": 59
+      "title": "Paged Out Issue #8 [pdf]",
+      "summary": "54 comments",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "createdAt": "2026-02-19 20:13:44",
+      "hot": 346
+    },
+    {
+      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+      "summary": "24 comments",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+      "createdAt": "2026-02-20 02:31:50",
+      "hot": 94
+    },
+    {
+      "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+      "summary": "49 comments",
+      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "createdAt": "2026-02-17 11:23:16",
+      "hot": 104
+    },
+    {
+      "title": "Pebble Production: February Update",
+      "summary": "127 comments",
+      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "createdAt": "2026-02-19 20:36:00",
+      "hot": 270
+    },
+    {
+      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+      "summary": "55 comments",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "createdAt": "2026-02-20 05:30:04",
+      "hot": 109
+    },
+    {
+      "title": "My 1981 adventure game is now a multimedia extravaganza",
+      "summary": "25 comments",
+      "url": "https://technologizer.com/home/2026/02/16/arctic-adventure-2026/",
+      "createdAt": "2026-02-17 06:35:50",
+      "hot": 79
+    },
+    {
+      "title": "Dinosaur Food: 100M year old foods we still eat today (2022)",
+      "summary": "89 comments",
+      "url": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
+      "createdAt": "2026-02-19 23:30:42",
+      "hot": 109
+    },
+    {
+      "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+      "summary": "77 comments",
+      "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+      "createdAt": "2026-02-17 01:57:46",
+      "hot": 191
+    },
+    {
+      "title": "Measuring AI agent autonomy in practice",
+      "summary": "44 comments",
+      "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+      "createdAt": "2026-02-19 22:14:14",
+      "hot": 90
+    },
+    {
+      "title": "We're no longer attracting top talent: the brain drain killing American science",
+      "summary": "334 comments",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "createdAt": "2026-02-20 04:56:23",
+      "hot": 372
+    },
+    {
+      "title": "Show HN: A physically-based GPU ray tracer written in Julia",
+      "summary": "66 comments",
+      "url": "https://makie.org/website/blogposts/raytracing/",
+      "createdAt": "2026-02-19 18:55:13",
+      "hot": 170
+    },
+    {
+      "title": "Show HN: A small, simple music theory library in C99",
+      "summary": "4 comments",
+      "url": "https://github.com/thelowsunoverthemoon/mahler.c",
+      "createdAt": "2026-02-20 06:54:28",
+      "hot": 17
+    },
+    {
+      "title": "Zero downtime migrations at petabyte scale (2024)",
+      "summary": "20 comments",
+      "url": "https://planetscale.com/blog/zero-downtime-migrations-at-petabyte-scale",
+      "createdAt": "2026-02-17 01:35:00",
+      "hot": 91
+    },
+    {
+      "title": "Type-based alias analysis in the Toy Optimizer",
+      "summary": "1 comments",
+      "url": "https://bernsteinbear.com/blog/toy-tbaa/",
+      "createdAt": "2026-02-17 02:37:39",
+      "hot": 16
+    },
+    {
+      "title": "Overall, the colorectal cancer story is encouraging",
+      "summary": "128 comments",
+      "url": "https://www.hankgreen.com/crc",
+      "createdAt": "2026-02-20 04:32:09",
+      "hot": 128
+    },
+    {
+      "title": "Microsoft's new 10k-year data storage medium: glass",
+      "summary": "1 comments",
+      "url": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+      "createdAt": "2026-02-20 11:57:55",
+      "hot": 11
+    },
+    {
+      "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+      "summary": "52 comments",
+      "url": "https://github.com/fjrevoredo/mini-diarium",
+      "createdAt": "2026-02-19 19:54:21",
+      "hot": 114
     }
   ]
 }
