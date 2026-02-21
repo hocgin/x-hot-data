@@ -357,6 +357,362 @@
           "hot": 2989
         }
       ]
+    },
+    {
+      "id": "csdn-hot.1771704511584",
+      "lastUpdatedAt": "2026-02-22 04:08:31",
+      "data": [
+        {
+          "title": "深度学习实战-基于CNN与Transformer的水稻叶片病害图像识别模型",
+          "summary": "作者: 艾派森",
+          "url": "https://blog.csdn.net/m0_64336780/article/details/157430402",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 24624
+        },
+        {
+          "title": "A / B测试太慢？AI帮你实时优化实验策略",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157904258",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 20768
+        },
+        {
+          "title": "LLM -Awesome OpenClaw Skills：给本地 AI 助手装一个「超级插件市场」",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/158182209",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 16525
+        },
+        {
+          "title": "一卡通核心交易平台的国产数据库实践解析：架构、迁移与高可用落地",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158262249",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 14609
+        },
+        {
+          "title": "《计算机视觉：模型、学习和推理》第 4 章-拟合概率模型",
+          "summary": "作者: 啊阿狸不会拉杆",
+          "url": "https://blog.csdn.net/2302_80961196/article/details/158238237",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 12085
+        },
+        {
+          "title": "Scrapy 嵌入 FastAPI 的坑：Asyncio/Twisted 桥接 + 代理池设计",
+          "summary": "作者: ん贤",
+          "url": "https://blog.csdn.net/2302_80067378/article/details/158237425",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 11638
+        },
+        {
+          "title": "【HarmonyOS】RN_of_HarmonyOS实战项目_自动完成功能",
+          "summary": "作者: 果粒蹬i",
+          "url": "https://blog.csdn.net/2301_81152266/article/details/158210902",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 9972
+        },
+        {
+          "title": "ARM Linux 驱动开发篇--- 设备树下的 LED 驱动实验-- Ubuntu20.04",
+          "summary": "作者: 渡水无言",
+          "url": "https://blog.csdn.net/weixin_61186812/article/details/158238557",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 8334
+        },
+        {
+          "title": "【Linux系统编程】（三十五）揭秘 Linux 信号产生：从终端到内核全解析",
+          "summary": "作者: _OP_CHEN",
+          "url": "https://blog.csdn.net/2301_79248256/article/details/158208093",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 7876
+        },
+        {
+          "title": "微分中值定理与导数的应用",
+          "summary": "作者: 软件架构师何志丹",
+          "url": "https://blog.csdn.net/he_zhidan/article/details/158006035",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 6973
+        },
+        {
+          "title": "本地部署中文OpenClaw 飞书机器人部署指南",
+          "summary": "作者: Neolnfra",
+          "url": "https://blog.csdn.net/cccxcmm/article/details/158211560",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 6353
+        },
+        {
+          "title": "【RFCOMM】协议深度解析[5]：RFCOMM 媒体适配解密——GSM 07.10 帧如何适配蓝牙无线传输",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/158098796",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 6031
+        },
+        {
+          "title": "微调模型成本太高，用RAG技术，低成本实现AI升级",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158260530",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 5957
+        },
+        {
+          "title": "数据库MySQL兼容版权限隔离深度体验：从兼容到安全增强的实战之路",
+          "summary": "作者: 程序边界",
+          "url": "https://blog.csdn.net/qq_32682301/article/details/158206117",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 5790
+        },
+        {
+          "title": "使用 Elasticsearch 和神经模型为复杂语言提供更好的文本分析",
+          "summary": "作者: Elastic 中国社区官方博客",
+          "url": "https://blog.csdn.net/UbuntuTouch/article/details/158205814",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 5212
+        },
+        {
+          "title": "连接管理模块和服务器模块",
+          "summary": "作者: Ronin305",
+          "url": "https://blog.csdn.net/2402_82670467/article/details/158238536",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4907
+        },
+        {
+          "title": "【Linux】poll 多路转接：select 的改良版，以及它留下的遗憾",
+          "summary": "作者: 半截诗​",
+          "url": "https://blog.csdn.net/2301_79849925/article/details/158154514",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4888
+        },
+        {
+          "title": "python核心语法（三）-数据容器",
+          "summary": "作者: 云水初",
+          "url": "https://blog.csdn.net/Xcy20060113/article/details/158177747",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4611
+        },
+        {
+          "title": "JSON 与 BSON 深度解析：理解 MongoDB 底层数据格式与扩展类型。",
+          "summary": "作者: 数据知道",
+          "url": "https://blog.csdn.net/cui_yonghua/article/details/158235508",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4609
+        },
+        {
+          "title": "X-VLA——基于Soft Prompt的Transformer编码器练就可扩展的跨本体VLA：VLM做多模态感知，DiT-style做动作生成",
+          "summary": "作者: v_JULY_v",
+          "url": "https://blog.csdn.net/v_JULY_v/article/details/158262322",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4570
+        },
+        {
+          "title": "ReAct范式全流程详解",
+          "summary": "作者: 晔子yy",
+          "url": "https://blog.csdn.net/gdpu2400502251/article/details/158262247",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4534
+        },
+        {
+          "title": "Java 手写 AI Agent：ZenoAgent 实战笔记",
+          "summary": "作者: 孤屿听风",
+          "url": "https://blog.csdn.net/qq_46101869/article/details/158211483",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4500
+        },
+        {
+          "title": "【一天一个计算机知识】—— 【 C/C++ 内存管理与分布】",
+          "summary": "作者: 枫亭湖区",
+          "url": "https://blog.csdn.net/fengtinghuqu520/article/details/158181766",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4423
+        },
+        {
+          "title": "GCC编译(6)静态库工具AR",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/158234897",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4405
+        },
+        {
+          "title": " 集成测试实战：构建可靠的测试金字塔体系",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/158209304",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4387
+        },
+        {
+          "title": "从软件工程师看计算机是如何工作的",
+          "summary": "作者: 第六章初",
+          "url": "https://blog.csdn.net/2402_89003542/article/details/158155532",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4355
+        },
+        {
+          "title": "SpringBoot + LangChain4j 打造企业级 RAG 智能知识库，多工具集成方案",
+          "summary": "作者: 马克Markorg",
+          "url": "https://blog.csdn.net/csgarten/article/details/158239413",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4264
+        },
+        {
+          "title": "个人博客网站搭建day2-Spring Boot 3 + JWT + Redis 实现后台权限拦截与单点登录(漫画解析)",
+          "summary": "作者: 玄〤",
+          "url": "https://blog.csdn.net/yyzytx5201314/article/details/158238312",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4257
+        },
+        {
+          "title": "深入RAG架构：分块策略、混合检索与重排序的工程实现",
+          "summary": "作者: deephub",
+          "url": "https://blog.csdn.net/m0_46510245/article/details/158238424",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 4093
+        },
+        {
+          "title": "lua比vbs快5倍，redis用lua脚本实现触发器，存储过程之类的算法",
+          "summary": "作者: 专注编程优化20年",
+          "url": "https://blog.csdn.net/xiaoyao961/article/details/158209559",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 3953
+        },
+        {
+          "title": "【花雕学编程】Arduino BLDC 之抗辐射强化型特种机器人",
+          "summary": "作者: 驴友花雕",
+          "url": "https://blog.csdn.net/weixin_41659040/article/details/158236235",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 3898
+        },
+        {
+          "title": "微信小程序跨域问题：用uni开发微信小程序打开了不校验合法域名，但是还是会跨域，如何解决？？",
+          "summary": "作者: bug菌¹",
+          "url": "https://blog.csdn.net/weixin_43970743/article/details/158267189",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 3822
+        },
+        {
+          "title": "SpringBoot vs SpringMVC：以及SpringBoot的全流程开发（1）",
+          "summary": "作者: 北极的代码",
+          "url": "https://blog.csdn.net/chen_si_shang_/article/details/158208641",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 3769
+        },
+        {
+          "title": "OpenClaw接入飞书全流程：打造你的24小时AI助手",
+          "summary": "作者: 中杯可乐多加冰",
+          "url": "https://blog.csdn.net/air__Heaven/article/details/158235047",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2928
+        },
+        {
+          "title": "OpenClaw之Memory配置成本地模式，Ubuntu+CUDA+cuDNN+llama.cpp",
+          "summary": "作者: tinygone",
+          "url": "https://blog.csdn.net/tinygone/article/details/158267796",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2877
+        },
+        {
+          "title": "网络安全资产画像实战",
+          "summary": "作者: xiejava1018",
+          "url": "https://blog.csdn.net/fullbug/article/details/158237258",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2803
+        },
+        {
+          "title": "微信小程序制作平台有哪些？SaaS小程序搭建平台推荐",
+          "summary": "作者: 大黄说说",
+          "url": "https://blog.csdn.net/2609_95039045/article/details/158207804",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2783
+        },
+        {
+          "title": "深度解析个人AI助手OpenClaw：从消息处理到定时任务的全流程架构",
+          "summary": "作者: 小程故事多_80",
+          "url": "https://blog.csdn.net/u013970991/article/details/158233603",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2766
+        },
+        {
+          "title": "【SpringCloud】Gateway Filter Factories && 过滤器执行顺序 && 自定义过滤器",
+          "summary": "作者: 利刃大大",
+          "url": "https://blog.csdn.net/lirendada/article/details/158238374",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2717
+        },
+        {
+          "title": "Python中的“==“与“is“：深入解析与Vibe Coding时代的优化实践",
+          "summary": "作者: 郝学胜-神的一滴",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/158182799",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2664
+        },
+        {
+          "title": "HBase与Spring：Java企业开发集成",
+          "summary": "作者: AI架构全栈开发实战笔记",
+          "url": "https://blog.csdn.net/2502_91534727/article/details/158205074",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2620
+        },
+        {
+          "title": "Android tinyalsa深度解析之pcm_get_snd_pcm_info调用流程与实战(一百二十四)",
+          "summary": "作者: Android系统攻城狮",
+          "url": "https://blog.csdn.net/u010164190/article/details/158069281",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2521
+        },
+        {
+          "title": "【OpenHarmony】React Native鸿蒙实战：NetInfo 网络状态详解",
+          "summary": "作者: 平安的平安",
+          "url": "https://blog.csdn.net/2401_85686768/article/details/158211595",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2426
+        },
+        {
+          "title": "零成本从0到1搭建个人博客",
+          "summary": "作者: CodeEdge_Xu",
+          "url": "https://blog.csdn.net/qq_44678890/article/details/158206953",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2300
+        },
+        {
+          "title": "构建带有科学型数据云的IoT应用",
+          "summary": "作者: 王景程",
+          "url": "https://blog.csdn.net/2401_84168288/article/details/158237207",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2276
+        },
+        {
+          "title": "CMU Subword Modeling | 11 Rules of realization and rules of referral",
+          "summary": "作者: MaoziShan",
+          "url": "https://blog.csdn.net/MaoziYa/article/details/158206803",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2262
+        },
+        {
+          "title": "ATF (ARM Trusted Firmware) -2：完整启动流程（冷启动）",
+          "summary": "作者: 哈哈浩丶",
+          "url": "https://blog.csdn.net/weixin_45783574/article/details/158218936",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2234
+        },
+        {
+          "title": "MMC-STATCOM Model running in Real-Time (Discrete) MATLAB_help文档DeepSeek翻译",
+          "summary": "作者: 小青蛙电气",
+          "url": "https://blog.csdn.net/shallwegzgdj/article/details/158217135",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2221
+        },
+        {
+          "title": "前端八股文面经大全：字节前端一面（2026-2-1）·面经深度解析",
+          "summary": "作者: 木斯佳",
+          "url": "https://blog.csdn.net/weixin_50077637/article/details/158237586",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2158
+        },
+        {
+          "title": "【小沐杂货铺】基于Three.js渲染三维无人机Drone（WebGL / vue / react ）",
+          "summary": "作者: 爱看书的小沐",
+          "url": "https://blog.csdn.net/hhy321/article/details/158236403",
+          "createdAt": "2026-02-22 04:08:04",
+          "hot": 2100
+        }
+      ]
     }
   ]
 }
