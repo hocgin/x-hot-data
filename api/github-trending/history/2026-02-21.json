@@ -476,6 +476,89 @@
           "createdAt": "2026-02-21 16:10:39"
         }
       ]
+    },
+    {
+      "id": "github-trending.1771675970902",
+      "lastUpdatedAt": "2026-02-21 20:12:50",
+      "data": [
+        {
+          "title": "vxcontrol/pentagi",
+          "summary": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "summary": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "obra/superpowers",
+          "summary": "An agentic skills framework &amp; software development methodology that works.",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "PowerShell/PowerShell",
+          "summary": "PowerShell for every system!",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "url": "https://github.com/anthropics/claude-code",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "stan-smith/FossFLOW",
+          "summary": "Make beautiful isometric infrastructure diagrams",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "ggml-org/ggml",
+          "summary": "Tensor library for machine learning",
+          "url": "https://github.com/ggml-org/ggml",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "Stremio/stremio-web",
+          "summary": "Stremio - Freedom to Stream",
+          "url": "https://github.com/Stremio/stremio-web",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+          "summary": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+          "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "RichardAtCT/claude-code-telegram",
+          "summary": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+          "url": "https://github.com/RichardAtCT/claude-code-telegram",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "cloudflare/agents",
+          "summary": "Build and deploy AI Agents on Cloudflare",
+          "url": "https://github.com/cloudflare/agents",
+          "createdAt": "2026-02-21 20:12:26"
+        },
+        {
+          "title": "hiddify/hiddify-app",
+          "summary": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+          "url": "https://github.com/hiddify/hiddify-app",
+          "createdAt": "2026-02-21 20:12:26"
+        }
+      ]
     }
   ]
 }
