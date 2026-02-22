@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-02-23",
+  "createdAt": "2026-02-23 00:09:52",
+  "data": [
+    {
+      "id": "hackernews-top.1771776592545",
+      "lastUpdatedAt": "2026-02-23 00:09:52",
+      "data": [
+        {
+          "title": "Attention Media ≠ Social Networks",
+          "summary": "86 comments",
+          "url": "https://susam.net/attention-media-vs-social-networks.html",
+          "createdAt": "2026-02-22 20:36:46",
+          "hot": 203
+        },
+        {
+          "title": "Iran students stage first large anti-government protests since deadly crackdown",
+          "summary": "71 comments",
+          "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+          "createdAt": "2026-02-22 21:59:40",
+          "hot": 105
+        },
+        {
+          "title": "What Is a Database Transaction?",
+          "summary": "12 comments",
+          "url": "https://planetscale.com/blog/database-transactions",
+          "createdAt": "2026-02-22 20:28:41",
+          "hot": 86
+        },
+        {
+          "title": "Xweather Live – Interactive global vector weather map",
+          "summary": "7 comments",
+          "url": "https://live.xweather.com/",
+          "createdAt": "2026-02-22 23:12:15",
+          "hot": 12
+        },
+        {
+          "title": "Back to FreeBSD: Part 1",
+          "summary": "59 comments",
+          "url": "https://hypha.pub/back-to-freebsd-part-1",
+          "createdAt": "2026-02-22 15:16:27",
+          "hot": 140
+        },
+        {
+          "title": "Volatility: The volatile memory forensic extraction framework",
+          "summary": "2 comments",
+          "url": "https://github.com/volatilityfoundation/volatility3",
+          "createdAt": "2026-02-22 21:20:07",
+          "hot": 24
+        },
+        {
+          "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+          "summary": "7 comments",
+          "url": "https://quesma.com/blog/introducing-binaryaudit/",
+          "createdAt": "2026-02-22 22:50:44",
+          "hot": 50
+        },
+        {
+          "title": "The Four-Color Theorem 1852–1976",
+          "summary": "1 comments",
+          "url": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
+          "createdAt": "2026-02-21 20:32:06",
+          "hot": 26
+        },
+        {
+          "title": "How Taalas “prints” LLM onto a chip?",
+          "summary": "144 comments",
+          "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+          "createdAt": "2026-02-22 03:07:20",
+          "hot": 288
+        },
+        {
+          "title": "Man accidentally gains control of 7k robot vacuums",
+          "summary": "17 comments",
+          "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+          "createdAt": "2026-02-22 22:44:42",
+          "hot": 36
+        },
+        {
+          "title": "Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog",
+          "summary": "57 comments",
+          "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+          "createdAt": "2026-02-22 20:34:00",
+          "hot": 66
+        },
+        {
+          "title": "How far back in time can you understand English?",
+          "summary": "338 comments",
+          "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+          "createdAt": "2026-02-18 22:56:58",
+          "hot": 648
+        },
+        {
+          "title": "How I use Claude Code: Separation of planning and execution",
+          "summary": "477 comments",
+          "url": "https://boristane.com/blog/how-i-use-claude-code/",
+          "createdAt": "2026-02-22 08:29:05",
+          "hot": 746
+        },
+        {
+          "title": "Japanese Woodblock Print Search",
+          "summary": "26 comments",
+          "url": "https://ukiyo-e.org/",
+          "createdAt": "2026-02-22 11:18:36",
+          "hot": 156
+        },
+        {
+          "title": "Gamedate – A site to revive dead multiplayer games",
+          "summary": "31 comments",
+          "url": "https://gamedate.org/",
+          "createdAt": "2026-02-21 08:44:28",
+          "hot": 220
+        },
+        {
+          "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+          "summary": "81 comments",
+          "url": "https://github.com/xaskasdf/ntransformer",
+          "createdAt": "2026-02-22 04:57:30",
+          "hot": 311
+        },
+        {
+          "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+          "summary": "22 comments",
+          "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+          "createdAt": "2026-02-17 19:01:09",
+          "hot": 159
+        },
+        {
+          "title": "ReferenceFinder: Find coordinates on a piece of paper with only folds",
+          "summary": "5 comments",
+          "url": "https://mutsuntsai.github.io/reference-finder/",
+          "createdAt": "2026-02-19 12:27:23",
+          "hot": 37
+        },
+        {
+          "title": "What's the best way to learn a new language?",
+          "summary": "39 comments",
+          "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+          "createdAt": "2026-02-22 15:14:22",
+          "hot": 45
+        },
+        {
+          "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+          "summary": "54 comments",
+          "url": "https://www.science.org/doi/10.1126/science.adq7188",
+          "createdAt": "2026-02-22 05:51:58",
+          "hot": 173
+        },
+        {
+          "title": "Introduction to Out of Time Order Correlators (OTOCs)(2025)",
+          "summary": "0 comments",
+          "url": "https://quantumcomputer.blog/introduction-to-out-of-time-order-correlators/",
+          "createdAt": "2026-02-19 06:16:07",
+          "hot": 4
+        },
+        {
+          "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+          "summary": "58 comments",
+          "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+          "createdAt": "2026-02-22 03:40:06",
+          "hot": 228
+        },
+        {
+          "title": "Claws are now a new layer on top of LLM agents",
+          "summary": "809 comments",
+          "url": "https://twitter.com/karpathy/status/2024987174077432126",
+          "createdAt": "2026-02-21 08:56:29",
+          "hot": 355
+        },
+        {
+          "title": "Unreal Numbers",
+          "summary": "10 comments",
+          "url": "https://lcamtuf.substack.com/p/unreal-numbers",
+          "createdAt": "2026-02-17 20:40:10",
+          "hot": 41
+        },
+        {
+          "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
+          "summary": "18 comments",
+          "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
+          "createdAt": "2026-02-19 23:14:18",
+          "hot": 44
+        },
+        {
+          "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+          "summary": "117 comments",
+          "url": "https://github.com/tnm/zclaw",
+          "createdAt": "2026-02-21 20:37:52",
+          "hot": 220
+        },
+        {
+          "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+          "summary": "237 comments",
+          "url": "https://www.koreaherald.com/article/10679206",
+          "createdAt": "2026-02-21 22:32:16",
+          "hot": 231
+        },
+        {
+          "title": "Carelessness versus craftsmanship in cryptography",
+          "summary": "11 comments",
+          "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
+          "createdAt": "2026-02-18 20:34:52",
+          "hot": 60
+        },
+        {
+          "title": "I verified my LinkedIn identity. Here's what I handed over",
+          "summary": "464 comments",
+          "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+          "createdAt": "2026-02-21 15:06:18",
+          "hot": 1361
+        },
+        {
+          "title": "Coccinelle: Source-to-source transformation tool",
+          "summary": "30 comments",
+          "url": "https://github.com/coccinelle/coccinelle",
+          "createdAt": "2026-02-21 16:26:36",
+          "hot": 112
+        }
+      ]
+    }
+  ]
+}
