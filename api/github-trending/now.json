@@ -1,59 +1,59 @@
 {
-  "id": "github-trending.1771776592568",
-  "lastUpdatedAt": "2026-02-23 00:09:52",
+  "id": "github-trending.1771790916306",
+  "lastUpdatedAt": "2026-02-23 04:08:36",
   "data": [
     {
       "title": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "vxcontrol/pentagi",
       "summary": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "anthropics/claude-code",
       "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "Stremio/stremio-web",
       "summary": "Stremio - Freedom to Stream",
       "url": "https://github.com/Stremio/stremio-web",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "OpenBB-finance/OpenBB",
       "summary": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "cloudflare/agents",
       "summary": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "abhigyanpatwari/GitNexus",
       "summary": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     },
     {
       "title": "stan-smith/FossFLOW",
       "summary": "Make beautiful isometric infrastructure diagrams",
       "url": "https://github.com/stan-smith/FossFLOW",
-      "createdAt": "2026-02-23 00:09:36"
+      "createdAt": "2026-02-23 04:08:18"
     }
   ]
 }

@@ -217,6 +217,222 @@
           "hot": 112
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771790916278",
+      "lastUpdatedAt": "2026-02-23 04:08:36",
+      "data": [
+        {
+          "title": "Attention Media ≠ Social Networks",
+          "summary": "188 comments",
+          "url": "https://susam.net/attention-media-vs-social-networks.html",
+          "createdAt": "2026-02-22 20:36:46",
+          "hot": 419
+        },
+        {
+          "title": "Fix your tools",
+          "summary": "49 comments",
+          "url": "https://ochagavia.nl/blog/fix-your-tools/",
+          "createdAt": "2026-02-23 00:12:31",
+          "hot": 124
+        },
+        {
+          "title": "Linuxulator on FreeBSD Feels Like Magic",
+          "summary": "8 comments",
+          "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+          "createdAt": "2026-02-23 02:45:56",
+          "hot": 16
+        },
+        {
+          "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+          "summary": "13 comments",
+          "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+          "createdAt": "2026-02-23 02:20:31",
+          "hot": 34
+        },
+        {
+          "title": "Show HN: Local-First Linux MicroVMs for macOS",
+          "summary": "2 comments",
+          "url": "https://shuru.run",
+          "createdAt": "2026-02-23 02:50:14",
+          "hot": 14
+        },
+        {
+          "title": "Show HN: 3D Mahjong, Built in CSS",
+          "summary": "26 comments",
+          "url": "https://voxjong.com",
+          "createdAt": "2026-02-22 23:53:02",
+          "hot": 59
+        },
+        {
+          "title": "What is a database transaction?",
+          "summary": "34 comments",
+          "url": "https://planetscale.com/blog/database-transactions",
+          "createdAt": "2026-02-22 20:28:41",
+          "hot": 168
+        },
+        {
+          "title": "I built Timeframe, our family e-paper dashboard",
+          "summary": "0 comments",
+          "url": "https://hawksley.org/2026/02/17/timeframe.html",
+          "createdAt": "2026-02-23 03:12:31",
+          "hot": 7
+        },
+        {
+          "title": "Green lumber fallacy in software engineering (2022)",
+          "summary": "4 comments",
+          "url": "https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software",
+          "createdAt": "2026-02-23 03:32:37",
+          "hot": 6
+        },
+        {
+          "title": "Xweather Live – Interactive global vector weather map",
+          "summary": "22 comments",
+          "url": "https://live.xweather.com/",
+          "createdAt": "2026-02-22 23:12:15",
+          "hot": 89
+        },
+        {
+          "title": "International box-sizing Awareness Day (2014)",
+          "summary": "1 comments",
+          "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
+          "createdAt": "2026-02-19 22:43:25",
+          "hot": 23
+        },
+        {
+          "title": "NanoClaw Moved from Apple Containers to Docker",
+          "summary": "21 comments",
+          "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+          "createdAt": "2026-02-23 03:12:50",
+          "hot": 31
+        },
+        {
+          "title": "Hello Worg, the Org-Mode Community",
+          "summary": "4 comments",
+          "url": "https://orgmode.org/worg/",
+          "createdAt": "2026-02-23 01:39:50",
+          "hot": 9
+        },
+        {
+          "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
+          "summary": "2 comments",
+          "url": "https://github.com/olserra/symplex",
+          "createdAt": "2026-02-23 03:20:59",
+          "hot": 3
+        },
+        {
+          "title": "Git's Magic Files",
+          "summary": "14 comments",
+          "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+          "createdAt": "2026-02-22 22:21:35",
+          "hot": 61
+        },
+        {
+          "title": "Back to FreeBSD: Part 1",
+          "summary": "85 comments",
+          "url": "https://hypha.pub/back-to-freebsd-part-1",
+          "createdAt": "2026-02-22 15:16:27",
+          "hot": 179
+        },
+        {
+          "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+          "summary": "66 comments",
+          "url": "https://quesma.com/blog/introducing-binaryaudit/",
+          "createdAt": "2026-02-22 22:50:44",
+          "hot": 167
+        },
+        {
+          "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
+          "summary": "2 comments",
+          "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
+          "createdAt": "2026-02-23 03:18:03",
+          "hot": 15
+        },
+        {
+          "title": "How Taalas “prints” LLM onto a chip?",
+          "summary": "215 comments",
+          "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+          "createdAt": "2026-02-22 03:07:20",
+          "hot": 366
+        },
+        {
+          "title": "Factory-built housing hasn't taken off in California",
+          "summary": "10 comments",
+          "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
+          "createdAt": "2026-02-23 03:33:22",
+          "hot": 13
+        },
+        {
+          "title": "Gamedate – A site to revive dead multiplayer games",
+          "summary": "42 comments",
+          "url": "https://gamedate.org/",
+          "createdAt": "2026-02-21 08:44:28",
+          "hot": 295
+        },
+        {
+          "title": "Monkey Patching in VBA",
+          "summary": "4 comments",
+          "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
+          "createdAt": "2026-02-18 18:29:08",
+          "hot": 31
+        },
+        {
+          "title": "What's the best way to learn a new language?",
+          "summary": "53 comments",
+          "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+          "createdAt": "2026-02-22 15:14:22",
+          "hot": 60
+        },
+        {
+          "title": "Man accidentally gains control of 7k robot vacuums",
+          "summary": "88 comments",
+          "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+          "createdAt": "2026-02-22 22:44:42",
+          "hot": 137
+        },
+        {
+          "title": "Show HN: Data Studio – Open-Source Data Notebooks",
+          "summary": "0 comments",
+          "url": "https://github.com/dataspren-analytics/data-studio",
+          "createdAt": "2026-02-17 20:10:45",
+          "hot": 5
+        },
+        {
+          "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+          "summary": "93 comments",
+          "url": "https://github.com/xaskasdf/ntransformer",
+          "createdAt": "2026-02-22 04:57:30",
+          "hot": 349
+        },
+        {
+          "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
+          "summary": "2 comments",
+          "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
+          "createdAt": "2026-02-22 21:44:27",
+          "hot": 23
+        },
+        {
+          "title": "How I use Claude Code: Separation of planning and execution",
+          "summary": "530 comments",
+          "url": "https://boristane.com/blog/how-i-use-claude-code/",
+          "createdAt": "2026-02-22 08:29:05",
+          "hot": 835
+        },
+        {
+          "title": "Japanese Woodblock Print Search",
+          "summary": "29 comments",
+          "url": "https://ukiyo-e.org/",
+          "createdAt": "2026-02-22 11:18:36",
+          "hot": 182
+        },
+        {
+          "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+          "summary": "135 comments",
+          "url": "https://github.com/tnm/zclaw",
+          "createdAt": "2026-02-21 20:37:52",
+          "hot": 256
+        }
+      ]
     }
   ]
 }
