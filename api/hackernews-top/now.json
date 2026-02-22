@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771720606585",
-  "lastUpdatedAt": "2026-02-22 08:36:46",
+  "id": "hackernews-top.1771735178783",
+  "lastUpdatedAt": "2026-02-22 12:39:38",
   "data": [
     {
-      "title": "Why is Claude an Electron app?",
-      "summary": "217 comments",
-      "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "createdAt": "2026-02-22 05:28:13",
-      "hot": 286
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "summary": "140 comments",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "createdAt": "2026-02-22 08:29:05",
+      "hot": 226
     },
     {
-      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "summary": "51 comments",
-      "url": "https://www.eduke32.com/",
-      "createdAt": "2026-02-22 04:10:13",
-      "hot": 133
+      "title": "Japanese Woodblock Print Search",
+      "summary": "3 comments",
+      "url": "https://ukiyo-e.org/",
+      "createdAt": "2026-02-22 11:18:36",
+      "hot": 24
+    },
+    {
+      "title": "Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive",
+      "summary": "34 comments",
+      "url": "https://github.com/Leading-AI-IO/palantir-ontology-strategy",
+      "createdAt": "2026-02-22 10:29:06",
+      "hot": 58
     },
     {
       "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "summary": "17 comments",
+      "summary": "33 comments",
       "url": "https://github.com/xaskasdf/ntransformer",
       "createdAt": "2026-02-22 04:57:30",
-      "hot": 67
-    },
-    {
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "summary": "12 comments",
-      "url": "https://www.science.org/doi/10.1126/science.adq7188",
-      "createdAt": "2026-02-22 05:51:58",
-      "hot": 49
-    },
-    {
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "summary": "36 comments",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "createdAt": "2026-02-22 03:40:06",
-      "hot": 109
-    },
-    {
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "summary": "405 comments",
-      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-      "createdAt": "2026-02-21 15:06:18",
-      "hot": 1142
-    },
-    {
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "summary": "47 comments",
-      "url": "https://github.com/tnm/zclaw",
-      "createdAt": "2026-02-21 20:37:52",
-      "hot": 78
-    },
-    {
-      "title": "How far back in time can you understand English?",
-      "summary": "197 comments",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "createdAt": "2026-02-18 22:56:58",
-      "hot": 329
-    },
-    {
-      "title": "Happy Zelda's 40th first LLM running on N64 hardware (4MB RAM, 93MHz)",
-      "summary": "4 comments",
-      "url": "https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya",
-      "createdAt": "2026-02-22 05:40:13",
-      "hot": 22
-    },
-    {
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "summary": "202 comments",
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "createdAt": "2026-02-22 02:09:24",
-      "hot": 83
-    },
-    {
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "summary": "109 comments",
-      "url": "https://www.koreaherald.com/article/10679206",
-      "createdAt": "2026-02-21 22:32:16",
-      "hot": 143
-    },
-    {
-      "title": "Who's liable when your AI agent burns down production?",
-      "summary": "1 comments",
-      "url": "https://reading.sh/whos-liable-when-your-ai-agent-burns-down-production-039193d82746?sk=4921ed2dbc46f0c618835ac458cf5051",
-      "createdAt": "2026-02-22 07:52:00",
-      "hot": 4
-    },
-    {
-      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
-      "summary": "19 comments",
-      "url": "https://github.com/a-e-k/canvas_ity",
-      "createdAt": "2026-02-22 02:50:19",
-      "hot": 49
-    },
-    {
-      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
-      "summary": "0 comments",
-      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
-      "createdAt": "2026-02-17 09:57:40",
-      "hot": 10
-    },
-    {
-      "title": "Claws are now a new layer on top of LLM agents",
-      "summary": "611 comments",
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "createdAt": "2026-02-21 08:56:29",
-      "hot": 166
-    },
-    {
-      "title": "What not to write on your security clearance form (1988)",
-      "summary": "155 comments",
-      "url": "https://milk.com/wall-o-shame/security_clearance.html",
-      "createdAt": "2026-02-22 01:08:12",
-      "hot": 362
-    },
-    {
-      "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
-      "summary": "10 comments",
-      "url": "https://inputlag.science",
-      "createdAt": "2026-02-22 03:41:52",
-      "hot": 55
-    },
-    {
-      "title": "I Don't Like Magic",
-      "summary": "81 comments",
-      "url": "https://adactio.com/journal/22399",
-      "createdAt": "2026-02-18 17:42:40",
-      "hot": 99
-    },
-    {
-      "title": "Declarative, Inquisitive, then Imperative (2017) [pdf]",
-      "summary": "0 comments",
-      "url": "https://www.forth.org/svfig/kk/11-2017-Falvo.pdf",
-      "createdAt": "2026-02-17 17:03:12",
-      "hot": 3
-    },
-    {
-      "title": "Acme Weather",
-      "summary": "115 comments",
-      "url": "https://acmeweather.com/blog/introducing-acme-weather",
-      "createdAt": "2026-02-21 15:13:38",
-      "hot": 177
-    },
-    {
-      "title": "Personal Statement of a CIA Analyst",
-      "summary": "74 comments",
-      "url": "https://antipolygraph.org/statements/statement-038.shtml",
-      "createdAt": "2026-02-22 01:49:02",
-      "hot": 132
-    },
-    {
-      "title": "Permacomputing",
-      "summary": "21 comments",
-      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
-      "createdAt": "2026-02-17 20:40:37",
-      "hot": 82
-    },
-    {
-      "title": "Be wary of Bluesky",
-      "summary": "166 comments",
-      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "createdAt": "2026-02-21 07:35:33",
-      "hot": 228
-    },
-    {
-      "title": "Online Pebble Development",
-      "summary": "6 comments",
-      "url": "https://cloudpebble.repebble.com/",
-      "createdAt": "2026-02-22 04:50:46",
-      "hot": 11
-    },
-    {
-      "title": "Cloudflare outage on February 20, 2026",
-      "summary": "97 comments",
-      "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
-      "createdAt": "2026-02-22 03:05:31",
       "hot": 145
     },
     {
-      "title": "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatib",
-      "summary": "5 comments",
-      "url": "https://github.com/datapartyjs/MeshTNC",
-      "createdAt": "2026-02-22 04:14:00",
-      "hot": 19
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "summary": "16 comments",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "createdAt": "2026-02-22 09:08:17",
+      "hot": 46
     },
     {
-      "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "summary": "25 comments",
+      "url": "https://www.science.org/doi/10.1126/science.adq7188",
+      "createdAt": "2026-02-22 05:51:58",
+      "hot": 96
+    },
+    {
+      "title": "How far back in time can you understand English?",
+      "summary": "238 comments",
+      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+      "createdAt": "2026-02-18 22:56:58",
+      "hot": 419
+    },
+    {
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "summary": "2 comments",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "createdAt": "2026-02-17 19:01:09",
+      "hot": 31
+    },
+    {
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "summary": "1 comments",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "createdAt": "2026-02-18 03:13:37",
+      "hot": 23
+    },
+    {
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "summary": "39 comments",
+      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "createdAt": "2026-02-22 03:40:06",
+      "hot": 145
+    },
+    {
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "summary": "69 comments",
+      "url": "https://github.com/tnm/zclaw",
+      "createdAt": "2026-02-21 20:37:52",
+      "hot": 128
+    },
+    {
+      "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much",
+      "summary": "20 comments",
+      "url": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+      "createdAt": "2026-02-22 11:24:22",
+      "hot": 27
+    },
+    {
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "summary": "154 comments",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "createdAt": "2026-02-21 22:32:16",
+      "hot": 173
+    },
+    {
+      "title": "Claws are now a new layer on top of LLM agents",
+      "summary": "672 comments",
+      "url": "https://twitter.com/karpathy/status/2024987174077432126",
+      "createdAt": "2026-02-21 08:56:29",
+      "hot": 232
+    },
+    {
+      "title": "Forward propagation of errors through time",
       "summary": "0 comments",
-      "url": "https://padlet.jobs",
-      "createdAt": "2026-02-21 20:02:14",
-      "hot": 1
+      "url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
+      "createdAt": "2026-02-19 17:23:53",
+      "hot": 16
+    },
+    {
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "summary": "270 comments",
+      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "createdAt": "2026-02-22 02:09:24",
+      "hot": 117
+    },
+    {
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "summary": "61 comments",
+      "url": "https://www.eduke32.com/",
+      "createdAt": "2026-02-22 04:10:13",
+      "hot": 164
+    },
+    {
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "summary": "24 comments",
+      "url": "https://github.com/a-e-k/canvas_ity",
+      "createdAt": "2026-02-22 02:50:19",
+      "hot": 72
+    },
+    {
+      "title": "Gamedate – A site to revive dead multiplayer games",
+      "summary": "0 comments",
+      "url": "https://gamedate.org/",
+      "createdAt": "2026-02-21 08:44:28",
+      "hot": 8
+    },
+    {
+      "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
+      "summary": "12 comments",
+      "url": "https://inputlag.science",
+      "createdAt": "2026-02-22 03:41:52",
+      "hot": 75
+    },
+    {
+      "title": "Acme Weather",
+      "summary": "130 comments",
+      "url": "https://acmeweather.com/blog/introducing-acme-weather",
+      "createdAt": "2026-02-21 15:13:38",
+      "hot": 221
+    },
+    {
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "summary": "422 comments",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "createdAt": "2026-02-21 15:06:18",
+      "hot": 1201
+    },
+    {
+      "title": "Finding forall-exists Hyperbugs using Symbolic Execution",
+      "summary": "1 comments",
+      "url": "https://dl.acm.org/doi/full/10.1145/3689761",
+      "createdAt": "2026-02-17 09:57:40",
+      "hot": 24
+    },
+    {
+      "title": "What not to write on your security clearance form (1988)",
+      "summary": "183 comments",
+      "url": "https://milk.com/wall-o-shame/security_clearance.html",
+      "createdAt": "2026-02-22 01:08:12",
+      "hot": 410
+    },
+    {
+      "title": "Be wary of Bluesky",
+      "summary": "181 comments",
+      "url": "https://kevinak.se/blog/be-wary-of-bluesky",
+      "createdAt": "2026-02-21 07:35:33",
+      "hot": 271
+    },
+    {
+      "title": "Personal Statement of a CIA Analyst",
+      "summary": "116 comments",
+      "url": "https://antipolygraph.org/statements/statement-038.shtml",
+      "createdAt": "2026-02-22 01:49:02",
+      "hot": 195
     },
     {
       "title": "Uncovering insiders and alpha on Polymarket with AI",
-      "summary": "117 comments",
+      "summary": "129 comments",
       "url": "https://twitter.com/peterjliu/status/2024901585806225723",
       "createdAt": "2026-02-21 02:11:02",
-      "hot": 121
+      "hot": 137
     },
     {
-      "title": "AI uBlock Blacklist",
-      "summary": "94 comments",
-      "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-      "createdAt": "2026-02-21 16:10:49",
-      "hot": 215
+      "title": "Permacomputing",
+      "summary": "28 comments",
+      "url": "https://wiki.xxiivv.com/site/permacomputing.html",
+      "createdAt": "2026-02-17 20:40:37",
+      "hot": 115
     },
     {
-      "title": "Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust",
-      "summary": "19 comments",
-      "url": "https://github.com/Ragnaroek/iron-wolf",
-      "createdAt": "2026-02-21 23:52:20",
-      "hot": 55
+      "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
+      "summary": "158 comments",
+      "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
+      "createdAt": "2026-02-21 06:47:58",
+      "hot": 102
+    },
+    {
+      "title": "Keep Android Open",
+      "summary": "694 comments",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "createdAt": "2026-02-21 01:58:51",
+      "hot": 2015
     }
   ]
 }
