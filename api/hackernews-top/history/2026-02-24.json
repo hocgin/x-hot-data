@@ -217,6 +217,222 @@
           "hot": 370
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771877897775",
+      "lastUpdatedAt": "2026-02-24 04:18:17",
+      "data": [
+        {
+          "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+          "summary": "715 comments",
+          "url": "https://spectrum.ieee.org/age-verification",
+          "createdAt": "2026-02-23 22:22:39",
+          "hot": 874
+        },
+        {
+          "title": "Ladybird adopts Rust",
+          "summary": "456 comments",
+          "url": "https://ladybird.org/posts/adopting-rust/",
+          "createdAt": "2026-02-23 19:29:22",
+          "hot": 866
+        },
+        {
+          "title": "Show HN: PgDog – Scale Postgres without changing the app",
+          "summary": "26 comments",
+          "url": "https://github.com/pgdogdev/pgdog",
+          "createdAt": "2026-02-23 23:33:24",
+          "hot": 103
+        },
+        {
+          "title": "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
+          "summary": "65 comments",
+          "url": "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows",
+          "createdAt": "2026-02-21 21:24:04",
+          "hot": 86
+        },
+        {
+          "title": "Americans are destroying Flock surveillance cameras",
+          "summary": "25 comments",
+          "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+          "createdAt": "2026-02-24 03:04:34",
+          "hot": 88
+        },
+        {
+          "title": "Elsevier shuts down its finance journal citation cartel",
+          "summary": "91 comments",
+          "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
+          "createdAt": "2026-02-23 16:22:34",
+          "hot": 450
+        },
+        {
+          "title": "Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)",
+          "summary": "22 comments",
+          "url": "https://sowbot.co.uk/",
+          "createdAt": "2026-02-23 23:48:33",
+          "hot": 64
+        },
+        {
+          "title": "The Lighthouse: How extreme isolation transforms the body and mind",
+          "summary": "2 comments",
+          "url": "https://www.newscientist.com/article/2231732-the-lighthouse-how-extreme-isolation-transforms-the-body-and-mind/",
+          "createdAt": "2026-02-20 21:33:03",
+          "hot": 34
+        },
+        {
+          "title": "Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine",
+          "summary": "2 comments",
+          "url": "https://ghostklan.com/shibuya.html",
+          "createdAt": "2026-02-24 02:36:31",
+          "hot": 12
+        },
+        {
+          "title": "A simple web we own",
+          "summary": "78 comments",
+          "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+          "createdAt": "2026-02-24 00:01:18",
+          "hot": 123
+        },
+        {
+          "title": "Magical Mushroom – Europe's first industrial-scale mycelium packaging producer",
+          "summary": "99 comments",
+          "url": "https://magicalmushroom.com/index",
+          "createdAt": "2026-02-23 15:43:47",
+          "hot": 280
+        },
+        {
+          "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
+          "summary": "448 comments",
+          "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
+          "createdAt": "2026-02-20 00:23:39",
+          "hot": 338
+        },
+        {
+          "title": "Hadrius (YC W23) Is Hiring Designers Who Code",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer",
+          "createdAt": "2026-02-24 01:00:43",
+          "hot": 1
+        },
+        {
+          "title": "Generalized Sequential Probability Ratio Test for Families of Hypotheses [pdf]",
+          "summary": "0 comments",
+          "url": "https://sites.stat.columbia.edu/jcliu/paper/GSPRT_SQA3.pdf",
+          "createdAt": "2026-02-20 15:59:21",
+          "hot": 12
+        },
+        {
+          "title": "The peculiar case of Japanese web design (2022)",
+          "summary": "78 comments",
+          "url": "https://sabrinas.space",
+          "createdAt": "2026-02-23 22:28:39",
+          "hot": 185
+        },
+        {
+          "title": "Binance fired employees who found $1.7B in crypto was sent to Iran",
+          "summary": "49 comments",
+          "url": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+          "createdAt": "2026-02-24 03:23:30",
+          "hot": 87
+        },
+        {
+          "title": "0 A.D. Release 28: Boiorix",
+          "summary": "106 comments",
+          "url": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
+          "createdAt": "2026-02-20 03:37:00",
+          "hot": 301
+        },
+        {
+          "title": "ASML unveils EUV light source advance that could yield 50% more chips by 2030",
+          "summary": "18 comments",
+          "url": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/",
+          "createdAt": "2026-02-24 01:18:41",
+          "hot": 93
+        },
+        {
+          "title": "Benchmarks for concurrent hash map implementations in Go",
+          "summary": "0 comments",
+          "url": "https://github.com/puzpuzpuz/go-concurrent-map-bench",
+          "createdAt": "2026-02-23 02:28:58",
+          "hot": 48
+        },
+        {
+          "title": "femtolisp: A lightweight, robust, scheme-like Lisp implementation",
+          "summary": "13 comments",
+          "url": "https://github.com/JeffBezanson/femtolisp",
+          "createdAt": "2026-02-23 20:38:54",
+          "hot": 89
+        },
+        {
+          "title": "Emulating Goto in Scheme with Continuations",
+          "summary": "11 comments",
+          "url": "https://terezi.pyrope.net/ccgoto/",
+          "createdAt": "2026-02-20 01:58:27",
+          "hot": 30
+        },
+        {
+          "title": "A lithium-ion breakthrough that could boost range and lower costs",
+          "summary": "0 comments",
+          "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-solid-state-batteries-researchers-have-made-a-lithium-ion-breakthrough-that-could-boost-range-and-drastically-lower-costs",
+          "createdAt": "2026-02-24 03:07:41",
+          "hot": 16
+        },
+        {
+          "title": "What it means that Ubuntu is using Rust",
+          "summary": "87 comments",
+          "url": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+          "createdAt": "2026-02-24 01:15:14",
+          "hot": 72
+        },
+        {
+          "title": "Decided to fly to the US to buy some hard drives",
+          "summary": "27 comments",
+          "url": "https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives",
+          "createdAt": "2026-02-24 01:01:39",
+          "hot": 50
+        },
+        {
+          "title": "SETI@home: Data Acquisition and Front-End Processing (2025)",
+          "summary": "15 comments",
+          "url": "https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7",
+          "createdAt": "2026-02-23 17:58:33",
+          "hot": 71
+        },
+        {
+          "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+          "summary": "43 comments",
+          "url": "https://llm-timeline.com/",
+          "createdAt": "2026-02-23 17:07:44",
+          "hot": 92
+        },
+        {
+          "title": "I built Timeframe, our family e-paper dashboard",
+          "summary": "342 comments",
+          "url": "https://hawksley.org/2026/02/17/timeframe.html",
+          "createdAt": "2026-02-23 03:12:31",
+          "hot": 1455
+        },
+        {
+          "title": "What Is a Centipawn Advantage?",
+          "summary": "18 comments",
+          "url": "https://win-vector.com/2026/02/19/what-is-a-centipawn-advantage/",
+          "createdAt": "2026-02-20 02:40:35",
+          "hot": 43
+        },
+        {
+          "title": "India's VIP culture is out of control",
+          "summary": "9 comments",
+          "url": "https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control",
+          "createdAt": "2026-02-24 03:24:54",
+          "hot": 24
+        },
+        {
+          "title": "Pope tells priests to use their brains, not AI, to write homilies",
+          "summary": "393 comments",
+          "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+          "createdAt": "2026-02-23 15:33:57",
+          "hot": 490
+        }
+      ]
     }
   ]
 }
