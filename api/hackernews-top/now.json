@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1771790916277",
-  "lastUpdatedAt": "2026-02-23 04:08:36",
+  "id": "hackernews-top.1771807015890",
+  "lastUpdatedAt": "2026-02-23 08:36:55",
   "data": [
     {
-      "title": "Attention Media ≠ Social Networks",
-      "summary": "188 comments",
-      "url": "https://susam.net/attention-media-vs-social-networks.html",
-      "createdAt": "2026-02-22 20:36:46",
-      "hot": 419
-    },
-    {
-      "title": "Fix your tools",
-      "summary": "49 comments",
-      "url": "https://ochagavia.nl/blog/fix-your-tools/",
-      "createdAt": "2026-02-23 00:12:31",
-      "hot": 124
-    },
-    {
-      "title": "Linuxulator on FreeBSD Feels Like Magic",
-      "summary": "8 comments",
-      "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
-      "createdAt": "2026-02-23 02:45:56",
-      "hot": 16
-    },
-    {
-      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
-      "summary": "13 comments",
-      "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
-      "createdAt": "2026-02-23 02:20:31",
-      "hot": 34
-    },
-    {
-      "title": "Show HN: Local-First Linux MicroVMs for macOS",
-      "summary": "2 comments",
-      "url": "https://shuru.run",
-      "createdAt": "2026-02-23 02:50:14",
-      "hot": 14
-    },
-    {
-      "title": "Show HN: 3D Mahjong, Built in CSS",
-      "summary": "26 comments",
-      "url": "https://voxjong.com",
-      "createdAt": "2026-02-22 23:53:02",
-      "hot": 59
-    },
-    {
-      "title": "What is a database transaction?",
-      "summary": "34 comments",
-      "url": "https://planetscale.com/blog/database-transactions",
-      "createdAt": "2026-02-22 20:28:41",
-      "hot": 168
-    },
-    {
       "title": "I built Timeframe, our family e-paper dashboard",
-      "summary": "0 comments",
+      "summary": "143 comments",
       "url": "https://hawksley.org/2026/02/17/timeframe.html",
       "createdAt": "2026-02-23 03:12:31",
-      "hot": 7
+      "hot": 503
     },
     {
-      "title": "Green lumber fallacy in software engineering (2022)",
-      "summary": "4 comments",
-      "url": "https://www.chrisbehan.ca/posts/green-lumber-fallacy-in-software",
-      "createdAt": "2026-02-23 03:32:37",
-      "hot": 6
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "summary": "69 comments",
+      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "createdAt": "2026-02-23 07:07:55",
+      "hot": 103
     },
     {
-      "title": "Xweather Live – Interactive global vector weather map",
-      "summary": "22 comments",
-      "url": "https://live.xweather.com/",
-      "createdAt": "2026-02-22 23:12:15",
-      "hot": 89
-    },
-    {
-      "title": "International box-sizing Awareness Day (2014)",
-      "summary": "1 comments",
-      "url": "https://css-tricks.com/international-box-sizing-awareness-day/",
-      "createdAt": "2026-02-19 22:43:25",
-      "hot": 23
-    },
-    {
-      "title": "NanoClaw Moved from Apple Containers to Docker",
-      "summary": "21 comments",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-      "createdAt": "2026-02-23 03:12:50",
-      "hot": 31
-    },
-    {
-      "title": "Hello Worg, the Org-Mode Community",
-      "summary": "4 comments",
-      "url": "https://orgmode.org/worg/",
-      "createdAt": "2026-02-23 01:39:50",
-      "hot": 9
-    },
-    {
-      "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
-      "summary": "2 comments",
-      "url": "https://github.com/olserra/symplex",
-      "createdAt": "2026-02-23 03:20:59",
-      "hot": 3
-    },
-    {
-      "title": "Git's Magic Files",
-      "summary": "14 comments",
-      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
-      "createdAt": "2026-02-22 22:21:35",
-      "hot": 61
-    },
-    {
-      "title": "Back to FreeBSD: Part 1",
-      "summary": "85 comments",
-      "url": "https://hypha.pub/back-to-freebsd-part-1",
-      "createdAt": "2026-02-22 15:16:27",
+      "title": "Loops is a federated, open-source TikTok",
+      "summary": "107 comments",
+      "url": "https://joinloops.org/",
+      "createdAt": "2026-02-23 02:56:40",
       "hot": 179
     },
     {
-      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "summary": "66 comments",
-      "url": "https://quesma.com/blog/introducing-binaryaudit/",
-      "createdAt": "2026-02-22 22:50:44",
-      "hot": 167
+      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+      "summary": "22 comments",
+      "url": "https://cia-factbook-archive.fly.dev/",
+      "createdAt": "2026-02-23 04:50:23",
+      "hot": 73
     },
     {
-      "title": "An Unbothered Jimmy Wales Calls Grokipedia a 'Cartoon Imitation' of Wikipedia",
-      "summary": "2 comments",
-      "url": "https://gizmodo.com/an-unbothered-jimmy-wales-calls-grokipedia-a-cartoon-imitation-of-wikipedia-2000725070",
-      "createdAt": "2026-02-23 03:18:03",
-      "hot": 15
+      "title": "Using the new bridges of FreeBSD 15",
+      "summary": "6 comments",
+      "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+      "createdAt": "2026-02-23 06:42:16",
+      "hot": 26
     },
     {
-      "title": "How Taalas “prints” LLM onto a chip?",
-      "summary": "215 comments",
-      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-      "createdAt": "2026-02-22 03:07:20",
-      "hot": 366
+      "title": "Attention Media ≠ Social Networks",
+      "summary": "227 comments",
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "createdAt": "2026-02-22 20:36:46",
+      "hot": 521
     },
     {
-      "title": "Factory-built housing hasn't taken off in California",
-      "summary": "10 comments",
-      "url": "https://www.latimes.com/california/story/2026-02-14/factory-built-housing-hasnt-taken-off-in-california-yet-but-this-year-might-be-different",
-      "createdAt": "2026-02-23 03:33:22",
-      "hot": 13
+      "title": "Keybee: A Keyboard Designed for Smartphones",
+      "summary": "26 comments",
+      "url": "https://keybeekeyboard.com/",
+      "createdAt": "2026-02-19 22:45:55",
+      "hot": 35
     },
     {
-      "title": "Gamedate – A site to revive dead multiplayer games",
-      "summary": "42 comments",
-      "url": "https://gamedate.org/",
-      "createdAt": "2026-02-21 08:44:28",
-      "hot": 295
+      "title": "Six Math Essentials",
+      "summary": "5 comments",
+      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "createdAt": "2026-02-23 03:21:21",
+      "hot": 81
     },
     {
-      "title": "Monkey Patching in VBA",
-      "summary": "4 comments",
-      "url": "https://ecp-solutions.github.io/ASF/Language%20reference.html",
-      "createdAt": "2026-02-18 18:29:08",
-      "hot": 31
+      "title": "Show HN: Local-First Linux MicroVMs for macOS",
+      "summary": "32 comments",
+      "url": "https://shuru.run",
+      "createdAt": "2026-02-23 02:50:14",
+      "hot": 103
     },
     {
-      "title": "What's the best way to learn a new language?",
-      "summary": "53 comments",
-      "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
-      "createdAt": "2026-02-22 15:14:22",
-      "hot": 60
+      "title": "Fix your tools",
+      "summary": "67 comments",
+      "url": "https://ochagavia.nl/blog/fix-your-tools/",
+      "createdAt": "2026-02-23 00:12:31",
+      "hot": 178
+    },
+    {
+      "title": "Linuxulator on FreeBSD Feels Like Magic",
+      "summary": "24 comments",
+      "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+      "createdAt": "2026-02-23 02:45:56",
+      "hot": 66
     },
     {
       "title": "Man accidentally gains control of 7k robot vacuums",
-      "summary": "88 comments",
+      "summary": "113 comments",
       "url": "https://www.popsci.com/technology/robot-vacuum-army/",
       "createdAt": "2026-02-22 22:44:42",
-      "hot": 137
+      "hot": 173
     },
     {
-      "title": "Show HN: Data Studio – Open-Source Data Notebooks",
-      "summary": "0 comments",
-      "url": "https://github.com/dataspren-analytics/data-studio",
-      "createdAt": "2026-02-17 20:10:45",
-      "hot": 5
+      "title": "Hello Worg, the Org-Mode Community",
+      "summary": "18 comments",
+      "url": "https://orgmode.org/worg/",
+      "createdAt": "2026-02-23 01:39:50",
+      "hot": 77
     },
     {
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "summary": "93 comments",
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "createdAt": "2026-02-22 04:57:30",
-      "hot": 349
+      "title": "What is a database transaction?",
+      "summary": "52 comments",
+      "url": "https://planetscale.com/blog/database-transactions",
+      "createdAt": "2026-02-22 20:28:41",
+      "hot": 201
     },
     {
-      "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
-      "summary": "2 comments",
-      "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
-      "createdAt": "2026-02-22 21:44:27",
+      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+      "summary": "19 comments",
+      "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+      "createdAt": "2026-02-23 02:20:31",
+      "hot": 65
+    },
+    {
+      "title": "Music Discovery",
+      "summary": "32 comments",
+      "url": "https://www.secondtrack.co/",
+      "createdAt": "2026-02-23 05:06:17",
+      "hot": 37
+    },
+    {
+      "title": "Emulated Windows 3.11 in the Browser",
+      "summary": "22 comments",
+      "url": "https://pieter.com/",
+      "createdAt": "2026-02-23 01:37:14",
+      "hot": 56
+    },
+    {
+      "title": "Show HN: Warn Firehose – Every US layoff notice in one searchable database",
+      "summary": "1 comments",
+      "url": "https://warnfirehose.com",
+      "createdAt": "2026-02-23 07:32:43",
       "hot": 23
     },
     {
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "summary": "530 comments",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
-      "createdAt": "2026-02-22 08:29:05",
-      "hot": 835
+      "title": "NanoClaw moved from Apple Containers to Docker",
+      "summary": "71 comments",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+      "createdAt": "2026-02-23 03:12:50",
+      "hot": 95
     },
     {
-      "title": "Japanese Woodblock Print Search",
-      "summary": "29 comments",
-      "url": "https://ukiyo-e.org/",
-      "createdAt": "2026-02-22 11:18:36",
-      "hot": 182
+      "title": "Zuckerberg's \"Fix\" for Child Safety Could End Anonymous Internet Access for All",
+      "summary": "31 comments",
+      "url": "https://reclaimthenet.org/zuckerberg-instagram-age-verification-trial",
+      "createdAt": "2026-02-23 07:17:41",
+      "hot": 38
     },
     {
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "summary": "135 comments",
-      "url": "https://github.com/tnm/zclaw",
-      "createdAt": "2026-02-21 20:37:52",
-      "hot": 256
+      "title": "The Tears of Donald Knuth",
+      "summary": "15 comments",
+      "url": "https://cacm.acm.org/opinion/the-tears-of-donald-knuth/",
+      "createdAt": "2026-02-23 03:54:14",
+      "hot": 30
+    },
+    {
+      "title": "Xweather Live – Interactive global vector weather map",
+      "summary": "32 comments",
+      "url": "https://live.xweather.com/",
+      "createdAt": "2026-02-22 23:12:15",
+      "hot": 127
+    },
+    {
+      "title": "Algolia Hacker News Search GitHub Project Archived",
+      "summary": "15 comments",
+      "url": "https://github.com/algolia/hn-search",
+      "createdAt": "2026-02-23 05:41:27",
+      "hot": 57
+    },
+    {
+      "title": "Git's Magic Files",
+      "summary": "30 comments",
+      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+      "createdAt": "2026-02-22 22:21:35",
+      "hot": 107
+    },
+    {
+      "title": "Spain has blocked access to freedom.gov",
+      "summary": "80 comments",
+      "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+      "createdAt": "2026-02-23 04:17:12",
+      "hot": 86
+    },
+    {
+      "title": "Black-White Array: fast, ordered and based on with O(log N) memory allocations",
+      "summary": "3 comments",
+      "url": "https://github.com/dronnix/bwarr",
+      "createdAt": "2026-02-23 03:19:31",
+      "hot": 19
+    },
+    {
+      "title": "Show HN: 3D Mahjong, Built in CSS",
+      "summary": "44 comments",
+      "url": "https://voxjong.com",
+      "createdAt": "2026-02-22 23:53:02",
+      "hot": 92
+    },
+    {
+      "title": "The Geometry of Tostitos Scoops",
+      "summary": "2 comments",
+      "url": "https://chip-tech-rob.zocomputer.io/",
+      "createdAt": "2026-02-23 03:49:26",
+      "hot": 27
+    },
+    {
+      "title": "Back to FreeBSD: Part 1",
+      "summary": "94 comments",
+      "url": "https://hypha.pub/back-to-freebsd-part-1",
+      "createdAt": "2026-02-22 15:16:27",
+      "hot": 197
+    },
+    {
+      "title": "In World Without BlackBerry, Physical Keyboards on Phones Are Making a Comeback",
+      "summary": "30 comments",
+      "url": "https://www.cnet.com/tech/mobile/in-a-world-without-blackberry-physical-keyboards-on-phones-are-making-a-comeback/",
+      "createdAt": "2026-02-23 04:38:55",
+      "hot": 45
     }
   ]
 }
