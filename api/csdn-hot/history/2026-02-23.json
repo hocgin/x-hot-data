@@ -1069,6 +1069,362 @@
           "hot": 2155
         }
       ]
+    },
+    {
+      "id": "csdn-hot.1771821974156",
+      "lastUpdatedAt": "2026-02-23 12:46:14",
+      "data": [
+        {
+          "title": "深度学习实战-基于CNN与Transformer的水稻叶片病害图像识别模型",
+          "summary": "作者: 艾派森",
+          "url": "https://blog.csdn.net/m0_64336780/article/details/157430402",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 23985
+        },
+        {
+          "title": "一卡通核心交易平台的国产数据库实践解析：架构、迁移与高可用落地",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158262249",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 21448
+        },
+        {
+          "title": "微调模型成本太高，用RAG技术，低成本实现AI升级",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158260530",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 20964
+        },
+        {
+          "title": "基于深度学习的无人机航拍小目标检测算法研究",
+          "summary": "作者: Jay8059",
+          "url": "https://blog.csdn.net/m0_61028090/article/details/158239355",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 20127
+        },
+        {
+          "title": "Spring Boot 实战：MyBatis 操作数据库（上）",
+          "summary": "作者: 想不明白的过度思考者",
+          "url": "https://blog.csdn.net/weixin_46491509/article/details/157940765",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 13723
+        },
+        {
+          "title": "从一小时复现谷歌项目到永久记忆：Claude 2026核心能力全解析",
+          "summary": "作者: lulu1216544078",
+          "url": "https://blog.csdn.net/lulu1216544078/article/details/158289042",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 10852
+        },
+        {
+          "title": "微服务链路追踪实战：SkyWalking vs Zipkin 架构深度解析与性能优化指南",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/158283264",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 10570
+        },
+        {
+          "title": "Ext 系列文件系统核心：块、分区、inode 与块组结构详解",
+          "summary": "作者: 草莓熊Lotso",
+          "url": "https://blog.csdn.net/2503_91389547/article/details/157801695",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 9901
+        },
+        {
+          "title": "Python中的“==“与“is“：深入解析与Vibe Coding时代的优化实践",
+          "summary": "作者: 郝学胜-神的一滴",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/158182799",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 9685
+        },
+        {
+          "title": "Scrapy 嵌入 FastAPI 的坑：Asyncio/Twisted 桥接 + 代理池设计",
+          "summary": "作者: ん贤",
+          "url": "https://blog.csdn.net/2302_80067378/article/details/158237425",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 9409
+        },
+        {
+          "title": "《计算机视觉：模型、学习和推理》第 7 章-复杂数据密度建模",
+          "summary": "作者: 啊阿狸不会拉杆",
+          "url": "https://blog.csdn.net/2302_80961196/article/details/158266428",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 8927
+        },
+        {
+          "title": "平滑迁移无压力：金仓数据库迁移 MongoDB 的技术优势总结",
+          "summary": "作者: 鸽芷咕",
+          "url": "https://blog.csdn.net/qq_57761637/article/details/158291710",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 8867
+        },
+        {
+          "title": "Java 中间件：Dubbo 服务降级（Mock 机制）",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157468276",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 8806
+        },
+        {
+          "title": "时序数据库替换实战：用电科金仓一键搞定 InfluxDB/TimescaleDB/TDengine 国产化替代",
+          "summary": "作者: xcLeigh",
+          "url": "https://blog.csdn.net/weixin_43151418/article/details/157652561",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 8170
+        },
+        {
+          "title": "机器学习与模式识别——SVM",
+          "summary": "作者: twilight_469",
+          "url": "https://blog.csdn.net/m0_75002007/article/details/158238455",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 7533
+        },
+        {
+          "title": "GCC编译(6)静态库工具AR",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/158234897",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 7337
+        },
+        {
+          "title": "【LE Audio】BAP协议精讲[16]: 从广播到流传输：广播音频PDU全链路拆解与实践",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/158236756",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 7150
+        },
+        {
+          "title": "深度体验Ling Studio：万亿参数模型如何重塑AI开发工作流",
+          "summary": "作者: 一键难忘",
+          "url": "https://blog.csdn.net/weixin_52908342/article/details/158283948",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 6964
+        },
+        {
+          "title": "X-VLA——基于Soft Prompt的Transformer编码器练就可扩展的跨本体VLA：VLM做多模态感知，DiT-style做动作生成",
+          "summary": "作者: v_JULY_v",
+          "url": "https://blog.csdn.net/v_JULY_v/article/details/158262322",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 5602
+        },
+        {
+          "title": "Gemini 3.1 Pro 正式发布：一次低调更新，还是谷歌的关键反击？",
+          "summary": "作者: IvanCodes",
+          "url": "https://blog.csdn.net/2401_83830408/article/details/158238328",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 5326
+        },
+        {
+          "title": "SpringBoot多环境配置实战指南",
+          "summary": "作者: 北极的代码",
+          "url": "https://blog.csdn.net/chen_si_shang_/article/details/158237261",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 4871
+        },
+        {
+          "title": "ReAct范式全流程详解",
+          "summary": "作者: 晔子yy",
+          "url": "https://blog.csdn.net/gdpu2400502251/article/details/158262247",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 4338
+        },
+        {
+          "title": "openclaw v2026.2.21版本正式发布：新增Gemini 3.1支持、火山引擎对接、全新Discord语音系统与超200项安全和性能升级",
+          "summary": "作者: 福大大架构师每日一题",
+          "url": "https://blog.csdn.net/weixin_48502062/article/details/158282686",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 4302
+        },
+        {
+          "title": "ARM Linux 驱动开发篇--- 设备树下的 LED 驱动实验-- Ubuntu20.04",
+          "summary": "作者: 渡水无言",
+          "url": "https://blog.csdn.net/weixin_61186812/article/details/158238557",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 4267
+        },
+        {
+          "title": "英语学习平台系统|基于springboot + vue英语学习平台系统(源码+数据库+文档)",
+          "summary": "作者: 伟庭大师兄",
+          "url": "https://blog.csdn.net/weixin_45630258/article/details/158262301",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 4203
+        },
+        {
+          "title": "AtomGit首发模型深度评测：多模态能力与场景适配性实战分析",
+          "summary": "作者: 进哥聊编程",
+          "url": "https://blog.csdn.net/u014727709/article/details/158289782",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 3992
+        },
+        {
+          "title": "2026 AI十大趋势：木头姐《Big Ideas 2026》深度解读，解锁大加速时代的技术红利",
+          "summary": "作者: 梦想画家",
+          "url": "https://blog.csdn.net/neweastsun/article/details/158263047",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 3936
+        },
+        {
+          "title": "大模型开发 - SpringAI之MySQL存储ChatMemory",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/158183970",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 3368
+        },
+        {
+          "title": "使用 Docker Compose 本地部署 GitLab 教程",
+          "summary": "作者: 马克Markorg",
+          "url": "https://blog.csdn.net/csgarten/article/details/158266777",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 3036
+        },
+        {
+          "title": "Transformer实战（36）——Transformer模型部署",
+          "summary": "作者: 盼小辉丶",
+          "url": "https://blog.csdn.net/LOVEmy134611/article/details/147991687",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 3015
+        },
+        {
+          "title": "OpenClaw接入飞书全流程：打造你的24小时AI助手",
+          "summary": "作者: 中杯可乐多加冰",
+          "url": "https://blog.csdn.net/air__Heaven/article/details/158235047",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2993
+        },
+        {
+          "title": "Vue3 Webview 转 Android 虚拟导航栏遮挡问题记录",
+          "summary": "作者: huohuopro",
+          "url": "https://blog.csdn.net/2401_87092242/article/details/158289965",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2664
+        },
+        {
+          "title": "窗口基石:掌控 Qt 界面的无限形态",
+          "summary": "作者: 夜雨声烦1413",
+          "url": "https://blog.csdn.net/ABWSO/article/details/157404599",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2629
+        },
+        {
+          "title": "基于yolov11+django+deepseek的脑肿瘤检测系统带登录界面python源码+onnx模型+精美web界面",
+          "summary": "作者: FL1623863129",
+          "url": "https://blog.csdn.net/FL1623863129/article/details/158282460",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2583
+        },
+        {
+          "title": "前端八股文面经大全：字节前端一面（2026-2-1）·面经深度解析",
+          "summary": "作者: 木斯佳",
+          "url": "https://blog.csdn.net/weixin_50077637/article/details/158237586",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2568
+        },
+        {
+          "title": "连接管理模块和服务器模块",
+          "summary": "作者: Ronin305",
+          "url": "https://blog.csdn.net/2402_82670467/article/details/158238536",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2354
+        },
+        {
+          "title": "Android tinyalsa深度解析之pcm_get_read_write_threshold调用流程与实战(一百二十六)",
+          "summary": "作者: Android系统攻城狮",
+          "url": "https://blog.csdn.net/u010164190/article/details/158097752",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2300
+        },
+        {
+          "title": "MySQL JOIN：底层原理、算法演进与多表性能之谜",
+          "summary": "作者: Anastasiozzzz",
+          "url": "https://blog.csdn.net/2401_87808951/article/details/158291298",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2219
+        },
+        {
+          "title": "LabVIEW通过OPC开发汽车踏板疲劳测试控制系统",
+          "summary": "作者: LabVIEW开发",
+          "url": "https://blog.csdn.net/bjcyck/article/details/158290070",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2111
+        },
+        {
+          "title": "基于ESP32_CAM与Qt Creator的智能视频监控项目（代码开源）",
+          "summary": "作者: 混分巨兽龙某某",
+          "url": "https://blog.csdn.net/black_sneak/article/details/158235625",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2101
+        },
+        {
+          "title": "Flutter三方库适配OpenHarmony【flutter_speech】— 持续语音识别与长录音",
+          "summary": "作者: 阿林来了",
+          "url": "https://blog.csdn.net/weixin_37695089/article/details/158265089",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 2031
+        },
+        {
+          "title": "【一天一个计算机知识】—— 【 C/C++ 内存管理与分布】",
+          "summary": "作者: 枫亭湖区",
+          "url": "https://blog.csdn.net/fengtinghuqu520/article/details/158181766",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1938
+        },
+        {
+          "title": "【HarmonyOS】day39:React Native实战项目+智能文本省略Hook开发",
+          "summary": "作者: 星空2223",
+          "url": "https://blog.csdn.net/2401_83061978/article/details/158262622",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1934
+        },
+        {
+          "title": "【小沐杂货铺】基于Three.js渲染三维无人机Drone（WebGL / vue / react ）",
+          "summary": "作者: 爱看书的小沐",
+          "url": "https://blog.csdn.net/hhy321/article/details/158236403",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1866
+        },
+        {
+          "title": "Spring Boot ResponseEntity响应处理与文件下载实战",
+          "summary": "作者: 南部余额",
+          "url": "https://blog.csdn.net/qq_33181292/article/details/158263649",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1796
+        },
+        {
+          "title": "深入RAG架构：分块策略、混合检索与重排序的工程实现",
+          "summary": "作者: deephub",
+          "url": "https://blog.csdn.net/m0_46510245/article/details/158238424",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1786
+        },
+        {
+          "title": "飞书 × OpenClaw 接入指南：不用服务器，用长连接把机器人跑起来",
+          "summary": "作者: 一头老黄牛@",
+          "url": "https://blog.csdn.net/u014177256/article/details/158267848",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1776
+        },
+        {
+          "title": "进阶实战 Flutter for OpenHarmony：AnimatedBuilder 组件实战 - 自定义动画系统",
+          "summary": "作者: 早點睡390",
+          "url": "https://blog.csdn.net/2402_83107102/article/details/158263507",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1716
+        },
+        {
+          "title": "LVS（Linux virual server）四层负载均衡实验",
+          "summary": "作者: 奇特認",
+          "url": "https://blog.csdn.net/pengxiaolin_yi/article/details/158238413",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1613
+        },
+        {
+          "title": "Http粘包问题回顾",
+          "summary": "作者: 21号        1",
+          "url": "https://blog.csdn.net/2401_86931059/article/details/151285483",
+          "createdAt": "2026-02-23 12:45:52",
+          "hot": 1607
+        }
+      ]
     }
   ]
 }
