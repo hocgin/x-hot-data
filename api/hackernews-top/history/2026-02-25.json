@@ -217,6 +217,222 @@
           "hot": 290
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771964076528",
+      "lastUpdatedAt": "2026-02-25 04:14:36",
+      "data": [
+        {
+          "title": "I'm helping my dog vibe code games",
+          "summary": "100 comments",
+          "url": "https://www.calebleak.com/posts/dog-game/",
+          "createdAt": "2026-02-25 01:15:17",
+          "hot": 296
+        },
+        {
+          "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+          "summary": "111 comments",
+          "url": "https://wordglyph.xyz/one-piece-at-a-time",
+          "createdAt": "2026-02-24 21:03:51",
+          "hot": 319
+        },
+        {
+          "title": "Nearby Glasses",
+          "summary": "29 comments",
+          "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+          "createdAt": "2026-02-25 01:40:40",
+          "hot": 63
+        },
+        {
+          "title": "HuggingFace Agent Skills",
+          "summary": "10 comments",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-25 01:30:19",
+          "hot": 46
+        },
+        {
+          "title": "Open Letter to Google on Mandatory Developer Registration for App Distribution",
+          "summary": "142 comments",
+          "url": "https://keepandroidopen.org/open-letter/",
+          "createdAt": "2026-02-25 01:21:11",
+          "hot": 231
+        },
+        {
+          "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+          "summary": "165 comments",
+          "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+          "createdAt": "2026-02-24 20:58:14",
+          "hot": 146
+        },
+        {
+          "title": "I think WebRTC is better than SSH-ing for connecting to Mac terminal from iPhone",
+          "summary": "18 comments",
+          "url": "https://macky.dev",
+          "createdAt": "2026-02-25 02:21:39",
+          "hot": 23
+        },
+        {
+          "title": "Steel Bank Common Lisp",
+          "summary": "10 comments",
+          "url": "https://www.sbcl.org/",
+          "createdAt": "2026-02-25 02:24:17",
+          "hot": 55
+        },
+        {
+          "title": "We installed a single turnstile to feel secure",
+          "summary": "76 comments",
+          "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+          "createdAt": "2026-02-23 05:07:11",
+          "hot": 182
+        },
+        {
+          "title": "Extending C with Prolog (1994)",
+          "summary": "17 comments",
+          "url": "https://www.amzi.com/articles/irq_expert_system.htm",
+          "createdAt": "2026-02-23 00:10:18",
+          "hot": 44
+        },
+        {
+          "title": "Diode – Build, program, and simulate hardware",
+          "summary": "89 comments",
+          "url": "https://www.withdiode.com/",
+          "createdAt": "2026-02-21 06:14:13",
+          "hot": 395
+        },
+        {
+          "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+          "summary": "0 comments",
+          "url": "https://jobs.ashbyhq.com/verge-genomics",
+          "createdAt": "2026-02-25 01:00:34",
+          "hot": 1
+        },
+        {
+          "title": "Hacking an old Kindle to display bus arrival times",
+          "summary": "0 comments",
+          "url": "https://www.mariannefeng.com/portfolio/kindle/",
+          "createdAt": "2026-02-25 03:43:34",
+          "hot": 3
+        },
+        {
+          "title": "Samsung Upcycle Promise",
+          "summary": "84 comments",
+          "url": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
+          "createdAt": "2026-02-24 01:14:02",
+          "hot": 145
+        },
+        {
+          "title": "Tesla registrations crash 17% in Europe as BEV market surges 14%",
+          "summary": "115 comments",
+          "url": "https://electrek.co/2026/02/24/tesla-eu-registrations-crash-january-2026-bev-growth/",
+          "createdAt": "2026-02-25 02:46:25",
+          "hot": 146
+        },
+        {
+          "title": "Show HN: Emdash – Open-source agentic development environment",
+          "summary": "10 comments",
+          "url": "https://github.com/generalaction/emdash",
+          "createdAt": "2026-02-25 02:00:37",
+          "hot": 25
+        },
+        {
+          "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
+          "summary": "60 comments",
+          "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+          "createdAt": "2026-02-25 00:40:47",
+          "hot": 161
+        },
+        {
+          "title": "Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)",
+          "summary": "0 comments",
+          "url": "https://github.com/MdSadiqMd/AV-Chaos-Monkey",
+          "createdAt": "2026-02-23 16:53:21",
+          "hot": 6
+        },
+        {
+          "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+          "summary": "84 comments",
+          "url": "https://vmfunc.re/blog/persona/",
+          "createdAt": "2026-02-25 02:23:03",
+          "hot": 268
+        },
+        {
+          "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+          "summary": "87 comments",
+          "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+          "createdAt": "2026-02-24 20:16:45",
+          "hot": 459
+        },
+        {
+          "title": "λProlog: Logic programming in higher-order logic",
+          "summary": "35 comments",
+          "url": "https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/",
+          "createdAt": "2026-02-21 07:02:08",
+          "hot": 121
+        },
+        {
+          "title": "The Missing Semester of Your CS Education – Revised for 2026",
+          "summary": "93 comments",
+          "url": "https://missing.csail.mit.edu/",
+          "createdAt": "2026-02-24 00:02:48",
+          "hot": 332
+        },
+        {
+          "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
+          "summary": "127 comments",
+          "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
+          "createdAt": "2026-02-24 21:04:16",
+          "hot": 285
+        },
+        {
+          "title": "Terence Tao, at 8 years old (1984) [pdf]",
+          "summary": "273 comments",
+          "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+          "createdAt": "2026-02-23 23:36:50",
+          "hot": 451
+        },
+        {
+          "title": "Denver dumps Flock, awards contract to Axon",
+          "summary": "25 comments",
+          "url": "https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8",
+          "createdAt": "2026-02-25 01:16:12",
+          "hot": 61
+        },
+        {
+          "title": "A distributed queue in a single JSON file on object storage",
+          "summary": "48 comments",
+          "url": "https://turbopuffer.com/blog/object-storage-queue",
+          "createdAt": "2026-02-21 18:31:37",
+          "hot": 137
+        },
+        {
+          "title": "OpenAI resets spending expectations, from $1.4T to $600B",
+          "summary": "58 comments",
+          "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+          "createdAt": "2026-02-25 02:22:31",
+          "hot": 85
+        },
+        {
+          "title": "Discord cuts ties with identity verification software, Persona",
+          "summary": "252 comments",
+          "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+          "createdAt": "2026-02-24 19:59:14",
+          "hot": 363
+        },
+        {
+          "title": "Cardiorespiratory fitness is associated with lower anger and anxiety",
+          "summary": "61 comments",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S000169182600171X",
+          "createdAt": "2026-02-25 01:03:37",
+          "hot": 66
+        },
+        {
+          "title": "Stripe valued at $159B, 2025 annual letter",
+          "summary": "156 comments",
+          "url": "https://stripe.com/newsroom/news/stripe-2025-update",
+          "createdAt": "2026-02-24 22:37:52",
+          "hot": 144
+        }
+      ]
     }
   ]
 }
