@@ -1,89 +1,89 @@
 {
-  "id": "github-trending.1771908050589",
-  "lastUpdatedAt": "2026-02-24 12:40:50",
+  "id": "github-trending.1771921187299",
+  "lastUpdatedAt": "2026-02-24 16:19:47",
   "data": [
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "OpenBB-finance/OpenBB",
       "summary": "Financial data platform for analysts, quants and AI agents.",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "summary": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "f/prompts.chat",
-      "summary": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "CompVis/stable-diffusion",
       "summary": "A latent text-to-image diffusion model",
       "url": "https://github.com/CompVis/stable-diffusion",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "abhigyanpatwari/GitNexus",
       "summary": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "Stremio/stremio-web",
       "summary": "Stremio - Freedom to Stream",
       "url": "https://github.com/Stremio/stremio-web",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "stan-smith/FossFLOW",
       "summary": "Make beautiful isometric infrastructure diagrams",
       "url": "https://github.com/stan-smith/FossFLOW",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "VectifyAI/PageIndex",
       "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "cloudflare/agents",
       "summary": "Build and deploy AI Agents on Cloudflare",
       "url": "https://github.com/cloudflare/agents",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "siteboon/claudecodeui",
       "summary": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
       "url": "https://github.com/siteboon/claudecodeui",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "NevaMind-AI/memU",
       "summary": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "url": "https://github.com/NevaMind-AI/memU",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     },
     {
       "title": "clash-verge-rev/clash-verge-rev",
       "summary": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "createdAt": "2026-02-24 12:40:31"
+      "createdAt": "2026-02-24 16:19:30"
     }
   ]
 }
