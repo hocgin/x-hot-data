@@ -1,0 +1,67 @@
+{
+  "id": "github-trending.history.2026-02-25",
+  "createdAt": "2026-02-25 00:27:32",
+  "data": [
+    {
+      "id": "github-trending.1771950452457",
+      "lastUpdatedAt": "2026-02-25 00:27:32",
+      "data": [
+        {
+          "title": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "GVCLab/PersonaLive",
+          "url": "https://github.com/GVCLab/PersonaLive",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "createdAt": "2026-02-25 00:27:07"
+        },
+        {
+          "title": "openemr/openemr",
+          "url": "https://github.com/openemr/openemr",
+          "createdAt": "2026-02-25 00:27:07"
+        }
+      ]
+    }
+  ]
+}
