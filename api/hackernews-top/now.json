@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772007625211",
-  "lastUpdatedAt": "2026-02-25 16:20:25",
+  "id": "hackernews-top.1772022046031",
+  "lastUpdatedAt": "2026-02-25 20:20:46",
   "data": [
     {
-      "title": "Sovereignty in a System Prompt",
-      "summary": "2 comments",
-      "url": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
-      "createdAt": "2026-02-24 21:38:54",
-      "hot": 17
+      "title": "Danish government agency to ditch Microsoft software (2025)",
+      "summary": "73 comments",
+      "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "createdAt": "2026-02-25 18:16:22",
+      "hot": 158
+    },
+    {
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "summary": "20 comments",
+      "url": "https://llmskirmish.com/",
+      "createdAt": "2026-02-25 18:02:45",
+      "hot": 64
     },
     {
       "title": "I'm helping my dog vibe code games",
-      "summary": "253 comments",
+      "summary": "303 comments",
       "url": "https://www.calebleak.com/posts/dog-game/",
       "createdAt": "2026-02-25 01:15:17",
-      "hot": 874
+      "hot": 957
     },
     {
-      "title": "Cl-kawa: Scheme on Java on Common Lisp",
-      "summary": "5 comments",
-      "url": "https://github.com/atgreen/cl-kawa",
-      "createdAt": "2026-02-22 20:12:39",
-      "hot": 30
+      "title": "Claude Code Remote Control",
+      "summary": "35 comments",
+      "url": "https://code.claude.com/docs/en/remote-control",
+      "createdAt": "2026-02-25 15:22:56",
+      "hot": 64
     },
     {
-      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "summary": "48 comments",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "createdAt": "2026-02-25 05:54:07",
-      "hot": 226
-    },
-    {
-      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-      "summary": "87 comments",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "createdAt": "2026-02-25 06:46:23",
-      "hot": 199
+      "title": "LLM=True",
+      "summary": "82 comments",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "createdAt": "2026-02-25 17:05:40",
+      "hot": 110
     },
     {
       "title": "Pi – A minimal terminal coding harness",
-      "summary": "139 comments",
+      "summary": "201 comments",
       "url": "https://pi.dev",
       "createdAt": "2026-02-25 05:53:59",
-      "hot": 328
+      "hot": 425
     },
     {
-      "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+      "title": "Event Horizon Labs (YC W24) Is Hiring",
       "summary": "0 comments",
-      "url": "https://shouldhavebought.com/",
-      "createdAt": "2026-02-24 23:50:54",
-      "hot": 4
-    },
-    {
-      "title": "Mac mini will be made at a new facility in Houston",
-      "summary": "479 comments",
-      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-      "createdAt": "2026-02-25 05:13:45",
-      "hot": 489
-    },
-    {
-      "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
-      "summary": "2 comments",
-      "url": "https://arxiv.org/abs/2602.20762",
-      "createdAt": "2026-02-25 13:16:39",
-      "hot": 15
-    },
-    {
-      "title": "React just left meta. Here's what that means for developers",
-      "summary": "1 comments",
-      "url": "https://sulat.com/p/react-just-left-meta-heres-what-that",
-      "createdAt": "2026-02-25 14:36:45",
-      "hot": 7
-    },
-    {
-      "title": "Japanese Death Poems",
-      "summary": "0 comments",
-      "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
-      "createdAt": "2026-02-23 04:08:18",
-      "hot": 13
-    },
-    {
-      "title": "Hacking an old Kindle to display bus arrival times",
-      "summary": "53 comments",
-      "url": "https://www.mariannefeng.com/portfolio/kindle/",
-      "createdAt": "2026-02-25 03:43:34",
-      "hot": 234
-    },
-    {
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "summary": "58 comments",
-      "url": "https://github.com/generalaction/emdash",
-      "createdAt": "2026-02-25 02:00:37",
-      "hot": 145
-    },
-    {
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "summary": "162 comments",
-      "url": "https://wordglyph.xyz/one-piece-at-a-time",
-      "createdAt": "2026-02-24 21:03:51",
-      "hot": 445
-    },
-    {
-      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
-      "summary": "119 comments",
-      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
-      "createdAt": "2026-02-25 09:00:45",
-      "hot": 377
-    },
-    {
-      "title": "Nearby Glasses",
-      "summary": "114 comments",
-      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
-      "createdAt": "2026-02-25 01:40:40",
-      "hot": 306
-    },
-    {
-      "title": "Steel Bank Common Lisp",
-      "summary": "77 comments",
-      "url": "https://www.sbcl.org/",
-      "createdAt": "2026-02-25 02:24:17",
-      "hot": 199
-    },
-    {
-      "title": "Cell Service for the Fairly Paranoid",
-      "summary": "91 comments",
-      "url": "https://www.cape.co/",
-      "createdAt": "2026-02-25 06:37:54",
-      "hot": 83
-    },
-    {
-      "title": "Georgian wine culture dates back, uninterrupted, approximately 8k years",
-      "summary": "40 comments",
-      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/",
-      "createdAt": "2026-02-21 03:37:08",
-      "hot": 51
-    },
-    {
-      "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
-      "summary": "13 comments",
-      "url": "https://github.com/mksglu/claude-context-mode",
-      "createdAt": "2026-02-25 14:23:30",
-      "hot": 40
-    },
-    {
-      "title": "Corgi Labs (YC W23) Is Hiring",
-      "summary": "0 comments",
-      "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
-      "createdAt": "2026-02-25 09:01:02",
+      "url": "https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer",
+      "createdAt": "2026-02-25 20:01:11",
       "hot": 1
     },
     {
-      "title": "Anthropic Drops Flagship Safety Pledge",
-      "summary": "103 comments",
-      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-      "createdAt": "2026-02-25 09:08:46",
-      "hot": 256
+      "title": "Turing Completeness of GNU find",
+      "summary": "12 comments",
+      "url": "https://arxiv.org/abs/2602.20762",
+      "createdAt": "2026-02-25 13:16:39",
+      "hot": 66
+    },
+    {
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+      "summary": "104 comments",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "createdAt": "2026-02-25 06:46:23",
+      "hot": 250
+    },
+    {
+      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+      "summary": "60 comments",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "createdAt": "2026-02-25 05:54:07",
+      "hot": 264
+    },
+    {
+      "title": "Japanese Death Poems",
+      "summary": "16 comments",
+      "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
+      "createdAt": "2026-02-23 04:08:18",
+      "hot": 53
+    },
+    {
+      "title": "Read Locks Are Not Your Friends",
+      "summary": "3 comments",
+      "url": "https://eventual-consistency.vercel.app/posts/write-locks-faster",
+      "createdAt": "2026-02-23 03:40:18",
+      "hot": 6
+    },
+    {
+      "title": "Show HN: Scheme-langserver – Digest incomplete code with static analysis",
+      "summary": "0 comments",
+      "url": "https://github.com/ufo5260987423/scheme-langserver",
+      "createdAt": "2026-02-24 14:53:55",
+      "hot": 10
+    },
+    {
+      "title": "Mac mini will be made at a new facility in Houston",
+      "summary": "521 comments",
+      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+      "createdAt": "2026-02-25 05:13:45",
+      "hot": 533
+    },
+    {
+      "title": "Cl-kawa: Scheme on Java on Common Lisp",
+      "summary": "11 comments",
+      "url": "https://github.com/atgreen/cl-kawa",
+      "createdAt": "2026-02-22 20:12:39",
+      "hot": 47
+    },
+    {
+      "title": "Hacking an old Kindle to display bus arrival times",
+      "summary": "75 comments",
+      "url": "https://www.mariannefeng.com/portfolio/kindle/",
+      "createdAt": "2026-02-25 03:43:34",
+      "hot": 283
+    },
+    {
+      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+      "summary": "172 comments",
+      "url": "https://wordglyph.xyz/one-piece-at-a-time",
+      "createdAt": "2026-02-24 21:03:51",
+      "hot": 475
+    },
+    {
+      "title": "Show HN: Emdash – Open-source agentic development environment",
+      "summary": "60 comments",
+      "url": "https://github.com/generalaction/emdash",
+      "createdAt": "2026-02-25 02:00:37",
+      "hot": 170
+    },
+    {
+      "title": "Nearby Glasses",
+      "summary": "148 comments",
+      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "createdAt": "2026-02-25 01:40:40",
+      "hot": 356
+    },
+    {
+      "title": "Steel Bank Common Lisp",
+      "summary": "92 comments",
+      "url": "https://www.sbcl.org/",
+      "createdAt": "2026-02-25 02:24:17",
+      "hot": 228
+    },
+    {
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "summary": "165 comments",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "createdAt": "2026-02-25 09:00:45",
+      "hot": 485
+    },
+    {
+      "title": "Half million 'Words with Spaces' missing from dictionaries",
+      "summary": "126 comments",
+      "url": "https://www.linguabase.org/words-with-spaces.html",
+      "createdAt": "2026-02-24 01:15:22",
+      "hot": 75
+    },
+    {
+      "title": "100M-Row Challenge with PHP",
+      "summary": "1 comments",
+      "url": "https://github.com/tempestphp/100-million-row-challenge",
+      "createdAt": "2026-02-25 18:24:23",
+      "hot": 6
+    },
+    {
+      "title": "Cell Service for the Fairly Paranoid",
+      "summary": "114 comments",
+      "url": "https://www.cape.co/",
+      "createdAt": "2026-02-25 06:37:54",
+      "hot": 109
     },
     {
       "title": "Hugging Face Skills",
-      "summary": "44 comments",
+      "summary": "50 comments",
       "url": "https://github.com/huggingface/skills",
       "createdAt": "2026-02-25 01:30:19",
-      "hot": 159
+      "hot": 176
     },
     {
-      "title": "Looks like it is happening",
-      "summary": "116 comments",
-      "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
-      "createdAt": "2026-02-25 05:19:03",
-      "hot": 169
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "summary": "174 comments",
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "createdAt": "2026-02-25 09:08:46",
+      "hot": 370
     },
     {
-      "title": "Aesthetics of single threading",
-      "summary": "16 comments",
-      "url": "https://ta.fo/aesthetics-of-single-threading/",
-      "createdAt": "2026-02-22 04:14:13",
-      "hot": 68
-    },
-    {
-      "title": "3D-Printed electric motor via multi-modal, multi-material extrusion",
-      "summary": "7 comments",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/17452759.2026.2613185",
-      "createdAt": "2026-02-22 03:08:09",
-      "hot": 8
-    },
-    {
-      "title": "We installed a single turnstile to feel secure",
-      "summary": "154 comments",
-      "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
-      "createdAt": "2026-02-23 05:07:11",
-      "hot": 332
+      "title": "Meta problem with URPF our bundle in Boca raton",
+      "summary": "3 comments",
+      "url": "https://metafixthis.com/",
+      "createdAt": "2026-02-24 08:12:44",
+      "hot": 33
     },
     {
       "title": "Stripe valued at $159B, 2025 annual letter",
-      "summary": "209 comments",
+      "summary": "220 comments",
       "url": "https://stripe.com/newsroom/news/stripe-2025-update",
       "createdAt": "2026-02-24 22:37:52",
-      "hot": 197
+      "hot": 219
     },
     {
-      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-      "summary": "206 comments",
-      "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-      "createdAt": "2026-02-24 20:58:14",
-      "hot": 206
+      "title": "Aesthetics of single threading",
+      "summary": "27 comments",
+      "url": "https://ta.fo/aesthetics-of-single-threading/",
+      "createdAt": "2026-02-22 04:14:13",
+      "hot": 91
     },
     {
-      "title": "Optophone",
-      "summary": "12 comments",
-      "url": "https://en.wikipedia.org/wiki/Optophone",
-      "createdAt": "2026-02-21 05:07:14",
-      "hot": 68
+      "title": "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1 (2024)",
+      "summary": "0 comments",
+      "url": "https://mahaloz.re/dec-history-pt1",
+      "createdAt": "2026-02-22 14:58:13",
+      "hot": 11
     }
   ]
 }

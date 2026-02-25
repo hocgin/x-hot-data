@@ -1,165 +1,164 @@
 {
-  "id": "bilibili-hot.1772007625217",
-  "lastUpdatedAt": "2026-02-25 16:20:25",
+  "id": "bilibili-hot.1772022046037",
+  "lastUpdatedAt": "2026-02-25 20:20:46",
   "data": [
-    {
-      "title": "碰见这种鱼到底能不能吃？看完视频就知道了。",
-      "summary": "-",
-      "url": "https://b23.tv/BV1bCfFBFEnb",
-      "imageUrl": "http://i1.hdslb.com/bfs/archive/a3436fbcda0bb8e2bec835897be08694c5248556.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 6667687
-    },
-    {
-      "title": "老规矩，先猜颜色。",
-      "summary": "-",
-      "url": "https://b23.tv/BV1tqfTB7E4K",
-      "imageUrl": "http://i1.hdslb.com/bfs/archive/5edf9153a4dcbba0685a0cdad4f75213eab05433.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 3071495
-    },
-    {
-      "title": "[全网首发] 迷你世界与minecraft跨平台联机",
-      "summary": "6天14岁初中生单人完成迷你世界与minecraft跨平台联机\n\n继上次的迷你世界存档转我的世界之后，我在手机上使用 ZeroTermux 完成了对迷你世界登录协议和进服协议的逆向。这里使用了 gophertunnel 库实现基岩版协议，通过进一步的转发和翻译，进而完成了跨平台联机。但由于迷你世界与minecraft本质的不同，仍有大量功能未实现，比如说最大的问题是方块镜像，这是由于双方 x 轴定义不一样导致的。现在仅实现了方块显示、聊天框互通、移动、挖方块等功能，其他的还得等后续实现。这里还有个关于使用",
-      "url": "https://b23.tv/BV1HcfqBWELq",
-      "imageUrl": "http://i2.hdslb.com/bfs/archive/4e1cca10e486627d23fa796cc925391712c73e19.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 2810822
-    },
     {
       "title": "《原神》角色预告-「法尔伽：骑士精神」",
       "summary": "是骑士精神决定了他应该有的样子，还是成为骑士的人决定这个身份应当有的面貌？\n法尔伽应该不会花费太多时间思考这个问题，自由的风总是不停歇，他的随心所欲也是。\n \n中文CV：\n法尔伽——郝祥海\n可莉——花玲\n米卡——邓宥希\n琴——林簌\n迪奥娜——诺亚\n诺艾尔——宴宁\n雷泽——周帅\n菲谢尔——Mace\n温迪——喵酱\n \n日文CV：\n法尔伽——杉田智和\n可莉——久野美咲\n米卡——三瓶由布子\n琴——斋藤千和\n迪奥娜——井泽诗织\n诺艾尔——高尾奏音\n雷泽——内山昂辉\n菲谢尔——内田真礼\n温迪——村濑步\n\n《原神》bi",
       "url": "https://b23.tv/BV1VrfiBMEsQ",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/e5958fcab43bcaefdcc77d787b34f15f370ec70f.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 2783475
-    },
-    {
-      "title": "鞭炮一响黄金万两，祝大家新年快乐！",
-      "summary": "#火炮一响黄金万两 #新年快乐 #搞笑研究所",
-      "url": "https://b23.tv/BV15gfyBhE3q",
-      "imageUrl": "http://i2.hdslb.com/bfs/archive/d2d41e44d75812ddb975fd3518f75fd2ab6ae5fd.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 2258933
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 2960893
     },
     {
       "title": "13个年糕的终极爆改吃法～有手就会系列",
       "url": "https://b23.tv/BV12VfPBKEDc",
       "imageUrl": "http://i1.hdslb.com/bfs/archive/830837bf5150fa6cf58a20519b204842674edf9d.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1889542
-    },
-    {
-      "title": "评论区摄影大赛之提审审美篇开启，欢迎投稿好的作品会让更多人看到。",
-      "summary": "-",
-      "url": "https://b23.tv/BV1cmfTB6EZP",
-      "imageUrl": "http://i1.hdslb.com/bfs/archive/64d67032f869291ec628f0127020a41ecd011301.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1402148
-    },
-    {
-      "title": "coke和雨妹",
-      "summary": "-",
-      "url": "https://b23.tv/BV124fyBUEsn",
-      "imageUrl": "http://i1.hdslb.com/bfs/archive/7a6ecf33e49f0a85bcf98ffcf30167665ea2d675.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1337825
-    },
-    {
-      "title": "梦幻一幕！网友：“疑是银河落九天”具象化了 >>",
-      "summary": "水幕飞泻，彩虹横空！贵州花江峡谷大桥上演梦幻一幕，网友：“疑是银河落九天”具象化了！\n\n来源：人民日报、网友@兵浪浪",
-      "url": "https://b23.tv/BV1E4fmBjEd6",
-      "imageUrl": "http://i2.hdslb.com/bfs/archive/dea08929b084f100b145000e66bc0dc793e5c339.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1319113
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 2286028
     },
     {
       "title": "沉浸式剧组化妆 |你的脸实在美丽，你从顶美群演升成了顶美特约！",
       "summary": "-",
       "url": "https://b23.tv/BV166f2BmEYj",
       "imageUrl": "http://i1.hdslb.com/bfs/archive/33c2f10037793c3e2cd601a6280e5d49f3e8bb4e.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1270308
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1874566
     },
     {
-      "title": "丁程鑫生日会全程回顾：和丁程鑫共赴星空之约【2026时代少年团系列直播】",
-      "summary": "星愿时刻 与爱同频 2026时代少年团主题系列直播",
-      "url": "https://b23.tv/BV1x3fmB4E3g",
-      "imageUrl": "http://i0.hdslb.com/bfs/archive/c36fc5ea5f63e8ed659e69980a11baea8865d499.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1083095
+      "title": "循环歌单|【关山酒】|“【补作业の小曲】”",
+      "summary": "木偶制作：我自己",
+      "url": "https://b23.tv/BV1M2f1BRE2H",
+      "imageUrl": "http://i2.hdslb.com/bfs/archive/6a3aa6f6c58b47af24a1bd9eff580d38ce4f7eb6.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1817538
+    },
+    {
+      "title": "评论区摄影大赛之提审审美篇开启，欢迎投稿好的作品会让更多人看到。",
+      "summary": "-",
+      "url": "https://b23.tv/BV1cmfTB6EZP",
+      "imageUrl": "http://i1.hdslb.com/bfs/archive/64d67032f869291ec628f0127020a41ecd011301.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1703067
+    },
+    {
+      "title": "就这样做一辈子的小babyyc: 然的-",
+      "summary": "-",
+      "url": "https://b23.tv/BV1T6frBVEAX",
+      "imageUrl": "http://i0.hdslb.com/bfs/archive/2be00ef60c462ffad02680d5e1713c4a0aa81650.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1532006
     },
     {
       "title": "在乌兹别克斯坦和本地富家千金约会一天是什么体验",
       "summary": "-",
       "url": "https://b23.tv/BV1kif2BnEdB",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/a2dc7f58d7425c40ca8c1f5a3ab75622f7ea31be.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1035176
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1348802
     },
     {
       "title": "冰 天 雪 地 好 朋 友 ！【青春旅行团13】",
       "summary": "全！新！系！列！！《青春旅行团》第二季,第七期！！ 随机一个人策划一期旅游，这次是冰冻篇！！ 喜欢的话请多多一键三连吧！！",
       "url": "https://b23.tv/BV1JEfCBKE1g",
       "imageUrl": "http://i0.hdslb.com/bfs/archive/e75fdfdfbea845ba4b4031bf16dbc474568ca279.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 1021611
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1319095
+    },
+    {
+      "title": "丁程鑫生日会全程回顾：和丁程鑫共赴星空之约【2026时代少年团系列直播】",
+      "summary": "星愿时刻 与爱同频 2026时代少年团主题系列直播",
+      "url": "https://b23.tv/BV1x3fmB4E3g",
+      "imageUrl": "http://i0.hdslb.com/bfs/archive/c36fc5ea5f63e8ed659e69980a11baea8865d499.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1270073
     },
     {
       "title": "《崩坏：星穹铁道》走近星穹——「火花：永不放弃你」",
       "summary": "不会有人以为这是高仿号吧？不会吧不会吧？\n还有哦～假装成火花大人的家伙，假装成别人可是火花大人（和那个无人在意的花火）的专利！晚上别睡太死，火花大人顺着网线来抓你辣！\n \n※战斗演示具体数值仅供参考，请开拓者以上线版本为准。\n \n中文CV：\n叽米——刘北辰\n爻光——秦紫翼\n火花——赵爽\n花火——赵爽",
       "url": "https://b23.tv/BV19dZ6BJEVY",
       "imageUrl": "http://i0.hdslb.com/bfs/archive/0697edff52f0eb1f67c796f6408ab4876e1088ec.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 732957
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1079777
     },
     {
       "title": "古有老黑水桶骗枪，今有乌鲁鲁巡飞弹水泥墙骗枪",
       "summary": "检条老师的风格，喜欢的宝子点点关注",
       "url": "https://b23.tv/BV1pnfmBnEHD",
       "imageUrl": "http://i0.hdslb.com/bfs/archive/0e7aebfd56885e00f9a00e7f0ac228201098b8d0.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 688709
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 1019275
+    },
+    {
+      "title": "情绪证据【B站AI创作大赛-开放赛道】",
+      "summary": "当情绪被制度记录，\n不合时宜的冷静，\n是否也构成过错？",
+      "url": "https://b23.tv/BV1w4ZRBiES6",
+      "imageUrl": "http://i1.hdslb.com/bfs/archive/868743bcf80e9a5673e38bf9a08ca1ff627b02e5.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 982415
     },
     {
       "title": "超大专业礼花 祝大家发发发！",
       "summary": "-",
       "url": "https://b23.tv/BV1uzfCBQEN8",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/4b4891f869b7aa4731e8cffabd2ca45c557820cf.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 649540
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 855689
     },
     {
       "title": "差点0-11-0，还好我凭借手法打成了0-10",
       "summary": "差点0-11-0，还好我凭借手法打成了0-10",
       "url": "https://b23.tv/BV1QWfUBTESF",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/eea71a4513e708da467cbd3b802938e76566a00d.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 521512
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 775368
     },
     {
-      "title": "see you again但是按照椭圆变速",
-      "summary": "牢大我想你了",
-      "url": "https://b23.tv/BV1SCf1BoEtm",
-      "imageUrl": "http://i0.hdslb.com/bfs/archive/a1d2f7a0ba6fbe85ce4acdcdca3add68ddf6bed3.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 391989
+      "title": "《顶级智斗》",
+      "summary": "关于我巧用布局、收集证据并设计引导，如何让偷窃同学自食恶果、受到应有的惩罚，最终让他既赔钱又被没收手机，付出了代价（一位大心脏粉丝投稿）",
+      "url": "https://b23.tv/BV1AVf1BEEkv",
+      "imageUrl": "http://i2.hdslb.com/bfs/archive/813391d676fde5da674c14578dafcdba7b800d36.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 735720
     },
     {
       "title": "剥蒜的情谊114.0",
       "summary": "欢迎投稿~~\n投稿方式① 原视频放进邮箱附件发到邮箱1423646050@qq.com\n投稿方式② 加QQ 1423646050发原视频~\n录用请加QQ凭投稿截图领奖噢~~",
       "url": "https://b23.tv/BV19EfUB6EbP",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/f3cda53348a6bf7a89bc4fe35b3e569871c0b724.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 359409
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 594367
     },
     {
       "title": "《鸣の天空》完整八分钟无删减版！（别名：《爱弥斯の诱惑》）",
       "summary": "改了一点词，以及把一些图片去掉了",
       "url": "https://b23.tv/BV1XJf2BwEUi",
       "imageUrl": "http://i2.hdslb.com/bfs/archive/b73222017ebb9cc00894bac58128d0937ecb1a79.jpg",
-      "createdAt": "2026-02-25 16:20:07",
-      "hot": 271768
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 419615
+    },
+    {
+      "title": "挑战在航天打完50发AWM红弹且期间不被人打成臊子",
+      "summary": "球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!球球你关注收下我这个新电子宠物趴!",
+      "url": "https://b23.tv/BV1wzf2BJESq",
+      "imageUrl": "http://i1.hdslb.com/bfs/archive/e3562200784e0f2cb061e2dc81f3b45f42595292.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 319716
+    },
+    {
+      "title": "【时代少年团】系列纪录片《光辉岁月》——当季",
+      "url": "https://b23.tv/BV1uKfsBaEAq",
+      "imageUrl": "http://i2.hdslb.com/bfs/archive/9c0ff0e8b1d10c98ebc2ddcc66916ada7fef5bec.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 295222
+    },
+    {
+      "title": "托尼回村，先安路灯！",
+      "summary": "-",
+      "url": "https://b23.tv/BV1tMfsBcEo6",
+      "imageUrl": "http://i2.hdslb.com/bfs/archive/52917d10a9327258448f61ab2757e97fd1ca754e.jpg",
+      "createdAt": "2026-02-25 20:20:13",
+      "hot": 263880
     }
   ]
 }
