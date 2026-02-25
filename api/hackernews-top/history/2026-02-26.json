@@ -217,6 +217,222 @@
           "hot": 254
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772050501109",
+      "lastUpdatedAt": "2026-02-26 04:15:01",
+      "data": [
+        {
+          "title": "Show HN: I ported Tree-sitter to Go",
+          "summary": "26 comments",
+          "url": "https://github.com/odvcencio/gotreesitter",
+          "createdAt": "2026-02-26 02:28:37",
+          "hot": 87
+        },
+        {
+          "title": "Bus stop balancing is fast, cheap, and effective",
+          "summary": "324 comments",
+          "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+          "createdAt": "2026-02-26 00:31:26",
+          "hot": 202
+        },
+        {
+          "title": "om",
+          "summary": "26 comments",
+          "url": "https://www.om-language.com/",
+          "createdAt": "2026-02-26 01:48:21",
+          "hot": 109
+        },
+        {
+          "title": "Large-Scale Online Deanonymization with LLMs",
+          "summary": "112 comments",
+          "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+          "createdAt": "2026-02-25 01:18:17",
+          "hot": 93
+        },
+        {
+          "title": "Following 35% growth, solar has passed hydro on US grid",
+          "summary": "138 comments",
+          "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+          "createdAt": "2026-02-26 00:44:54",
+          "hot": 224
+        },
+        {
+          "title": "The Misuses of the University",
+          "summary": "52 comments",
+          "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
+          "createdAt": "2026-02-26 00:38:40",
+          "hot": 80
+        },
+        {
+          "title": "Windows 11 Notepad to support Markdown",
+          "summary": "76 comments",
+          "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+          "createdAt": "2026-02-26 01:14:19",
+          "hot": 28
+        },
+        {
+          "title": "Never buy a .online domain",
+          "summary": "331 comments",
+          "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+          "createdAt": "2026-02-25 21:31:17",
+          "hot": 571
+        },
+        {
+          "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+          "summary": "112 comments",
+          "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+          "createdAt": "2026-02-25 21:07:36",
+          "hot": 99
+        },
+        {
+          "title": "How to fold the Blade Runner origami unicorn (1996)",
+          "summary": "28 comments",
+          "url": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+          "createdAt": "2026-02-23 06:42:12",
+          "hot": 211
+        },
+        {
+          "title": "I asked Claude for 37,500 random names, and it can't stop saying Marcus",
+          "summary": "28 comments",
+          "url": "https://github.com/benjismith/ai-randomness",
+          "createdAt": "2026-02-26 00:23:52",
+          "hot": 38
+        },
+        {
+          "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+          "createdAt": "2026-02-26 01:02:12",
+          "hot": 1
+        },
+        {
+          "title": "GNU Texmacs",
+          "summary": "24 comments",
+          "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+          "createdAt": "2026-02-25 23:37:29",
+          "hot": 64
+        },
+        {
+          "title": "Claude Code Remote Control",
+          "summary": "235 comments",
+          "url": "https://code.claude.com/docs/en/remote-control",
+          "createdAt": "2026-02-25 15:22:56",
+          "hot": 413
+        },
+        {
+          "title": "New accounts on HN more likely to use em-dashes",
+          "summary": "357 comments",
+          "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+          "createdAt": "2026-02-25 22:37:21",
+          "hot": 438
+        },
+        {
+          "title": "Racket v9.1",
+          "summary": "11 comments",
+          "url": "https://blog.racket-lang.org/2026/02/racket-v9-1.html",
+          "createdAt": "2026-02-26 00:47:33",
+          "hot": 92
+        },
+        {
+          "title": "Text-Based Google Directions",
+          "summary": "9 comments",
+          "url": "https://gdir.telae.net/",
+          "createdAt": "2026-02-22 01:10:55",
+          "hot": 31
+        },
+        {
+          "title": "Scipy.stats. Chatterjeexi",
+          "summary": "2 comments",
+          "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html",
+          "createdAt": "2026-02-22 22:03:01",
+          "hot": 13
+        },
+        {
+          "title": "Attyx – tiny and fast GPU-accelerated terminal emulator written in Zig",
+          "summary": "3 comments",
+          "url": "https://github.com/semos-labs/attyx",
+          "createdAt": "2026-02-26 02:38:33",
+          "hot": 7
+        },
+        {
+          "title": "Show HN: Django Control Room – All Your Tools Inside the Django Admin",
+          "summary": "42 comments",
+          "url": "https://github.com/yassi/dj-control-room",
+          "createdAt": "2026-02-25 22:31:35",
+          "hot": 83
+        },
+        {
+          "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+          "summary": "1 comments",
+          "url": "https://www.playlinex.com/",
+          "createdAt": "2026-02-25 07:33:58",
+          "hot": 4
+        },
+        {
+          "title": "US orders diplomats to fight data sovereignty initiatives",
+          "summary": "278 comments",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+          "createdAt": "2026-02-25 22:48:17",
+          "hot": 314
+        },
+        {
+          "title": "Danish government agency to ditch Microsoft software (2025)",
+          "summary": "326 comments",
+          "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+          "createdAt": "2026-02-25 18:16:22",
+          "hot": 641
+        },
+        {
+          "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+          "summary": "35 comments",
+          "url": "https://app.teamout.com/ai",
+          "createdAt": "2026-02-25 22:02:02",
+          "hot": 28
+        },
+        {
+          "title": "PL/0",
+          "summary": "11 comments",
+          "url": "https://en.wikipedia.org/wiki/PL/0",
+          "createdAt": "2026-02-22 20:33:03",
+          "hot": 41
+        },
+        {
+          "title": "Topological Naming Problem",
+          "summary": "17 comments",
+          "url": "https://wiki.freecad.org/Topological_naming_problem",
+          "createdAt": "2026-02-21 12:16:55",
+          "hot": 45
+        },
+        {
+          "title": "LLM=True",
+          "summary": "134 comments",
+          "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+          "createdAt": "2026-02-25 17:05:40",
+          "hot": 192
+        },
+        {
+          "title": "100M-Row Challenge with PHP",
+          "summary": "77 comments",
+          "url": "https://github.com/tempestphp/100-million-row-challenge",
+          "createdAt": "2026-02-25 18:24:23",
+          "hot": 154
+        },
+        {
+          "title": "Show HN: A real-time strategy game that AI agents can play",
+          "summary": "65 comments",
+          "url": "https://llmskirmish.com/",
+          "createdAt": "2026-02-25 18:02:45",
+          "hot": 177
+        },
+        {
+          "title": "Show HN: Django-xbench – slow endpoint aggregation for Django",
+          "summary": "1 comments",
+          "url": "https://github.com/yeongbin05/django-xbench",
+          "createdAt": "2026-02-22 18:56:30",
+          "hot": 4
+        }
+      ]
     }
   ]
 }
