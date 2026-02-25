@@ -433,6 +433,222 @@
           "hot": 144
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1771979915894",
+      "lastUpdatedAt": "2026-02-25 08:38:35",
+      "data": [
+        {
+          "title": "I'm helping my dog vibe code games",
+          "summary": "169 comments",
+          "url": "https://www.calebleak.com/posts/dog-game/",
+          "createdAt": "2026-02-25 01:15:17",
+          "hot": 565
+        },
+        {
+          "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+          "summary": "12 comments",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "createdAt": "2026-02-25 05:54:07",
+          "hot": 77
+        },
+        {
+          "title": "Mac mini will be made at a new facility in Houston",
+          "summary": "292 comments",
+          "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+          "createdAt": "2026-02-25 05:13:45",
+          "hot": 288
+        },
+        {
+          "title": "Hacking an old Kindle to display bus arrival times",
+          "summary": "36 comments",
+          "url": "https://www.mariannefeng.com/portfolio/kindle/",
+          "createdAt": "2026-02-25 03:43:34",
+          "hot": 148
+        },
+        {
+          "title": "Cell Service for the Fairly Paranoid",
+          "summary": "26 comments",
+          "url": "https://www.cape.co/",
+          "createdAt": "2026-02-25 06:37:54",
+          "hot": 38
+        },
+        {
+          "title": "Nearby Glasses",
+          "summary": "86 comments",
+          "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+          "createdAt": "2026-02-25 01:40:40",
+          "hot": 211
+        },
+        {
+          "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+          "summary": "148 comments",
+          "url": "https://wordglyph.xyz/one-piece-at-a-time",
+          "createdAt": "2026-02-24 21:03:51",
+          "hot": 383
+        },
+        {
+          "title": "Show HN: Emdash – Open-source agentic development environment",
+          "summary": "39 comments",
+          "url": "https://github.com/generalaction/emdash",
+          "createdAt": "2026-02-25 02:00:37",
+          "hot": 98
+        },
+        {
+          "title": "Optophone",
+          "summary": "5 comments",
+          "url": "https://en.wikipedia.org/wiki/Optophone",
+          "createdAt": "2026-02-21 05:07:14",
+          "hot": 27
+        },
+        {
+          "title": "Hugging Face Skills",
+          "summary": "37 comments",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-25 01:30:19",
+          "hot": 127
+        },
+        {
+          "title": "Fed's Cook says AI triggering big changes, sees possible unemployment rise",
+          "summary": "19 comments",
+          "url": "https://www.reuters.com/business/feds-cook-says-ai-triggering-big-changes-sees-possible-short-term-unemployment-2026-02-24/",
+          "createdAt": "2026-02-25 07:34:26",
+          "hot": 42
+        },
+        {
+          "title": "Pi – a minimal terminal coding harness",
+          "summary": "48 comments",
+          "url": "https://pi.dev",
+          "createdAt": "2026-02-25 05:53:59",
+          "hot": 113
+        },
+        {
+          "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+          "summary": "5 comments",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+          "createdAt": "2026-02-25 06:46:23",
+          "hot": 16
+        },
+        {
+          "title": "How we rebuilt Next.js with AI in one week",
+          "summary": "104 comments",
+          "url": "https://blog.cloudflare.com/vinext/",
+          "createdAt": "2026-02-25 04:07:00",
+          "hot": 328
+        },
+        {
+          "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+          "summary": "192 comments",
+          "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+          "createdAt": "2026-02-24 20:58:14",
+          "hot": 179
+        },
+        {
+          "title": "Build Your Own Forth Interpreter",
+          "summary": "13 comments",
+          "url": "https://codingchallenges.fyi/challenges/challenge-forth/",
+          "createdAt": "2026-02-21 22:14:08",
+          "hot": 45
+        },
+        {
+          "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+          "summary": "133 comments",
+          "url": "https://vmfunc.re/blog/persona/",
+          "createdAt": "2026-02-25 02:23:03",
+          "hot": 418
+        },
+        {
+          "title": "The history of knocking on wood",
+          "summary": "0 comments",
+          "url": "https://resobscura.substack.com/p/neolithic-habits-machine-age-tools",
+          "createdAt": "2026-02-24 23:16:08",
+          "hot": 8
+        },
+        {
+          "title": "We installed a single turnstile to feel secure",
+          "summary": "119 comments",
+          "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+          "createdAt": "2026-02-23 05:07:11",
+          "hot": 262
+        },
+        {
+          "title": "Steel Bank Common Lisp",
+          "summary": "45 comments",
+          "url": "https://www.sbcl.org/",
+          "createdAt": "2026-02-25 02:24:17",
+          "hot": 138
+        },
+        {
+          "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+          "summary": "0 comments",
+          "url": "https://jobs.ashbyhq.com/verge-genomics",
+          "createdAt": "2026-02-25 01:00:34",
+          "hot": 1
+        },
+        {
+          "title": "Aesthetics of single threading",
+          "summary": "0 comments",
+          "url": "https://ta.fo/aesthetics-of-single-threading/",
+          "createdAt": "2026-02-22 04:14:13",
+          "hot": 3
+        },
+        {
+          "title": "We Are Changing Our Developer Productivity Experiment Design",
+          "summary": "22 comments",
+          "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+          "createdAt": "2026-02-25 04:01:54",
+          "hot": 30
+        },
+        {
+          "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+          "summary": "452 comments",
+          "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+          "createdAt": "2026-02-24 20:16:45",
+          "hot": 1189
+        },
+        {
+          "title": "Dream Recorder AI – a portal to your subconscious",
+          "summary": "10 comments",
+          "url": "https://dreamrecorder.ai/",
+          "createdAt": "2026-02-25 06:09:57",
+          "hot": 9
+        },
+        {
+          "title": "Ask HN: Programmable Watches with WiFi?",
+          "summary": "5 comments",
+          "url": "https://news.ycombinator.com/item?id=47105086",
+          "createdAt": "2026-02-22 05:39:55",
+          "hot": 12
+        },
+        {
+          "title": "Looks like it is happening",
+          "summary": "87 comments",
+          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+          "createdAt": "2026-02-25 05:19:03",
+          "hot": 128
+        },
+        {
+          "title": "Stripe reportedly makes offer to acquire PayPal",
+          "summary": "32 comments",
+          "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+          "createdAt": "2026-02-25 06:16:12",
+          "hot": 43
+        },
+        {
+          "title": "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
+          "summary": "5 comments",
+          "url": "https://news.ycombinator.com/item?id=47140332",
+          "createdAt": "2026-02-25 02:01:16",
+          "hot": 27
+        },
+        {
+          "title": "Show HN: Chaos Monkey but for Audio Video Testing (WebRTC and UDP)",
+          "summary": "2 comments",
+          "url": "https://github.com/MdSadiqMd/AV-Chaos-Monkey",
+          "createdAt": "2026-02-23 16:53:21",
+          "hot": 32
+        }
+      ]
     }
   ]
 }
