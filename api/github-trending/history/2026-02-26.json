@@ -178,6 +178,92 @@
           "createdAt": "2026-02-26 08:33:47"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772080777001",
+      "lastUpdatedAt": "2026-02-26 12:39:37",
+      "data": [
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "NVIDIA/Megatron-LM",
+          "url": "https://github.com/NVIDIA/Megatron-LM",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "katanemo/plano",
+          "url": "https://github.com/katanemo/plano",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "liyupi/ai-guide",
+          "url": "https://github.com/liyupi/ai-guide",
+          "createdAt": "2026-02-26 12:39:09"
+        },
+        {
+          "title": "siteboon/claudecodeui",
+          "url": "https://github.com/siteboon/claudecodeui",
+          "createdAt": "2026-02-26 12:39:09"
+        }
+      ]
     }
   ]
 }
