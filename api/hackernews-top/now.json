@@ -1,41 +1,97 @@
 {
-  "id": "hackernews-top.1772108460667",
-  "lastUpdatedAt": "2026-02-26 20:21:00",
+  "id": "hackernews-top.1772123021493",
+  "lastUpdatedAt": "2026-02-27 00:23:41",
   "data": [
     {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "summary": "14 comments",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+      "createdAt": "2026-02-26 23:55:48",
+      "hot": 35
+    },
+    {
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "summary": "5 comments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "createdAt": "2026-02-27 00:02:37",
+      "hot": 19
+    },
+    {
       "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "summary": "15 comments",
+      "summary": "50 comments",
       "url": "https://gitlab.com/here_forawhile/terminalphone",
       "createdAt": "2026-02-26 18:40:45",
-      "hot": 57
+      "hot": 194
+    },
+    {
+      "title": "Anthropic ditches its core safety promise",
+      "summary": "194 comments",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "createdAt": "2026-02-26 20:52:50",
+      "hot": 372
     },
     {
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "summary": "158 comments",
+      "summary": "239 comments",
       "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
       "createdAt": "2026-02-26 03:54:14",
-      "hot": 773
+      "hot": 991
     },
     {
-      "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
-      "summary": "104 comments",
-      "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
-      "createdAt": "2026-02-26 19:26:10",
-      "hot": 91
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "summary": "10 comments",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "createdAt": "2026-02-26 22:05:46",
+      "hot": 19
     },
     {
-      "title": "Jimi Hendrix was a systems engineer",
-      "summary": "164 comments",
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "createdAt": "2026-02-26 04:16:47",
-      "hot": 526
+      "title": "just-bash: Bash for Agents",
+      "summary": "24 comments",
+      "url": "https://github.com/vercel-labs/just-bash",
+      "createdAt": "2026-02-26 21:16:30",
+      "hot": 32
+    },
+    {
+      "title": "Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)",
+      "summary": "39 comments",
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "createdAt": "2026-02-26 20:15:38",
+      "hot": 61
+    },
+    {
+      "title": "Why Developers Keep Choosing Claude over Every Other AI",
+      "summary": "0 comments",
+      "url": "https://www.bhusalmanish.com.np/blog/posts/why-claude-wins-coding.html",
+      "createdAt": "2026-02-26 23:53:30",
+      "hot": 3
     },
     {
       "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-      "summary": "28 comments",
+      "summary": "115 comments",
       "url": "https://news.ycombinator.com/item?id=47163885",
       "createdAt": "2026-02-26 17:35:08",
-      "hot": 89
+      "hot": 351
+    },
+    {
+      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
+      "summary": "67 comments",
+      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
+      "createdAt": "2026-02-26 23:14:20",
+      "hot": 107
+    },
+    {
+      "title": "Jimi Hendrix was a systems engineer",
+      "summary": "190 comments",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "createdAt": "2026-02-26 04:16:47",
+      "hot": 586
+    },
+    {
+      "title": "Time Is Different",
+      "summary": "0 comments",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "createdAt": "2026-02-26 21:28:59",
+      "hot": 10
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -45,172 +101,116 @@
       "hot": 1
     },
     {
-      "title": "How will OpenAI compete?",
-      "summary": "382 comments",
-      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "createdAt": "2026-02-26 06:29:25",
-      "hot": 282
-    },
-    {
       "title": "Banned in California",
-      "summary": "220 comments",
+      "summary": "402 comments",
       "url": "https://www.bannedincalifornia.org/",
       "createdAt": "2026-02-26 07:16:40",
-      "hot": 197
+      "hot": 340
     },
     {
-      "title": "First Website (1992)",
-      "summary": "68 comments",
-      "url": "https://info.cern.ch",
-      "createdAt": "2026-02-26 07:02:58",
-      "hot": 240
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "summary": "43 comments",
+      "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "createdAt": "2026-02-26 20:44:28",
+      "hot": 46
     },
     {
-      "title": "The Physics and Economics of Moving 44 Tonnes at 56mph",
-      "summary": "2 comments",
-      "url": "https://www.mikeayles.com/blog/heavy-haulage-basics/",
-      "createdAt": "2026-02-24 06:00:58",
-      "hot": 8
-    },
-    {
-      "title": "Making MCP cheaper via CLI",
-      "summary": "98 comments",
-      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "createdAt": "2026-02-26 04:29:37",
-      "hot": 242
-    },
-    {
-      "title": "Windows 11 Notepad to support Markdown",
-      "summary": "451 comments",
-      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "createdAt": "2026-02-26 01:14:19",
-      "hot": 300
-    },
-    {
-      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
-      "summary": "81 comments",
-      "url": "https://simonbergerart.com",
-      "createdAt": "2026-02-23 00:25:48",
-      "hot": 188
-    },
-    {
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "summary": "539 comments",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-      "createdAt": "2026-02-26 00:31:26",
+      "title": "How will OpenAI compete?",
+      "summary": "523 comments",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "createdAt": "2026-02-26 06:29:25",
       "hot": 372
     },
     {
-      "title": "Men in their 50s may be aging faster due to toxic 'forever chemicals'",
+      "title": "Those who can, teach history",
+      "summary": "16 comments",
+      "url": "https://www.historytoday.com/archive/making-history/those-who-can-teach-history",
+      "createdAt": "2026-02-22 07:37:04",
+      "hot": 16
+    },
+    {
+      "title": "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
       "summary": "1 comments",
-      "url": "https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness",
-      "createdAt": "2026-02-26 19:58:13",
-      "hot": 9
+      "url": "https://machinelearning.apple.com/research/ferret-ui",
+      "createdAt": "2026-02-22 11:54:01",
+      "hot": 8
     },
     {
-      "title": "Large-Scale Online Deanonymization with LLMs",
-      "summary": "204 comments",
-      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-      "createdAt": "2026-02-25 01:18:17",
-      "hot": 284
+      "title": "First Website (1992)",
+      "summary": "76 comments",
+      "url": "https://info.cern.ch",
+      "createdAt": "2026-02-26 07:02:58",
+      "hot": 280
     },
     {
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "summary": "223 comments",
-      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "createdAt": "2026-02-26 10:43:26",
-      "hot": 294
-    },
-    {
-      "title": "Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention",
-      "summary": "1 comments",
-      "url": "https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/",
-      "createdAt": "2026-02-23 15:19:45",
-      "hot": 22
-    },
-    {
-      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
-      "summary": "163 comments",
-      "url": "https://respectify.org/",
-      "createdAt": "2026-02-25 22:21:19",
-      "hot": 180
-    },
-    {
-      "title": "The First Fully General Computer Action Model",
-      "summary": "69 comments",
-      "url": "https://si.inc/posts/fdm1/",
-      "createdAt": "2026-02-24 01:00:00",
-      "hot": 264
-    },
-    {
-      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
-      "summary": "3 comments",
-      "url": "https://arxiv.org/abs/2602.06811",
-      "createdAt": "2026-02-22 22:15:09",
-      "hot": 12
-    },
-    {
-      "title": "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
-      "summary": "0 comments",
-      "url": "https://github.com/vangelov/modern-speck",
-      "createdAt": "2026-02-22 19:03:19",
-      "hot": 6
-    },
-    {
-      "title": "Writers and Their Day Jobs",
-      "summary": "11 comments",
-      "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
-      "createdAt": "2026-02-22 20:13:15",
-      "hot": 39
-    },
-    {
-      "title": "Tech companies shouldn't be bullied into doing surveillance",
-      "summary": "103 comments",
-      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
-      "createdAt": "2026-02-26 08:37:32",
-      "hot": 312
-    },
-    {
-      "title": "The Om Programming Language",
-      "summary": "77 comments",
-      "url": "https://www.om-language.com/",
-      "createdAt": "2026-02-26 01:48:21",
-      "hot": 276
-    },
-    {
-      "title": "What Pressure Does to an Athlete's Body",
-      "summary": "9 comments",
-      "url": "https://www.theatlantic.com/culture/2026/02/pressure-olympics-malinin-shiffrin/686097/",
-      "createdAt": "2026-02-21 22:41:41",
+      "title": "Story of XZ Backdoor [video]",
+      "summary": "14 comments",
+      "url": "https://www.youtube.com/watch?v=aoag03mSuXQ",
+      "createdAt": "2026-02-26 22:21:05",
       "hot": 41
     },
     {
-      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
-      "summary": "27 comments",
-      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
-      "createdAt": "2026-02-24 21:49:39",
-      "hot": 99
+      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
+      "summary": "9 comments",
+      "url": "https://arxiv.org/abs/2602.06811",
+      "createdAt": "2026-02-22 22:15:09",
+      "hot": 42
     },
     {
-      "title": "An autopsy of AI-generated 3D slop",
-      "summary": "47 comments",
-      "url": "https://aircada.com/blog/ai-vs-human-3d-ecommerce",
-      "createdAt": "2026-02-26 05:05:15",
-      "hot": 81
+      "title": "Making MCP cheaper via CLI",
+      "summary": "109 comments",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "createdAt": "2026-02-26 04:29:37",
+      "hot": 284
     },
     {
-      "title": "GNU Texmacs",
-      "summary": "48 comments",
-      "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
-      "createdAt": "2026-02-25 23:37:29",
-      "hot": 175
+      "title": "Some silly Z3 scripts I wrote",
+      "summary": "3 comments",
+      "url": "https://www.hillelwayne.com/post/z3-examples/",
+      "createdAt": "2026-02-24 01:01:26",
+      "hot": 16
     },
     {
-      "title": "Gauss's Weekday Algorithm, Visualized",
-      "summary": "7 comments",
-      "url": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
-      "createdAt": "2026-02-22 05:49:23",
-      "hot": 43
+      "title": "Windows 11 Notepad to support Markdown",
+      "summary": "494 comments",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "createdAt": "2026-02-26 01:14:19",
+      "hot": 328
+    },
+    {
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "summary": "96 comments",
+      "url": "https://simonbergerart.com",
+      "createdAt": "2026-02-23 00:25:48",
+      "hot": 225
+    },
+    {
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "summary": "578 comments",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "createdAt": "2026-02-26 00:31:26",
+      "hot": 397
+    },
+    {
+      "title": "Show HN: Modern Reimplementation of the Speck Molecule Renderer",
+      "summary": "2 comments",
+      "url": "https://github.com/vangelov/modern-speck",
+      "createdAt": "2026-02-22 19:03:19",
+      "hot": 19
+    },
+    {
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "summary": "225 comments",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "createdAt": "2026-02-25 01:18:17",
+      "hot": 320
+    },
+    {
+      "title": "Writers and Their Day Jobs",
+      "summary": "22 comments",
+      "url": "https://lithub.com/the-work-behind-the-writing-on-writers-and-their-day-jobs/",
+      "createdAt": "2026-02-22 20:13:15",
+      "hot": 64
     }
   ]
 }
