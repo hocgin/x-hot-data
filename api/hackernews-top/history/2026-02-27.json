@@ -217,6 +217,222 @@
           "hot": 64
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772136919946",
+      "lastUpdatedAt": "2026-02-27 04:15:19",
+      "data": [
+        {
+          "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+          "summary": "115 comments",
+          "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+          "createdAt": "2026-02-26 23:55:48",
+          "hot": 238
+        },
+        {
+          "title": "I baked a pie every day for a year and it changed my life",
+          "summary": "56 comments",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+          "createdAt": "2026-02-24 04:54:34",
+          "hot": 100
+        },
+        {
+          "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+          "summary": "10 comments",
+          "url": "https://www.usecardboard.com/",
+          "createdAt": "2026-02-27 02:38:38",
+          "hot": 28
+        },
+        {
+          "title": "Will vibe coding end like the maker movement?",
+          "summary": "143 comments",
+          "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+          "createdAt": "2026-02-27 00:07:11",
+          "hot": 129
+        },
+        {
+          "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+          "summary": "32 comments",
+          "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+          "createdAt": "2026-02-27 01:01:05",
+          "hot": 86
+        },
+        {
+          "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
+          "summary": "3 comments",
+          "url": "https://github.com/jayu/rev-dep",
+          "createdAt": "2026-02-27 02:47:27",
+          "hot": 21
+        },
+        {
+          "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+          "summary": "36 comments",
+          "url": "https://hackersmacker.org",
+          "createdAt": "2026-02-25 03:00:16",
+          "hot": 50
+        },
+        {
+          "title": "Nano Banana 2: Google's latest AI image generation model",
+          "summary": "354 comments",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "createdAt": "2026-02-27 00:02:37",
+          "hot": 364
+        },
+        {
+          "title": "What Claude Code Chooses",
+          "summary": "9 comments",
+          "url": "https://amplifying.ai/research/claude-code-picks",
+          "createdAt": "2026-02-27 02:12:26",
+          "hot": 27
+        },
+        {
+          "title": "The Wolfram S Combinator Challenge",
+          "summary": "2 comments",
+          "url": "https://www.combinatorprize.org/",
+          "createdAt": "2026-02-23 16:39:47",
+          "hot": 26
+        },
+        {
+          "title": "Show HN: Deff – side-by-side Git diff review in your terminal",
+          "summary": "18 comments",
+          "url": "https://github.com/flamestro/deff",
+          "createdAt": "2026-02-27 01:54:06",
+          "hot": 29
+        },
+        {
+          "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+          "summary": "0 comments",
+          "url": "https://www.workatastartup.com/jobs/80596",
+          "createdAt": "2026-02-27 01:00:25",
+          "hot": 1
+        },
+        {
+          "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+          "summary": "271 comments",
+          "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+          "createdAt": "2026-02-26 03:54:14",
+          "hot": 1128
+        },
+        {
+          "title": "Google Street View in 2026",
+          "summary": "62 comments",
+          "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
+          "createdAt": "2026-02-27 01:38:03",
+          "hot": 82
+        },
+        {
+          "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+          "summary": "29 comments",
+          "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+          "createdAt": "2026-02-26 22:05:46",
+          "hot": 101
+        },
+        {
+          "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
+          "summary": "16 comments",
+          "url": "https://storozhenko98.github.io/beehive/",
+          "createdAt": "2026-02-24 18:41:16",
+          "hot": 24
+        },
+        {
+          "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+          "summary": "61 comments",
+          "url": "https://gitlab.com/here_forawhile/terminalphone",
+          "createdAt": "2026-02-26 18:40:45",
+          "hot": 254
+        },
+        {
+          "title": "OsmAnd's Faster Offline Navigation",
+          "summary": "4 comments",
+          "url": "https://osmand.net/blog/fast-routing/",
+          "createdAt": "2026-02-27 02:37:59",
+          "hot": 18
+        },
+        {
+          "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+          "summary": "11 comments",
+          "url": "https://www.playlinex.com/",
+          "createdAt": "2026-02-25 07:33:58",
+          "hot": 20
+        },
+        {
+          "title": "Show HN: Mission Control – Open-source task management for AI agents",
+          "summary": "3 comments",
+          "url": "https://github.com/MeisnerDan/mission-control",
+          "createdAt": "2026-02-26 21:12:33",
+          "hot": 20
+        },
+        {
+          "title": "Museum of Plugs and Sockets",
+          "summary": "0 comments",
+          "url": "https://plugsocketmuseum.nl/index.html",
+          "createdAt": "2026-02-24 00:58:58",
+          "hot": 4
+        },
+        {
+          "title": "iPhone and iPad approved to handle classified NATO information",
+          "summary": "31 comments",
+          "url": "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/",
+          "createdAt": "2026-02-27 02:16:45",
+          "hot": 60
+        },
+        {
+          "title": "Steering interpretable language models with concept algebra",
+          "summary": "1 comments",
+          "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+          "createdAt": "2026-02-26 07:55:34",
+          "hot": 24
+        },
+        {
+          "title": "just-bash: Bash for Agents",
+          "summary": "49 comments",
+          "url": "https://github.com/vercel-labs/just-bash",
+          "createdAt": "2026-02-26 21:16:30",
+          "hot": 83
+        },
+        {
+          "title": "He saw an abandoned trailer. Then, uncovered a surveillance network",
+          "summary": "17 comments",
+          "url": "https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/",
+          "createdAt": "2026-02-27 02:27:11",
+          "hot": 58
+        },
+        {
+          "title": "Open Source Endowment – new funding source for open source maintainers",
+          "summary": "101 comments",
+          "url": "https://endowment.dev/",
+          "createdAt": "2026-02-27 00:13:06",
+          "hot": 144
+        },
+        {
+          "title": "Jimi Hendrix was a systems engineer",
+          "summary": "217 comments",
+          "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+          "createdAt": "2026-02-26 04:16:47",
+          "hot": 630
+        },
+        {
+          "title": "This time is different",
+          "summary": "65 comments",
+          "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+          "createdAt": "2026-02-26 21:28:59",
+          "hot": 46
+        },
+        {
+          "title": "Banned in California",
+          "summary": "537 comments",
+          "url": "https://www.bannedincalifornia.org/",
+          "createdAt": "2026-02-26 07:16:40",
+          "hot": 459
+        },
+        {
+          "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+          "summary": "183 comments",
+          "url": "https://news.ycombinator.com/item?id=47163885",
+          "createdAt": "2026-02-26 17:35:08",
+          "hot": 502
+        }
+      ]
     }
   ]
 }
