@@ -433,6 +433,222 @@
           "hot": 4
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772066054198",
+      "lastUpdatedAt": "2026-02-26 08:34:14",
+      "data": [
+        {
+          "title": "Jimi Hendrix was a systems engineer",
+          "summary": "97 comments",
+          "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+          "createdAt": "2026-02-26 04:16:47",
+          "hot": 254
+        },
+        {
+          "title": "First Website",
+          "summary": "6 comments",
+          "url": "https://info.cern.ch",
+          "createdAt": "2026-02-26 07:02:58",
+          "hot": 41
+        },
+        {
+          "title": "Making MCP cheaper via CLI",
+          "summary": "49 comments",
+          "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+          "createdAt": "2026-02-26 04:29:37",
+          "hot": 99
+        },
+        {
+          "title": "Bus stop balancing is fast, cheap, and effective",
+          "summary": "444 comments",
+          "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+          "createdAt": "2026-02-26 00:31:26",
+          "hot": 282
+        },
+        {
+          "title": "Windows 11 Notepad to support Markdown",
+          "summary": "296 comments",
+          "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+          "createdAt": "2026-02-26 01:14:19",
+          "hot": 160
+        },
+        {
+          "title": "The Om Programming Language",
+          "summary": "47 comments",
+          "url": "https://www.om-language.com/",
+          "createdAt": "2026-02-26 01:48:21",
+          "hot": 223
+        },
+        {
+          "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+          "summary": "108 comments",
+          "url": "https://respectify.org/",
+          "createdAt": "2026-02-25 22:21:19",
+          "hot": 78
+        },
+        {
+          "title": "Large-Scale Online Deanonymization with LLMs",
+          "summary": "153 comments",
+          "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+          "createdAt": "2026-02-25 01:18:17",
+          "hot": 179
+        },
+        {
+          "title": "The First Fully General Computer Action Model",
+          "summary": "42 comments",
+          "url": "https://si.inc/posts/fdm1/",
+          "createdAt": "2026-02-24 01:00:00",
+          "hot": 122
+        },
+        {
+          "title": "Learnings from 4 months of Image-Video VAE experiments",
+          "summary": "11 comments",
+          "url": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
+          "createdAt": "2026-02-25 02:59:31",
+          "hot": 61
+        },
+        {
+          "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+          "summary": "9 comments",
+          "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+          "createdAt": "2026-02-24 21:49:39",
+          "hot": 36
+        },
+        {
+          "title": "Origin of the rule that swap size should be 2x of the physical memory",
+          "summary": "5 comments",
+          "url": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
+          "createdAt": "2026-02-26 07:09:33",
+          "hot": 12
+        },
+        {
+          "title": "Show HN: I ported Tree-sitter to Go",
+          "summary": "73 comments",
+          "url": "https://github.com/odvcencio/gotreesitter",
+          "createdAt": "2026-02-26 02:28:37",
+          "hot": 171
+        },
+        {
+          "title": "The Hydrogen Truck Problem Isn't the Truck",
+          "summary": "4 comments",
+          "url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+          "createdAt": "2026-02-24 18:58:29",
+          "hot": 10
+        },
+        {
+          "title": "Following 35% growth, solar has passed hydro on US grid",
+          "summary": "305 comments",
+          "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+          "createdAt": "2026-02-26 00:44:54",
+          "hot": 381
+        },
+        {
+          "title": "How to fold the Blade Runner origami unicorn (1996)",
+          "summary": "35 comments",
+          "url": "https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html",
+          "createdAt": "2026-02-23 06:42:12",
+          "hot": 247
+        },
+        {
+          "title": "GNU Texmacs",
+          "summary": "41 comments",
+          "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+          "createdAt": "2026-02-25 23:37:29",
+          "hot": 116
+        },
+        {
+          "title": "Access to a Shared Unix Computer",
+          "summary": "11 comments",
+          "url": "http://tilde.club/",
+          "createdAt": "2026-02-22 19:07:25",
+          "hot": 34
+        },
+        {
+          "title": "Devirtualization and Static Polymorphism",
+          "summary": "13 comments",
+          "url": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
+          "createdAt": "2026-02-26 02:41:23",
+          "hot": 34
+        },
+        {
+          "title": "The Misuses of the University",
+          "summary": "83 comments",
+          "url": "https://www.publicbooks.org/the-misuses-of-the-university/",
+          "createdAt": "2026-02-26 00:38:40",
+          "hot": 117
+        },
+        {
+          "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+          "createdAt": "2026-02-26 01:02:12",
+          "hot": 1
+        },
+        {
+          "title": "Claude Code Remote Control",
+          "summary": "275 comments",
+          "url": "https://code.claude.com/docs/en/remote-control",
+          "createdAt": "2026-02-25 15:22:56",
+          "hot": 480
+        },
+        {
+          "title": "Why isn't LA repaving streets?",
+          "summary": "182 comments",
+          "url": "https://lapublicpress.org/2026/02/why-isnt-la-repaving-streets/",
+          "createdAt": "2026-02-26 00:49:36",
+          "hot": 94
+        },
+        {
+          "title": "Never buy a .online domain",
+          "summary": "405 comments",
+          "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+          "createdAt": "2026-02-25 21:31:17",
+          "hot": 649
+        },
+        {
+          "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+          "summary": "48 comments",
+          "url": "https://app.teamout.com/ai",
+          "createdAt": "2026-02-25 22:02:02",
+          "hot": 38
+        },
+        {
+          "title": "New accounts on HN more likely to use em-dashes",
+          "summary": "483 comments",
+          "url": "https://www.marginalia.nu/weird-ai-crap/hn/",
+          "createdAt": "2026-02-25 22:37:21",
+          "hot": 575
+        },
+        {
+          "title": "Text-Based Google Directions",
+          "summary": "15 comments",
+          "url": "https://gdir.telae.net/",
+          "createdAt": "2026-02-22 01:10:55",
+          "hot": 50
+        },
+        {
+          "title": "Danish government agency to ditch Microsoft software (2025)",
+          "summary": "368 comments",
+          "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+          "createdAt": "2026-02-25 18:16:22",
+          "hot": 728
+        },
+        {
+          "title": "US orders diplomats to fight data sovereignty initiatives",
+          "summary": "368 comments",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-orders-diplomats-fight-data-sovereignty-initiatives-2026-02-25/",
+          "createdAt": "2026-02-25 22:48:17",
+          "hot": 430
+        },
+        {
+          "title": "LLM=True",
+          "summary": "136 comments",
+          "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+          "createdAt": "2026-02-25 17:05:40",
+          "hot": 203
+        }
+      ]
     }
   ]
 }
