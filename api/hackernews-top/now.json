@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772180269992",
-  "lastUpdatedAt": "2026-02-27 16:17:49",
+  "id": "hackernews-top.1772194631655",
+  "lastUpdatedAt": "2026-02-27 20:17:11",
   "data": [
     {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "summary": "877 comments",
+      "summary": "1104 comments",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
       "createdAt": "2026-02-27 06:42:47",
-      "hot": 1702
+      "hot": 2077
     },
     {
-      "title": "The Hunt for Dark Breakfast",
-      "summary": "63 comments",
-      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "createdAt": "2026-02-27 11:49:48",
-      "hot": 174
+      "title": "F-Droid Board of Directors nominations 2026",
+      "summary": "8 comments",
+      "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+      "createdAt": "2026-02-27 18:27:29",
+      "hot": 35
+    },
+    {
+      "title": "Can you reverse engineer our neural network?",
+      "summary": "1 comments",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "createdAt": "2026-02-25 10:20:13",
+      "hot": 45
+    },
+    {
+      "title": "Dyson settles forced labour suit in landmark UK case",
+      "summary": "33 comments",
+      "url": "https://www.bbc.com/news/articles/cddnry8dnl7o",
+      "createdAt": "2026-02-27 18:21:40",
+      "hot": 45
     },
     {
       "title": "The normalization of corruption in organizations (2003) [pdf]",
-      "summary": "2 comments",
+      "summary": "36 comments",
       "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
       "createdAt": "2026-02-27 14:21:23",
-      "hot": 9
+      "hot": 101
     },
     {
-      "title": "Julia: Performance Tips",
-      "summary": "10 comments",
-      "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-      "createdAt": "2026-02-23 23:33:33",
-      "hot": 28
+      "title": "The Hunt for Dark Breakfast",
+      "summary": "106 comments",
+      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "createdAt": "2026-02-27 11:49:48",
+      "hot": 274
+    },
+    {
+      "title": "An interactive intro to quadtrees",
+      "summary": "3 comments",
+      "url": "https://growingswe.com/blog/quadtrees",
+      "createdAt": "2026-02-25 01:31:05",
+      "hot": 36
+    },
+    {
+      "title": "MitID, Denmarks sole digital ID, has been down for over an hour and counting",
+      "summary": "67 comments",
+      "url": "https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid",
+      "createdAt": "2026-02-27 18:52:07",
+      "hot": 53
+    },
+    {
+      "title": "Compact disc story (1998)",
+      "summary": "1 comments",
+      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
+      "createdAt": "2026-02-27 11:33:28",
+      "hot": 11
+    },
+    {
+      "title": "Quantitativity on the number of rational points in the Mordell conjecture",
+      "summary": "1 comments",
+      "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/",
+      "createdAt": "2026-02-26 21:32:46",
+      "hot": 5
     },
     {
       "title": "What Claude Code chooses",
-      "summary": "155 comments",
+      "summary": "180 comments",
       "url": "https://amplifying.ai/research/claude-code-picks",
       "createdAt": "2026-02-27 02:12:26",
-      "hot": 384
+      "hot": 457
     },
     {
-      "title": "80386 Protection",
-      "summary": "5 comments",
-      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "createdAt": "2026-02-24 23:56:32",
-      "hot": 41
-    },
-    {
-      "title": "Layoffs at Block",
-      "summary": "715 comments",
-      "url": "https://twitter.com/jack/status/2027129697092731343",
-      "createdAt": "2026-02-27 05:17:56",
-      "hot": 680
-    },
-    {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "summary": "164 comments",
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "createdAt": "2026-02-26 23:55:48",
-      "hot": 351
-    },
-    {
-      "title": "What does \" 2>&1 \" mean?",
-      "summary": "137 comments",
-      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "createdAt": "2026-02-27 03:58:46",
-      "hot": 258
-    },
-    {
-      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "summary": "4 comments",
-      "url": "https://github.com/Frikallo/parakeet.cpp",
-      "createdAt": "2026-02-27 11:48:05",
-      "hot": 39
-    },
-    {
-      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
-      "summary": "18 comments",
-      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "createdAt": "2026-02-25 20:30:36",
-      "hot": 44
-    },
-    {
-      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-      "summary": "60 comments",
-      "url": "https://www.usecardboard.com/",
-      "createdAt": "2026-02-27 02:38:38",
-      "hot": 111
-    },
-    {
-      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
-      "summary": "14 comments",
-      "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "createdAt": "2026-02-24 00:23:01",
-      "hot": 62
-    },
-    {
-      "title": "Dear Time Lords: Freeze Computers in 1993",
-      "summary": "33 comments",
-      "url": "https://graydon2.dreamwidth.org/322461.html",
-      "createdAt": "2026-02-27 12:38:46",
-      "hot": 72
-    },
-    {
-      "title": "OsmAnd's Faster Offline Navigation (2025)",
-      "summary": "48 comments",
-      "url": "https://osmand.net/blog/fast-routing/",
-      "createdAt": "2026-02-27 02:37:59",
-      "hot": 152
-    },
-    {
-      "title": "The Origins of Agar",
+      "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
       "summary": "0 comments",
-      "url": "https://www.asimov.press/p/agar",
-      "createdAt": "2026-02-23 22:56:58",
-      "hot": 6
-    },
-    {
-      "title": "I baked a pie every day for a year",
-      "summary": "171 comments",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
-      "createdAt": "2026-02-24 04:54:34",
-      "hot": 267
-    },
-    {
-      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
-      "summary": "88 comments",
-      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
-      "createdAt": "2026-02-27 01:01:05",
-      "hot": 181
-    },
-    {
-      "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
-      "summary": "0 comments",
-      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
-      "createdAt": "2026-02-27 09:18:18",
+      "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
+      "createdAt": "2026-02-27 16:45:02",
       "hot": 1
     },
     {
-      "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+      "title": "80386 Protection",
+      "summary": "16 comments",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "createdAt": "2026-02-24 23:56:32",
+      "hot": 86
+    },
+    {
+      "title": "Breaking Free",
       "summary": "1 comments",
-      "url": "https://coderush.me/hydroph0bia-part3/",
-      "createdAt": "2026-02-27 06:14:11",
-      "hot": 56
+      "url": "https://www.forbrukerradet.no/breakingfree/",
+      "createdAt": "2026-02-27 17:56:42",
+      "hot": 14
+    },
+    {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "summary": "169 comments",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "createdAt": "2026-02-26 23:55:48",
+      "hot": 369
+    },
+    {
+      "title": "Layoffs at Block",
+      "summary": "827 comments",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "createdAt": "2026-02-27 05:17:56",
+      "hot": 761
+    },
+    {
+      "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+      "summary": "37 comments",
+      "url": "https://antirez.com/news/160",
+      "createdAt": "2026-02-25 18:36:43",
+      "hot": 33
+    },
+    {
+      "title": "The complete Manic Miner disassembly",
+      "summary": "3 comments",
+      "url": "https://skoolkit.ca/disassemblies/manic_miner/",
+      "createdAt": "2026-02-27 16:02:52",
+      "hot": 12
+    },
+    {
+      "title": "The Origins of Agar",
+      "summary": "5 comments",
+      "url": "https://www.asimov.press/p/agar",
+      "createdAt": "2026-02-23 22:56:58",
+      "hot": 38
+    },
+    {
+      "title": "What does \" 2>&1 \" mean?",
+      "summary": "175 comments",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "createdAt": "2026-02-27 03:58:46",
+      "hot": 314
+    },
+    {
+      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+      "summary": "19 comments",
+      "url": "https://github.com/Frikallo/parakeet.cpp",
+      "createdAt": "2026-02-27 11:48:05",
+      "hot": 73
+    },
+    {
+      "title": "Reading English from 1000 Ad",
+      "summary": "1 comments",
+      "url": "https://lewiscampbell.tech/blog/260224.html",
+      "createdAt": "2026-02-24 10:06:50",
+      "hot": 6
+    },
+    {
+      "title": "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
+      "summary": "1 comments",
+      "url": "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html",
+      "createdAt": "2026-02-27 17:04:48",
+      "hot": 13
+    },
+    {
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "summary": "64 comments",
+      "url": "https://www.usecardboard.com/",
+      "createdAt": "2026-02-27 02:38:38",
+      "hot": 122
+    },
+    {
+      "title": "OsmAnd’s Faster Offline Navigation (2025)",
+      "summary": "67 comments",
+      "url": "https://osmand.net/blog/fast-routing/",
+      "createdAt": "2026-02-27 02:37:59",
+      "hot": 187
+    },
+    {
+      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "summary": "29 comments",
+      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+      "createdAt": "2026-02-25 20:30:36",
+      "hot": 74
+    },
+    {
+      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+      "summary": "18 comments",
+      "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+      "createdAt": "2026-02-24 00:23:01",
+      "hot": 83
     },
     {
       "title": "Museum of Plugs and Sockets",
-      "summary": "37 comments",
+      "summary": "67 comments",
       "url": "https://plugsocketmuseum.nl/index.html",
       "createdAt": "2026-02-24 00:58:58",
-      "hot": 108
+      "hot": 136
     },
     {
-      "title": "Smartphone market forecast to decline this year due to memory shortage",
-      "summary": "226 comments",
-      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
-      "createdAt": "2026-02-27 06:09:45",
-      "hot": 226
+      "title": "Lawmakers say US Military used laser to take down Border Protection drone in TX",
+      "summary": "4 comments",
+      "url": "https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c",
+      "createdAt": "2026-02-27 19:37:49",
+      "hot": 9
     },
     {
-      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-      "summary": "63 comments",
-      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
-      "createdAt": "2026-02-26 22:05:46",
-      "hot": 175
-    },
-    {
-      "title": "Two insider cases we've recently closed",
-      "summary": "53 comments",
-      "url": "https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases",
-      "createdAt": "2026-02-27 09:50:45",
-      "hot": 26
-    },
-    {
-      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
-      "summary": "130 comments",
-      "url": "https://hackersmacker.org",
-      "createdAt": "2026-02-25 03:00:16",
-      "hot": 112
-    },
-    {
-      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
-      "summary": "54 comments",
-      "url": "https://github.com/flamestro/deff",
-      "createdAt": "2026-02-27 01:54:06",
-      "hot": 98
-    },
-    {
-      "title": "Understanding the Go Runtime: The Memory Allocator",
-      "summary": "10 comments",
-      "url": "https://internals-for-interns.com/posts/go-memory-allocator/",
-      "createdAt": "2026-02-24 06:18:23",
-      "hot": 60
-    },
-    {
-      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
-      "summary": "20 comments",
-      "url": "https://www.playlinex.com/",
-      "createdAt": "2026-02-25 07:33:58",
-      "hot": 62
-    },
-    {
-      "title": "Move tests to closed source repo",
-      "summary": "27 comments",
-      "url": "https://github.com/tldraw/tldraw/issues/8082",
-      "createdAt": "2026-02-26 12:34:26",
-      "hot": 46
-    },
-    {
-      "title": "This time is different",
-      "summary": "251 comments",
-      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
-      "createdAt": "2026-02-26 21:28:59",
-      "hot": 156
+      "title": "I baked a pie every day for a year",
+      "summary": "184 comments",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "createdAt": "2026-02-24 04:54:34",
+      "hot": 285
     }
   ]
 }
