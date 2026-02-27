@@ -217,6 +217,222 @@
           "hot": 52
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772223087054",
+      "lastUpdatedAt": "2026-02-28 04:11:27",
+      "data": [
+        {
+          "title": "A better streams API is possible for JavaScript",
+          "summary": "100 comments",
+          "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+          "createdAt": "2026-02-27 22:02:53",
+          "hot": 285
+        },
+        {
+          "title": "Writing a Guide to SDF Fonts",
+          "summary": "1 comments",
+          "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+          "createdAt": "2026-02-28 02:24:09",
+          "hot": 23
+        },
+        {
+          "title": "The Robotic Dexterity Deadlock",
+          "summary": "1 comments",
+          "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
+          "createdAt": "2026-02-28 03:51:33",
+          "hot": 10
+        },
+        {
+          "title": "Dan Simmons, author of Hyperion, has died",
+          "summary": "74 comments",
+          "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+          "createdAt": "2026-02-28 02:13:39",
+          "hot": 199
+        },
+        {
+          "title": "Let's discuss sandbox isolation",
+          "summary": "0 comments",
+          "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+          "createdAt": "2026-02-28 02:49:50",
+          "hot": 16
+        },
+        {
+          "title": "Allocating on the Stack",
+          "summary": "26 comments",
+          "url": "https://go.dev/blog/allocation-optimizations",
+          "createdAt": "2026-02-28 00:34:05",
+          "hot": 71
+        },
+        {
+          "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
+          "summary": "3 comments",
+          "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+          "createdAt": "2026-02-27 23:03:12",
+          "hot": 17
+        },
+        {
+          "title": "Modeling cycles of grift with evolutionary game theory",
+          "summary": "17 comments",
+          "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+          "createdAt": "2026-02-24 21:54:21",
+          "hot": 45
+        },
+        {
+          "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
+          "createdAt": "2026-02-28 02:37:53",
+          "hot": 1
+        },
+        {
+          "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+          "summary": "51 comments",
+          "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+          "createdAt": "2026-02-27 23:09:04",
+          "hot": 338
+        },
+        {
+          "title": "We gave terabytes of CI logs to an LLM",
+          "summary": "76 comments",
+          "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+          "createdAt": "2026-02-27 23:41:13",
+          "hot": 115
+        },
+        {
+          "title": "Get free Claude max 20x for open-source maintainers",
+          "summary": "142 comments",
+          "url": "https://claude.com/contact-sales/claude-for-oss",
+          "createdAt": "2026-02-27 17:08:58",
+          "hot": 290
+        },
+        {
+          "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+          "summary": "43 comments",
+          "url": "https://retrotick.com/",
+          "createdAt": "2026-02-27 21:06:50",
+          "hot": 148
+        },
+        {
+          "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+          "summary": "39 comments",
+          "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+          "createdAt": "2026-02-27 23:14:42",
+          "hot": 70
+        },
+        {
+          "title": "Rob Grant, creator of Red Dwarf, has died",
+          "summary": "12 comments",
+          "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+          "createdAt": "2026-02-28 03:26:38",
+          "hot": 92
+        },
+        {
+          "title": "Sprites on the Web",
+          "summary": "15 comments",
+          "url": "https://www.joshwcomeau.com/animation/sprites/",
+          "createdAt": "2026-02-24 18:06:43",
+          "hot": 77
+        },
+        {
+          "title": "F-Droid Board of Directors nominations 2026",
+          "summary": "86 comments",
+          "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+          "createdAt": "2026-02-27 18:27:29",
+          "hot": 145
+        },
+        {
+          "title": "Show HN: Unfucked – version every change between commits - local-first",
+          "summary": "16 comments",
+          "url": "https://www.unfudged.io/",
+          "createdAt": "2026-02-27 05:30:19",
+          "hot": 29
+        },
+        {
+          "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
+          "summary": "2 comments",
+          "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
+          "createdAt": "2026-02-28 01:41:30",
+          "hot": 19
+        },
+        {
+          "title": "Statement from Dario Amodei on our discussions with the Department of War",
+          "summary": "1471 comments",
+          "url": "https://www.anthropic.com/news/statement-department-of-war",
+          "createdAt": "2026-02-27 06:42:47",
+          "hot": 2770
+        },
+        {
+          "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+          "summary": "27 comments",
+          "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+          "createdAt": "2026-02-27 23:37:53",
+          "hot": 46
+        },
+        {
+          "title": "Setting up OpenClaw on a cloud VM",
+          "summary": "40 comments",
+          "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
+          "createdAt": "2026-02-28 02:06:26",
+          "hot": 60
+        },
+        {
+          "title": "ChatGPT Health fails to recognise medical emergencies – study",
+          "summary": "116 comments",
+          "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+          "createdAt": "2026-02-27 23:44:33",
+          "hot": 159
+        },
+        {
+          "title": "The Hunt for Dark Breakfast",
+          "summary": "173 comments",
+          "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+          "createdAt": "2026-02-27 11:49:48",
+          "hot": 488
+        },
+        {
+          "title": "An interactive intro to quadtrees",
+          "summary": "22 comments",
+          "url": "https://growingswe.com/blog/quadtrees",
+          "createdAt": "2026-02-25 01:31:05",
+          "hot": 179
+        },
+        {
+          "title": "Breaking Free",
+          "summary": "29 comments",
+          "url": "https://www.forbrukerradet.no/breakingfree/",
+          "createdAt": "2026-02-27 17:56:42",
+          "hot": 160
+        },
+        {
+          "title": "What was the first life restoration of a sauropod?",
+          "summary": "4 comments",
+          "url": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/",
+          "createdAt": "2026-02-25 22:29:48",
+          "hot": 17
+        },
+        {
+          "title": "Can you reverse engineer our neural network?",
+          "summary": "156 comments",
+          "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+          "createdAt": "2026-02-25 10:20:13",
+          "hot": 229
+        },
+        {
+          "title": "Debian Removes Free Pascal Compiler / Lazarus IDE",
+          "summary": "29 comments",
+          "url": "https://forum.lazarus.freepascal.org/index.php?topic=73405.0",
+          "createdAt": "2026-02-25 18:02:37",
+          "hot": 59
+        },
+        {
+          "title": "Compact disc story (1998)",
+          "summary": "17 comments",
+          "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
+          "createdAt": "2026-02-27 11:33:28",
+          "hot": 48
+        }
+      ]
     }
   ]
 }
