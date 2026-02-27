@@ -1,83 +1,146 @@
 {
-  "id": "hackernews-top.1772194631655",
-  "lastUpdatedAt": "2026-02-27 20:17:11",
+  "id": "hackernews-top.1772208927471",
+  "lastUpdatedAt": "2026-02-28 00:15:27",
   "data": [
     {
-      "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "summary": "1104 comments",
-      "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "createdAt": "2026-02-27 06:42:47",
-      "hot": 2077
+      "title": "We deserve a better streams API for JavaScript",
+      "summary": "46 comments",
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "createdAt": "2026-02-27 22:02:53",
+      "hot": 113
     },
     {
-      "title": "F-Droid Board of Directors nominations 2026",
-      "summary": "8 comments",
-      "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-      "createdAt": "2026-02-27 18:27:29",
-      "hot": 35
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "summary": "1354 comments",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "createdAt": "2026-02-27 06:42:47",
+      "hot": 2535
+    },
+    {
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "summary": "15 comments",
+      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "createdAt": "2026-02-27 23:14:42",
+      "hot": 26
     },
     {
       "title": "Can you reverse engineer our neural network?",
-      "summary": "1 comments",
+      "summary": "105 comments",
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "createdAt": "2026-02-25 10:20:13",
-      "hot": 45
+      "hot": 174
     },
     {
-      "title": "Dyson settles forced labour suit in landmark UK case",
-      "summary": "33 comments",
-      "url": "https://www.bbc.com/news/articles/cddnry8dnl7o",
-      "createdAt": "2026-02-27 18:21:40",
-      "hot": 45
+      "title": "We gave terabytes of CI logs to an LLM",
+      "summary": "4 comments",
+      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+      "createdAt": "2026-02-27 23:41:13",
+      "hot": 9
     },
     {
-      "title": "The normalization of corruption in organizations (2003) [pdf]",
-      "summary": "36 comments",
-      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "createdAt": "2026-02-27 14:21:23",
-      "hot": 101
+      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+      "summary": "27 comments",
+      "url": "https://retrotick.com/",
+      "createdAt": "2026-02-27 21:06:50",
+      "hot": 70
     },
     {
-      "title": "The Hunt for Dark Breakfast",
-      "summary": "106 comments",
-      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "createdAt": "2026-02-27 11:49:48",
-      "hot": 274
+      "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
+      "summary": "10 comments",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "createdAt": "2026-02-27 23:09:04",
+      "hot": 75
+    },
+    {
+      "title": "F-Droid Board of Directors nominations 2026",
+      "summary": "53 comments",
+      "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+      "createdAt": "2026-02-27 18:27:29",
+      "hot": 103
     },
     {
       "title": "An interactive intro to quadtrees",
-      "summary": "3 comments",
+      "summary": "12 comments",
       "url": "https://growingswe.com/blog/quadtrees",
       "createdAt": "2026-02-25 01:31:05",
-      "hot": 36
+      "hot": 126
     },
     {
-      "title": "MitID, Denmarks sole digital ID, has been down for over an hour and counting",
-      "summary": "67 comments",
-      "url": "https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid",
-      "createdAt": "2026-02-27 18:52:07",
-      "hot": 53
+      "title": "The Hunt for Dark Breakfast",
+      "summary": "154 comments",
+      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+      "createdAt": "2026-02-27 11:49:48",
+      "hot": 395
     },
     {
-      "title": "Compact disc story (1998)",
+      "title": "The normalization of corruption in organizations (2003) [pdf]",
+      "summary": "99 comments",
+      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
+      "createdAt": "2026-02-27 14:21:23",
+      "hot": 188
+    },
+    {
+      "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+      "summary": "14 comments",
+      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+      "createdAt": "2026-02-27 23:44:33",
+      "hot": 25
+    },
+    {
+      "title": "Breaking Free",
+      "summary": "17 comments",
+      "url": "https://www.forbrukerradet.no/breakingfree/",
+      "createdAt": "2026-02-27 17:56:42",
+      "hot": 104
+    },
+    {
+      "title": "Sprites on the Web",
+      "summary": "3 comments",
+      "url": "https://www.joshwcomeau.com/animation/sprites/",
+      "createdAt": "2026-02-24 18:06:43",
+      "hot": 16
+    },
+    {
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "summary": "64 comments",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "createdAt": "2026-02-27 17:08:58",
+      "hot": 99
+    },
+    {
+      "title": "The quixotic team trying to build a world in a 20-year-old game",
+      "summary": "13 comments",
+      "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
+      "createdAt": "2026-02-25 04:11:04",
+      "hot": 70
+    },
+    {
+      "title": "Reading English from 1000 Ad",
+      "summary": "22 comments",
+      "url": "https://lewiscampbell.tech/blog/260224.html",
+      "createdAt": "2026-02-24 10:06:50",
+      "hot": 52
+    },
+    {
+      "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
+      "summary": "30 comments",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
+      "createdAt": "2026-02-27 22:44:52",
+      "hot": 39
+    },
+    {
+      "title": "How to Allocate Memory",
       "summary": "1 comments",
-      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
-      "createdAt": "2026-02-27 11:33:28",
-      "hot": 11
-    },
-    {
-      "title": "Quantitativity on the number of rational points in the Mordell conjecture",
-      "summary": "1 comments",
-      "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/",
-      "createdAt": "2026-02-26 21:32:46",
-      "hot": 5
+      "url": "https://geocar.sdf1.org/alloc.html",
+      "createdAt": "2026-02-25 02:56:31",
+      "hot": 22
     },
     {
       "title": "What Claude Code chooses",
-      "summary": "180 comments",
+      "summary": "199 comments",
       "url": "https://amplifying.ai/research/claude-code-picks",
       "createdAt": "2026-02-27 02:12:26",
-      "hot": 457
+      "hot": 529
     },
     {
       "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
@@ -87,130 +150,67 @@
       "hot": 1
     },
     {
-      "title": "80386 Protection",
-      "summary": "16 comments",
-      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "createdAt": "2026-02-24 23:56:32",
-      "hot": 86
-    },
-    {
-      "title": "Breaking Free",
-      "summary": "1 comments",
-      "url": "https://www.forbrukerradet.no/breakingfree/",
-      "createdAt": "2026-02-27 17:56:42",
-      "hot": 14
-    },
-    {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "summary": "169 comments",
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "createdAt": "2026-02-26 23:55:48",
-      "hot": 369
-    },
-    {
-      "title": "Layoffs at Block",
-      "summary": "827 comments",
-      "url": "https://twitter.com/jack/status/2027129697092731343",
-      "createdAt": "2026-02-27 05:17:56",
-      "hot": 761
-    },
-    {
-      "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-      "summary": "37 comments",
-      "url": "https://antirez.com/news/160",
-      "createdAt": "2026-02-25 18:36:43",
-      "hot": 33
-    },
-    {
-      "title": "The complete Manic Miner disassembly",
-      "summary": "3 comments",
-      "url": "https://skoolkit.ca/disassemblies/manic_miner/",
-      "createdAt": "2026-02-27 16:02:52",
-      "hot": 12
-    },
-    {
-      "title": "The Origins of Agar",
-      "summary": "5 comments",
-      "url": "https://www.asimov.press/p/agar",
-      "createdAt": "2026-02-23 22:56:58",
-      "hot": 38
-    },
-    {
-      "title": "What does \" 2>&1 \" mean?",
-      "summary": "175 comments",
-      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "createdAt": "2026-02-27 03:58:46",
-      "hot": 314
-    },
-    {
-      "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
-      "summary": "19 comments",
-      "url": "https://github.com/Frikallo/parakeet.cpp",
-      "createdAt": "2026-02-27 11:48:05",
-      "hot": 73
-    },
-    {
-      "title": "Reading English from 1000 Ad",
-      "summary": "1 comments",
-      "url": "https://lewiscampbell.tech/blog/260224.html",
-      "createdAt": "2026-02-24 10:06:50",
-      "hot": 6
-    },
-    {
       "title": "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
       "summary": "1 comments",
       "url": "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html",
       "createdAt": "2026-02-27 17:04:48",
-      "hot": 13
+      "hot": 42
     },
     {
-      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-      "summary": "64 comments",
-      "url": "https://www.usecardboard.com/",
-      "createdAt": "2026-02-27 02:38:38",
-      "hot": 122
+      "title": "80386 Protection",
+      "summary": "27 comments",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "createdAt": "2026-02-24 23:56:32",
+      "hot": 107
     },
     {
-      "title": "OsmAnd’s Faster Offline Navigation (2025)",
-      "summary": "67 comments",
-      "url": "https://osmand.net/blog/fast-routing/",
-      "createdAt": "2026-02-27 02:37:59",
-      "hot": 187
+      "title": "The complete Manic Miner disassembly",
+      "summary": "7 comments",
+      "url": "https://skoolkit.ca/disassemblies/manic_miner/",
+      "createdAt": "2026-02-27 16:02:52",
+      "hot": 45
     },
     {
-      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
-      "summary": "29 comments",
-      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "createdAt": "2026-02-25 20:30:36",
-      "hot": 74
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "summary": "173 comments",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "createdAt": "2026-02-26 23:55:48",
+      "hot": 391
     },
     {
-      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
-      "summary": "18 comments",
-      "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "createdAt": "2026-02-24 00:23:01",
-      "hot": 83
+      "title": "What does \" 2>&1 \" mean?",
+      "summary": "220 comments",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "createdAt": "2026-02-27 03:58:46",
+      "hot": 374
     },
     {
-      "title": "Museum of Plugs and Sockets",
-      "summary": "67 comments",
-      "url": "https://plugsocketmuseum.nl/index.html",
-      "createdAt": "2026-02-24 00:58:58",
-      "hot": 136
+      "title": "Compact disc story (1998)",
+      "summary": "9 comments",
+      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
+      "createdAt": "2026-02-27 11:33:28",
+      "hot": 28
     },
     {
-      "title": "Lawmakers say US Military used laser to take down Border Protection drone in TX",
-      "summary": "4 comments",
-      "url": "https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c",
-      "createdAt": "2026-02-27 19:37:49",
-      "hot": 9
+      "title": "Layoffs at Block",
+      "summary": "929 comments",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "createdAt": "2026-02-27 05:17:56",
+      "hot": 836
     },
     {
-      "title": "I baked a pie every day for a year",
-      "summary": "184 comments",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
-      "createdAt": "2026-02-24 04:54:34",
-      "hot": 285
+      "title": "The history of knocking on wood",
+      "summary": "8 comments",
+      "url": "https://resobscura.substack.com/p/neolithic-habits-machine-age-tools",
+      "createdAt": "2026-02-24 23:16:08",
+      "hot": 42
+    },
+    {
+      "title": "The Origins of Agar",
+      "summary": "10 comments",
+      "url": "https://www.asimov.press/p/agar",
+      "createdAt": "2026-02-23 22:56:58",
+      "hot": 52
     }
   ]
 }
