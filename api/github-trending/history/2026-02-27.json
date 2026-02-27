@@ -225,6 +225,62 @@
           "createdAt": "2026-02-27 12:37:53"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772180269993",
+      "lastUpdatedAt": "2026-02-27 16:17:49",
+      "data": [
+        {
+          "title": "clockworklabs/SpacetimeDB",
+          "url": "https://github.com/clockworklabs/SpacetimeDB",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "ruvnet/claude-flow",
+          "url": "https://github.com/ruvnet/claude-flow",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "createdAt": "2026-02-27 16:17:25"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "createdAt": "2026-02-27 16:17:25"
+        }
+      ]
     }
   ]
 }

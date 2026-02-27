@@ -1,5 +1,356 @@
 {
-  "id": "csdn-hot.1772167106502",
-  "lastUpdatedAt": "2026-02-27 12:38:26",
-  "data": []
+  "id": "csdn-hot.1772180270001",
+  "lastUpdatedAt": "2026-02-27 16:17:50",
+  "data": [
+    {
+      "title": "人工智能、机器学习和深度学习，其实不是一回事",
+      "summary": "作者: IvanCodes",
+      "url": "https://blog.csdn.net/2401_83830408/article/details/158346106",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 50103
+    },
+    {
+      "title": "【LE Audio】BAP协议精讲[18]: 从参数配置到流释放：广播音频全流程配置实战指南",
+      "summary": "作者: byte轻骑兵",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/158286647",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 13366
+    },
+    {
+      "title": "AutoGPT+Python：让AI智能体自动完成复杂任务的终极指南",
+      "summary": "作者: 果粒蹬i",
+      "url": "https://blog.csdn.net/2301_81152266/article/details/158353859",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 13202
+    },
+    {
+      "title": "SpringBoot + Vue 前后端分离项目实战：权限 + 工作流 + 报表",
+      "summary": "作者: 我不是呆头",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/158392165",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 12723
+    },
+    {
+      "title": "微服务架构下Spring Session与Redis分布式会话实战全解析",
+      "summary": "作者: 七夜zippoe",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/158354095",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 12413
+    },
+    {
+      "title": "《计算机视觉：模型、学习和推理》第 11 章-链式模型和树模型 ",
+      "summary": "作者: 啊阿狸不会拉杆",
+      "url": "https://blog.csdn.net/2302_80961196/article/details/158353468",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 8574
+    },
+    {
+      "title": "如何把 AI 大语言模型接入个人项目",
+      "summary": "作者: 码农葫芦侠",
+      "url": "https://blog.csdn.net/qq_41898196/article/details/158238684",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 8086
+    },
+    {
+      "title": "基于 Spring Boot 3 与 Vue 3 的汽车租赁系统",
+      "summary": "作者: 小刘要努力。",
+      "url": "https://blog.csdn.net/weixin_44510615/article/details/158395045",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 6393
+    },
+    {
+      "title": "OpenClaw：让AI直接操控你的电脑",
+      "summary": "作者: 鹓于",
+      "url": "https://blog.csdn.net/m0_60781580/article/details/158355401",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 6044
+    },
+    {
+      "title": "Docker 架构与核心原理深度解析：容器到底是怎么实现的？",
+      "summary": "作者: iambooo",
+      "url": "https://blog.csdn.net/2202_75340973/article/details/158350386",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 5610
+    },
+    {
+      "title": "Claude Code 与 JetBrains IDE 集成实战指南：终端智能体的 IDE 化体验",
+      "summary": "作者: golang学习记",
+      "url": "https://blog.csdn.net/weixin_44058951/article/details/157552865",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 5518
+    },
+    {
+      "title": "学习threejs，实现山谷奔跑效果",
+      "summary": "作者: gis分享者",
+      "url": "https://blog.csdn.net/qq_28419035/article/details/158382553",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 5471
+    },
+    {
+      "title": "会提问的人，正在用AI收割下一个十年",
+      "summary": "作者: 羑悻的小杀马特.",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/158387169",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 5229
+    },
+    {
+      "title": "文档数据库替换新范式：金仓数据库MongoDB兼容性深度解析与实践指南",
+      "summary": "作者: 正在走向自律",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/158354800",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 4793
+    },
+    {
+      "title": "千日稳定守护，金仓数据库赋能北京一卡通斩获鼎信杯奖项",
+      "summary": "作者: xcLeigh",
+      "url": "https://blog.csdn.net/weixin_43151418/article/details/157994135",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 4703
+    },
+    {
+      "title": "ARM Linux 驱动开发篇---GPIO子系统详解-- Ubuntu20.04",
+      "summary": "作者: 渡水无言",
+      "url": "https://blog.csdn.net/weixin_61186812/article/details/158381860",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 4358
+    },
+    {
+      "title": "【AI学习从零至壹】AI agent自动化工作流",
+      "summary": "作者: flyyyya",
+      "url": "https://blog.csdn.net/weixin_53831496/article/details/158357018",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 4258
+    },
+    {
+      "title": "MongoDB 数值更新原子操作：`$inc` 实现点赞、计数器等高并发原子操作",
+      "summary": "作者: 数据知道",
+      "url": "https://blog.csdn.net/cui_yonghua/article/details/158388442",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 4084
+    },
+    {
+      "title": "OpenClaw 接入阿里云百炼 Coding Plan 指南",
+      "summary": "作者: Shacoray",
+      "url": "https://blog.csdn.net/jllion/article/details/158386583",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3794
+    },
+    {
+      "title": "3种流动样式，4种方向控制：C# GDI+打造工业级流动管道控件的终极指南",
+      "summary": "作者: 墨瑾轩",
+      "url": "https://blog.csdn.net/z_344791576/article/details/151920887",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3650
+    },
+    {
+      "title": "【滤波跟踪】基于可观测性的扩展卡尔曼滤波）SLAM（同步定位与地图构建）仿真的 MATLAB 代码，对比Ideal EKF、Standard EKF、FEJ-EKF、OC-EKF 四种滤波算法性能",
+      "summary": "作者: matlab科研助手",
+      "url": "https://blog.csdn.net/matlab_dingdang/article/details/158354548",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3633
+    },
+    {
+      "title": "Java 网络编程核心：BIO、NIO、AIO IO 模型深度解析与实战",
+      "summary": "作者: 一个有梦有戏的人",
+      "url": "https://blog.csdn.net/qq_43843951/article/details/158394944",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3617
+    },
+    {
+      "title": "基于 YOLO26 的交通标识智能检测（中英文双版） | 附完整源码与效果演示",
+      "summary": "作者: 一键难忘",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/158387933",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3590
+    },
+    {
+      "title": "智能车竞赛不允许商业化影响它的发展",
+      "summary": "作者: 卓晴",
+      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/158097781",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3564
+    },
+    {
+      "title": "OpenClaw多智能体路由实战：飞书多机器人配置指南",
+      "summary": "作者: tinygone",
+      "url": "https://blog.csdn.net/tinygone/article/details/158391809",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3538
+    },
+    {
+      "title": "分布式 vs 微服务：别再傻傻分不清了",
+      "summary": "作者: Seal^_^",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/158387320",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3429
+    },
+    {
+      "title": "深入浅出 MVCC —— 从零理解 MySQL 并发控制",
+      "summary": "作者: callNull",
+      "url": "https://blog.csdn.net/cjejwe/article/details/158356533",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3364
+    },
+    {
+      "title": "Java 中间件：RocketMQ 顺序消息（全局/分区顺序）",
+      "summary": "作者: Jinkxs",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157470851",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3130
+    },
+    {
+      "title": "[ClaudeCode +weelinking]项目实战操作指南",
+      "summary": "作者: 2601_95335870",
+      "url": "https://blog.csdn.net/2601_95335870/article/details/158392954",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 3110
+    },
+    {
+      "title": "GitNexus 核心引擎深度解析",
+      "summary": "作者: wasp520",
+      "url": "https://blog.csdn.net/wasp520/article/details/158394580",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2855
+    },
+    {
+      "title": "打破同源枷锁：深入理解 postMessage 跨域通信机制",
+      "summary": "作者: 越重天",
+      "url": "https://blog.csdn.net/lilinhai548/article/details/158422620",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2592
+    },
+    {
+      "title": "Kafka 消息队列深入解析",
+      "summary": "作者: 360-go-php",
+      "url": "https://blog.csdn.net/qq_33665793/article/details/158353093",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2347
+    },
+    {
+      "title": "kingbase备份与恢复实战（一）—— 备份体系、RPO-RTO与选型（Windows+ksql）",
+      "summary": "作者: 倔强的石头_",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/158422993",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2312
+    },
+    {
+      "title": "【功率分析仪在新能源汽车研发测试中的核心应用与工程师能力进阶（实战版）】",
+      "summary": "作者: 新能源汽车研发＆测试入门指南",
+      "url": "https://blog.csdn.net/weixin_62244995/article/details/158353446",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2243
+    },
+    {
+      "title": "前端安全问题深度剖析与防护策略",
+      "summary": "作者: 阿珊和她的猫",
+      "url": "https://blog.csdn.net/weixin_42554191/article/details/158387023",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2233
+    },
+    {
+      "title": "EzReal：让机器人征服百米外的视觉盲区",
+      "summary": "作者: 敢敢のwings",
+      "url": "https://blog.csdn.net/lovely_yoshino/article/details/158181152",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2212
+    },
+    {
+      "title": "企业高性能web服务器——Nginx",
+      "summary": "作者: Stewie12138",
+      "url": "https://blog.csdn.net/Stewie12138/article/details/158391540",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2154
+    },
+    {
+      "title": "嵌入式知识点学习篇五（C\\C++）",
+      "summary": "作者: GenGL_",
+      "url": "https://blog.csdn.net/GenGL_/article/details/158384071",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2135
+    },
+    {
+      "title": "C# 中的 Span 和内存：.NET 中的高性能内存处理",
+      "summary": "作者: 快乐非自愿",
+      "url": "https://blog.csdn.net/kfashfasf/article/details/158386173",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2086
+    },
+    {
+      "title": "你真的理解 .NET 的垃圾回收吗？",
+      "summary": "作者: 波波007",
+      "url": "https://blog.csdn.net/xbhp1984/article/details/158347911",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 2044
+    },
+    {
+      "title": "OpenClaw 本地部署完整指南（Windows + Ollama）",
+      "summary": "作者: ゛凌乱的记忆づ",
+      "url": "https://blog.csdn.net/weixin_44950572/article/details/158350710",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1992
+    },
+    {
+      "title": "用 Kavita+cpolar 解锁数字藏书的远程自由翔实攻略",
+      "summary": "作者: User_芊芊君子",
+      "url": "https://blog.csdn.net/user340/article/details/158430640",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1992
+    },
+    {
+      "title": "提示词工程：核心原理与实战指南",
+      "summary": "作者: 烂尾主教",
+      "url": "https://blog.csdn.net/qq_25218219/article/details/158388987",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1899
+    },
+    {
+      "title": "【基于无人机搭载相机网络的交互式监控分布式方法】基于无人机搭载摄像头网络的交互式监控分布式方法研究（Matlab代码实现）",
+      "summary": "作者: 荔枝科研社",
+      "url": "https://blog.csdn.net/weixin_46039719/article/details/158319200",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1874
+    },
+    {
+      "title": "GCC编译(7)链接脚本LinkerScripts",
+      "summary": "作者: Once-Day",
+      "url": "https://blog.csdn.net/Once_day/article/details/158395139",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1805
+    },
+    {
+      "title": "如何用腾讯云轻量应用服务器内置OpenClaw应用搭建OpenClaw并接入QQ、飞书机器人，下载skill，开启对话",
+      "summary": "作者: 诸神缄默不语",
+      "url": "https://blog.csdn.net/PolarisRisingWar/article/details/158393142",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1783
+    },
+    {
+      "title": "企业高性能web服务器Nginx",
+      "summary": "作者: 微风起皱",
+      "url": "https://blog.csdn.net/wiefengqizhou/article/details/158207278",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1759
+    },
+    {
+      "title": "Python 文件解析： Excel / Word / PDF 的解析、处理、预览与下载",
+      "summary": "作者: Cxiaomu",
+      "url": "https://blog.csdn.net/Cxiaomu/article/details/158352607",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1741
+    },
+    {
+      "title": "【Linux系统编程】（四十）线程控制终极指南：从资源共享到实战操控，带你吃透线程全生命周期",
+      "summary": "作者: _OP_CHEN",
+      "url": "https://blog.csdn.net/2301_79248256/article/details/158392888",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1710
+    },
+    {
+      "title": "Copyparty + cpolar，随时随地访问你的私人文件库",
+      "summary": "作者: 蓝羊羊不蓝",
+      "url": "https://blog.csdn.net/2402_86350387/article/details/158431115",
+      "createdAt": "2026-02-27 16:17:28",
+      "hot": 1709
+    }
+  ]
 }
