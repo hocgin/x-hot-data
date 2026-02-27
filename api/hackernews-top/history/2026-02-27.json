@@ -433,6 +433,222 @@
           "hot": 502
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772152596383",
+      "lastUpdatedAt": "2026-02-27 08:36:36",
+      "data": [
+        {
+          "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+          "summary": "309 comments",
+          "url": "https://www.anthropic.com/news/statement-department-of-war",
+          "createdAt": "2026-02-27 06:42:47",
+          "hot": 548
+        },
+        {
+          "title": "Layoffs at Block",
+          "summary": "311 comments",
+          "url": "https://twitter.com/jack/status/2027129697092731343",
+          "createdAt": "2026-02-27 05:17:56",
+          "hot": 331
+        },
+        {
+          "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+          "summary": "132 comments",
+          "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+          "createdAt": "2026-02-27 06:09:45",
+          "hot": 135
+        },
+        {
+          "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+          "summary": "156 comments",
+          "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+          "createdAt": "2026-02-26 23:55:48",
+          "hot": 315
+        },
+        {
+          "title": "Will vibe coding end like the maker movement?",
+          "summary": "281 comments",
+          "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+          "createdAt": "2026-02-27 00:07:11",
+          "hot": 290
+        },
+        {
+          "title": "What Claude Code Chooses",
+          "summary": "93 comments",
+          "url": "https://amplifying.ai/research/claude-code-picks",
+          "createdAt": "2026-02-27 02:12:26",
+          "hot": 209
+        },
+        {
+          "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+          "summary": "46 comments",
+          "url": "https://www.usecardboard.com/",
+          "createdAt": "2026-02-27 02:38:38",
+          "hot": 90
+        },
+        {
+          "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+          "summary": "1 comments",
+          "url": "https://coderush.me/hydroph0bia-part3/",
+          "createdAt": "2026-02-27 06:14:11",
+          "hot": 19
+        },
+        {
+          "title": "What does \" 2>&1 \" mean?",
+          "summary": "63 comments",
+          "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+          "createdAt": "2026-02-27 03:58:46",
+          "hot": 90
+        },
+        {
+          "title": "OsmAnd's Faster Offline Navigation (2025)",
+          "summary": "28 comments",
+          "url": "https://osmand.net/blog/fast-routing/",
+          "createdAt": "2026-02-27 02:37:59",
+          "hot": 107
+        },
+        {
+          "title": "Understanding the Go Runtime: The Memory Allocator",
+          "summary": "7 comments",
+          "url": "https://internals-for-interns.com/posts/go-memory-allocator/",
+          "createdAt": "2026-02-24 06:18:23",
+          "hot": 20
+        },
+        {
+          "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+          "summary": "67 comments",
+          "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+          "createdAt": "2026-02-27 01:01:05",
+          "hot": 144
+        },
+        {
+          "title": "Museum of Plugs and Sockets",
+          "summary": "23 comments",
+          "url": "https://plugsocketmuseum.nl/index.html",
+          "createdAt": "2026-02-24 00:58:58",
+          "hot": 65
+        },
+        {
+          "title": "Lidar waveforms are worth 40x128x33 words",
+          "summary": "11 comments",
+          "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html",
+          "createdAt": "2026-02-23 20:19:43",
+          "hot": 31
+        },
+        {
+          "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
+          "summary": "1 comments",
+          "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
+          "createdAt": "2026-02-24 00:23:01",
+          "hot": 5
+        },
+        {
+          "title": "I baked a pie every day for a year and it changed my life",
+          "summary": "139 comments",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+          "createdAt": "2026-02-24 04:54:34",
+          "hot": 206
+        },
+        {
+          "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+          "summary": "48 comments",
+          "url": "https://github.com/flamestro/deff",
+          "createdAt": "2026-02-27 01:54:06",
+          "hot": 75
+        },
+        {
+          "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+          "summary": "81 comments",
+          "url": "https://hackersmacker.org",
+          "createdAt": "2026-02-25 03:00:16",
+          "hot": 83
+        },
+        {
+          "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+          "summary": "45 comments",
+          "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+          "createdAt": "2026-02-26 22:05:46",
+          "hot": 140
+        },
+        {
+          "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+          "summary": "71 comments",
+          "url": "https://gitlab.com/here_forawhile/terminalphone",
+          "createdAt": "2026-02-26 18:40:45",
+          "hot": 283
+        },
+        {
+          "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+          "summary": "0 comments",
+          "url": "https://www.workatastartup.com/jobs/80596",
+          "createdAt": "2026-02-27 01:00:25",
+          "hot": 1
+        },
+        {
+          "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+          "summary": "19 comments",
+          "url": "https://www.playlinex.com/",
+          "createdAt": "2026-02-25 07:33:58",
+          "hot": 45
+        },
+        {
+          "title": "Nano Banana 2: Google's latest AI image generation model",
+          "summary": "462 comments",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "createdAt": "2026-02-27 00:02:37",
+          "hot": 472
+        },
+        {
+          "title": "The Wolfram S Combinator Challenge",
+          "summary": "20 comments",
+          "url": "https://www.combinatorprize.org/",
+          "createdAt": "2026-02-23 16:39:47",
+          "hot": 63
+        },
+        {
+          "title": "Steering interpretable language models with concept algebra",
+          "summary": "3 comments",
+          "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+          "createdAt": "2026-02-26 07:55:34",
+          "hot": 50
+        },
+        {
+          "title": "This time is different",
+          "summary": "165 comments",
+          "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+          "createdAt": "2026-02-26 21:28:59",
+          "hot": 108
+        },
+        {
+          "title": "Banned in California",
+          "summary": "647 comments",
+          "url": "https://www.bannedincalifornia.org/",
+          "createdAt": "2026-02-26 07:16:40",
+          "hot": 550
+        },
+        {
+          "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
+          "summary": "7 comments",
+          "url": "https://github.com/jayu/rev-dep",
+          "createdAt": "2026-02-27 02:47:27",
+          "hot": 35
+        },
+        {
+          "title": "The Physics and Economics of Moving 44 Tonnes at 56mph",
+          "summary": "84 comments",
+          "url": "https://www.mikeayles.com/blog/heavy-haulage-basics/",
+          "createdAt": "2026-02-24 06:00:58",
+          "hot": 90
+        },
+        {
+          "title": "Open Source Endowment – new funding source for open source maintainers",
+          "summary": "125 comments",
+          "url": "https://endowment.dev/",
+          "createdAt": "2026-02-27 00:13:06",
+          "hot": 204
+        }
+      ]
     }
   ]
 }
