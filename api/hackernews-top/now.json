@@ -1,62 +1,125 @@
 {
-  "id": "hackernews-top.1772223087054",
-  "lastUpdatedAt": "2026-02-28 04:11:27",
+  "id": "hackernews-top.1772238724627",
+  "lastUpdatedAt": "2026-02-28 08:32:04",
   "data": [
     {
-      "title": "A better streams API is possible for JavaScript",
-      "summary": "100 comments",
-      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
-      "createdAt": "2026-02-27 22:02:53",
-      "hot": 285
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "summary": "584 comments",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "createdAt": "2026-02-28 06:31:18",
+      "hot": 714
     },
     {
-      "title": "Writing a Guide to SDF Fonts",
-      "summary": "1 comments",
-      "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
-      "createdAt": "2026-02-28 02:24:09",
-      "hot": 23
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "summary": "438 comments",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "createdAt": "2026-02-27 22:56:05",
+      "hot": 341
     },
     {
-      "title": "The Robotic Dexterity Deadlock",
-      "summary": "1 comments",
-      "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
-      "createdAt": "2026-02-28 03:51:33",
-      "hot": 10
-    },
-    {
-      "title": "Dan Simmons, author of Hyperion, has died",
-      "summary": "74 comments",
-      "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-      "createdAt": "2026-02-28 02:13:39",
-      "hot": 199
-    },
-    {
-      "title": "Let's discuss sandbox isolation",
-      "summary": "0 comments",
-      "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
-      "createdAt": "2026-02-28 02:49:50",
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "summary": "2 comments",
+      "url": "https://www.science.org/doi/10.1126/science.adt2760",
+      "createdAt": "2026-02-28 07:42:14",
       "hot": 16
     },
     {
-      "title": "Allocating on the Stack",
-      "summary": "26 comments",
-      "url": "https://go.dev/blog/allocation-optimizations",
-      "createdAt": "2026-02-28 00:34:05",
-      "hot": 71
+      "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
+      "summary": "1 comments",
+      "url": "https://github.com/wkoszek/emuko",
+      "createdAt": "2026-02-28 07:01:49",
+      "hot": 24
     },
     {
-      "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
-      "summary": "3 comments",
-      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-      "createdAt": "2026-02-27 23:03:12",
-      "hot": 17
+      "title": "A new California law says all operating systems need to have age verification",
+      "summary": "309 comments",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "createdAt": "2026-02-27 22:55:49",
+      "hot": 305
     },
     {
-      "title": "Modeling cycles of grift with evolutionary game theory",
-      "summary": "17 comments",
-      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-      "createdAt": "2026-02-24 21:54:21",
-      "hot": 45
+      "title": "Smallest transformer that can add two 10-digit numbers",
+      "summary": "0 comments",
+      "url": "https://github.com/anadim/AdderBoard",
+      "createdAt": "2026-02-27 02:29:56",
+      "hot": 10
+    },
+    {
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "summary": "198 comments",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "createdAt": "2026-02-28 00:33:39",
+      "hot": 197
+    },
+    {
+      "title": "A better streams API is possible for JavaScript",
+      "summary": "118 comments",
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "createdAt": "2026-02-27 22:02:53",
+      "hot": 362
+    },
+    {
+      "title": "Otters as Bioindicators of Estuarine Health",
+      "summary": "2 comments",
+      "url": "https://emt.pensoft.net/article/185117/",
+      "createdAt": "2026-02-28 06:13:54",
+      "hot": 14
+    },
+    {
+      "title": "Let's discuss sandbox isolation",
+      "summary": "23 comments",
+      "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+      "createdAt": "2026-02-28 02:49:50",
+      "hot": 90
+    },
+    {
+      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+      "summary": "12 comments",
+      "url": "https://github.com/hjtenklooster/claude-file-recovery",
+      "createdAt": "2026-02-28 00:26:22",
+      "hot": 32
+    },
+    {
+      "title": "Writing a Guide to SDF Fonts",
+      "summary": "5 comments",
+      "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+      "createdAt": "2026-02-28 02:24:09",
+      "hot": 66
+    },
+    {
+      "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+      "summary": "57 comments",
+      "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+      "createdAt": "2026-02-27 23:37:53",
+      "hot": 129
+    },
+    {
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "summary": "190 comments",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "createdAt": "2026-02-27 17:08:58",
+      "hot": 412
+    },
+    {
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "summary": "82 comments",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "createdAt": "2026-02-27 23:52:27",
+      "hot": 109
+    },
+    {
+      "title": "PCB Tracer",
+      "summary": "22 comments",
+      "url": "https://pcbtracer.com",
+      "createdAt": "2026-02-24 17:46:00",
+      "hot": 41
+    },
+    {
+      "title": "Rob Grant, creator of Red Dwarf, has died",
+      "summary": "65 comments",
+      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
+      "createdAt": "2026-02-28 03:26:38",
+      "hot": 210
     },
     {
       "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
@@ -66,151 +129,88 @@
       "hot": 1
     },
     {
-      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
-      "summary": "51 comments",
-      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
-      "createdAt": "2026-02-27 23:09:04",
-      "hot": 338
+      "title": "Allocating on the Stack",
+      "summary": "46 comments",
+      "url": "https://go.dev/blog/allocation-optimizations",
+      "createdAt": "2026-02-28 00:34:05",
+      "hot": 113
+    },
+    {
+      "title": "Show HN: I built a self-hosted course platform in Clojure",
+      "summary": "4 comments",
+      "url": "https://clojure.stream",
+      "createdAt": "2026-02-26 21:31:08",
+      "hot": 27
+    },
+    {
+      "title": "Modeling cycles of grift with evolutionary game theory",
+      "summary": "32 comments",
+      "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+      "createdAt": "2026-02-24 21:54:21",
+      "hot": 76
     },
     {
       "title": "We gave terabytes of CI logs to an LLM",
-      "summary": "76 comments",
+      "summary": "88 comments",
       "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
       "createdAt": "2026-02-27 23:41:13",
-      "hot": 115
-    },
-    {
-      "title": "Get free Claude max 20x for open-source maintainers",
-      "summary": "142 comments",
-      "url": "https://claude.com/contact-sales/claude-for-oss",
-      "createdAt": "2026-02-27 17:08:58",
-      "hot": 290
-    },
-    {
-      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
-      "summary": "43 comments",
-      "url": "https://retrotick.com/",
-      "createdAt": "2026-02-27 21:06:50",
-      "hot": 148
-    },
-    {
-      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-      "summary": "39 comments",
-      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-      "createdAt": "2026-02-27 23:14:42",
-      "hot": 70
-    },
-    {
-      "title": "Rob Grant, creator of Red Dwarf, has died",
-      "summary": "12 comments",
-      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "createdAt": "2026-02-28 03:26:38",
-      "hot": 92
-    },
-    {
-      "title": "Sprites on the Web",
-      "summary": "15 comments",
-      "url": "https://www.joshwcomeau.com/animation/sprites/",
-      "createdAt": "2026-02-24 18:06:43",
-      "hot": 77
-    },
-    {
-      "title": "F-Droid Board of Directors nominations 2026",
-      "summary": "86 comments",
-      "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
-      "createdAt": "2026-02-27 18:27:29",
-      "hot": 145
-    },
-    {
-      "title": "Show HN: Unfucked – version every change between commits - local-first",
-      "summary": "16 comments",
-      "url": "https://www.unfudged.io/",
-      "createdAt": "2026-02-27 05:30:19",
-      "hot": 29
-    },
-    {
-      "title": "Theory of Constraints: \"Blue Light\" creating capacity for nothing (2007)",
-      "summary": "2 comments",
-      "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
-      "createdAt": "2026-02-28 01:41:30",
-      "hot": 19
-    },
-    {
-      "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "summary": "1471 comments",
-      "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "createdAt": "2026-02-27 06:42:47",
-      "hot": 2770
-    },
-    {
-      "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
-      "summary": "27 comments",
-      "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
-      "createdAt": "2026-02-27 23:37:53",
-      "hot": 46
-    },
-    {
-      "title": "Setting up OpenClaw on a cloud VM",
-      "summary": "40 comments",
-      "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
-      "createdAt": "2026-02-28 02:06:26",
-      "hot": 60
-    },
-    {
-      "title": "ChatGPT Health fails to recognise medical emergencies – study",
-      "summary": "116 comments",
-      "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-      "createdAt": "2026-02-27 23:44:33",
-      "hot": 159
-    },
-    {
-      "title": "The Hunt for Dark Breakfast",
-      "summary": "173 comments",
-      "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "createdAt": "2026-02-27 11:49:48",
-      "hot": 488
-    },
-    {
-      "title": "An interactive intro to quadtrees",
-      "summary": "22 comments",
-      "url": "https://growingswe.com/blog/quadtrees",
-      "createdAt": "2026-02-25 01:31:05",
-      "hot": 179
-    },
-    {
-      "title": "Breaking Free",
-      "summary": "29 comments",
-      "url": "https://www.forbrukerradet.no/breakingfree/",
-      "createdAt": "2026-02-27 17:56:42",
       "hot": 160
     },
     {
-      "title": "What was the first life restoration of a sauropod?",
-      "summary": "4 comments",
-      "url": "https://svpow.com/2026/02/02/what-was-the-first-life-restoration-of-a-sauropod/",
-      "createdAt": "2026-02-25 22:29:48",
-      "hot": 17
+      "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
+      "summary": "58 comments",
+      "url": "https://antirez.com/news/160",
+      "createdAt": "2026-02-25 18:36:43",
+      "hot": 120
+    },
+    {
+      "title": "Leaving Google has actively improved my life",
+      "summary": "208 comments",
+      "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
+      "createdAt": "2026-02-28 03:08:25",
+      "hot": 373
+    },
+    {
+      "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+      "summary": "84 comments",
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "createdAt": "2026-02-27 23:09:04",
+      "hot": 480
+    },
+    {
+      "title": "Zugunruhe, and what makes things worth doing",
+      "summary": "0 comments",
+      "url": "https://www.nathanzhao.cc/zugunruhe",
+      "createdAt": "2026-02-28 07:09:32",
+      "hot": 5
+    },
+    {
+      "title": "Reading English from 1000 AD",
+      "summary": "37 comments",
+      "url": "https://lewiscampbell.tech/blog/260224.html",
+      "createdAt": "2026-02-24 10:06:50",
+      "hot": 104
     },
     {
       "title": "Can you reverse engineer our neural network?",
-      "summary": "156 comments",
+      "summary": "181 comments",
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "createdAt": "2026-02-25 10:20:13",
-      "hot": 229
+      "hot": 257
     },
     {
-      "title": "Debian Removes Free Pascal Compiler / Lazarus IDE",
-      "summary": "29 comments",
-      "url": "https://forum.lazarus.freepascal.org/index.php?topic=73405.0",
-      "createdAt": "2026-02-25 18:02:37",
-      "hot": 59
+      "title": "\"Just a little detail that wouldn't sell anything\"",
+      "summary": "22 comments",
+      "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
+      "createdAt": "2026-02-24 14:34:07",
+      "hot": 100
     },
     {
-      "title": "Compact disc story (1998)",
-      "summary": "17 comments",
-      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
-      "createdAt": "2026-02-27 11:33:28",
-      "hot": 48
+      "title": "Building secure, scalable agent sandbox infrastructure",
+      "summary": "9 comments",
+      "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+      "createdAt": "2026-02-27 23:03:12",
+      "hot": 46
     }
   ]
 }
