@@ -1,6 +1,6 @@
 {
-  "id": "sspai-hot.1772294923309",
-  "lastUpdatedAt": "2026-03-01 00:08:43",
+  "id": "sspai-hot.1772309325446",
+  "lastUpdatedAt": "2026-03-01 04:08:45",
   "data": [
     {
       "title": "年度征文｜AI 十字路口：当机器学会「思考」，我们应该知道什么？",
@@ -75,6 +75,14 @@
       "hot": 19
     },
     {
+      "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
+      "summary": "随着 CLI Coding Agent 的出现，我可以在 iPad 或手机上，通过 SSH 远程连接 Mac，在乘坐地铁等碎片时间远程开发，这是我的实践方式。",
+      "url": "https://sspai.com/post/105621",
+      "imageUrl": "2026/01/20/eb7b338770c475bfd4fa46e552f59736.png",
+      "createdAt": "2026-01-20 21:00:58",
+      "hot": 22
+    },
+    {
       "title": "巴掌大的小主机 Khadas Mind 2，究竟能用来干什么？",
       "summary": "2025年10月至2026年1月期间，少数派与模块化迷你主机先行品牌Khadas合作，发起了针对Khadas最新产品Mind2的众测活动。本次活动分两期举行，每期挑选10名少数派用户，免费提供包含主机 ...",
       "url": "https://sspai.com/post/105559",
@@ -104,7 +112,7 @@
       "url": "https://sspai.com/post/105331",
       "imageUrl": "2026/01/10/8da82b7cdb4547cbbf8074c1a83e905a.png",
       "createdAt": "2026-01-12 20:58:51",
-      "hot": 123
+      "hot": 124
     },
     {
       "title": "AI 时代的工具本地化：构建稳定、可迁移的数字堡垒",
@@ -153,14 +161,6 @@
       "imageUrl": "2025/12/30/5fb03cababdd1d463f5b2caedb268070.jpg",
       "createdAt": "2025-12-30 16:52:05",
       "hot": 39
-    },
-    {
-      "title": "当世界尽头成为热搜：一份南极旅游指南",
-      "summary": "那么奇、那么秘，下站去极地。",
-      "url": "https://sspai.com/post/104946",
-      "imageUrl": "2026/01/01/dcb6bdf7f38706a8224e6891f4fd3d09.jpeg",
-      "createdAt": "2025-12-30 13:35:49",
-      "hot": 126
     }
   ]
 }
