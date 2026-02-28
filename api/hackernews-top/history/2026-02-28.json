@@ -865,6 +865,222 @@
           "hot": 38
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772266205694",
+      "lastUpdatedAt": "2026-02-28 16:10:05",
+      "data": [
+        {
+          "title": "We Will Not Be Divided",
+          "summary": "491 comments",
+          "url": "https://notdivided.org",
+          "createdAt": "2026-02-28 08:54:53",
+          "hot": 1358
+        },
+        {
+          "title": "How do I cancel my ChatGPT subscription?",
+          "summary": "109 comments",
+          "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+          "createdAt": "2026-02-28 13:55:01",
+          "hot": 496
+        },
+        {
+          "title": "Croatia declared free of landmines after 31 years",
+          "summary": "20 comments",
+          "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+          "createdAt": "2026-02-28 10:48:16",
+          "hot": 193
+        },
+        {
+          "title": "Rust Is Just a Tool",
+          "summary": "18 comments",
+          "url": "https://lewiscampbell.tech/blog/260204.html",
+          "createdAt": "2026-02-28 13:47:39",
+          "hot": 48
+        },
+        {
+          "title": "Don't use passkeys for encrypting user data",
+          "summary": "64 comments",
+          "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+          "createdAt": "2026-02-28 11:11:40",
+          "hot": 125
+        },
+        {
+          "title": "Cash issuing terminals",
+          "summary": "1 comments",
+          "url": "https://computer.rip/2026-02-27-ibm-atm.html",
+          "createdAt": "2026-02-28 13:21:21",
+          "hot": 46
+        },
+        {
+          "title": "U.S. and Israel Conduct Strikes on Iran",
+          "summary": "61 comments",
+          "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+          "createdAt": "2026-02-28 14:57:46",
+          "hot": 123
+        },
+        {
+          "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+          "summary": "277 comments",
+          "url": "https://twitter.com/sama/status/2027578652477821175",
+          "createdAt": "2026-02-28 10:59:02",
+          "hot": 506
+        },
+        {
+          "title": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
+          "summary": "13 comments",
+          "url": "https://github.com/maloyan/manim-web",
+          "createdAt": "2026-02-26 02:15:07",
+          "hot": 88
+        },
+        {
+          "title": "A new California law says all operating systems need to have age verification",
+          "summary": "518 comments",
+          "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+          "createdAt": "2026-02-27 22:55:49",
+          "hot": 554
+        },
+        {
+          "title": "OpenAI raises $110B on $730B pre-money valuation",
+          "summary": "517 comments",
+          "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+          "createdAt": "2026-02-27 22:56:05",
+          "hot": 469
+        },
+        {
+          "title": "Smallest transformer that can add two 10-digit numbers",
+          "summary": "60 comments",
+          "url": "https://github.com/anadim/AdderBoard",
+          "createdAt": "2026-02-27 02:29:56",
+          "hot": 139
+        },
+        {
+          "title": "Statement on the comments from Secretary of War Pete Hegseth",
+          "summary": "294 comments",
+          "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+          "createdAt": "2026-02-28 09:20:10",
+          "hot": 857
+        },
+        {
+          "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+          "summary": "14 comments",
+          "url": "https://www.science.org/doi/10.1126/science.adt2760",
+          "createdAt": "2026-02-28 07:42:14",
+          "hot": 78
+        },
+        {
+          "title": "Package Managers à la Carte: a formal model of dependency resolution",
+          "summary": "2 comments",
+          "url": "https://arxiv.org/abs/2602.18602",
+          "createdAt": "2026-02-24 20:27:44",
+          "hot": 21
+        },
+        {
+          "title": "A better streams API is possible for JavaScript",
+          "summary": "139 comments",
+          "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+          "createdAt": "2026-02-27 22:02:53",
+          "hot": 403
+        },
+        {
+          "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+          "summary": "120 comments",
+          "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+          "createdAt": "2026-02-27 23:52:27",
+          "hot": 197
+        },
+        {
+          "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+          "summary": "268 comments",
+          "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+          "createdAt": "2026-02-28 00:33:39",
+          "hot": 248
+        },
+        {
+          "title": "Bootc and OSTree: Modernizing Linux System Deployment",
+          "summary": "2 comments",
+          "url": "https://a-cup-of.coffee/blog/ostree-bootc/",
+          "createdAt": "2026-02-28 10:55:29",
+          "hot": 23
+        },
+        {
+          "title": "Eschewing Zshell for Emacs Shell (2014)",
+          "summary": "12 comments",
+          "url": "https://www.howardism.org/Technical/Emacs/eshell-fun.html",
+          "createdAt": "2026-02-24 21:04:25",
+          "hot": 27
+        },
+        {
+          "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+          "summary": "0 comments",
+          "url": "https://phys.org/news/2026-02-year-drill-rewrites-story-ancient.html",
+          "createdAt": "2026-02-26 03:47:07",
+          "hot": 8
+        },
+        {
+          "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+          "summary": "88 comments",
+          "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+          "createdAt": "2026-02-27 23:37:53",
+          "hot": 171
+        },
+        {
+          "title": "Time-Travel Debugging: Replaying Production Bugs Locally",
+          "summary": "1 comments",
+          "url": "https://lackofimagination.org/2026/02/time-travel-debugging-replaying-production-bugs-locally/",
+          "createdAt": "2026-02-26 01:47:47",
+          "hot": 14
+        },
+        {
+          "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+          "summary": "30 comments",
+          "url": "https://github.com/hjtenklooster/claude-file-recovery",
+          "createdAt": "2026-02-28 00:26:22",
+          "hot": 76
+        },
+        {
+          "title": "Inventing the Lisa user interface – Interactions",
+          "summary": "2 comments",
+          "url": "https://dl.acm.org/doi/10.1145/242388.242405",
+          "createdAt": "2026-02-25 20:16:12",
+          "hot": 34
+        },
+        {
+          "title": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+          "summary": "47 comments",
+          "url": "https://www.unfudged.io/",
+          "createdAt": "2026-02-27 05:30:19",
+          "hot": 91
+        },
+        {
+          "title": "Let's discuss sandbox isolation",
+          "summary": "43 comments",
+          "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+          "createdAt": "2026-02-28 02:49:50",
+          "hot": 134
+        },
+        {
+          "title": "Writing a Guide to SDF Fonts",
+          "summary": "7 comments",
+          "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+          "createdAt": "2026-02-28 02:24:09",
+          "hot": 92
+        },
+        {
+          "title": "Allocating on the Stack",
+          "summary": "51 comments",
+          "url": "https://go.dev/blog/allocation-optimizations",
+          "createdAt": "2026-02-28 00:34:05",
+          "hot": 145
+        },
+        {
+          "title": "Can you reverse engineer our neural network?",
+          "summary": "185 comments",
+          "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+          "createdAt": "2026-02-25 10:20:13",
+          "hot": 284
+        }
+      ]
     }
   ]
 }
