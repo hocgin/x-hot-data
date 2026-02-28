@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-01",
+  "createdAt": "2026-03-01 00:08:43",
+  "data": [
+    {
+      "id": "hackernews-top.1772294923314",
+      "lastUpdatedAt": "2026-03-01 00:08:43",
+      "data": [
+        {
+          "title": "Cognitive Debt: When Velocity Exceeds Comprehension",
+          "summary": "1 comments",
+          "url": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
+          "createdAt": "2026-02-28 23:39:10",
+          "hot": 16
+        },
+        {
+          "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+          "summary": "11 comments",
+          "url": "https://github.com/ad-si/Woxi",
+          "createdAt": "2026-02-26 02:24:46",
+          "hot": 74
+        },
+        {
+          "title": "Addressing Antigravity Bans and Reinstating Access",
+          "summary": "50 comments",
+          "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+          "createdAt": "2026-02-28 21:50:13",
+          "hot": 69
+        },
+        {
+          "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+          "summary": "27 comments",
+          "url": "https://nowigetit.us",
+          "createdAt": "2026-02-28 21:29:36",
+          "hot": 42
+        },
+        {
+          "title": "We Will Not Be Divided",
+          "summary": "674 comments",
+          "url": "https://notdivided.org",
+          "createdAt": "2026-02-28 08:54:53",
+          "hot": 2178
+        },
+        {
+          "title": "Customer Update on Simplenote",
+          "summary": "22 comments",
+          "url": "https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all",
+          "createdAt": "2026-02-28 21:26:51",
+          "hot": 29
+        },
+        {
+          "title": "The Life Cycle of Money",
+          "summary": "2 comments",
+          "url": "https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/",
+          "createdAt": "2026-02-28 21:32:28",
+          "hot": 22
+        },
+        {
+          "title": "Don't trust AI agents",
+          "summary": "101 comments",
+          "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+          "createdAt": "2026-02-28 20:39:32",
+          "hot": 183
+        },
+        {
+          "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+          "summary": "41 comments",
+          "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+          "createdAt": "2026-02-28 21:46:20",
+          "hot": 82
+        },
+        {
+          "title": "Unsloth Dynamic 2.0 GGUFs",
+          "summary": "39 comments",
+          "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+          "createdAt": "2026-02-28 16:56:33",
+          "hot": 123
+        },
+        {
+          "title": "747s and Coding Agents",
+          "summary": "1 comments",
+          "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+          "createdAt": "2026-02-28 01:22:00",
+          "hot": 9
+        },
+        {
+          "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+          "summary": "89 comments",
+          "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+          "createdAt": "2026-02-25 13:14:09",
+          "hot": 127
+        },
+        {
+          "title": "A new California law says all operating systems need to have age verification",
+          "summary": "609 comments",
+          "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+          "createdAt": "2026-02-27 22:55:49",
+          "hot": 705
+        },
+        {
+          "title": "More Cows, More Wives",
+          "summary": "18 comments",
+          "url": "https://www.worksinprogress.news/p/more-cows-more-wives",
+          "createdAt": "2026-02-25 23:36:36",
+          "hot": 39
+        },
+        {
+          "title": "Everything Changes, and Nothing Changes",
+          "summary": "7 comments",
+          "url": "https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/",
+          "createdAt": "2026-02-28 21:35:54",
+          "hot": 11
+        },
+        {
+          "title": "From Noise to Image – interactive guide to diffusion",
+          "summary": "2 comments",
+          "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
+          "createdAt": "2026-02-26 15:52:29",
+          "hot": 7
+        },
+        {
+          "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+          "summary": "524 comments",
+          "url": "https://twitter.com/sama/status/2027578652477821175",
+          "createdAt": "2026-02-28 10:59:02",
+          "hot": 1105
+        },
+        {
+          "title": "Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash",
+          "summary": "13 comments",
+          "url": "https://github.com/junevm/splathash",
+          "createdAt": "2026-02-28 19:24:45",
+          "hot": 33
+        },
+        {
+          "title": "US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway",
+          "summary": "1397 comments",
+          "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+          "createdAt": "2026-02-28 14:34:07",
+          "hot": 571
+        },
+        {
+          "title": "Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory",
+          "summary": "3 comments",
+          "url": "https://github.com/Krira-Labs/krira-chunker",
+          "createdAt": "2026-02-28 22:58:02",
+          "hot": 14
+        },
+        {
+          "title": "What AI coding costs you",
+          "summary": "84 comments",
+          "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+          "createdAt": "2026-02-28 21:05:03",
+          "hot": 107
+        },
+        {
+          "title": "OpenAI raises $110B on $730B pre-money valuation",
+          "summary": "565 comments",
+          "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+          "createdAt": "2026-02-27 22:56:05",
+          "hot": 535
+        },
+        {
+          "title": "Show HN: Decided to play god this morning, so I built an agent civilisation",
+          "summary": "24 comments",
+          "url": "https://github.com/nocodemf/werld",
+          "createdAt": "2026-02-28 22:05:27",
+          "hot": 31
+        },
+        {
+          "title": "Latency numbers every programmer should know",
+          "summary": "8 comments",
+          "url": "https://cheat.sh/latency",
+          "createdAt": "2026-02-28 20:58:09",
+          "hot": 21
+        },
+        {
+          "title": "OpenAI – How to delete your account",
+          "summary": "299 comments",
+          "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+          "createdAt": "2026-02-28 18:41:55",
+          "hot": 1543
+        },
+        {
+          "title": "No Bookmarks",
+          "summary": "10 comments",
+          "url": "https://nik.art/no-bookmarks/",
+          "createdAt": "2026-02-28 20:46:36",
+          "hot": 13
+        },
+        {
+          "title": "Smallest transformer that can add two 10-digit numbers",
+          "summary": "83 comments",
+          "url": "https://github.com/anadim/AdderBoard",
+          "createdAt": "2026-02-27 02:29:56",
+          "hot": 198
+        },
+        {
+          "title": "Cash issuing terminals",
+          "summary": "14 comments",
+          "url": "https://computer.rip/2026-02-27-ibm-atm.html",
+          "createdAt": "2026-02-28 13:21:21",
+          "hot": 87
+        },
+        {
+          "title": "Croatia declared free of landmines after 31 years",
+          "summary": "99 comments",
+          "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+          "createdAt": "2026-02-28 10:48:16",
+          "hot": 415
+        },
+        {
+          "title": "Show HN: Reclaim Flowers – A 2D physics-based \"Digital Altar\" protocol",
+          "summary": "1 comments",
+          "url": "https://github.com/voice-of-japan/Virtual-Protest-Protocol/blob/main/README.md",
+          "createdAt": "2026-02-28 21:17:53",
+          "hot": 6
+        }
+      ]
+    }
+  ]
+}

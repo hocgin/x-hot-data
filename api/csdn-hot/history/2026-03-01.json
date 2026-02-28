@@ -1,0 +1,362 @@
+{
+  "id": "csdn-hot.history.2026-03-01",
+  "createdAt": "2026-03-01 00:08:43",
+  "data": [
+    {
+      "id": "csdn-hot.1772294923322",
+      "lastUpdatedAt": "2026-03-01 00:08:43",
+      "data": [
+        {
+          "title": "如何把 AI 大语言模型接入个人项目",
+          "summary": "作者: 码农葫芦侠",
+          "url": "https://blog.csdn.net/qq_41898196/article/details/158238684",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 34589
+        },
+        {
+          "title": "AI 进化论：从 Function Calling 到 MCP",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158501212",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 12723
+        },
+        {
+          "title": "基于 Spring Boot 3 与 Vue 3 的汽车租赁系统",
+          "summary": "作者: 小刘要努力。",
+          "url": "https://blog.csdn.net/weixin_44510615/article/details/158395045",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 9538
+        },
+        {
+          "title": "Spring Cloud Alibaba 2026 最新实战手册",
+          "summary": "作者: 我不是呆头",
+          "url": "https://blog.csdn.net/2401_86326742/article/details/158510166",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 9412
+        },
+        {
+          "title": "Java 中间件：RocketMQ 顺序消息（全局/分区顺序）",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157470851",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 8509
+        },
+        {
+          "title": "「Kurator·云原生实战派」主题征文活动获奖公示",
+          "summary": "作者: Kurator分布式云原生开源社区",
+          "url": "https://blog.csdn.net/Kurator/article/details/158503332",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 8242
+        },
+        {
+          "title": "企业高性能web服务器——Nginx",
+          "summary": "作者: Stewie12138",
+          "url": "https://blog.csdn.net/Stewie12138/article/details/158391540",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 7263
+        },
+        {
+          "title": "谷歌刚发的Nano Banana 2，一手深度测评，附教程",
+          "summary": "作者: LucianaiB",
+          "url": "https://blog.csdn.net/lwcwam/article/details/158498371",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 6905
+        },
+        {
+          "title": "系统分析师-2024年11月案例真题及参考答案（回忆版本）",
+          "summary": "作者: 帅次",
+          "url": "https://blog.csdn.net/g984160547/article/details/158430468",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 6483
+        },
+        {
+          "title": " 附录：全栈体系图（硬件 → 架构 → OS → 应用）",
+          "summary": "作者: rhythm-ring",
+          "url": "https://blog.csdn.net/weixin_53066395/article/details/158011575",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 5863
+        },
+        {
+          "title": "3种流动样式，4种方向控制：C# GDI+打造工业级流动管道控件的终极指南",
+          "summary": "作者: 墨瑾轩",
+          "url": "https://blog.csdn.net/z_344791576/article/details/151920887",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 5759
+        },
+        {
+          "title": "KaiwuDB+CodeArts 智能体，让ai快速构建一个智能家居本地化数据处理系统",
+          "summary": "作者: 小太阳落山了",
+          "url": "https://blog.csdn.net/weixin_61944817/article/details/157970152",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 5654
+        },
+        {
+          "title": "kingbase备份与恢复实战（一）—— 备份体系、RPO-RTO与选型（Windows+ksql）",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158422993",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 5030
+        },
+        {
+          "title": "Spring Cloud 实战攻坚：商品服务核心实现（库存管理 + 缓存设计 + 分布式锁）",
+          "summary": "作者: 梵得儿SHI",
+          "url": "https://blog.csdn.net/qq_40303030/article/details/156562967",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 4528
+        },
+        {
+          "title": "【Bluedroid】Bluetooth GATT 客户端读取RSSI信号强度流程解析",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/158471906",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 4254
+        },
+        {
+          "title": "Flask 和 Nginx 的区别与联系:《Flask和Nginx到底啥关系？用餐厅比喻讲得明明白白》",
+          "summary": "作者: ZhangJiqun&Hoper",
+          "url": "https://blog.csdn.net/qq_38998213/article/details/158497951",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3987
+        },
+        {
+          "title": "Ling Studio深度体验：一站式AI生产力平台完全指南",
+          "summary": "作者: 知 秋~",
+          "url": "https://blog.csdn.net/qq_38881495/article/details/158499112",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3857
+        },
+        {
+          "title": "OpenClaw 搭建全流程实战：从 0 部署到可控 AI Agent（附避坑与安全建议）",
+          "summary": "作者: Web3应用开发",
+          "url": "https://blog.csdn.net/m0_73054711/article/details/158394309",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3453
+        },
+        {
+          "title": "金仓数据库赋能一卡通国产化改造：高并发场景下的技术攻坚与工程实践",
+          "summary": "作者: 鸽芷咕",
+          "url": "https://blog.csdn.net/qq_57761637/article/details/158432709",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3262
+        },
+        {
+          "title": "谷歌刚发的Nano Banana 2，一手深度测评，附教程",
+          "summary": "作者: 笃行其道",
+          "url": "https://blog.csdn.net/weixin_66401877/article/details/158498100",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3160
+        },
+        {
+          "title": "实测百灵大模型Ling-2.5-1T：混合线性架构下的全能开发与办公新体验",
+          "summary": "作者: Undoom",
+          "url": "https://blog.csdn.net/2301_80863610/article/details/158499581",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 3008
+        },
+        {
+          "title": "【无人机论文复现】空地多无人平台协同路径规划技术研究（Matlab代码实现）",
+          "summary": "作者: 荔枝科研社",
+          "url": "https://blog.csdn.net/weixin_46039719/article/details/158467126",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2854
+        },
+        {
+          "title": "为鸿蒙开发者写一个 nvm：hmvm 的设计与实现",
+          "summary": "作者: SummerKaze",
+          "url": "https://blog.csdn.net/Robin951/article/details/158471067",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2809
+        },
+        {
+          "title": "Docker 部署 Ollama 全流程指南：支持 CPU/GPU、生产环境可用的工程化实践",
+          "summary": "作者: Monster丶626",
+          "url": "https://blog.csdn.net/weixin_45811486/article/details/158429992",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2767
+        },
+        {
+          "title": "基于YOLO26深度学习的路面积水智能检测分割与分析系统【python源码+Pyqt5界面+数据集+训练代码】",
+          "summary": "作者: 阿_旭",
+          "url": "https://blog.csdn.net/qq_42589613/article/details/158496648",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2603
+        },
+        {
+          "title": "Ultralytics-YOLO项目介绍(包含YOLOV8、YOLOV10、YOLO11、YOLO12、YOLO26)",
+          "summary": "作者: 魔鬼面具",
+          "url": "https://blog.csdn.net/qq_37706472/article/details/158498001",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2487
+        },
+        {
+          "title": "基于深度学习的违章停车检测系统的设计与实现",
+          "summary": "作者: Dev7z",
+          "url": "https://blog.csdn.net/Dev7z/article/details/158395125",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2465
+        },
+        {
+          "title": "C++之《程序员自我修养》读书总结(7)",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/158472684",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2355
+        },
+        {
+          "title": "《计算机视觉：模型、学习和推理》第 15 章-变换模型",
+          "summary": "作者: 啊阿狸不会拉杆",
+          "url": "https://blog.csdn.net/2302_80961196/article/details/158502630",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2352
+        },
+        {
+          "title": "前端安全问题深度剖析与防护策略",
+          "summary": "作者: 阿珊和她的猫",
+          "url": "https://blog.csdn.net/weixin_42554191/article/details/158387023",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2149
+        },
+        {
+          "title": "【无人机通信】基于Matlab模拟地面控制站与无人机之间的通信数据传输，了解加密算法在实时通信中的性能与安全性表现",
+          "summary": "作者: 天天Matlab科研工作室",
+          "url": "https://blog.csdn.net/qq_59747472/article/details/158499588",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2039
+        },
+        {
+          "title": "【新能源汽车DCDC变换器测试优化全攻略：解决电能质量/发热/过充等核心痛点】",
+          "summary": "作者: 新能源汽车研发＆测试入门指南",
+          "url": "https://blog.csdn.net/weixin_62244995/article/details/158507284",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2023
+        },
+        {
+          "title": "ELK（Elasticsearch+Logstash+Kibana）传统日志采集架构与ELFKK（Elasticsearch+Logstash+Kibana+Filebeat+Kafka）对比",
+          "summary": "作者: 飞火流星02027",
+          "url": "https://blog.csdn.net/jjk_02027/article/details/158381180",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 2017
+        },
+        {
+          "title": "GitNexus 核心引擎深度解析",
+          "summary": "作者: wasp520",
+          "url": "https://blog.csdn.net/wasp520/article/details/158394580",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1851
+        },
+        {
+          "title": "Flutter for OpenHarmony：三方库 test_api — 守护鸿蒙应用代码质量（适配鸿蒙 HarmonyOS Next ohos）",
+          "summary": "作者: 左手厨刀右手茼蒿",
+          "url": "https://blog.csdn.net/jiang_style/article/details/158424873",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1670
+        },
+        {
+          "title": "时序数据库选型指南：从大数据架构视角深度解析 Apache IoTDB",
+          "summary": "作者: 进哥聊编程",
+          "url": "https://blog.csdn.net/u014727709/article/details/158509780",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1581
+        },
+        {
+          "title": "欧亚地区2025年网络安全态势综述（下）",
+          "summary": "作者: 岛屿旅人",
+          "url": "https://blog.csdn.net/qq_41432686/article/details/158393410",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1527
+        },
+        {
+          "title": "汽车雷达高级信号处理和建模技术简介——文章精读（下）",
+          "summary": "作者: 喵星信号簿",
+          "url": "https://blog.csdn.net/qq_44648285/article/details/158451713",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1462
+        },
+        {
+          "title": "用 Kavita+cpolar 解锁数字藏书的远程自由翔实攻略",
+          "summary": "作者: User_芊芊君子",
+          "url": "https://blog.csdn.net/user340/article/details/158430640",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1341
+        },
+        {
+          "title": "《ElasticSearch》06 查询：DSL查询之全文搜索详解",
+          "summary": "作者: 短剑重铸之日",
+          "url": "https://blog.csdn.net/qq_33229153/article/details/158466246",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1309
+        },
+        {
+          "title": "【AI编程时代】：RAG技术详解",
+          "summary": "作者: 晔子yy",
+          "url": "https://blog.csdn.net/gdpu2400502251/article/details/158460973",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1301
+        },
+        {
+          "title": "CentOS Stream 9服务器Docker部署KWDB：从零到跨模查询实战全记录",
+          "summary": "作者: 码农阿豪@新空间",
+          "url": "https://blog.csdn.net/weixin_44976692/article/details/158466223",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1301
+        },
+        {
+          "title": "【HarmonyOS 6.0】渲染节点C API实战：从挂载到动画",
+          "summary": "作者: 枫叶丹4",
+          "url": "https://blog.csdn.net/weixin_74809706/article/details/158422571",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1301
+        },
+        {
+          "title": "【电磁】多尺度、多物理过程电子-离子动力学Matlab程序，库仑相互作用、弹性碰撞、旋转 振动激发、解离附着、水合电子形成、离子捕获",
+          "summary": "作者: matlab科研助手",
+          "url": "https://blog.csdn.net/matlab_dingdang/article/details/158499655",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1286
+        },
+        {
+          "title": "OpenClaw教程（二）—— 部署OpenClaw",
+          "summary": "作者: wal1314520",
+          "url": "https://blog.csdn.net/wal1314520/article/details/158430001",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1257
+        },
+        {
+          "title": "C++ 核心知识点全解析（九）",
+          "summary": "作者: tod113",
+          "url": "https://blog.csdn.net/2302_79737429/article/details/158394338",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1213
+        },
+        {
+          "title": "影院预约系统（threeJS Fastapi html开源）",
+          "summary": "作者: a111776",
+          "url": "https://blog.csdn.net/a111776/article/details/158495533",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1174
+        },
+        {
+          "title": "flutter_des 适配 HarmonyOS 实战：以 DES 加密解密为例",
+          "summary": "作者: 程序媛夏天",
+          "url": "https://blog.csdn.net/weixin_45822171/article/details/158501605",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1114
+        },
+        {
+          "title": "Go-Zero微服务实战：高并发场景下的学生认证系统设计与实现",
+          "summary": "作者: ん贤",
+          "url": "https://blog.csdn.net/2302_80067378/article/details/158463906",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1111
+        },
+        {
+          "title": "OpenClaw 企业微信深度对接指南",
+          "summary": "作者: 烽擎软件",
+          "url": "https://blog.csdn.net/chenbo980/article/details/158496823",
+          "createdAt": "2026-03-01 00:08:26",
+          "hot": 1065
+        }
+      ]
+    }
+  ]
+}

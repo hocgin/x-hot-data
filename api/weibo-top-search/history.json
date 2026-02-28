@@ -2,6 +2,10 @@
   "id": "weibo-top-search.history",
   "history": [
     {
+      "date": "2026-03-01",
+      "uri": "/weibo-top-search/history/2026-03-01.json"
+    },
+    {
       "date": "2026-02-28",
       "uri": "/weibo-top-search/history/2026-02-28.json"
     },
