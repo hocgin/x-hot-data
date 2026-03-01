@@ -178,6 +178,97 @@
           "createdAt": "2026-03-01 04:08:15"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772325633292",
+      "lastUpdatedAt": "2026-03-01 08:40:33",
+      "data": [
+        {
+          "title": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "tukaani-project/xz",
+          "url": "https://github.com/tukaani-project/xz",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "Wei-Shaw/claude-relay-service",
+          "url": "https://github.com/Wei-Shaw/claude-relay-service",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "PaddlePaddle/Paddle",
+          "url": "https://github.com/PaddlePaddle/Paddle",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "datagouv/datagouv-mcp",
+          "url": "https://github.com/datagouv/datagouv-mcp",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-01 08:40:11"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-01 08:40:11"
+        }
+      ]
     }
   ]
 }
