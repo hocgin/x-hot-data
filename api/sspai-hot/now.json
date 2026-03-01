@@ -1,6 +1,6 @@
 {
-  "id": "sspai-hot.1772381361570",
-  "lastUpdatedAt": "2026-03-02 00:09:21",
+  "id": "sspai-hot.1772395722009",
+  "lastUpdatedAt": "2026-03-02 04:08:42",
   "data": [
     {
       "title": "年度征文｜AI 十字路口：当机器学会「思考」，我们应该知道什么？",
@@ -32,7 +32,7 @@
       "url": "https://sspai.com/post/106232",
       "imageUrl": "2026/2/11/article/193ae31c-5f81-f352-b3bb-5cfb2d4114a9.png",
       "createdAt": "2026-02-11 17:47:35",
-      "hot": 94
+      "hot": 95
     },
     {
       "title": "从特斯拉一日自驾，看纯电在日本的实际体验",
@@ -89,6 +89,14 @@
       "imageUrl": "2026/01/18/7a7a0f65188c34161f8d5979706a74bb.png",
       "createdAt": "2026-01-18 20:12:57",
       "hot": 13
+    },
+    {
+      "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
+      "summary": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。",
+      "url": "https://sspai.com/post/105484",
+      "imageUrl": "2026/01/15/188b36c660fd2758fdcab4627b49e65f.png",
+      "createdAt": "2026-01-15 20:28:17",
+      "hot": 36
     },
     {
       "title": "我的 AI 工具日常使用与工作流是怎样的？",
@@ -153,14 +161,6 @@
       "imageUrl": "2025/12/31/ffc42fbb43f635575044b1d9c681736e.png",
       "createdAt": "2025-12-31 22:44:50",
       "hot": 86
-    },
-    {
-      "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
-      "summary": "无论你是想体验一个纯净的网速显示工具，还是对 AI 辅助开发的代码质量感兴趣，都欢迎来试一试 Pixel Meter。",
-      "url": "https://sspai.com/post/104972",
-      "imageUrl": "2025/12/30/5fb03cababdd1d463f5b2caedb268070.jpg",
-      "createdAt": "2025-12-30 16:52:05",
-      "hot": 39
     }
   ]
 }
