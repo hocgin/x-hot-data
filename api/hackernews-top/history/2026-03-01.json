@@ -649,6 +649,222 @@
           "hot": 1003
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772340174323",
+      "lastUpdatedAt": "2026-03-01 12:42:54",
+      "data": [
+        {
+          "title": "Microgpt",
+          "summary": "58 comments",
+          "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+          "createdAt": "2026-03-01 09:39:26",
+          "hot": 311
+        },
+        {
+          "title": "We do not think Anthropic should be designated as a supply chain risk",
+          "summary": "166 comments",
+          "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+          "createdAt": "2026-03-01 05:24:16",
+          "hot": 367
+        },
+        {
+          "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+          "summary": "109 comments",
+          "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+          "createdAt": "2026-03-01 06:19:36",
+          "hot": 181
+        },
+        {
+          "title": "The happiest I've ever been",
+          "summary": "183 comments",
+          "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+          "createdAt": "2026-02-26 12:13:47",
+          "hot": 384
+        },
+        {
+          "title": "Obsidian Sync now has a headless client",
+          "summary": "146 comments",
+          "url": "https://help.obsidian.md/sync/headless",
+          "createdAt": "2026-03-01 00:31:53",
+          "hot": 427
+        },
+        {
+          "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+          "summary": "12 comments",
+          "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+          "createdAt": "2026-02-26 17:18:57",
+          "hot": 35
+        },
+        {
+          "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
+          "summary": "32 comments",
+          "url": "https://github.com/jonwiggins/xmloxide",
+          "createdAt": "2026-03-01 07:44:41",
+          "hot": 43
+        },
+        {
+          "title": "Block the “Upgrade to Tahoe” Alerts",
+          "summary": "76 comments",
+          "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+          "createdAt": "2026-03-01 03:04:01",
+          "hot": 168
+        },
+        {
+          "title": "Addressing Antigravity Bans and Reinstating Access",
+          "summary": "178 comments",
+          "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+          "createdAt": "2026-02-28 21:50:13",
+          "hot": 217
+        },
+        {
+          "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+          "summary": "108 comments",
+          "url": "https://github.com/ad-si/Woxi",
+          "createdAt": "2026-02-26 02:24:46",
+          "hot": 263
+        },
+        {
+          "title": "Verified Spec-Driven Development (VSDD)",
+          "summary": "81 comments",
+          "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+          "createdAt": "2026-03-01 00:58:54",
+          "hot": 158
+        },
+        {
+          "title": "Microsoft announces new \"mini PCs\" for Windows 365",
+          "summary": "20 comments",
+          "url": "https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/",
+          "createdAt": "2026-02-27 02:19:36",
+          "hot": 16
+        },
+        {
+          "title": "Building a Minimal Transformer for 10-digit Addition",
+          "summary": "7 comments",
+          "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+          "createdAt": "2026-03-01 06:10:21",
+          "hot": 44
+        },
+        {
+          "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+          "summary": "178 comments",
+          "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+          "createdAt": "2026-03-01 04:20:00",
+          "hot": 273
+        },
+        {
+          "title": "SpacetimeDB ThreeJS Support",
+          "summary": "3 comments",
+          "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
+          "createdAt": "2026-02-26 04:20:21",
+          "hot": 8
+        },
+        {
+          "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+          "summary": "99 comments",
+          "url": "https://nowigetit.us",
+          "createdAt": "2026-02-28 21:29:36",
+          "hot": 200
+        },
+        {
+          "title": "MCP server that reduces Claude Code context consumption by 98%",
+          "summary": "63 comments",
+          "url": "https://mksg.lu/blog/context-mode",
+          "createdAt": "2026-02-28 18:01:20",
+          "hot": 278
+        },
+        {
+          "title": "Werner Herzog Between Fact and Fiction",
+          "summary": "14 comments",
+          "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+          "createdAt": "2026-02-27 16:27:45",
+          "hot": 70
+        },
+        {
+          "title": "New evidence that Cantor plagiarized Dedekind?",
+          "summary": "73 comments",
+          "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+          "createdAt": "2026-02-26 01:28:33",
+          "hot": 114
+        },
+        {
+          "title": "Deterministic Programming with LLMs",
+          "summary": "15 comments",
+          "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+          "createdAt": "2026-02-26 06:17:29",
+          "hot": 34
+        },
+        {
+          "title": "The whole thing was a scam",
+          "summary": "199 comments",
+          "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+          "createdAt": "2026-03-01 00:51:49",
+          "hot": 679
+        },
+        {
+          "title": "747s and Coding Agents",
+          "summary": "61 comments",
+          "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+          "createdAt": "2026-02-28 01:22:00",
+          "hot": 138
+        },
+        {
+          "title": "The archivist preserving decaying floppy disks",
+          "summary": "10 comments",
+          "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+          "createdAt": "2026-02-25 23:28:52",
+          "hot": 54
+        },
+        {
+          "title": "Our Agreement with the Department of War",
+          "summary": "204 comments",
+          "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+          "createdAt": "2026-03-01 04:35:29",
+          "hot": 247
+        },
+        {
+          "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+          "summary": "5 comments",
+          "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+          "createdAt": "2026-03-01 09:24:54",
+          "hot": 34
+        },
+        {
+          "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+          "summary": "169 comments",
+          "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+          "createdAt": "2026-02-25 13:14:09",
+          "hot": 249
+        },
+        {
+          "title": "Ghosts'n Goblins – “Worse danger is ahead”",
+          "summary": "25 comments",
+          "url": "https://superchartisland.com/ghostsn-goblins/",
+          "createdAt": "2026-02-26 02:07:09",
+          "hot": 68
+        },
+        {
+          "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+          "summary": "7 comments",
+          "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+          "createdAt": "2026-03-01 09:59:00",
+          "hot": 50
+        },
+        {
+          "title": "Unsloth Dynamic 2.0 GGUFs",
+          "summary": "56 comments",
+          "url": "https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs",
+          "createdAt": "2026-02-28 16:56:33",
+          "hot": 209
+        },
+        {
+          "title": "From Noise to Image – interactive guide to diffusion",
+          "summary": "15 comments",
+          "url": "https://lighthousesoftware.co.uk/projects/from-noise-to-image/",
+          "createdAt": "2026-02-26 15:52:29",
+          "hot": 120
+        }
+      ]
     }
   ]
 }
