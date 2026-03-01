@@ -451,6 +451,77 @@
           "createdAt": "2026-03-01 16:10:57"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772367216585",
+      "lastUpdatedAt": "2026-03-01 20:13:36",
+      "data": [
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "createdAt": "2026-03-01 20:13:10"
+        },
+        {
+          "title": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "createdAt": "2026-03-01 20:13:10"
+        }
+      ]
     }
   ]
 }

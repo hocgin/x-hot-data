@@ -276,6 +276,61 @@
           "hot": 180400
         }
       ]
+    },
+    {
+      "id": "yiche-hot.1772367216588",
+      "lastUpdatedAt": "2026-03-01 20:13:36",
+      "data": [
+        {
+          "title": "速腾",
+          "summary": "价格: 14.79-16.49万",
+          "url": "https://car.yiche.com/xinaodia6l/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 240600
+        },
+        {
+          "title": "钛7",
+          "summary": "价格: 17.98-21.98万",
+          "url": "https://car.yiche.com/tai7/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 210300
+        },
+        {
+          "title": "雅阁",
+          "summary": "价格: 17.98-23.88万",
+          "url": "https://car.yiche.com/dibadaiyage/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 190000
+        },
+        {
+          "title": "小米YU7",
+          "summary": "价格: 25.35-32.99万",
+          "url": "https://car.yiche.com/xiaomimx11/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 187300
+        },
+        {
+          "title": "RAV4荣放",
+          "summary": "价格: 16.98-23.88万",
+          "url": "https://car.yiche.com/yiqifengtianrav4/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 182600.00000000003
+        },
+        {
+          "title": "奔驰E级",
+          "summary": "价格: 42.99-59.98万",
+          "url": "https://car.yiche.com/benchieji/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 182399.99999999997
+        },
+        {
+          "title": "途观L",
+          "summary": "价格: 18.68-26.68万",
+          "url": "https://car.yiche.com/tuguanl/",
+          "createdAt": "2026-03-01 20:13:11",
+          "hot": 180400
+        }
+      ]
     }
   ]
 }
