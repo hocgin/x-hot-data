@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772367216583",
-  "lastUpdatedAt": "2026-03-01 20:13:36",
+  "id": "hackernews-top.1772381361574",
+  "lastUpdatedAt": "2026-03-02 00:09:21",
   "data": [
     {
-      "title": "Microgpt",
-      "summary": "173 comments",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "createdAt": "2026-03-01 09:39:26",
-      "hot": 992
+      "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
+      "summary": "140 comments",
+      "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
+      "createdAt": "2026-03-01 22:09:24",
+      "hot": 188
     },
     {
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "summary": "9 comments",
-      "url": "https://mlu-explain.github.io/decision-tree/",
-      "createdAt": "2026-03-01 16:55:52",
-      "hot": 116
-    },
-    {
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "summary": "16 comments",
-      "url": "https://modernaicourse.org",
-      "createdAt": "2026-03-01 15:35:03",
-      "hot": 79
-    },
-    {
-      "title": "Why is the first C++ (m)allocation always 72 KB?",
-      "summary": "3 comments",
-      "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
-      "createdAt": "2026-03-01 17:27:34",
-      "hot": 40
-    },
-    {
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "summary": "299 comments",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "createdAt": "2026-03-01 05:24:16",
-      "hot": 587
-    },
-    {
-      "title": "Robust and efficient quantum-safe HTTPS",
-      "summary": "2 comments",
-      "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
-      "createdAt": "2026-02-28 01:58:48",
-      "hot": 34
-    },
-    {
-      "title": "An ode to houseplant programming (2025)",
-      "summary": "8 comments",
-      "url": "https://hannahilea.com/blog/houseplant-programming/",
-      "createdAt": "2026-02-27 23:19:10",
-      "hot": 42
-    },
-    {
-      "title": "Switch to Claude without starting over",
-      "summary": "123 comments",
-      "url": "https://claude.com/import-memory",
-      "createdAt": "2026-03-01 15:36:52",
-      "hot": 191
-    },
-    {
-      "title": "Show HN: Terminal-Style Portfolio on the Internet",
-      "summary": "12 comments",
-      "url": "https://kuber.studio/",
-      "createdAt": "2026-03-01 17:26:59",
-      "hot": 17
-    },
-    {
-      "title": "Obsidian Sync now has a headless client",
-      "summary": "170 comments",
-      "url": "https://help.obsidian.md/sync/headless",
-      "createdAt": "2026-03-01 00:31:53",
-      "hot": 497
-    },
-    {
-      "title": "The happiest I've ever been",
-      "summary": "269 comments",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "createdAt": "2026-02-26 12:13:47",
-      "hot": 523
-    },
-    {
-      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-      "summary": "197 comments",
-      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "createdAt": "2026-03-01 06:19:36",
-      "hot": 288
-    },
-    {
-      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
-      "summary": "29 comments",
-      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
-      "createdAt": "2026-02-26 17:18:57",
-      "hot": 99
-    },
-    {
-      "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
-      "summary": "12 comments",
-      "url": "https://www.nature.com/articles/s41586-026-10114-5",
-      "createdAt": "2026-02-25 23:01:20",
-      "hot": 69
-    },
-    {
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "summary": "120 comments",
-      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "createdAt": "2026-03-01 03:04:01",
-      "hot": 252
-    },
-    {
-      "title": "Pigeons and Planes Has a Website Again",
-      "summary": "1 comments",
-      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-      "createdAt": "2026-02-26 18:51:29",
-      "hot": 8
-    },
-    {
-      "title": "Hardwood: A New Parser for Apache Parquet",
-      "summary": "2 comments",
-      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
-      "createdAt": "2026-02-26 23:31:39",
-      "hot": 45
-    },
-    {
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "summary": "122 comments",
-      "url": "https://github.com/ad-si/Woxi",
-      "createdAt": "2026-02-26 02:24:46",
-      "hot": 301
-    },
-    {
-      "title": "MCP server that reduces Claude Code context consumption by 98%",
-      "summary": "86 comments",
-      "url": "https://mksg.lu/blog/context-mode",
-      "createdAt": "2026-02-28 18:01:20",
-      "hot": 423
-    },
-    {
-      "title": "The real cost of random I/O",
-      "summary": "0 comments",
-      "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
-      "createdAt": "2026-02-26 20:38:48",
-      "hot": 9
-    },
-    {
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "summary": "199 comments",
-      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "createdAt": "2026-02-28 21:50:13",
-      "hot": 240
-    },
-    {
-      "title": "Our Agreement with the Department of War",
-      "summary": "226 comments",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "createdAt": "2026-03-01 04:35:29",
-      "hot": 320
-    },
-    {
-      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "summary": "107 comments",
-      "url": "https://nowigetit.us",
-      "createdAt": "2026-02-28 21:29:36",
-      "hot": 249
-    },
-    {
-      "title": "Verified Spec-Driven Development (VSDD)",
-      "summary": "103 comments",
-      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-      "createdAt": "2026-03-01 00:58:54",
-      "hot": 193
-    },
-    {
-      "title": "SpacetimeDB ThreeJS Support",
-      "summary": "6 comments",
-      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
-      "createdAt": "2026-02-26 04:20:21",
-      "hot": 29
-    },
-    {
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "summary": "210 comments",
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "createdAt": "2026-03-01 04:20:00",
-      "hot": 392
-    },
-    {
-      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
-      "summary": "440 comments",
-      "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-      "createdAt": "2026-03-01 06:16:08",
-      "hot": 309
-    },
-    {
-      "title": "New evidence that Cantor plagiarized Dedekind?",
-      "summary": "77 comments",
-      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
-      "createdAt": "2026-02-26 01:28:33",
+      "title": "Ghostty – Terminal Emulator",
+      "summary": "56 comments",
+      "url": "https://ghostty.org/docs",
+      "createdAt": "2026-03-01 20:13:03",
       "hot": 133
     },
     {
-      "title": "The Science of Detecting LLM-Generated Text (2024)",
-      "summary": "17 comments",
-      "url": "https://dl.acm.org/doi/10.1145/3624725",
-      "createdAt": "2026-03-01 10:09:41",
-      "hot": 37
+      "title": "Microgpt",
+      "summary": "224 comments",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "createdAt": "2026-03-01 09:39:26",
+      "hot": 1276
     },
     {
-      "title": "The whole thing was a scam",
-      "summary": "266 comments",
-      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "createdAt": "2026-03-01 00:51:49",
-      "hot": 859
+      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+      "summary": "143 comments",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "createdAt": "2026-03-01 19:49:01",
+      "hot": 225
+    },
+    {
+      "title": "Ape Coding",
+      "summary": "16 comments",
+      "url": "https://rsaksida.com/blog/ape-coding/",
+      "createdAt": "2026-03-01 22:07:05",
+      "hot": 30
+    },
+    {
+      "title": "Aromatic 5-silicon rings synthesized at last",
+      "summary": "11 comments",
+      "url": "https://cen.acs.org/materials/inorganic-chemistry/Aromatic-5-silicon-rings-synthesized/104/web/2026/02",
+      "createdAt": "2026-02-27 18:10:22",
+      "hot": 31
+    },
+    {
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "summary": "37 comments",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "createdAt": "2026-03-01 16:55:52",
+      "hot": 231
+    },
+    {
+      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
+      "summary": "12 comments",
+      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "createdAt": "2026-02-27 00:39:07",
+      "hot": 52
+    },
+    {
+      "title": "Why XML Tags Are So Fundamental to Claude",
+      "summary": "4 comments",
+      "url": "https://glthr.com/XML-fundamental-to-Claude",
+      "createdAt": "2026-03-01 22:52:22",
+      "hot": 16
+    },
+    {
+      "title": "Setting up phones is a nightmare",
+      "summary": "5 comments",
+      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+      "createdAt": "2026-02-27 03:36:30",
+      "hot": 6
+    },
+    {
+      "title": "Flightradar24 for Ships",
+      "summary": "18 comments",
+      "url": "https://atlas.flexport.com/",
+      "createdAt": "2026-03-01 19:01:17",
+      "hot": 50
+    },
+    {
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "summary": "354 comments",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "createdAt": "2026-03-01 05:24:16",
+      "hot": 665
+    },
+    {
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "summary": "33 comments",
+      "url": "https://modernaicourse.org",
+      "createdAt": "2026-03-01 15:35:03",
+      "hot": 142
+    },
+    {
+      "title": "Lil' Fun Langs' Guts",
+      "summary": "0 comments",
+      "url": "https://taylor.town/scrapscript-001",
+      "createdAt": "2026-03-01 23:23:42",
+      "hot": 3
+    },
+    {
+      "title": "Switch to Claude without starting over",
+      "summary": "185 comments",
+      "url": "https://claude.com/import-memory",
+      "createdAt": "2026-03-01 15:36:52",
+      "hot": 375
+    },
+    {
+      "title": "The real cost of random I/O",
+      "summary": "3 comments",
+      "url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+      "createdAt": "2026-02-26 20:38:48",
+      "hot": 45
+    },
+    {
+      "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
+      "summary": "3 comments",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+      "createdAt": "2026-03-01 23:09:55",
+      "hot": 18
+    },
+    {
+      "title": "Why is the first C++ (m)allocation always 72 KB?",
+      "summary": "14 comments",
+      "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+      "createdAt": "2026-03-01 17:27:34",
+      "hot": 81
+    },
+    {
+      "title": "An ode to houseplant programming (2025)",
+      "summary": "15 comments",
+      "url": "https://hannahilea.com/blog/houseplant-programming/",
+      "createdAt": "2026-02-27 23:19:10",
+      "hot": 91
+    },
+    {
+      "title": "Robust and efficient quantum-safe HTTPS",
+      "summary": "6 comments",
+      "url": "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html",
+      "createdAt": "2026-02-28 01:58:48",
+      "hot": 68
+    },
+    {
+      "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+      "summary": "10 comments",
+      "url": "https://lukeb42.github.io/vertex-manual.html",
+      "createdAt": "2026-03-01 19:05:28",
+      "hot": 16
+    },
+    {
+      "title": "AI is making junior devs useless",
+      "summary": "70 comments",
+      "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+      "createdAt": "2026-03-01 21:49:21",
+      "hot": 66
+    },
+    {
+      "title": "Obsidian Sync now has a headless client",
+      "summary": "176 comments",
+      "url": "https://help.obsidian.md/sync/headless",
+      "createdAt": "2026-03-01 00:31:53",
+      "hot": 528
+    },
+    {
+      "title": "Rydberg atoms detect clear signals from a handheld radio",
+      "summary": "20 comments",
+      "url": "https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html",
+      "createdAt": "2026-02-28 01:07:42",
+      "hot": 44
+    },
+    {
+      "title": "The happiest I've ever been",
+      "summary": "307 comments",
+      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "createdAt": "2026-02-26 12:13:47",
+      "hot": 572
+    },
+    {
+      "title": "Pigeons and Planes Has a Website Again",
+      "summary": "2 comments",
+      "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+      "createdAt": "2026-02-26 18:51:29",
+      "hot": 25
+    },
+    {
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "summary": "94 comments",
+      "url": "https://mksg.lu/blog/context-mode",
+      "createdAt": "2026-02-28 18:01:20",
+      "hot": 490
+    },
+    {
+      "title": "H-Bomb: A Frank Lloyd Wright typographic mystery",
+      "summary": "31 comments",
+      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+      "createdAt": "2026-02-26 17:18:57",
+      "hot": 118
+    },
+    {
+      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "summary": "225 comments",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "createdAt": "2026-03-01 06:19:36",
+      "hot": 315
+    },
+    {
+      "title": "Hardwood: A New Parser for Apache Parquet",
+      "summary": "8 comments",
+      "url": "https://www.morling.dev/blog/hardwood-new-parser-for-apache-parquet/",
+      "createdAt": "2026-02-26 23:31:39",
+      "hot": 73
     }
   ]
 }
