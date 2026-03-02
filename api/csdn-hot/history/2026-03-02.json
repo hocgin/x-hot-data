@@ -1069,6 +1069,362 @@
           "hot": 1588
         }
       ]
+    },
+    {
+      "id": "csdn-hot.1772426354808",
+      "lastUpdatedAt": "2026-03-02 12:39:14",
+      "data": [
+        {
+          "title": "Spring Cloud Alibaba 2026 最新实战手册",
+          "summary": "作者: 我不是呆头",
+          "url": "https://blog.csdn.net/2401_86326742/article/details/158510166",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 18530
+        },
+        {
+          "title": "AI 进化论：从 Function Calling 到 MCP",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158501212",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 16349
+        },
+        {
+          "title": "Anthropic突然开火：中国大模型被指大规模蒸馏攻击",
+          "summary": "作者: IvanCodes",
+          "url": "https://blog.csdn.net/2401_83830408/article/details/158387807",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 16316
+        },
+        {
+          "title": "海洋生物学 第12版 中文",
+          "summary": "作者: HansTang",
+          "url": "https://blog.csdn.net/HansTang/article/details/158500685",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 16069
+        },
+        {
+          "title": "Java 部署：Jenkins Pipeline 构建 Java 项目（自动化）",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157472404",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 12648
+        },
+        {
+          "title": "Linux 动静态库完全指南：制作、使用、原理与实战",
+          "summary": "作者: 草莓熊Lotso",
+          "url": "https://blog.csdn.net/2503_91389547/article/details/157869692",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 12019
+        },
+        {
+          "title": "【Spring】Spring事务和事务传播机制",
+          "summary": "作者: 那我掉的头发算什么",
+          "url": "https://blog.csdn.net/2301_81614213/article/details/158540827",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 11378
+        },
+        {
+          "title": "Oracle替换优选金仓：兼容机制、迁移方案与性能调优全攻略",
+          "summary": "作者: 云边有个稻草人",
+          "url": "https://blog.csdn.net/lrq13965748542/article/details/158503290",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 10338
+        },
+        {
+          "title": "《计算机视觉：模型、学习和推理》第 17 章-形状模型",
+          "summary": "作者: 啊阿狸不会拉杆",
+          "url": "https://blog.csdn.net/2302_80961196/article/details/158540925",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 8896
+        },
+        {
+          "title": "HarmonyOS 游戏开发实践：按钮 + 文字精准控制详解",
+          "summary": "作者: ujainu",
+          "url": "https://blog.csdn.net/2401_88937325/article/details/158507905",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 7567
+        },
+        {
+          "title": "【LE Audio】BAP协议精讲[19]: 从扫描到同步：广播音频公告发现全流程实战指南",
+          "summary": "作者: byte轻骑兵",
+          "url": "https://blog.csdn.net/weixin_37800531/article/details/158471985",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 7536
+        },
+        {
+          "title": "OpenFang深度体验：Rust驱动的Agent OS本土落地实践",
+          "summary": "作者: 打破砂锅问到底007",
+          "url": "https://blog.csdn.net/xinkuaile/article/details/158509191",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 7504
+        },
+        {
+          "title": "Ring-2.5-1T 万亿思考模型 + Tbox：当深度推理遇上知识沉淀，我的生产力发生了什么质变？",
+          "summary": "作者: 倔强的石头_",
+          "url": "https://blog.csdn.net/2302_78391795/article/details/158469296",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 6718
+        },
+        {
+          "title": "OpenClaw升级后OpenClaw和飞书“未建立有效的长链接“的问题修复过程",
+          "summary": "作者: tinygone",
+          "url": "https://blog.csdn.net/tinygone/article/details/158472484",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 6620
+        },
+        {
+          "title": "Ling Studio深度体验：一站式AI生产力平台完全指南",
+          "summary": "作者: 知 秋~",
+          "url": "https://blog.csdn.net/qq_38881495/article/details/158499112",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 5989
+        },
+        {
+          "title": "鸿蒙双端协同：从手机游戏到PC大屏的无缝体验革命",
+          "summary": "作者: 解局亦否结局",
+          "url": "https://blog.csdn.net/2501_93575716/article/details/158544024",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 5167
+        },
+        {
+          "title": "基于YOLO26深度学习的路面积水智能检测分割与分析系统【python源码+Pyqt5界面+数据集+训练代码】",
+          "summary": "作者: 阿_旭",
+          "url": "https://blog.csdn.net/qq_42589613/article/details/158496648",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4645
+        },
+        {
+          "title": "【新能源汽车DCDC变换器测试优化全攻略：解决电能质量/发热/过充等核心痛点】",
+          "summary": "作者: 新能源汽车研发＆测试入门指南",
+          "url": "https://blog.csdn.net/weixin_62244995/article/details/158507284",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4589
+        },
+        {
+          "title": "Spring Cloud 实战攻坚：商品服务核心实现（库存管理 + 缓存设计 + 分布式锁）",
+          "summary": "作者: 梵得儿SHI",
+          "url": "https://blog.csdn.net/qq_40303030/article/details/156562967",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4402
+        },
+        {
+          "title": "时序数据库选型指南：从大数据架构视角深度解析 Apache IoTDB",
+          "summary": "作者: 进哥聊编程",
+          "url": "https://blog.csdn.net/u014727709/article/details/158509780",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4323
+        },
+        {
+          "title": "一文讲清Skills概念与 OpenClaw 运作机制",
+          "summary": "作者: AI让世界更懂你",
+          "url": "https://blog.csdn.net/qq_35082030/article/details/158510164",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4005
+        },
+        {
+          "title": "智能家居物联网平台",
+          "summary": "作者: 于眠牧北",
+          "url": "https://blog.csdn.net/2301_78328085/article/details/158510624",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 4003
+        },
+        {
+          "title": "实测百灵大模型Ling-2.5-1T：混合线性架构下的全能开发与办公新体验",
+          "summary": "作者: Undoom",
+          "url": "https://blog.csdn.net/2301_80863610/article/details/158499581",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 3799
+        },
+        {
+          "title": "MongoDB TTL索引：自动清理过期数据的智能机制与配置技巧",
+          "summary": "作者: 数据知道",
+          "url": "https://blog.csdn.net/cui_yonghua/article/details/158512318",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 3436
+        },
+        {
+          "title": "Ultralytics-YOLO项目介绍(包含YOLOV8、YOLOV10、YOLO11、YOLO12、YOLO26)",
+          "summary": "作者: 魔鬼面具",
+          "url": "https://blog.csdn.net/qq_37706472/article/details/158498001",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 3433
+        },
+        {
+          "title": "YOLO26 多任务统一架构：检测 / 分割 / 姿态 / OBB 设计",
+          "summary": "作者: 一键难忘",
+          "url": "https://blog.csdn.net/weixin_52908342/article/details/158522937",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 3415
+        },
+        {
+          "title": "How to Grow a Linux Partition to Fill a Disk with growpart",
+          "summary": "作者: allway2",
+          "url": "https://blog.csdn.net/allway2/article/details/158508743",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2987
+        },
+        {
+          "title": "Docker核心概念与架构",
+          "summary": "作者: 闲人编程",
+          "url": "https://blog.csdn.net/qq_42568323/article/details/158317537",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2870
+        },
+        {
+          "title": "Claude Code + GLM-5 打造全栈 AI 周公解梦应用",
+          "summary": "作者: 笃行其道",
+          "url": "https://blog.csdn.net/weixin_66401877/article/details/158467234",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2660
+        },
+        {
+          "title": "第一章：计算机网络概述",
+          "summary": "作者: Crazy________",
+          "url": "https://blog.csdn.net/zbdjdmm/article/details/158469527",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2521
+        },
+        {
+          "title": "网赚游戏商业模式深度剖析：广告变现、流量逻辑与 IAA 本质",
+          "summary": "作者: 数数科技的数据干货",
+          "url": "https://blog.csdn.net/ThinkingData/article/details/158498487",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2453
+        },
+        {
+          "title": "SpringBoot 优雅停机演进：实现原理与最佳实践",
+          "summary": "作者: 程序员1970",
+          "url": "https://blog.csdn.net/qq_26664043/article/details/155642599",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2366
+        },
+        {
+          "title": "【无人机论文复现】空地多无人平台协同路径规划技术研究（Matlab代码实现）",
+          "summary": "作者: 荔枝科研社",
+          "url": "https://blog.csdn.net/weixin_46039719/article/details/158467126",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2355
+        },
+        {
+          "title": "第5章 手机平板要兼顾，探究Fragment",
+          "summary": "作者: ●VON",
+          "url": "https://blog.csdn.net/2302_80329073/article/details/158539298",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2244
+        },
+        {
+          "title": "OpenClaw Windows部署，并接入飞书教程",
+          "summary": "作者: DValc",
+          "url": "https://blog.csdn.net/DValc/article/details/158498029",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 2128
+        },
+        {
+          "title": "「Kurator·云原生实战派」主题征文活动获奖公示",
+          "summary": "作者: Kurator分布式云原生开源社区",
+          "url": "https://blog.csdn.net/Kurator/article/details/158503332",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1974
+        },
+        {
+          "title": "MiniMax Agent 全新 MaxClaw 模式实战：5 分钟把MaxClaw 接入飞书（超详细教程）",
+          "summary": "作者: X_11_sj",
+          "url": "https://blog.csdn.net/X_11_sj/article/details/158508804",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1943
+        },
+        {
+          "title": "Flutter三方库 animations 适配 OpenHarmony —— 实现淡入过度效果",
+          "summary": "作者: 无聊吹牛大王",
+          "url": "https://blog.csdn.net/nothing49199/article/details/158511085",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1941
+        },
+        {
+          "title": "系统分析师-2024年11月案例真题及参考答案（回忆版本）",
+          "summary": "作者: 帅次",
+          "url": "https://blog.csdn.net/g984160547/article/details/158430468",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1937
+        },
+        {
+          "title": "GitHub 热榜项目 - 日榜(2026-02-28)",
+          "summary": "作者: CoderJia_",
+          "url": "https://blog.csdn.net/u014390502/article/details/158496068",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1915
+        },
+        {
+          "title": "SP3近似杂化轨道3d stl模型python生成",
+          "summary": "作者: Zengtudor",
+          "url": "https://blog.csdn.net/ZengZiTudor/article/details/158556081",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1893
+        },
+        {
+          "title": "华为OD技术面八股文_C++_01",
+          "summary": "作者: 无限码力",
+          "url": "https://blog.csdn.net/qq_45776114/article/details/158544592",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1870
+        },
+        {
+          "title": "OpenClaw：开源AI助手平台的革命之路",
+          "summary": "作者: 雨中飘荡的记忆",
+          "url": "https://blog.csdn.net/qq_41262225/article/details/158500126",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1716
+        },
+        {
+          "title": "Qt AFSim雷达态势显控终端",
+          "summary": "作者: 雨田哥",
+          "url": "https://blog.csdn.net/ly305750665/article/details/157700163",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1667
+        },
+        {
+          "title": "微服务的“通讯录“：深度解析 Consul、Etcd 与 Zookeeper 的服务发现机制",
+          "summary": "作者: 铭渊老黄",
+          "url": "https://blog.csdn.net/windowshht/article/details/158495610",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1665
+        },
+        {
+          "title": "【AI编程时代】：RAG技术详解",
+          "summary": "作者: 晔子yy",
+          "url": "https://blog.csdn.net/gdpu2400502251/article/details/158460973",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1615
+        },
+        {
+          "title": "React系列-1",
+          "summary": "作者: 白中白12138",
+          "url": "https://blog.csdn.net/m0_64725370/article/details/158502730",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1549
+        },
+        {
+          "title": "微信小程序虚拟支付整合thinkphp核心实现 你的小程序如有开通会员等则为虚拟类型 要使用虚拟支付了 要不然判定为违规",
+          "summary": "作者: diygwcom",
+          "url": "https://blog.csdn.net/luck332/article/details/158545834",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1539
+        },
+        {
+          "title": "5-监控：es的https和kibana的RBAC",
+          "summary": "作者: 认真的薛薛",
+          "url": "https://blog.csdn.net/weixin_73615442/article/details/157512925",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1526
+        },
+        {
+          "title": "Ling Studio 深度体验：蚂蚁百灵大模型的一站式 AI 体验",
+          "summary": "作者: 羑悻的小杀马特.",
+          "url": "https://blog.csdn.net/2401_82648291/article/details/158466008",
+          "createdAt": "2026-03-02 12:38:52",
+          "hot": 1510
+        }
+      ]
     }
   ]
 }

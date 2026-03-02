@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772411743572",
-  "lastUpdatedAt": "2026-03-02 08:35:43",
+  "id": "hackernews-top.1772426354799",
+  "lastUpdatedAt": "2026-03-02 12:39:14",
   "data": [
     {
       "title": "WebMCP is available for early preview",
-      "summary": "45 comments",
+      "summary": "123 comments",
       "url": "https://developer.chrome.com/blog/webmcp-epp",
       "createdAt": "2026-03-02 06:13:58",
-      "hot": 79
+      "hot": 200
     },
     {
-      "title": "How to talk to anyone, and why you should",
-      "summary": "167 comments",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "createdAt": "2026-02-25 04:08:38",
-      "hot": 365
+      "title": "If AI writes code, should the session be part of the commit?",
+      "summary": "81 comments",
+      "url": "https://github.com/mandel-macaque/memento",
+      "createdAt": "2026-03-02 08:27:52",
+      "hot": 51
     },
     {
-      "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
-      "summary": "42 comments",
-      "url": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
-      "createdAt": "2026-03-02 05:33:19",
-      "hot": 56
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "summary": "7 comments",
+      "url": "https://github.com/kossisoroyce/timber",
+      "createdAt": "2026-03-02 08:57:40",
+      "hot": 58
     },
     {
-      "title": "Tove Jansson's criticized illustrations of The Hobbit",
-      "summary": "18 comments",
-      "url": "https://tovejansson.com/hobbit-tolkien/",
-      "createdAt": "2026-02-28 00:17:53",
-      "hot": 45
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "summary": "8 comments",
+      "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "createdAt": "2026-03-02 12:06:00",
+      "hot": 33
+    },
+    {
+      "title": "Little Free Library",
+      "summary": "41 comments",
+      "url": "https://littlefreelibrary.org/",
+      "createdAt": "2026-03-02 06:18:10",
+      "hot": 87
     },
     {
       "title": "Ghostty – Terminal Emulator",
-      "summary": "257 comments",
+      "summary": "295 comments",
       "url": "https://ghostty.org/docs",
       "createdAt": "2026-03-01 20:13:03",
-      "hot": 590
+      "hot": 663
     },
     {
-      "title": "Little Free Library Books",
-      "summary": "4 comments",
-      "url": "https://littlefreelibrary.org/",
-      "createdAt": "2026-03-02 06:18:10",
-      "hot": 26
+      "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+      "summary": "5 comments",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "createdAt": "2026-03-02 07:15:16",
+      "hot": 43
     },
     {
-      "title": "When does MCP make sense vs CLI?",
-      "summary": "154 comments",
-      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-      "createdAt": "2026-03-02 00:54:49",
-      "hot": 229
+      "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
+      "summary": "52 comments",
+      "url": "https://tovejansson.com/hobbit-tolkien/",
+      "createdAt": "2026-02-28 00:17:53",
+      "hot": 121
     },
     {
-      "title": "How Next-Gen Spacecraft Are Overwhelming Our Communication Networks",
-      "summary": "0 comments",
-      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
-      "createdAt": "2026-02-28 00:21:38",
-      "hot": 8
-    },
-    {
-      "title": "Microgpt explained interactively",
-      "summary": "21 comments",
-      "url": "https://growingswe.com/blog/microgpt",
-      "createdAt": "2026-03-01 17:43:43",
-      "hot": 173
-    },
-    {
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "summary": "67 comments",
-      "url": "https://mlu-explain.github.io/decision-tree/",
-      "createdAt": "2026-03-01 16:55:52",
-      "hot": 387
-    },
-    {
-      "title": "Long Range E-Bike (2021)",
-      "summary": "140 comments",
-      "url": "https://jacquesmattheij.com/long-range-ebike/",
-      "createdAt": "2026-02-26 21:41:32",
-      "hot": 106
-    },
-    {
-      "title": "Chorba: A novel CRC32 implementation (2024)",
-      "summary": "11 comments",
-      "url": "https://arxiv.org/abs/2412.16398",
-      "createdAt": "2026-02-27 21:12:38",
-      "hot": 31
-    },
-    {
-      "title": "Setting up phones is a nightmare",
-      "summary": "111 comments",
-      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
-      "createdAt": "2026-02-27 03:36:30",
-      "hot": 95
-    },
-    {
-      "title": "Flightradar24 for Ships",
-      "summary": "40 comments",
-      "url": "https://atlas.flexport.com/",
-      "createdAt": "2026-03-01 19:01:17",
-      "hot": 175
-    },
-    {
-      "title": "Allegations of insider trading over prediction-market bets tied to Iran conflict",
+      "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
       "summary": "2 comments",
-      "url": "https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict",
-      "createdAt": "2026-03-02 06:39:27",
-      "hot": 24
-    },
-    {
-      "title": "Python Type Checker Comparison: Empty Container Inference",
-      "summary": "34 comments",
-      "url": "https://pyrefly.org/blog/container-inference-comparison/",
-      "createdAt": "2026-02-25 21:45:02",
-      "hot": 52
-    },
-    {
-      "title": "Microgpt",
-      "summary": "293 comments",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "createdAt": "2026-03-01 09:39:26",
-      "hot": 1672
-    },
-    {
-      "title": "Operational issue – Multiple services (UAE)",
-      "summary": "68 comments",
-      "url": "https://health.aws.amazon.com/health/status",
-      "createdAt": "2026-03-02 03:24:30",
-      "hot": 157
-    },
-    {
-      "title": "Gzpeek: Tool to Parse Gzip Metadata",
-      "summary": "1 comments",
-      "url": "https://evanhahn.com/introducing-gzpeek/",
-      "createdAt": "2026-02-27 15:39:09",
-      "hot": 30
-    },
-    {
-      "title": "Why XML tags are so fundamental to Claude",
-      "summary": "105 comments",
-      "url": "https://glthr.com/XML-fundamental-to-Claude",
-      "createdAt": "2026-03-01 22:52:22",
-      "hot": 150
-    },
-    {
-      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
-      "summary": "50 comments",
-      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
-      "createdAt": "2026-02-27 00:39:07",
-      "hot": 119
-    },
-    {
-      "title": "Programming in K",
-      "summary": "4 comments",
-      "url": "https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md",
-      "createdAt": "2026-02-26 19:27:06",
-      "hot": 34
-    },
-    {
-      "title": "South Korean Police Lose Seized Crypto by Posting Password Online",
-      "summary": "10 comments",
-      "url": "https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191",
-      "createdAt": "2026-03-02 05:52:16",
-      "hot": 45
-    },
-    {
-      "title": "U.S. Races to Accomplish Iran Mission Before Munitions Run Out",
-      "summary": "15 comments",
-      "url": "https://www.wsj.com/world/middle-east/u-s-races-to-accomplish-iran-mission-before-munitions-run-out-c014acbc",
-      "createdAt": "2026-03-02 06:40:28",
-      "hot": 24
-    },
-    {
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "summary": "46 comments",
-      "url": "https://modernaicourse.org",
-      "createdAt": "2026-03-01 15:35:03",
-      "hot": 221
-    },
-    {
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "summary": "260 comments",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
-      "createdAt": "2026-03-01 19:49:01",
-      "hot": 449
-    },
-    {
-      "title": "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
-      "summary": "4 comments",
-      "url": "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived",
-      "createdAt": "2026-03-02 04:55:22",
-      "hot": 62
-    },
-    {
-      "title": "Show HN: Audio Toolkit for Agents",
-      "summary": "6 comments",
-      "url": "https://github.com/shiehn/sas-audio-processor",
-      "createdAt": "2026-03-01 23:52:02",
-      "hot": 47
-    },
-    {
-      "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
-      "summary": "75 comments",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
-      "createdAt": "2026-03-01 23:09:55",
-      "hot": 224
+      "url": "https://github.com/cosmiciron/vmprint",
+      "createdAt": "2026-03-01 20:25:11",
+      "hot": 6
     },
     {
       "title": "Why does C have the best file API",
-      "summary": "42 comments",
+      "summary": "49 comments",
       "url": "https://maurycyz.com/misc/c_files/",
       "createdAt": "2026-03-02 03:25:04",
-      "hot": 70
+      "hot": 83
+    },
+    {
+      "title": "When does MCP make sense vs CLI?",
+      "summary": "207 comments",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "createdAt": "2026-03-02 00:54:49",
+      "hot": 315
+    },
+    {
+      "title": "C64 Copy Protection",
+      "summary": "1 comments",
+      "url": "https://www.commodoregames.net/copyprotection/",
+      "createdAt": "2026-02-27 07:59:52",
+      "hot": 23
+    },
+    {
+      "title": "Running Neural Amp Modeler on embedded hardware",
+      "summary": "2 comments",
+      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
+      "createdAt": "2026-02-28 02:29:37",
+      "hot": 19
+    },
+    {
+      "title": "What our DNA reveals about the sex life of Neanderthals",
+      "summary": "28 comments",
+      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
+      "createdAt": "2026-02-27 05:55:08",
+      "hot": 32
+    },
+    {
+      "title": "Show HN: Vibe Code your 3D Models",
+      "summary": "8 comments",
+      "url": "https://github.com/ierror/synaps-cad",
+      "createdAt": "2026-02-28 01:27:34",
+      "hot": 29
+    },
+    {
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "summary": "72 comments",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "createdAt": "2026-03-01 16:55:52",
+      "hot": 424
+    },
+    {
+      "title": "Long Range E-Bike (2021)",
+      "summary": "203 comments",
+      "url": "https://jacquesmattheij.com/long-range-ebike/",
+      "createdAt": "2026-02-26 21:41:32",
+      "hot": 132
+    },
+    {
+      "title": "Next-gen spacecraft are overwhelming communication networks",
+      "summary": "10 comments",
+      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
+      "createdAt": "2026-02-28 00:21:38",
+      "hot": 38
+    },
+    {
+      "title": "Ape Coding [fiction]",
+      "summary": "94 comments",
+      "url": "https://rsaksida.com/blog/ape-coding/",
+      "createdAt": "2026-03-01 22:07:05",
+      "hot": 152
+    },
+    {
+      "title": "Frankensqlite a Rust reimplementation of SQLite with concurrent writers",
+      "summary": "0 comments",
+      "url": "https://frankensqlite.com/",
+      "createdAt": "2026-02-27 11:43:19",
+      "hot": 3
+    },
+    {
+      "title": "Why XML tags are so fundamental to Claude",
+      "summary": "123 comments",
+      "url": "https://glthr.com/XML-fundamental-to-Claude",
+      "createdAt": "2026-03-01 22:52:22",
+      "hot": 178
+    },
+    {
+      "title": "Microgpt explained interactively",
+      "summary": "36 comments",
+      "url": "https://growingswe.com/blog/microgpt",
+      "createdAt": "2026-03-01 17:43:43",
+      "hot": 222
+    },
+    {
+      "title": "Chorba: A novel CRC32 implementation (2024)",
+      "summary": "15 comments",
+      "url": "https://arxiv.org/abs/2412.16398",
+      "createdAt": "2026-02-27 21:12:38",
+      "hot": 54
+    },
+    {
+      "title": "Setting up phones is a nightmare",
+      "summary": "154 comments",
+      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+      "createdAt": "2026-02-27 03:36:30",
+      "hot": 123
+    },
+    {
+      "title": "You don't have to",
+      "summary": "18 comments",
+      "url": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
+      "createdAt": "2026-03-02 05:47:13",
+      "hot": 25
+    },
+    {
+      "title": "Flightradar24 for Ships",
+      "summary": "44 comments",
+      "url": "https://atlas.flexport.com/",
+      "createdAt": "2026-03-01 19:01:17",
+      "hot": 205
+    },
+    {
+      "title": "Microgpt",
+      "summary": "297 comments",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "createdAt": "2026-03-01 09:39:26",
+      "hot": 1736
+    },
+    {
+      "title": "Show HN: Logira – eBPF runtime auditing for AI agent runs",
+      "summary": "1 comments",
+      "url": "https://github.com/melonattacker/logira",
+      "createdAt": "2026-03-02 07:25:01",
+      "hot": 11
+    },
+    {
+      "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
+      "summary": "276 comments",
+      "url": "https://99helpers.com/tools/ad-supported-chat",
+      "createdAt": "2026-03-01 19:49:01",
+      "hot": 498
+    },
+    {
+      "title": "Interview with Øyvind Kolås, GIMP developer (2017)",
+      "summary": "56 comments",
+      "url": "https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/",
+      "createdAt": "2026-02-27 00:39:07",
+      "hot": 128
     }
   ]
 }
