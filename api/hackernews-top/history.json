@@ -2,6 +2,10 @@
   "id": "hackernews-top.history",
   "history": [
     {
+      "date": "2026-03-03",
+      "uri": "/hackernews-top/history/2026-03-03.json"
+    },
+    {
       "date": "2026-03-02",
       "uri": "/hackernews-top/history/2026-03-02.json"
     },
