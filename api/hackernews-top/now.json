@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772468272472",
-  "lastUpdatedAt": "2026-03-03 00:17:52",
+  "id": "hackernews-top.1772482380110",
+  "lastUpdatedAt": "2026-03-03 04:13:00",
   "data": [
     {
-      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
-      "summary": "62 comments",
-      "url": "https://github.com/anthropics/claude-code/issues/22543",
-      "createdAt": "2026-03-02 22:21:19",
-      "hot": 169
+      "title": "Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal",
+      "summary": "53 comments",
+      "url": "https://www.bbc.com/news/articles/c05v0p1d0peo",
+      "createdAt": "2026-03-03 02:29:26",
+      "hot": 90
     },
     {
       "title": "Motorola announces a partnership with GrapheneOS Foundation",
-      "summary": "451 comments",
+      "summary": "616 comments",
       "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
       "createdAt": "2026-03-02 14:48:07",
-      "hot": 1330
-    },
-    {
-      "title": "Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case",
-      "summary": "26 comments",
-      "url": "https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/",
-      "createdAt": "2026-03-02 22:28:41",
-      "hot": 71
-    },
-    {
-      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
-      "summary": "257 comments",
-      "url": "https://e.foundation/e-os/",
-      "createdAt": "2026-03-02 17:09:44",
-      "hot": 460
+      "hot": 1758
     },
     {
       "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
-      "summary": "2 comments",
+      "summary": "17 comments",
       "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
       "createdAt": "2026-03-02 22:54:58",
-      "hot": 32
+      "hot": 169
     },
     {
-      "title": "Notes on Lagrange Interpolating Polynomials",
-      "summary": "0 comments",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
-      "createdAt": "2026-03-03 00:01:20",
-      "hot": 5
+      "title": "New iPad Air, powered by M4",
+      "summary": "343 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "createdAt": "2026-03-02 22:11:23",
+      "hot": 207
     },
     {
-      "title": "AMD Am386 released March 2, 1991",
-      "summary": "9 comments",
-      "url": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
-      "createdAt": "2026-03-02 20:56:46",
-      "hot": 50
-    },
-    {
-      "title": "An Interesting Find: STM32 RDP1 Decryptor",
-      "summary": "5 comments",
-      "url": "https://carlossless.io/stm32-rdp1-decryptor/",
-      "createdAt": "2026-03-02 22:12:18",
-      "hot": 43
-    },
-    {
-      "title": "OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub",
-      "summary": "134 comments",
-      "url": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
-      "createdAt": "2026-03-02 21:38:02",
-      "hot": 141
-    },
-    {
-      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-      "summary": "21 comments",
-      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-      "createdAt": "2026-03-02 01:11:44",
-      "hot": 87
-    },
-    {
-      "title": "How to talk to anyone and why you should",
-      "summary": "414 comments",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-      "createdAt": "2026-03-02 15:30:12",
-      "hot": 313
-    },
-    {
-      "title": "Use the Mikado Method to do safe changes in a complex codebase",
-      "summary": "15 comments",
-      "url": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
-      "createdAt": "2026-02-26 23:03:34",
-      "hot": 35
-    },
-    {
-      "title": "Why Objective-C",
-      "summary": "10 comments",
-      "url": "https://inessential.com/2026/02/27/why-objective-c.html",
-      "createdAt": "2026-02-28 20:41:33",
-      "hot": 28
-    },
-    {
-      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
-      "summary": "226 comments",
-      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
-      "createdAt": "2026-03-02 18:23:06",
-      "hot": 603
-    },
-    {
-      "title": "Making Video Games in 2025 (without an engine)",
-      "summary": "136 comments",
-      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
-      "createdAt": "2026-02-27 12:38:15",
-      "hot": 296
-    },
-    {
-      "title": "Parallel coding agents with tmux and Markdown specs",
-      "summary": "0 comments",
-      "url": "https://schipper.ai/posts/parallel-coding-agents/",
-      "createdAt": "2026-03-02 22:24:15",
-      "hot": 5
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "summary": "42 comments",
+      "url": "https://govbase.com",
+      "createdAt": "2026-03-03 01:08:53",
+      "hot": 71
     },
     {
       "title": "Ask HN: Who is hiring? (March 2026)",
-      "summary": "14 comments",
+      "summary": "141 comments",
       "url": "https://news.ycombinator.com/item?id=47219668",
       "createdAt": "2026-03-03 00:00:27",
-      "hot": 4
+      "hot": 113
     },
     {
-      "title": "Apple introduces the new iPad Air, powered by M4",
-      "summary": "89 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-      "createdAt": "2026-03-02 22:11:23",
-      "hot": 89
+      "title": "/e/OS is a complete, fully “deGoogled” mobile ecosystem",
+      "summary": "329 comments",
+      "url": "https://e.foundation/e-os/",
+      "createdAt": "2026-03-02 17:09:44",
+      "hot": 586
     },
     {
-      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
-      "summary": "30 comments",
-      "url": "https://github.com/getomnico/omni",
-      "createdAt": "2026-03-02 16:58:14",
-      "hot": 107
+      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "summary": "15 comments",
+      "url": "https://news.ycombinator.com/item?id=47220320",
+      "createdAt": "2026-03-03 00:39:21",
+      "hot": 38
     },
     {
-      "title": "If AI writes code, should the session be part of the commit?",
-      "summary": "339 comments",
-      "url": "https://github.com/mandel-macaque/memento",
-      "createdAt": "2026-03-02 08:27:52",
-      "hot": 395
+      "title": "\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)",
+      "summary": "3 comments",
+      "url": "https://starlightconvenience.net/#that-shape-had-none",
+      "createdAt": "2026-03-03 02:45:12",
+      "hot": 19
     },
     {
-      "title": "Jolla phone – a full-stack European alternative",
-      "summary": "137 comments",
-      "url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
-      "createdAt": "2026-03-02 18:21:24",
-      "hot": 334
+      "title": "Felix \"fx\" Lindner has died",
+      "summary": "25 comments",
+      "url": "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix",
+      "createdAt": "2026-03-02 23:53:23",
+      "hot": 106
     },
     {
-      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-      "summary": "54 comments",
-      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-      "createdAt": "2026-02-27 23:28:57",
-      "hot": 118
-    },
-    {
-      "title": "A bit of fluid mechanics from scratch not from scratch",
+      "title": "Show HN: uBlock filter list to blur all Instagram Reels",
       "summary": "0 comments",
-      "url": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
-      "createdAt": "2026-03-02 22:52:52",
+      "url": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
+      "createdAt": "2026-03-03 03:50:32",
       "hot": 5
     },
     {
-      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
-      "summary": "210 comments",
-      "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
-      "createdAt": "2026-03-02 17:20:06",
-      "hot": 258
+      "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
+      "summary": "0 comments",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs",
+      "createdAt": "2026-03-03 01:01:20",
+      "hot": 1
     },
     {
-      "title": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
-      "summary": "2 comments",
-      "url": "https://webaudio.studio/",
-      "createdAt": "2026-03-02 19:47:44",
+      "title": "Packaging a Gleam app into a single executable",
+      "summary": "1 comments",
+      "url": "https://www.dhzdhd.dev/blog/gleam-executable",
+      "createdAt": "2026-03-03 00:20:18",
+      "hot": 53
+    },
+    {
+      "title": "Parallel coding agents with tmux and Markdown specs",
+      "summary": "47 comments",
+      "url": "https://schipper.ai/posts/parallel-coding-agents/",
+      "createdAt": "2026-03-02 22:24:15",
+      "hot": 77
+    },
+    {
+      "title": "Use the Mikado Method to do safe changes in a complex codebase",
+      "summary": "50 comments",
+      "url": "https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/",
+      "createdAt": "2026-02-26 23:03:34",
+      "hot": 117
+    },
+    {
+      "title": "How to talk to anyone and why you should",
+      "summary": "468 comments",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "createdAt": "2026-03-02 15:30:12",
+      "hot": 444
+    },
+    {
+      "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+      "summary": "53 comments",
+      "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+      "createdAt": "2026-03-02 01:11:44",
+      "hot": 180
+    },
+    {
+      "title": "Zclaw – The 888 KiB Assistant",
+      "summary": "30 comments",
+      "url": "https://zclaw.dev",
+      "createdAt": "2026-02-28 08:47:39",
+      "hot": 51
+    },
+    {
+      "title": "Notes on Lagrange Interpolating Polynomials",
+      "summary": "8 comments",
+      "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+      "createdAt": "2026-03-03 00:01:20",
       "hot": 30
     },
     {
-      "title": "Plastic is made from milk and it vanishes in 13 weeks",
-      "summary": "17 comments",
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "summary": "371 comments",
+      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "createdAt": "2026-03-02 18:23:06",
+      "hot": 877
+    },
+    {
+      "title": "Build your own Command Line with ANSI escape codes (2016)",
+      "summary": "1 comments",
+      "url": "https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html",
+      "createdAt": "2026-02-28 11:48:14",
+      "hot": 5
+    },
+    {
+      "title": "Making Video Games in 2025 (without an engine)",
+      "summary": "168 comments",
+      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
+      "createdAt": "2026-02-27 12:38:15",
+      "hot": 363
+    },
+    {
+      "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+      "summary": "164 comments",
+      "url": "https://github.com/anthropics/claude-code/issues/22543",
+      "createdAt": "2026-03-02 22:21:19",
+      "hot": 326
+    },
+    {
+      "title": "AMD Am386 released March 2, 1991",
+      "summary": "21 comments",
+      "url": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
+      "createdAt": "2026-03-02 20:56:46",
+      "hot": 79
+    },
+    {
+      "title": "Language Model Contains Personality Subnetworks",
+      "summary": "11 comments",
+      "url": "https://arxiv.org/abs/2602.07164",
+      "createdAt": "2026-03-02 23:41:08",
+      "hot": 25
+    },
+    {
+      "title": "19th century silent film that first captured a robot attack",
+      "summary": "4 comments",
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate",
+      "createdAt": "2026-03-02 22:41:12",
+      "hot": 15
+    },
+    {
+      "title": "An Interesting Find: STM32 RDP1 Decryptor",
+      "summary": "18 comments",
+      "url": "https://carlossless.io/stm32-rdp1-decryptor/",
+      "createdAt": "2026-03-02 22:12:18",
+      "hot": 69
+    },
+    {
+      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+      "summary": "112 comments",
+      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+      "createdAt": "2026-02-27 23:28:57",
+      "hot": 184
+    },
+    {
+      "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+      "summary": "39 comments",
+      "url": "https://github.com/getomnico/omni",
+      "createdAt": "2026-03-02 16:58:14",
+      "hot": 140
+    },
+    {
+      "title": "A plastic made from milk that vanishes in 13 weeks",
+      "summary": "74 comments",
       "url": "https://www.sciencedaily.com/releases/2026/02/260227071922.htm",
       "createdAt": "2026-03-02 22:20:35",
-      "hot": 33
-    },
-    {
-      "title": "Neocaml – Rubocop Creator's New OCaml Mode for Emacs",
-      "summary": "10 comments",
-      "url": "https://github.com/bbatsov/neocaml",
-      "createdAt": "2026-02-28 05:31:39",
-      "hot": 64
-    },
-    {
-      "title": "Go-Native Durable Execution",
-      "summary": "8 comments",
-      "url": "https://www.dbos.dev/blog/how-we-built-golang-native-durable-execution",
-      "createdAt": "2026-02-26 08:17:52",
-      "hot": 42
-    },
-    {
-      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-      "summary": "25 comments",
-      "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-      "createdAt": "2026-03-02 12:23:53",
-      "hot": 133
-    },
-    {
-      "title": "An interactive intro to Elliptic Curve Cryptography",
-      "summary": "15 comments",
-      "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
-      "createdAt": "2026-03-02 13:59:03",
-      "hot": 99
+      "hot": 79
     }
   ]
 }
