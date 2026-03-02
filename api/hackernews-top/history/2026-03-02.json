@@ -865,6 +865,222 @@
           "hot": 128
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772439530441",
+      "lastUpdatedAt": "2026-03-02 16:18:50",
+      "data": [
+        {
+          "title": "Motorola announces a partnership with GrapheneOS Foundation",
+          "summary": "57 comments",
+          "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+          "createdAt": "2026-03-02 14:48:07",
+          "hot": 223
+        },
+        {
+          "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+          "summary": "9 comments",
+          "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+          "createdAt": "2026-03-02 12:23:53",
+          "hot": 80
+        },
+        {
+          "title": "Making Video Games in 2025 (without an engine)",
+          "summary": "4 comments",
+          "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
+          "createdAt": "2026-02-27 12:38:15",
+          "hot": 31
+        },
+        {
+          "title": "If AI writes code, should the session be part of the commit?",
+          "summary": "207 comments",
+          "url": "https://github.com/mandel-macaque/memento",
+          "createdAt": "2026-03-02 08:27:52",
+          "hot": 203
+        },
+        {
+          "title": "WebMCP is available for early preview",
+          "summary": "149 comments",
+          "url": "https://developer.chrome.com/blog/webmcp-epp",
+          "createdAt": "2026-03-02 06:13:58",
+          "hot": 267
+        },
+        {
+          "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+          "summary": "14 comments",
+          "url": "https://github.com/kossisoroyce/timber",
+          "createdAt": "2026-03-02 08:57:40",
+          "hot": 110
+        },
+        {
+          "title": "Everett shuts down Flock camera network after judge rules footage public record",
+          "summary": "41 comments",
+          "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+          "createdAt": "2026-03-02 12:06:00",
+          "hot": 203
+        },
+        {
+          "title": "Evolving descriptive text of mental content from human brain activity",
+          "summary": "9 comments",
+          "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+          "createdAt": "2026-03-02 13:39:36",
+          "hot": 15
+        },
+        {
+          "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+          "summary": "27 comments",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "createdAt": "2026-03-02 07:15:16",
+          "hot": 116
+        },
+        {
+          "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
+          "summary": "8 comments",
+          "url": "https://variantsystems.io/blog/beam-otp-process-concurrency",
+          "createdAt": "2026-03-02 13:01:08",
+          "hot": 19
+        },
+        {
+          "title": "How to record and retrieve anything you've ever had to look up twice",
+          "summary": "11 comments",
+          "url": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+          "createdAt": "2026-03-02 12:15:16",
+          "hot": 33
+        },
+        {
+          "title": "Ghostty – Terminal Emulator",
+          "summary": "307 comments",
+          "url": "https://ghostty.org/docs",
+          "createdAt": "2026-03-01 20:13:03",
+          "hot": 715
+        },
+        {
+          "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
+          "summary": "75 comments",
+          "url": "https://tovejansson.com/hobbit-tolkien/",
+          "createdAt": "2026-02-28 00:17:53",
+          "hot": 163
+        },
+        {
+          "title": "An interactive intro to Elliptic Curve Cryptography",
+          "summary": "5 comments",
+          "url": "https://growingswe.com/blog/elliptic-curve-cryptography",
+          "createdAt": "2026-03-02 13:59:03",
+          "hot": 9
+        },
+        {
+          "title": "Little Free Library",
+          "summary": "59 comments",
+          "url": "https://littlefreelibrary.org/",
+          "createdAt": "2026-03-02 06:18:10",
+          "hot": 112
+        },
+        {
+          "title": "Enable CORS for Your Blog",
+          "summary": "11 comments",
+          "url": "https://www.blogsareback.com/guides/enable-cors",
+          "createdAt": "2026-02-28 01:41:51",
+          "hot": 21
+        },
+        {
+          "title": "Why does C have the best file API",
+          "summary": "76 comments",
+          "url": "https://maurycyz.com/misc/c_files/",
+          "createdAt": "2026-03-02 03:25:04",
+          "hot": 105
+        },
+        {
+          "title": "When does MCP make sense vs CLI?",
+          "summary": "232 comments",
+          "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+          "createdAt": "2026-03-02 00:54:49",
+          "hot": 369
+        },
+        {
+          "title": "Decision trees – the unreasonable power of nested decision rules",
+          "summary": "74 comments",
+          "url": "https://mlu-explain.github.io/decision-tree/",
+          "createdAt": "2026-03-01 16:55:52",
+          "hot": 469
+        },
+        {
+          "title": "Have your cake and decompress it too",
+          "summary": "2 comments",
+          "url": "https://spiraldb.com/post/cascading-compression-with-btrblocks",
+          "createdAt": "2026-02-27 23:33:02",
+          "hot": 14
+        },
+        {
+          "title": "Long Range E-Bike (2021)",
+          "summary": "233 comments",
+          "url": "https://jacquesmattheij.com/long-range-ebike/",
+          "createdAt": "2026-02-26 21:41:32",
+          "hot": 159
+        },
+        {
+          "title": "Microgpt explained interactively",
+          "summary": "37 comments",
+          "url": "https://growingswe.com/blog/microgpt",
+          "createdAt": "2026-03-01 17:43:43",
+          "hot": 260
+        },
+        {
+          "title": "Next-gen spacecraft are overwhelming communication networks",
+          "summary": "18 comments",
+          "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
+          "createdAt": "2026-02-28 00:21:38",
+          "hot": 61
+        },
+        {
+          "title": "Ape Coding [fiction]",
+          "summary": "115 comments",
+          "url": "https://rsaksida.com/blog/ape-coding/",
+          "createdAt": "2026-03-01 22:07:05",
+          "hot": 171
+        },
+        {
+          "title": "Setting up phones is a nightmare",
+          "summary": "181 comments",
+          "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+          "createdAt": "2026-02-27 03:36:30",
+          "hot": 147
+        },
+        {
+          "title": "Why XML tags are so fundamental to Claude",
+          "summary": "136 comments",
+          "url": "https://glthr.com/XML-fundamental-to-Claude",
+          "createdAt": "2026-03-01 22:52:22",
+          "hot": 199
+        },
+        {
+          "title": "Flightradar24 for Ships",
+          "summary": "46 comments",
+          "url": "https://atlas.flexport.com/",
+          "createdAt": "2026-03-01 19:01:17",
+          "hot": 221
+        },
+        {
+          "title": "Microgpt",
+          "summary": "301 comments",
+          "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+          "createdAt": "2026-03-01 09:39:26",
+          "hot": 1796
+        },
+        {
+          "title": "C64 Copy Protection",
+          "summary": "4 comments",
+          "url": "https://www.commodoregames.net/copyprotection/",
+          "createdAt": "2026-02-27 07:59:52",
+          "hot": 49
+        },
+        {
+          "title": "Running Neural Amp Modeler on embedded hardware",
+          "summary": "6 comments",
+          "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
+          "createdAt": "2026-02-28 02:29:37",
+          "hot": 28
+        }
+      ]
     }
   ]
 }
