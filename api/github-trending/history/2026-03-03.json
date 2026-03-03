@@ -205,6 +205,57 @@
           "createdAt": "2026-03-03 12:37:48"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772525793391",
+      "lastUpdatedAt": "2026-03-03 16:16:33",
+      "data": [
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "anthropics/prompt-eng-interactive-tutorial",
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "createdAt": "2026-03-03 16:16:16"
+        },
+        {
+          "title": "servo/servo",
+          "url": "https://github.com/servo/servo",
+          "createdAt": "2026-03-03 16:16:16"
+        }
+      ]
     }
   ]
 }
