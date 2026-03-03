@@ -256,6 +256,62 @@
           "createdAt": "2026-03-03 16:16:16"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772540270548",
+      "lastUpdatedAt": "2026-03-03 20:17:50",
+      "data": [
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "createdAt": "2026-03-03 20:17:29"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-03 20:17:29"
+        }
+      ]
     }
   ]
 }

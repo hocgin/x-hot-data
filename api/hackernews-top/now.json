@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772525793390",
-  "lastUpdatedAt": "2026-03-03 16:16:33",
+  "id": "hackernews-top.1772540270546",
+  "lastUpdatedAt": "2026-03-03 20:17:50",
   "data": [
     {
       "title": "Meta’s AI smart glasses and data privacy concerns",
-      "summary": "567 comments",
+      "summary": "666 comments",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "createdAt": "2026-03-03 06:32:35",
-      "hot": 991
+      "hot": 1165
+    },
+    {
+      "title": "The beauty and terror of modding Windows",
+      "summary": "24 comments",
+      "url": "https://windowsread.me/p/windhawk-explained",
+      "createdAt": "2026-03-03 18:49:05",
+      "hot": 24
+    },
+    {
+      "title": "Arm's Cortex X925: Reaching Desktop Performance",
+      "summary": "53 comments",
+      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "createdAt": "2026-03-03 15:34:47",
+      "hot": 123
     },
     {
       "title": "British Columbia is permanently adopting daylight time",
-      "summary": "376 comments",
+      "summary": "432 comments",
       "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
       "createdAt": "2026-03-03 04:30:52",
-      "hot": 757
+      "hot": 880
+    },
+    {
+      "title": "The Xkcd thing, now interactive",
+      "summary": "8 comments",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "createdAt": "2026-03-03 18:56:52",
+      "hot": 64
+    },
+    {
+      "title": "AWS outage due to drone attacks in UAE",
+      "summary": "39 comments",
+      "url": "https://www.bbc.com/news/articles/cgk28nj0lrjo",
+      "createdAt": "2026-03-03 16:35:47",
+      "hot": 52
     },
     {
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "summary": "136 comments",
+      "summary": "207 comments",
       "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
       "createdAt": "2026-03-03 09:12:30",
-      "hot": 227
+      "hot": 342
     },
     {
-      "title": "Daily Driving GrapheneOS",
-      "summary": "48 comments",
-      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-      "createdAt": "2026-03-03 13:18:24",
-      "hot": 76
+      "title": "We Built a Video Rendering Engine by Lying to the Browser About What Time It Is",
+      "summary": "28 comments",
+      "url": "https://blog.replit.com/browsers-dont-want-to-be-cameras",
+      "createdAt": "2026-03-01 12:50:02",
+      "hot": 64
+    },
+    {
+      "title": "C64: Putting Sprite Multiplexing to Work",
+      "summary": "0 comments",
+      "url": "https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/",
+      "createdAt": "2026-03-02 20:35:37",
+      "hot": 18
     },
     {
       "title": "Simple screw counter",
-      "summary": "23 comments",
+      "summary": "43 comments",
       "url": "https://mitxela.com/projects/screwcounter",
       "createdAt": "2026-03-01 06:41:33",
+      "hot": 169
+    },
+    {
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "summary": "129 comments",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "createdAt": "2026-03-03 05:23:40",
+      "hot": 447
+    },
+    {
+      "title": "Privacy-preserving age and identity verification via anonymous credentials",
+      "summary": "9 comments",
+      "url": "https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/",
+      "createdAt": "2026-03-03 16:58:30",
+      "hot": 36
+    },
+    {
+      "title": "How to sew a Hyperbolic Blanket (2021)",
+      "summary": "0 comments",
+      "url": "https://www.geometrygames.org/HyperbolicBlanket/index.html",
+      "createdAt": "2026-02-28 22:00:16",
+      "hot": 5
+    },
+    {
+      "title": "Buckle Up for Bumpier Skies",
+      "summary": "24 comments",
+      "url": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
+      "createdAt": "2026-03-03 13:51:02",
+      "hot": 47
+    },
+    {
+      "title": "DOS Memory Management",
+      "summary": "16 comments",
+      "url": "https://www.os2museum.com/wp/dos-memory-management/",
+      "createdAt": "2026-03-01 00:00:48",
+      "hot": 62
+    },
+    {
+      "title": "Physicists developing a quantum computer that’s entirely open source",
+      "summary": "24 comments",
+      "url": "https://physics.aps.org/articles/v19/24",
+      "createdAt": "2026-03-03 07:22:50",
+      "hot": 132
+    },
+    {
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "summary": "58 comments",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "createdAt": "2026-03-02 22:54:58",
+      "hot": 315
+    },
+    {
+      "title": "New iPad Air, powered by M4",
+      "summary": "640 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "createdAt": "2026-03-02 22:11:23",
+      "hot": 411
+    },
+    {
+      "title": "Guilty Displeasures",
+      "summary": "86 comments",
+      "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
+      "createdAt": "2026-03-01 16:22:05",
+      "hot": 88
+    },
+    {
+      "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
+      "summary": "3 comments",
+      "url": "https://gvanrossum.github.io/interviews/Thomas.html",
+      "createdAt": "2026-03-02 04:06:08",
+      "hot": 58
+    },
+    {
+      "title": "Motorola announces a partnership with GrapheneOS",
+      "summary": "812 comments",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "createdAt": "2026-03-02 14:48:07",
+      "hot": 2220
+    },
+    {
+      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "summary": "35 comments",
+      "url": "https://news.ycombinator.com/item?id=47220320",
+      "createdAt": "2026-03-03 00:39:21",
       "hot": 102
     },
     {
       "title": "I built a pint-sized Macintosh",
-      "summary": "2 comments",
+      "summary": "12 comments",
       "url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
       "createdAt": "2026-03-03 15:06:22",
-      "hot": 14
-    },
-    {
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "summary": "106 comments",
-      "url": "https://www.ntik.me/posts/voice-agent",
-      "createdAt": "2026-03-03 05:23:40",
-      "hot": 366
-    },
-    {
-      "title": "Buckle Up for Bumpier Skies",
-      "summary": "4 comments",
-      "url": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
-      "createdAt": "2026-03-03 13:51:02",
-      "hot": 22
-    },
-    {
-      "title": "Intent-Based Commits",
-      "summary": "27 comments",
-      "url": "https://github.com/adamveld12/ghost",
-      "createdAt": "2026-03-03 12:20:37",
-      "hot": 40
-    },
-    {
-      "title": "DOS Memory Management",
-      "summary": "0 comments",
-      "url": "https://www.os2museum.com/wp/dos-memory-management/",
-      "createdAt": "2026-03-01 00:00:48",
-      "hot": 33
-    },
-    {
-      "title": "Moldova broke our data pipeline",
-      "summary": "31 comments",
-      "url": "https://www.avraam.dev/blog/moldova-broke-our-pipeline",
-      "createdAt": "2026-03-01 01:23:43",
-      "hot": 39
-    },
-    {
-      "title": "Arm's Cortex X925: Reaching Desktop Performance",
-      "summary": "0 comments",
-      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "createdAt": "2026-03-03 15:34:47",
-      "hot": 5
-    },
-    {
-      "title": "Physicists developing a quantum computer that’s entirely open source",
-      "summary": "20 comments",
-      "url": "https://physics.aps.org/articles/v19/24",
-      "createdAt": "2026-03-03 07:22:50",
-      "hot": 94
-    },
-    {
-      "title": "New iPad Air, powered by M4",
-      "summary": "603 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-      "createdAt": "2026-03-02 22:11:23",
-      "hot": 378
-    },
-    {
-      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-      "summary": "51 comments",
-      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "createdAt": "2026-03-02 22:54:58",
-      "hot": 293
-    },
-    {
-      "title": "Seed of Might Color Correction Process (2023) [pdf]",
-      "summary": "21 comments",
-      "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-      "createdAt": "2026-03-03 06:49:47",
-      "hot": 84
-    },
-    {
-      "title": "Guilty Displeasures",
-      "summary": "62 comments",
-      "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
-      "createdAt": "2026-03-01 16:22:05",
-      "hot": 58
-    },
-    {
-      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-      "summary": "33 comments",
-      "url": "https://news.ycombinator.com/item?id=47220320",
-      "createdAt": "2026-03-03 00:39:21",
-      "hot": 98
-    },
-    {
-      "title": "Elevated Errors in Claude.ai",
-      "summary": "85 comments",
-      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
-      "createdAt": "2026-03-03 11:31:07",
-      "hot": 100
-    },
-    {
-      "title": "Motorola announces a partnership with GrapheneOS",
-      "summary": "796 comments",
-      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
-      "createdAt": "2026-03-02 14:48:07",
-      "hot": 2170
+      "hot": 46
     },
     {
       "title": "iPhone 17e",
-      "summary": "369 comments",
+      "summary": "430 comments",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
       "createdAt": "2026-03-02 22:03:00",
-      "hot": 262
+      "hot": 294
     },
     {
-      "title": "Guido van Rossum Interviews Thomas Wouters (Python Core Dev)",
-      "summary": "1 comments",
-      "url": "https://gvanrossum.github.io/interviews/Thomas.html",
-      "createdAt": "2026-03-02 04:06:08",
-      "hot": 20
-    },
-    {
-      "title": "The Cathode Ray Tube site",
-      "summary": "3 comments",
-      "url": "https://www.crtsite.com/didactic-crt.html",
-      "createdAt": "2026-03-01 18:51:46",
-      "hot": 42
-    },
-    {
-      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-      "summary": "76 comments",
-      "url": "https://govbase.com",
-      "createdAt": "2026-03-03 01:08:53",
-      "hot": 187
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "summary": "23 comments",
+      "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+      "createdAt": "2026-03-03 06:49:47",
+      "hot": 91
     },
     {
       "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-      "summary": "95 comments",
+      "summary": "103 comments",
       "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
       "createdAt": "2026-03-02 01:11:44",
-      "hot": 326
+      "hot": 351
     },
     {
-      "title": "Against Query Based Compilers",
-      "summary": "33 comments",
-      "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-      "createdAt": "2026-03-01 20:54:47",
-      "hot": 60
+      "title": "The Cathode Ray Tube site",
+      "summary": "11 comments",
+      "url": "https://www.crtsite.com/didactic-crt.html",
+      "createdAt": "2026-03-01 18:51:46",
+      "hot": 59
     },
     {
-      "title": "RCade: Building a Community Arcade Cabinet",
-      "summary": "14 comments",
-      "url": "https://www.frankchiarulli.com/blog/building-the-rcade/",
-      "createdAt": "2026-02-27 03:09:18",
-      "hot": 78
-    },
-    {
-      "title": "The 185-Microsecond Type Hint",
-      "summary": "8 comments",
-      "url": "https://blog.sturdystatistics.com/posts/type_hint/",
-      "createdAt": "2026-03-03 06:04:56",
-      "hot": 66
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "summary": "79 comments",
+      "url": "https://govbase.com",
+      "createdAt": "2026-03-03 01:08:53",
+      "hot": 197
     },
     {
       "title": "Ask HN: Who is hiring? (March 2026)",
-      "summary": "240 comments",
+      "summary": "265 comments",
       "url": "https://news.ycombinator.com/item?id=47219668",
       "createdAt": "2026-03-03 00:00:27",
-      "hot": 206
+      "hot": 220
     },
     {
-      "title": "I built an RGB controller with Arduino",
-      "summary": "1 comments",
-      "url": "https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/",
-      "createdAt": "2026-02-28 22:44:23",
-      "hot": 5
+      "title": "Elevated Errors in Claude.ai",
+      "summary": "139 comments",
+      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+      "createdAt": "2026-03-03 11:31:07",
+      "hot": 170
     }
   ]
 }
