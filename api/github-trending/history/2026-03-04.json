@@ -301,6 +301,77 @@
           "createdAt": "2026-03-04 16:14:23"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772626644572",
+      "lastUpdatedAt": "2026-03-04 20:17:24",
+      "data": [
+        {
+          "title": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "createdAt": "2026-03-04 20:16:56"
+        },
+        {
+          "title": "FlowiseAI/Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "createdAt": "2026-03-04 20:16:56"
+        }
+      ]
     }
   ]
 }
