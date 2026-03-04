@@ -1,48 +1,97 @@
 {
-  "id": "hackernews-top.1772626644570",
-  "lastUpdatedAt": "2026-03-04 20:17:24",
+  "id": "hackernews-top.1772641013523",
+  "lastUpdatedAt": "2026-03-05 00:16:53",
   "data": [
     {
-      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "summary": "279 comments",
-      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-      "createdAt": "2026-03-04 08:58:31",
-      "hot": 833
+      "title": "Nobody Gets Promoted for Simplicity",
+      "summary": "236 comments",
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "createdAt": "2026-03-04 19:43:32",
+      "hot": 421
     },
     {
-      "title": "Bet on German Train Delays",
-      "summary": "30 comments",
-      "url": "https://bahn.bet",
-      "createdAt": "2026-03-04 17:42:20",
-      "hot": 45
+      "title": "\"It Turns Out\"",
+      "summary": "26 comments",
+      "url": "https://jsomers.net/blog/it-turns-out",
+      "createdAt": "2026-03-04 22:52:46",
+      "hot": 79
+    },
+    {
+      "title": "The one science reform we can all agree on, but we're too cowardly to do",
+      "summary": "32 comments",
+      "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+      "createdAt": "2026-03-04 22:53:48",
+      "hot": 60
+    },
+    {
+      "title": "Glaze by Raycast",
+      "summary": "64 comments",
+      "url": "https://www.glazeapp.com/",
+      "createdAt": "2026-03-04 21:21:31",
+      "hot": 109
+    },
+    {
+      "title": "Something is afoot in the land of Qwen",
+      "summary": "1 comments",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "createdAt": "2026-03-04 23:55:34",
+      "hot": 27
+    },
+    {
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "summary": "419 comments",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "createdAt": "2026-03-04 08:58:31",
+      "hot": 1039
+    },
+    {
+      "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "summary": "26 comments",
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "createdAt": "2026-03-04 20:04:31",
+      "hot": 91
+    },
+    {
+      "title": "Apple Introduces MacBook Neo",
+      "summary": "412 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "createdAt": "2026-03-04 22:16:41",
+      "hot": 428
+    },
+    {
+      "title": "Libre Solar – Open Hardware for Renewable Energy",
+      "summary": "9 comments",
+      "url": "https://libre.solar",
+      "createdAt": "2026-03-01 17:01:05",
+      "hot": 53
+    },
+    {
+      "title": "Chimpanzees Are into Crystals",
+      "summary": "29 comments",
+      "url": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+      "createdAt": "2026-03-04 15:47:06",
+      "hot": 53
     },
     {
       "title": "RFC 9849. TLS Encrypted Client Hello",
-      "summary": "54 comments",
+      "summary": "92 comments",
       "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
       "createdAt": "2026-03-04 15:25:24",
-      "hot": 117
+      "hot": 197
     },
     {
-      "title": "Agentic Engineering Patterns",
-      "summary": "96 comments",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "createdAt": "2026-03-04 13:00:37",
-      "hot": 205
+      "title": "Medical journal says the case reports it has published for 25 years are fiction",
+      "summary": "10 comments",
+      "url": "https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/",
+      "createdAt": "2026-03-04 23:02:36",
+      "hot": 49
     },
     {
-      "title": "RE#: how we built the fastest regex engine in F#",
-      "summary": "11 comments",
-      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
-      "createdAt": "2026-03-01 21:47:36",
+      "title": "Greg Knauss Is Losing Himself",
+      "summary": "14 comments",
+      "url": "https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html",
+      "createdAt": "2026-03-02 02:09:08",
       "hot": 34
-    },
-    {
-      "title": "Better JIT for Postgres",
-      "summary": "31 comments",
-      "url": "https://github.com/vladich/pg_jitter",
-      "createdAt": "2026-03-04 14:17:10",
-      "hot": 80
     },
     {
       "title": "Jiga (YC W21) Is Hiring",
@@ -52,165 +101,116 @@
       "hot": 1
     },
     {
-      "title": "A CPU that runs entirely on GPU",
-      "summary": "56 comments",
-      "url": "https://github.com/robertcprice/nCPU",
-      "createdAt": "2026-03-04 12:30:32",
-      "hot": 127
+      "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+      "summary": "2 comments",
+      "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+      "createdAt": "2026-03-04 21:04:53",
+      "hot": 21
     },
     {
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "summary": "862 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "createdAt": "2026-03-03 22:02:06",
-      "hot": 800
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "summary": "48 comments",
+      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
+      "createdAt": "2026-03-01 21:47:36",
+      "hot": 125
     },
     {
-      "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
-      "summary": "0 comments",
-      "url": "https://github.com/lixiasky-back/coroTracer",
-      "createdAt": "2026-03-03 18:41:26",
-      "hot": 18
+      "title": "A Visual Guide to DNA Sequencing",
+      "summary": "2 comments",
+      "url": "https://www.asimov.press/p/dna-sequencing",
+      "createdAt": "2026-03-04 21:39:28",
+      "hot": 16
     },
     {
-      "title": "Graphics Programming Resources",
-      "summary": "12 comments",
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "createdAt": "2026-03-04 10:23:01",
-      "hot": 114
+      "title": "Bet on German Train Delays",
+      "summary": "150 comments",
+      "url": "https://bahn.bet",
+      "createdAt": "2026-03-04 17:42:20",
+      "hot": 232
     },
     {
-      "title": "Show HN: Stacked Game of Life",
-      "summary": "11 comments",
-      "url": "https://stacked-game-of-life.koenvangilst.nl/",
-      "createdAt": "2026-03-01 00:28:54",
-      "hot": 38
-    },
-    {
-      "title": "Claude's Cycles [pdf]",
-      "summary": "280 comments",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "createdAt": "2026-03-03 18:57:42",
-      "hot": 656
-    },
-    {
-      "title": "On the Design of Programming Languages (1974) [pdf]",
-      "summary": "9 comments",
-      "url": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
-      "createdAt": "2026-03-01 17:09:04",
-      "hot": 53
-    },
-    {
-      "title": "Users fume over Outlook.com email 'carnage'",
-      "summary": "19 comments",
-      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-      "createdAt": "2026-03-04 19:33:46",
-      "hot": 26
-    },
-    {
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "summary": "61 comments",
-      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "createdAt": "2026-03-04 05:10:27",
-      "hot": 213
+      "title": "Agentic Engineering Patterns",
+      "summary": "192 comments",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "createdAt": "2026-03-04 13:00:37",
+      "hot": 342
     },
     {
       "title": "Elevator Saga: The elevator programming game (2015)",
-      "summary": "0 comments",
+      "summary": "11 comments",
       "url": "https://play.elevatorsaga.com/index.html",
       "createdAt": "2026-03-01 15:26:00",
+      "hot": 63
+    },
+    {
+      "title": "A CPU that runs entirely on GPU",
+      "summary": "88 comments",
+      "url": "https://github.com/robertcprice/nCPU",
+      "createdAt": "2026-03-04 12:30:32",
+      "hot": 179
+    },
+    {
+      "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+      "summary": "1 comments",
+      "url": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
+      "createdAt": "2026-03-03 22:55:57",
+      "hot": 21
+    },
+    {
+      "title": "Modern Illustration: Archive of illustration from c.1950-1975",
+      "summary": "4 comments",
+      "url": "https://www.modernillustration.org",
+      "createdAt": "2026-03-01 01:14:20",
+      "hot": 39
+    },
+    {
+      "title": "Apple Announces Low-Cost 'MacBook Neo' with A18 Pro Chip",
+      "summary": "46 comments",
+      "url": "https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/",
+      "createdAt": "2026-03-04 22:18:33",
+      "hot": 68
+    },
+    {
+      "title": "Better JIT for Postgres",
+      "summary": "48 comments",
+      "url": "https://github.com/vladich/pg_jitter",
+      "createdAt": "2026-03-04 14:17:10",
+      "hot": 119
+    },
+    {
+      "title": "Show HN: Stacked Game of Life",
+      "summary": "23 comments",
+      "url": "https://stacked-game-of-life.koenvangilst.nl/",
+      "createdAt": "2026-03-01 00:28:54",
+      "hot": 111
+    },
+    {
+      "title": "Toxic combinations: when small signals add up to a security incident",
+      "summary": "0 comments",
+      "url": "https://blog.cloudflare.com/toxic-combinations-security/",
+      "createdAt": "2026-02-27 23:18:42",
       "hot": 7
     },
     {
-      "title": "Textadept",
-      "summary": "28 comments",
-      "url": "https://orbitalquark.github.io/textadept/",
-      "createdAt": "2026-03-01 13:36:58",
-      "hot": 149
+      "title": "Claude's Cycles [pdf]",
+      "summary": "302 comments",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "createdAt": "2026-03-03 18:57:42",
+      "hot": 714
     },
     {
-      "title": "My spicy take on vibe coding for PMs",
-      "summary": "117 comments",
-      "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-      "createdAt": "2026-03-04 07:38:21",
-      "hot": 120
+      "title": "Graphics Programming Resources",
+      "summary": "13 comments",
+      "url": "https://develop--gpvm-website.netlify.app/resources/",
+      "createdAt": "2026-03-04 10:23:01",
+      "hot": 158
     },
     {
-      "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
-      "summary": "253 comments",
-      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
-      "createdAt": "2026-03-04 09:31:05",
-      "hot": 276
-    },
-    {
-      "title": "When AI writes the software, who verifies it?",
-      "summary": "252 comments",
-      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-      "createdAt": "2026-03-04 00:34:53",
-      "hot": 252
-    },
-    {
-      "title": "Indefinite Book Club Hiatus",
-      "summary": "21 comments",
-      "url": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
-      "createdAt": "2026-03-04 12:25:20",
-      "hot": 47
-    },
-    {
-      "title": "You can use newline characters in URLs",
-      "summary": "37 comments",
-      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
-      "createdAt": "2026-03-01 07:24:57",
-      "hot": 91
-    },
-    {
-      "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
-      "summary": "10 comments",
-      "url": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/",
-      "createdAt": "2026-03-02 05:47:51",
-      "hot": 28
-    },
-    {
-      "title": "An Interactive Intro to CRDTs (2023)",
-      "summary": "26 comments",
-      "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
-      "createdAt": "2026-03-04 03:22:32",
-      "hot": 157
-    },
-    {
-      "title": "Speculative Speculative Decoding (SSD)",
-      "summary": "9 comments",
-      "url": "https://arxiv.org/abs/2603.03251",
-      "createdAt": "2026-03-04 11:24:20",
-      "hot": 48
-    },
-    {
-      "title": "Weave – A language aware merge algorithm based on entities",
-      "summary": "88 comments",
-      "url": "https://github.com/Ataraxy-Labs/weave",
-      "createdAt": "2026-03-04 09:52:21",
-      "hot": 133
-    },
-    {
-      "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-      "summary": "20 comments",
-      "url": "https://news.ycombinator.com/item?id=47232903",
-      "createdAt": "2026-03-03 22:30:58",
-      "hot": 86
-    },
-    {
-      "title": "GPT‑5.3 Instant",
-      "summary": "280 comments",
-      "url": "https://openai.com/index/gpt-5-3-instant/",
-      "createdAt": "2026-03-04 01:57:33",
-      "hot": 363
-    },
-    {
-      "title": "Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation",
-      "summary": "19 comments",
-      "url": "https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/",
-      "createdAt": "2026-03-01 18:56:17",
-      "hot": 33
+      "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+      "summary": "22 comments",
+      "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+      "createdAt": "2026-03-04 20:54:04",
+      "hot": 78
     }
   ]
 }

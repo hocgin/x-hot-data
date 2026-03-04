@@ -1,6 +1,6 @@
 {
-  "id": "sspai-hot.1772626644564",
-  "lastUpdatedAt": "2026-03-04 20:17:24",
+  "id": "sspai-hot.1772641013519",
+  "lastUpdatedAt": "2026-03-05 00:16:53",
   "data": [
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -104,7 +104,7 @@
       "url": "https://sspai.com/post/105647",
       "imageUrl": "2026/01/21/929cddd2efc6eb2a77cb0e8173799a68.png",
       "createdAt": "2026-01-21 17:07:13",
-      "hot": 19
+      "hot": 20
     },
     {
       "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
@@ -152,7 +152,7 @@
       "url": "https://sspai.com/post/105331",
       "imageUrl": "2026/01/10/8da82b7cdb4547cbbf8074c1a83e905a.png",
       "createdAt": "2026-01-12 20:58:51",
-      "hot": 132
+      "hot": 133
     },
     {
       "title": "AI 时代的工具本地化：构建稳定、可迁移的数字堡垒",
@@ -160,7 +160,7 @@
       "url": "https://sspai.com/post/105218",
       "imageUrl": "24/02/2026/article/203c4ec2-0b68-7e26-8b18-1e74096f1012.jpeg",
       "createdAt": "2026-01-09 09:08:46",
-      "hot": 67
+      "hot": 68
     }
   ]
 }
