@@ -56,6 +56,61 @@
           "hot": 167200
         }
       ]
+    },
+    {
+      "id": "yiche-hot.1772655185223",
+      "lastUpdatedAt": "2026-03-05 04:13:05",
+      "data": [
+        {
+          "title": "轩逸",
+          "summary": "价格: 7.99-17.49万",
+          "url": "https://car.yiche.com/xinaodia6l/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 193900
+        },
+        {
+          "title": "小米YU7",
+          "summary": "价格: 25.35-32.99万",
+          "url": "https://car.yiche.com/xiaomimx11/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 187399.99999999997
+        },
+        {
+          "title": "雅阁",
+          "summary": "价格: 17.98-23.88万",
+          "url": "https://car.yiche.com/dibadaiyage/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 183800
+        },
+        {
+          "title": "RAV4荣放",
+          "summary": "价格: 16.98-23.88万",
+          "url": "https://car.yiche.com/yiqifengtianrav4/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 175500
+        },
+        {
+          "title": "钛7",
+          "summary": "价格: 17.98-21.98万",
+          "url": "https://car.yiche.com/tai7/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 170000
+        },
+        {
+          "title": "奔驰E级",
+          "summary": "价格: 37.88-59.98万",
+          "url": "https://car.yiche.com/benchieji/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 169400
+        },
+        {
+          "title": "帕萨特",
+          "summary": "价格: 16.45-30.98万",
+          "url": "https://car.yiche.com/pasate/",
+          "createdAt": "2026-03-05 04:12:43",
+          "hot": 167200
+        }
+      ]
     }
   ]
 }
