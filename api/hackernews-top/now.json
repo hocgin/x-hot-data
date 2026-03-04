@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772568771519",
-  "lastUpdatedAt": "2026-03-04 04:12:51",
+  "id": "hackernews-top.1772584500150",
+  "lastUpdatedAt": "2026-03-04 08:35:00",
   "data": [
     {
-      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-      "summary": "36 comments",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
-      "createdAt": "2026-03-04 02:54:06",
-      "hot": 97
+      "title": "Don't Make Me Talk to Your Chatbot",
+      "summary": "106 comments",
+      "url": "https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/",
+      "createdAt": "2026-03-04 06:24:06",
+      "hot": 163
     },
     {
-      "title": "I'm reluctant to verify my identity or age for any online services",
-      "summary": "437 comments",
-      "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-      "createdAt": "2026-03-03 22:22:25",
-      "hot": 692
-    },
-    {
-      "title": "GPT‑5.3 Instant",
-      "summary": "52 comments",
-      "url": "https://openai.com/index/gpt-5-3-instant/",
-      "createdAt": "2026-03-04 01:57:33",
-      "hot": 121
+      "title": "Talos: Hardware accelerator for deep convolutional neural networks",
+      "summary": "6 comments",
+      "url": "https://talos.wtf/",
+      "createdAt": "2026-03-04 07:11:11",
+      "hot": 31
     },
     {
       "title": "MacBook Pro with new M5 Pro and M5 Max",
-      "summary": "498 comments",
+      "summary": "612 comments",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
       "createdAt": "2026-03-03 22:02:06",
-      "hot": 499
+      "hot": 627
     },
     {
-      "title": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
-      "summary": "42 comments",
-      "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
-      "createdAt": "2026-03-03 22:42:30",
-      "hot": 295
+      "title": "GPT‑5.3 Instant",
+      "summary": "193 comments",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "createdAt": "2026-03-04 01:57:33",
+      "hot": 270
     },
     {
-      "title": "MacBook Air with M5",
-      "summary": "286 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-      "createdAt": "2026-03-03 22:04:56",
-      "hot": 280
+      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "summary": "185 comments",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "createdAt": "2026-03-04 02:54:06",
+      "hot": 230
     },
     {
-      "title": "Iran War Cost Tracker",
-      "summary": "93 comments",
-      "url": "https://iran-cost-ticker.com",
-      "createdAt": "2026-03-04 03:01:57",
-      "hot": 111
-    },
-    {
-      "title": "GitHub Is Having Issues",
-      "summary": "66 comments",
-      "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
-      "createdAt": "2026-03-04 03:02:14",
-      "hot": 104
-    },
-    {
-      "title": "Don't become an engineering manager",
-      "summary": "149 comments",
-      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
-      "createdAt": "2026-03-03 22:19:14",
-      "hot": 206
-    },
-    {
-      "title": "Self-Hosted Software List",
-      "summary": "3 comments",
-      "url": "https://hostedsoftware.org/",
-      "createdAt": "2026-03-04 03:30:10",
-      "hot": 18
-    },
-    {
-      "title": "Claude's Cycles [pdf]",
-      "summary": "152 comments",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "createdAt": "2026-03-03 18:57:42",
-      "hot": 307
-    },
-    {
-      "title": "Why payment fees matter more than you think",
-      "summary": "10 comments",
-      "url": "https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/",
-      "createdAt": "2026-03-04 02:27:26",
-      "hot": 25
-    },
-    {
-      "title": "The Xkcd thing, now interactive",
-      "summary": "129 comments",
-      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-      "createdAt": "2026-03-03 18:56:52",
-      "hot": 936
-    },
-    {
-      "title": "Apple Studio Display and Studio Display XDR",
-      "summary": "184 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
-      "createdAt": "2026-03-03 22:00:11",
-      "hot": 162
-    },
-    {
-      "title": "TorchLean: Formalizing Neural Networks in Lean",
-      "summary": "3 comments",
-      "url": "https://leandojo.org/torchlean.html",
-      "createdAt": "2026-03-01 11:03:46",
-      "hot": 34
-    },
-    {
-      "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-      "summary": "14 comments",
-      "url": "https://news.ycombinator.com/item?id=47232903",
-      "createdAt": "2026-03-03 22:30:58",
+      "title": "Textadept",
+      "summary": "8 comments",
+      "url": "https://orbitalquark.github.io/textadept/",
+      "createdAt": "2026-03-01 13:36:58",
       "hot": 47
     },
     {
-      "title": "I Audited the Privacy of Popular Free Dev Tools, the Results Are Terrifying",
-      "summary": "0 comments",
-      "url": "https://www.toolbox-kit.com/blog/i-audited-popular-dev-tools-privacy-results-are-scary",
-      "createdAt": "2026-03-04 03:47:10",
-      "hot": 3
+      "title": "Claude's Cycles [pdf]",
+      "summary": "198 comments",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "createdAt": "2026-03-03 18:57:42",
+      "hot": 423
     },
     {
-      "title": "Arm's Cortex X925: Reaching Desktop Performance",
-      "summary": "129 comments",
-      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "createdAt": "2026-03-03 15:34:47",
-      "hot": 236
+      "title": "Voxile: A ray-traced game made in its own engine and programming language",
+      "summary": "11 comments",
+      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+      "createdAt": "2026-03-04 05:10:27",
+      "hot": 75
     },
     {
-      "title": "Show HN: Explain Curl Commands",
+      "title": "Helsinki just went a full year without a single traffic death",
+      "summary": "39 comments",
+      "url": "https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/",
+      "createdAt": "2026-03-04 06:49:54",
+      "hot": 82
+    },
+    {
+      "title": "An Interactive Intro to CRDTs (2023)",
+      "summary": "15 comments",
+      "url": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+      "createdAt": "2026-03-04 03:22:32",
+      "hot": 87
+    },
+    {
+      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+      "summary": "7 comments",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "createdAt": "2026-03-04 07:34:05",
+      "hot": 38
+    },
+    {
+      "title": "What's in a Name?..",
       "summary": "0 comments",
-      "url": "https://github.com/akgitrepos/explain-my-curl",
-      "createdAt": "2026-03-01 07:55:44",
-      "hot": 12
+      "url": "https://sailsandcommas.com/2014/02/03/whats-in-a-name/",
+      "createdAt": "2026-03-01 16:15:27",
+      "hot": 6
+    },
+    {
+      "title": "The Xkcd thing, now interactive",
+      "summary": "148 comments",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "createdAt": "2026-03-03 18:56:52",
+      "hot": 1118
+    },
+    {
+      "title": "We've freed Cookie's Bustle from copyright hell",
+      "summary": "9 comments",
+      "url": "https://gamehistory.org/cookies-bustle/",
+      "createdAt": "2026-03-04 04:14:18",
+      "hot": 77
+    },
+    {
+      "title": "When AI writes the software, who verifies it?",
+      "summary": "117 comments",
+      "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+      "createdAt": "2026-03-04 00:34:53",
+      "hot": 118
+    },
+    {
+      "title": "Don't become an engineering manager",
+      "summary": "205 comments",
+      "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+      "createdAt": "2026-03-03 22:19:14",
+      "hot": 290
+    },
+    {
+      "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+      "summary": "19 comments",
+      "url": "https://news.ycombinator.com/item?id=47232903",
+      "createdAt": "2026-03-03 22:30:58",
+      "hot": 70
+    },
+    {
+      "title": "Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]",
+      "summary": "63 comments",
+      "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
+      "createdAt": "2026-03-03 22:42:30",
+      "hot": 407
+    },
+    {
+      "title": "TorchLean: Formalizing Neural Networks in Lean",
+      "summary": "9 comments",
+      "url": "https://leandojo.org/torchlean.html",
+      "createdAt": "2026-03-01 11:03:46",
+      "hot": 70
+    },
+    {
+      "title": "Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands",
+      "summary": "50 comments",
+      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+      "createdAt": "2026-03-04 03:34:37",
+      "hot": 165
+    },
+    {
+      "title": "TV's TV (1987) & TV Games Encyclopedia (1988)",
+      "summary": "0 comments",
+      "url": "https://blog.gingerbeardman.com/2026/03/01/tvs-tv-1987-and-tv-games-encyclopedia-1988/",
+      "createdAt": "2026-03-02 07:56:48",
+      "hot": 10
     },
     {
       "title": "Disable Your SSH access accidentally with scp",
-      "summary": "19 comments",
+      "summary": "41 comments",
       "url": "https://sny.sh/hypha/blog/scp",
       "createdAt": "2026-02-28 13:18:22",
-      "hot": 63
+      "hot": 93
     },
     {
-      "title": "The Two Kinds of Error",
+      "title": "I'm reluctant to verify my identity or age for any online services",
+      "summary": "531 comments",
+      "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+      "createdAt": "2026-03-03 22:22:25",
+      "hot": 865
+    },
+    {
+      "title": "MacBook Air with M5",
+      "summary": "409 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "createdAt": "2026-03-03 22:04:56",
+      "hot": 354
+    },
+    {
+      "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
       "summary": "0 comments",
-      "url": "https://evanhahn.com/the-two-kinds-of-error/",
-      "createdAt": "2026-03-02 07:29:40",
-      "hot": 4
+      "url": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+      "createdAt": "2026-03-04 08:10:38",
+      "hot": 8
     },
     {
       "title": "I'm losing the SEO battle for my own open source project",
-      "summary": "179 comments",
+      "summary": "221 comments",
       "url": "https://twitter.com/Gavriel_Cohen/status/2028821432759717930",
       "createdAt": "2026-03-03 21:39:38",
-      "hot": 336
+      "hot": 430
     },
     {
-      "title": "Tell HN: GitHub Having Issues",
-      "summary": "25 comments",
-      "url": "https://news.ycombinator.com/item?id=47237018",
-      "createdAt": "2026-03-04 02:58:33",
-      "hot": 45
+      "title": "The Two Kinds of Error",
+      "summary": "18 comments",
+      "url": "https://evanhahn.com/the-two-kinds-of-error/",
+      "createdAt": "2026-03-02 07:29:40",
+      "hot": 30
     },
     {
-      "title": "Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act",
-      "summary": "0 comments",
-      "url": "https://news.ycombinator.com/item?id=47230438",
-      "createdAt": "2026-03-03 18:11:44",
-      "hot": 20
-    },
-    {
-      "title": "The beauty and terror of modding Windows",
-      "summary": "77 comments",
-      "url": "https://windowsread.me/p/windhawk-explained",
-      "createdAt": "2026-03-03 18:49:05",
-      "hot": 91
-    },
-    {
-      "title": "Points on a ring: An interactive walkthrough of a popular math problem",
-      "summary": "5 comments",
-      "url": "https://growingswe.com/blog/points-on-ring",
-      "createdAt": "2026-03-03 01:11:08",
-      "hot": 32
-    },
-    {
-      "title": "Simplifying Application Architecture with Modular Design and MIM",
-      "summary": "0 comments",
-      "url": "https://codingfox.net.pl/posts/mim/",
-      "createdAt": "2026-03-03 17:23:42",
-      "hot": 20
-    },
-    {
-      "title": "Most-read tech publications have lost over half their Google traffic since 2024",
-      "summary": "130 comments",
-      "url": "https://growtika.com/blog/tech-media-collapse",
-      "createdAt": "2026-03-03 21:45:33",
-      "hot": 180
+      "title": "GitHub Is Having Issues",
+      "summary": "137 comments",
+      "url": "https://www.githubstatus.com/incidents/n07yy1bk6kc4",
+      "createdAt": "2026-03-04 03:02:14",
+      "hot": 199
     },
     {
       "title": "Meta’s AI smart glasses and data privacy concerns",
-      "summary": "747 comments",
+      "summary": "768 comments",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "createdAt": "2026-03-03 06:32:35",
-      "hot": 1327
+      "hot": 1363
     },
     {
-      "title": "Computer Says No",
-      "summary": "38 comments",
-      "url": "https://koenvangilst.nl/lab/computer-says-no",
-      "createdAt": "2026-03-01 17:47:03",
-      "hot": 82
+      "title": "Apple Studio Display and Studio Display XDR",
+      "summary": "243 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/",
+      "createdAt": "2026-03-03 22:00:11",
+      "hot": 207
     }
   ]
 }

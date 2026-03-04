@@ -118,6 +118,67 @@
           "createdAt": "2026-03-04 04:12:30"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772584500151",
+      "lastUpdatedAt": "2026-03-04 08:35:00",
+      "data": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "createdAt": "2026-03-04 08:34:36"
+        },
+        {
+          "title": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "createdAt": "2026-03-04 08:34:36"
+        }
+      ]
     }
   ]
 }
