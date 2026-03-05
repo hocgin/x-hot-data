@@ -433,6 +433,222 @@
           "hot": 225
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772670971701",
+      "lastUpdatedAt": "2026-03-05 08:36:11",
+      "data": [
+        {
+          "title": "MacBook Neo",
+          "summary": "1821 comments",
+          "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+          "createdAt": "2026-03-04 22:16:41",
+          "hot": 1468
+        },
+        {
+          "title": "Building a new Flash",
+          "summary": "54 comments",
+          "url": "https://bill.newgrounds.com/news/post/1607118",
+          "createdAt": "2026-03-05 04:16:03",
+          "hot": 233
+        },
+        {
+          "title": "Something is afoot in the land of Qwen",
+          "summary": "229 comments",
+          "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+          "createdAt": "2026-03-04 23:55:34",
+          "hot": 481
+        },
+        {
+          "title": "Humans 40k yrs ago developed a system of conventional signs",
+          "summary": "18 comments",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+          "createdAt": "2026-03-05 00:20:36",
+          "hot": 51
+        },
+        {
+          "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+          "summary": "20 comments",
+          "url": "https://qlabs.sh/slowrun",
+          "createdAt": "2026-03-05 01:56:04",
+          "hot": 111
+        },
+        {
+          "title": "Moss is a pixel canvas where every brush is a tiny program",
+          "summary": "20 comments",
+          "url": "https://www.moss.town/",
+          "createdAt": "2026-03-04 18:21:13",
+          "hot": 161
+        },
+        {
+          "title": "The View from RSS",
+          "summary": "14 comments",
+          "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+          "createdAt": "2026-03-05 04:19:43",
+          "hot": 59
+        },
+        {
+          "title": "An interactive map of Flock Cams",
+          "summary": "186 comments",
+          "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+          "createdAt": "2026-03-05 02:50:45",
+          "hot": 483
+        },
+        {
+          "title": "“It turns out” (2010)",
+          "summary": "74 comments",
+          "url": "https://jsomers.net/blog/it-turns-out",
+          "createdAt": "2026-03-04 22:52:46",
+          "hot": 230
+        },
+        {
+          "title": "Extending single-minus amplitudes to gravitons",
+          "summary": "0 comments",
+          "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/",
+          "createdAt": "2026-03-05 07:41:25",
+          "hot": 5
+        },
+        {
+          "title": "Data Has Weight but Only on SSDs",
+          "summary": "40 comments",
+          "url": "https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/",
+          "createdAt": "2026-03-05 02:46:21",
+          "hot": 60
+        },
+        {
+          "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+          "summary": "26 comments",
+          "url": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
+          "createdAt": "2026-03-05 04:15:06",
+          "hot": 41
+        },
+        {
+          "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+          "summary": "63 comments",
+          "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+          "createdAt": "2026-03-04 20:04:31",
+          "hot": 257
+        },
+        {
+          "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+          "summary": "53 comments",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+          "createdAt": "2026-03-05 05:11:15",
+          "hot": 59
+        },
+        {
+          "title": "NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]",
+          "summary": "4 comments",
+          "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+          "createdAt": "2026-03-05 05:56:20",
+          "hot": 28
+        },
+        {
+          "title": "Show HN: Vertex.js – A 1kloc SPA Framework",
+          "summary": "22 comments",
+          "url": "https://lukeb42.github.io/vertex-manual.html",
+          "createdAt": "2026-03-01 19:05:28",
+          "hot": 34
+        },
+        {
+          "title": "Glaze by Raycast",
+          "summary": "114 comments",
+          "url": "https://www.glazeapp.com/",
+          "createdAt": "2026-03-04 21:21:31",
+          "hot": 187
+        },
+        {
+          "title": "Raspberry Pi Pico as AM Radio Transmitter",
+          "summary": "28 comments",
+          "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
+          "createdAt": "2026-03-01 08:26:43",
+          "hot": 61
+        },
+        {
+          "title": "Making Firefox's right-click not suck with about:config",
+          "summary": "170 comments",
+          "url": "https://joshua.hu/firefox-making-right-click-not-suck",
+          "createdAt": "2026-03-05 02:12:39",
+          "hot": 243
+        },
+        {
+          "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+          "summary": "0 comments",
+          "url": "https://roboflow.com/careers",
+          "createdAt": "2026-03-05 01:49:44",
+          "hot": 1
+        },
+        {
+          "title": "Libre Solar – Open Hardware for Renewable Energy",
+          "summary": "60 comments",
+          "url": "https://libre.solar",
+          "createdAt": "2026-03-01 17:01:05",
+          "hot": 202
+        },
+        {
+          "title": "Does that use a lot of energy?",
+          "summary": "145 comments",
+          "url": "https://hannahritchie.github.io/energy-use-comparisons/",
+          "createdAt": "2026-03-05 04:30:16",
+          "hot": 173
+        },
+        {
+          "title": "The Rust calling convention we deserve (2024)",
+          "summary": "11 comments",
+          "url": "https://mcyoung.xyz/2024/04/17/calling-convention/",
+          "createdAt": "2026-03-02 01:25:27",
+          "hot": 55
+        },
+        {
+          "title": "Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'",
+          "summary": "7 comments",
+          "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+          "createdAt": "2026-03-05 07:51:10",
+          "hot": 25
+        },
+        {
+          "title": "Faster C software with Dynamic Feature Detection",
+          "summary": "2 comments",
+          "url": "https://gist.github.com/jjl/d998164191af59a594500687a679b98d",
+          "createdAt": "2026-03-05 02:33:38",
+          "hot": 53
+        },
+        {
+          "title": "Daemon (2006)",
+          "summary": "3 comments",
+          "url": "https://en.wikipedia.org/wiki/Daemon_(novel)",
+          "createdAt": "2026-03-05 01:08:46",
+          "hot": 7
+        },
+        {
+          "title": "Show HN: A shell-native cd-compatible directory jumper using power-law frecency",
+          "summary": "0 comments",
+          "url": "https://github.com/jghub/sd-switchdir",
+          "createdAt": "2026-03-04 18:20:18",
+          "hot": 10
+        },
+        {
+          "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+          "summary": "30 comments",
+          "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+          "createdAt": "2026-03-04 21:04:53",
+          "hot": 105
+        },
+        {
+          "title": "Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete",
+          "summary": "0 comments",
+          "url": "https://arxiv.org/abs/2602.22874",
+          "createdAt": "2026-03-01 01:48:45",
+          "hot": 7
+        },
+        {
+          "title": "Approximation Game",
+          "summary": "3 comments",
+          "url": "https://lcamtuf.substack.com/p/approximation-game",
+          "createdAt": "2026-02-28 10:29:51",
+          "hot": 13
+        }
+      ]
     }
   ]
 }
