@@ -865,6 +865,222 @@
           "hot": 22
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772698594744",
+      "lastUpdatedAt": "2026-03-05 16:16:34",
+      "data": [
+        {
+          "title": "Google Workspace CLI",
+          "summary": "177 comments",
+          "url": "https://github.com/googleworkspace/cli",
+          "createdAt": "2026-03-05 08:22:09",
+          "hot": 506
+        },
+        {
+          "title": "You Just Reveived",
+          "summary": "33 comments",
+          "url": "https://dylan.gr/1772520728",
+          "createdAt": "2026-03-05 12:37:43",
+          "hot": 117
+        },
+        {
+          "title": "MacBook Neo",
+          "summary": "2038 comments",
+          "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+          "createdAt": "2026-03-04 22:16:41",
+          "hot": 1753
+        },
+        {
+          "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+          "summary": "8 comments",
+          "url": "https://tim.blog/2026/03/04/the-self-help-trap/",
+          "createdAt": "2026-03-05 14:59:30",
+          "hot": 22
+        },
+        {
+          "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+          "summary": "0 comments",
+          "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+          "createdAt": "2026-03-05 15:43:41",
+          "hot": 8
+        },
+        {
+          "title": "Building a new Flash",
+          "summary": "142 comments",
+          "url": "https://bill.newgrounds.com/news/post/1607118",
+          "createdAt": "2026-03-05 04:16:03",
+          "hot": 517
+        },
+        {
+          "title": "Relax NG is a schema language for XML",
+          "summary": "4 comments",
+          "url": "https://relaxng.org/",
+          "createdAt": "2026-03-05 14:01:18",
+          "hot": 17
+        },
+        {
+          "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+          "summary": "19 comments",
+          "url": "https://poppy-connection-keeper.netlify.app/",
+          "createdAt": "2026-03-05 11:56:38",
+          "hot": 73
+        },
+        {
+          "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+          "summary": "0 comments",
+          "url": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+          "createdAt": "2026-03-05 15:57:25",
+          "hot": 3
+        },
+        {
+          "title": "The L in \"LLM\" Stands for Lying",
+          "summary": "18 comments",
+          "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+          "createdAt": "2026-03-05 12:02:32",
+          "hot": 66
+        },
+        {
+          "title": "Something is afoot in the land of Qwen",
+          "summary": "288 comments",
+          "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+          "createdAt": "2026-03-04 23:55:34",
+          "hot": 647
+        },
+        {
+          "title": "What Python's asyncio primitives get wrong about shared state",
+          "summary": "25 comments",
+          "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+          "createdAt": "2026-03-05 10:55:57",
+          "hot": 43
+        },
+        {
+          "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+          "summary": "40 comments",
+          "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+          "createdAt": "2026-03-02 19:51:57",
+          "hot": 50
+        },
+        {
+          "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+          "summary": "288 comments",
+          "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+          "createdAt": "2026-03-05 07:51:10",
+          "hot": 512
+        },
+        {
+          "title": "Picking Up a Zillion Pieces of Litter",
+          "summary": "39 comments",
+          "url": "https://www.sixstepstobetterhealth.com/litter.html",
+          "createdAt": "2026-03-02 08:40:52",
+          "hot": 103
+        },
+        {
+          "title": "Dulce et Decorum Est (1921)",
+          "summary": "66 comments",
+          "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+          "createdAt": "2026-03-05 05:41:40",
+          "hot": 117
+        },
+        {
+          "title": "Humans 40k yrs ago developed a system of conventional signs",
+          "summary": "49 comments",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+          "createdAt": "2026-03-05 00:20:36",
+          "hot": 113
+        },
+        {
+          "title": "Dbslice: Extract a slice of your production database to reproduce bugs",
+          "summary": "0 comments",
+          "url": "https://github.com/nabroleonx/dbslice",
+          "createdAt": "2026-03-02 04:48:30",
+          "hot": 4
+        },
+        {
+          "title": "Moss is a pixel canvas where every brush is a tiny program",
+          "summary": "25 comments",
+          "url": "https://www.moss.town/",
+          "createdAt": "2026-03-04 18:21:13",
+          "hot": 242
+        },
+        {
+          "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+          "summary": "68 comments",
+          "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+          "createdAt": "2026-03-05 05:56:20",
+          "hot": 102
+        },
+        {
+          "title": "Chaos and Dystopian news for the dead internet survivors",
+          "summary": "33 comments",
+          "url": "https://www.fubardaily.com",
+          "createdAt": "2026-03-05 09:50:51",
+          "hot": 92
+        },
+        {
+          "title": "“It turns out” (2010)",
+          "summary": "87 comments",
+          "url": "https://jsomers.net/blog/it-turns-out",
+          "createdAt": "2026-03-04 22:52:46",
+          "hot": 277
+        },
+        {
+          "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+          "summary": "29 comments",
+          "url": "https://qlabs.sh/slowrun",
+          "createdAt": "2026-03-05 01:56:04",
+          "hot": 160
+        },
+        {
+          "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+          "summary": "58 comments",
+          "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+          "createdAt": "2026-03-05 10:33:58",
+          "hot": 140
+        },
+        {
+          "title": "Malm Whale",
+          "summary": "10 comments",
+          "url": "https://www.atlasobscura.com/places/malm-whale",
+          "createdAt": "2026-03-01 11:56:42",
+          "hot": 26
+        },
+        {
+          "title": "Qwen3.5 Fine-Tuning Guide",
+          "summary": "75 comments",
+          "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+          "createdAt": "2026-03-04 20:04:31",
+          "hot": 328
+        },
+        {
+          "title": "The View from RSS",
+          "summary": "30 comments",
+          "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+          "createdAt": "2026-03-05 04:19:43",
+          "hot": 110
+        },
+        {
+          "title": "Libre Solar – Open Hardware for Renewable Energy",
+          "summary": "77 comments",
+          "url": "https://libre.solar",
+          "createdAt": "2026-03-01 17:01:05",
+          "hot": 254
+        },
+        {
+          "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+          "summary": "0 comments",
+          "url": "https://roboflow.com/careers",
+          "createdAt": "2026-03-05 01:49:44",
+          "hot": 1
+        },
+        {
+          "title": "Glaze by Raycast",
+          "summary": "130 comments",
+          "url": "https://www.glazeapp.com/",
+          "createdAt": "2026-03-04 21:21:31",
+          "hot": 216
+        }
+      ]
     }
   ]
 }

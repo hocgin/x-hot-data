@@ -1,188 +1,202 @@
 {
-  "id": "hackernews-top.1772685495326",
-  "lastUpdatedAt": "2026-03-05 12:38:15",
+  "id": "hackernews-top.1772698594744",
+  "lastUpdatedAt": "2026-03-05 16:16:34",
   "data": [
     {
       "title": "Google Workspace CLI",
-      "summary": "109 comments",
+      "summary": "177 comments",
       "url": "https://github.com/googleworkspace/cli",
       "createdAt": "2026-03-05 08:22:09",
-      "hot": 262
+      "hot": 506
+    },
+    {
+      "title": "You Just Reveived",
+      "summary": "33 comments",
+      "url": "https://dylan.gr/1772520728",
+      "createdAt": "2026-03-05 12:37:43",
+      "hot": 117
     },
     {
       "title": "MacBook Neo",
-      "summary": "1952 comments",
+      "summary": "2038 comments",
       "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
       "createdAt": "2026-03-04 22:16:41",
-      "hot": 1656
+      "hot": 1753
+    },
+    {
+      "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+      "summary": "8 comments",
+      "url": "https://tim.blog/2026/03/04/the-self-help-trap/",
+      "createdAt": "2026-03-05 14:59:30",
+      "hot": 22
+    },
+    {
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "summary": "0 comments",
+      "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+      "createdAt": "2026-03-05 15:43:41",
+      "hot": 8
     },
     {
       "title": "Building a new Flash",
-      "summary": "117 comments",
+      "summary": "142 comments",
       "url": "https://bill.newgrounds.com/news/post/1607118",
       "createdAt": "2026-03-05 04:16:03",
-      "hot": 413
+      "hot": 517
     },
     {
-      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-      "summary": "182 comments",
-      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "createdAt": "2026-03-05 07:51:10",
-      "hot": 366
+      "title": "Relax NG is a schema language for XML",
+      "summary": "4 comments",
+      "url": "https://relaxng.org/",
+      "createdAt": "2026-03-05 14:01:18",
+      "hot": 17
     },
     {
-      "title": "What Python's asyncio primitives get wrong about shared state",
-      "summary": "7 comments",
-      "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-      "createdAt": "2026-03-05 10:55:57",
-      "hot": 12
+      "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+      "summary": "19 comments",
+      "url": "https://poppy-connection-keeper.netlify.app/",
+      "createdAt": "2026-03-05 11:56:38",
+      "hot": 73
+    },
+    {
+      "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+      "summary": "0 comments",
+      "url": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+      "createdAt": "2026-03-05 15:57:25",
+      "hot": 3
+    },
+    {
+      "title": "The L in \"LLM\" Stands for Lying",
+      "summary": "18 comments",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "createdAt": "2026-03-05 12:02:32",
+      "hot": 66
     },
     {
       "title": "Something is afoot in the land of Qwen",
-      "summary": "259 comments",
+      "summary": "288 comments",
       "url": "https://simonwillison.net/2026/Mar/4/qwen/",
       "createdAt": "2026-03-04 23:55:34",
-      "hot": 582
+      "hot": 647
     },
     {
-      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "title": "What Python's asyncio primitives get wrong about shared state",
       "summary": "25 comments",
-      "url": "https://www.fubardaily.com",
-      "createdAt": "2026-03-05 09:50:51",
-      "hot": 56
+      "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+      "createdAt": "2026-03-05 10:55:57",
+      "hot": 43
     },
     {
-      "title": "Malm Whale",
-      "summary": "3 comments",
-      "url": "https://www.atlasobscura.com/places/malm-whale",
-      "createdAt": "2026-03-01 11:56:42",
-      "hot": 14
+      "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+      "summary": "40 comments",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "createdAt": "2026-03-02 19:51:57",
+      "hot": 50
     },
     {
-      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
-      "summary": "33 comments",
-      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
-      "createdAt": "2026-03-05 05:56:20",
-      "hot": 70
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "summary": "288 comments",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "createdAt": "2026-03-05 07:51:10",
+      "hot": 512
+    },
+    {
+      "title": "Picking Up a Zillion Pieces of Litter",
+      "summary": "39 comments",
+      "url": "https://www.sixstepstobetterhealth.com/litter.html",
+      "createdAt": "2026-03-02 08:40:52",
+      "hot": 103
+    },
+    {
+      "title": "Dulce et Decorum Est (1921)",
+      "summary": "66 comments",
+      "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+      "createdAt": "2026-03-05 05:41:40",
+      "hot": 117
+    },
+    {
+      "title": "Humans 40k yrs ago developed a system of conventional signs",
+      "summary": "49 comments",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+      "createdAt": "2026-03-05 00:20:36",
+      "hot": 113
+    },
+    {
+      "title": "Dbslice: Extract a slice of your production database to reproduce bugs",
+      "summary": "0 comments",
+      "url": "https://github.com/nabroleonx/dbslice",
+      "createdAt": "2026-03-02 04:48:30",
+      "hot": 4
     },
     {
       "title": "Moss is a pixel canvas where every brush is a tiny program",
       "summary": "25 comments",
       "url": "https://www.moss.town/",
       "createdAt": "2026-03-04 18:21:13",
-      "hot": 210
+      "hot": 242
     },
     {
-      "title": "Humans 40k yrs ago developed a system of conventional signs",
-      "summary": "39 comments",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
-      "createdAt": "2026-03-05 00:20:36",
-      "hot": 83
+      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+      "summary": "68 comments",
+      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+      "createdAt": "2026-03-05 05:56:20",
+      "hot": 102
     },
     {
-      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
-      "summary": "12 comments",
-      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-      "createdAt": "2026-03-05 10:33:58",
-      "hot": 53
-    },
-    {
-      "title": "The View from RSS",
-      "summary": "26 comments",
-      "url": "https://www.carolinecrampton.com/the-view-from-rss/",
-      "createdAt": "2026-03-05 04:19:43",
+      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "summary": "33 comments",
+      "url": "https://www.fubardaily.com",
+      "createdAt": "2026-03-05 09:50:51",
       "hot": 92
     },
     {
-      "title": "Picking Up a Zillion Pieces of Litter",
-      "summary": "30 comments",
-      "url": "https://www.sixstepstobetterhealth.com/litter.html",
-      "createdAt": "2026-03-02 08:40:52",
-      "hot": 60
-    },
-    {
       "title": "“It turns out” (2010)",
-      "summary": "83 comments",
+      "summary": "87 comments",
       "url": "https://jsomers.net/blog/it-turns-out",
       "createdAt": "2026-03-04 22:52:46",
-      "hot": 261
+      "hot": 277
     },
     {
       "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-      "summary": "26 comments",
+      "summary": "29 comments",
       "url": "https://qlabs.sh/slowrun",
       "createdAt": "2026-03-05 01:56:04",
-      "hot": 136
+      "hot": 160
     },
     {
-      "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
-      "summary": "81 comments",
-      "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
-      "createdAt": "2026-03-05 05:11:15",
-      "hot": 98
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+      "summary": "58 comments",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "createdAt": "2026-03-05 10:33:58",
+      "hot": 140
     },
     {
-      "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
-      "summary": "42 comments",
-      "url": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
-      "createdAt": "2026-03-05 04:15:06",
-      "hot": 66
+      "title": "Malm Whale",
+      "summary": "10 comments",
+      "url": "https://www.atlasobscura.com/places/malm-whale",
+      "createdAt": "2026-03-01 11:56:42",
+      "hot": 26
     },
     {
       "title": "Qwen3.5 Fine-Tuning Guide",
-      "summary": "70 comments",
+      "summary": "75 comments",
       "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
       "createdAt": "2026-03-04 20:04:31",
-      "hot": 303
+      "hot": 328
     },
     {
-      "title": "An interactive map of Flock Cams",
-      "summary": "198 comments",
-      "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
-      "createdAt": "2026-03-05 02:50:45",
-      "hot": 544
-    },
-    {
-      "title": "Raspberry Pi Pico as AM Radio Transmitter",
-      "summary": "31 comments",
-      "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
-      "createdAt": "2026-03-01 08:26:43",
-      "hot": 83
-    },
-    {
-      "title": "A bit of fluid mechanics from scratch not from scratch",
-      "summary": "13 comments",
-      "url": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
-      "createdAt": "2026-03-02 22:52:52",
-      "hot": 39
-    },
-    {
-      "title": "Glaze by Raycast",
-      "summary": "125 comments",
-      "url": "https://www.glazeapp.com/",
-      "createdAt": "2026-03-04 21:21:31",
-      "hot": 205
-    },
-    {
-      "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
-      "summary": "38 comments",
-      "url": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
-      "createdAt": "2026-03-05 10:00:07",
-      "hot": 47
+      "title": "The View from RSS",
+      "summary": "30 comments",
+      "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+      "createdAt": "2026-03-05 04:19:43",
+      "hot": 110
     },
     {
       "title": "Libre Solar – Open Hardware for Renewable Energy",
-      "summary": "64 comments",
+      "summary": "77 comments",
       "url": "https://libre.solar",
       "createdAt": "2026-03-01 17:01:05",
-      "hot": 228
-    },
-    {
-      "title": "Daemon (2006)",
-      "summary": "8 comments",
-      "url": "https://en.wikipedia.org/wiki/Daemon_(novel)",
-      "createdAt": "2026-03-05 01:08:46",
-      "hot": 32
+      "hot": 254
     },
     {
       "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
@@ -192,25 +206,11 @@
       "hot": 1
     },
     {
-      "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
-      "summary": "33 comments",
-      "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
-      "createdAt": "2026-03-04 21:04:53",
-      "hot": 123
-    },
-    {
-      "title": "Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure",
-      "summary": "0 comments",
-      "url": "https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md",
-      "createdAt": "2026-03-01 12:05:24",
-      "hot": 3
-    },
-    {
-      "title": "Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete",
-      "summary": "0 comments",
-      "url": "https://arxiv.org/abs/2602.22874",
-      "createdAt": "2026-03-01 01:48:45",
-      "hot": 22
+      "title": "Glaze by Raycast",
+      "summary": "130 comments",
+      "url": "https://www.glazeapp.com/",
+      "createdAt": "2026-03-04 21:21:31",
+      "hot": 216
     }
   ]
 }
