@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1772713153285",
-  "lastUpdatedAt": "2026-03-05 20:19:13",
+  "id": "hackernews-top.1772727762594",
+  "lastUpdatedAt": "2026-03-06 00:22:42",
   "data": [
     {
+      "title": "Google Safe Browsing missed 84% of phishing sites we found in February",
+      "summary": "31 comments",
+      "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+      "createdAt": "2026-03-05 23:03:22",
+      "hot": 75
+    },
+    {
+      "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+      "summary": "5 comments",
+      "url": "https://jido.run/blog/jido-2-0-is-here",
+      "createdAt": "2026-03-05 23:48:52",
+      "hot": 39
+    },
+    {
+      "title": "Judge Orders Government to Begin Refunding More Than $130B in Tariffs",
+      "summary": "359 comments",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+      "createdAt": "2026-03-05 22:05:46",
+      "hot": 458
+    },
+    {
+      "title": "Good software knows when to stop",
+      "summary": "27 comments",
+      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "createdAt": "2026-03-05 21:52:43",
+      "hot": 53
+    },
+    {
       "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-      "summary": "50 comments",
+      "summary": "85 comments",
       "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
       "createdAt": "2026-03-05 15:43:41",
-      "hot": 144
+      "hot": 267
+    },
+    {
+      "title": "Fast-Servers",
+      "summary": "13 comments",
+      "url": "https://geocar.sdf1.org/fast-servers.html",
+      "createdAt": "2026-03-05 22:11:22",
+      "hot": 28
     },
     {
       "title": "Google Workspace CLI",
-      "summary": "215 comments",
+      "summary": "257 comments",
       "url": "https://github.com/googleworkspace/cli",
       "createdAt": "2026-03-05 08:22:09",
-      "hot": 650
+      "hot": 780
     },
     {
       "title": "Relicensing with AI-Assisted Rewrite",
-      "summary": "150 comments",
+      "summary": "283 comments",
       "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
       "createdAt": "2026-03-05 13:07:33",
-      "hot": 171
+      "hot": 285
     },
     {
       "title": "The L in \"LLM\" Stands for Lying",
-      "summary": "142 comments",
+      "summary": "316 comments",
       "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
       "createdAt": "2026-03-05 12:02:32",
-      "hot": 258
-    },
-    {
-      "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
-      "summary": "18 comments",
-      "url": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
-      "createdAt": "2026-03-05 15:57:25",
-      "hot": 57
-    },
-    {
-      "title": "Poor Man's Polaroid",
-      "summary": "9 comments",
-      "url": "https://boxart.lt/blog/poor_mans_polaroid",
-      "createdAt": "2026-03-05 15:44:33",
-      "hot": 47
-    },
-    {
-      "title": "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
-      "summary": "10 comments",
-      "url": "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html",
-      "createdAt": "2026-03-03 10:49:22",
-      "hot": 54
-    },
-    {
-      "title": "Building a new Flash",
-      "summary": "173 comments",
-      "url": "https://bill.newgrounds.com/news/post/1607118",
-      "createdAt": "2026-03-05 04:16:03",
-      "hot": 564
-    },
-    {
-      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
-      "summary": "78 comments",
-      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-      "createdAt": "2026-03-02 19:51:57",
-      "hot": 103
+      "hot": 495
     },
     {
       "title": "World-first gigabit laser link between aircraft and geostationary satellite",
-      "summary": "5 comments",
+      "summary": "36 comments",
       "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
       "createdAt": "2026-03-02 00:49:46",
-      "hot": 22
+      "hot": 87
     },
     {
-      "title": "No right to relicense this project",
-      "summary": "144 comments",
-      "url": "https://github.com/chardet/chardet/issues/327",
-      "createdAt": "2026-03-05 16:37:51",
-      "hot": 225
-    },
-    {
-      "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
-      "summary": "12 comments",
-      "url": "https://netbsd-jails.petermann-digital.de/",
-      "createdAt": "2026-03-05 15:23:40",
-      "hot": 38
-    },
-    {
-      "title": "Something is afoot in the land of Qwen",
-      "summary": "302 comments",
-      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-      "createdAt": "2026-03-04 23:55:34",
-      "hot": 693
-    },
-    {
-      "title": "MacBook Neo",
-      "summary": "2114 comments",
-      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
-      "createdAt": "2026-03-04 22:16:41",
-      "hot": 1807
-    },
-    {
-      "title": "Earth Garden: Field Recordings Around the World",
-      "summary": "4 comments",
-      "url": "https://earth-garden.alen.ro/",
-      "createdAt": "2026-03-04 07:07:02",
-      "hot": 10
-    },
-    {
-      "title": "OpenBSD on SGI: A Rollercoaster Story",
-      "summary": "1 comments",
-      "url": "http://miod.online.fr/software/openbsd/stories/sgiall.html",
-      "createdAt": "2026-03-05 14:16:36",
+      "title": "The Man Who Broke into Jail",
+      "summary": "10 comments",
+      "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+      "createdAt": "2026-03-04 07:09:21",
       "hot": 25
     },
     {
-      "title": "Show HN: Poppy – A simple app to stay intentional with relationships",
-      "summary": "46 comments",
-      "url": "https://poppy-connection-keeper.netlify.app/",
-      "createdAt": "2026-03-05 11:56:38",
-      "hot": 115
+      "title": "Intelligence is a commodity. Context is the real AI Moat",
+      "summary": "4 comments",
+      "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
+      "createdAt": "2026-03-01 17:04:19",
+      "hot": 40
+    },
+    {
+      "title": "Poor Man's Polaroid",
+      "summary": "42 comments",
+      "url": "https://boxart.lt/blog/poor_mans_polaroid",
+      "createdAt": "2026-03-05 15:44:33",
+      "hot": 122
+    },
+    {
+      "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+      "summary": "35 comments",
+      "url": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+      "createdAt": "2026-03-05 15:57:25",
+      "hot": 99
+    },
+    {
+      "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+      "summary": "143 comments",
+      "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "createdAt": "2026-03-02 19:51:57",
+      "hot": 166
+    },
+    {
+      "title": "Building a new Flash",
+      "summary": "209 comments",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "createdAt": "2026-03-05 04:16:03",
+      "hot": 639
+    },
+    {
+      "title": "Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king",
+      "summary": "31 comments",
+      "url": "https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html",
+      "createdAt": "2026-03-03 10:49:22",
+      "hot": 101
+    },
+    {
+      "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+      "summary": "16 comments",
+      "url": "https://netbsd-jails.petermann-digital.de/",
+      "createdAt": "2026-03-05 15:23:40",
+      "hot": 69
+    },
+    {
+      "title": "Billy bookshelves as a retro motherboard \"rack\"",
+      "summary": "31 comments",
+      "url": "https://rubenerd.com/billy-bookcase-as-a-retro-motherboard-rack/",
+      "createdAt": "2026-03-01 16:24:31",
+      "hot": 40
+    },
+    {
+      "title": "Something is afoot in the land of Qwen",
+      "summary": "319 comments",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "createdAt": "2026-03-04 23:55:34",
+      "hot": 748
+    },
+    {
+      "title": "OpenBSD on SGI: A Rollercoaster Story",
+      "summary": "2 comments",
+      "url": "http://miod.online.fr/software/openbsd/stories/sgiall.html",
+      "createdAt": "2026-03-05 14:16:36",
+      "hot": 61
+    },
+    {
+      "title": "The IRIX 6.5.7M (sgi) source code",
+      "summary": "7 comments",
+      "url": "https://github.com/calmsacibis995/irix-657m-src",
+      "createdAt": "2026-03-05 23:07:20",
+      "hot": 17
+    },
+    {
+      "title": "MacBook Neo",
+      "summary": "2174 comments",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "createdAt": "2026-03-04 22:16:41",
+      "hot": 1873
+    },
+    {
+      "title": "No right to relicense this project",
+      "summary": "244 comments",
+      "url": "https://github.com/chardet/chardet/issues/327",
+      "createdAt": "2026-03-05 16:37:51",
+      "hot": 378
+    },
+    {
+      "title": "Earth Garden: Field Recordings Around the World",
+      "summary": "10 comments",
+      "url": "https://earth-garden.alen.ro/",
+      "createdAt": "2026-03-04 07:07:02",
+      "hot": 33
     },
     {
       "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
-      "summary": "148 comments",
+      "summary": "210 comments",
       "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
       "createdAt": "2026-03-05 05:11:15",
-      "hot": 151
-    },
-    {
-      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-      "summary": "336 comments",
-      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-      "createdAt": "2026-03-05 07:51:10",
-      "hot": 629
-    },
-    {
-      "title": "You Just Reveived",
-      "summary": "56 comments",
-      "url": "https://dylan.gr/1772520728",
-      "createdAt": "2026-03-05 12:37:43",
-      "hot": 183
-    },
-    {
-      "title": "Dulce et Decorum Est (1921)",
-      "summary": "77 comments",
-      "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
-      "createdAt": "2026-03-05 05:41:40",
-      "hot": 146
-    },
-    {
-      "title": "Relax NG is a schema language for XML (2014)",
-      "summary": "17 comments",
-      "url": "https://relaxng.org/",
-      "createdAt": "2026-03-05 14:01:18",
-      "hot": 30
-    },
-    {
-      "title": "Picking Up a Zillion Pieces of Litter",
-      "summary": "47 comments",
-      "url": "https://www.sixstepstobetterhealth.com/litter.html",
-      "createdAt": "2026-03-02 08:40:52",
-      "hot": 139
+      "hot": 193
     },
     {
       "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
-      "summary": "91 comments",
+      "summary": "158 comments",
       "url": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
       "createdAt": "2026-03-05 10:00:07",
-      "hot": 91
-    },
-    {
-      "title": "Humans 40k yrs ago developed a system of conventional signs",
-      "summary": "54 comments",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
-      "createdAt": "2026-03-05 00:20:36",
       "hot": 134
     },
     {
-      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+      "title": "Rising carbon dioxide levels now detected in human blood",
       "summary": "85 comments",
-      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
-      "createdAt": "2026-03-05 05:56:20",
-      "hot": 117
+      "url": "https://phys.org/news/2026-02-carbon-dioxide-human-blood.html",
+      "createdAt": "2026-03-05 22:34:45",
+      "hot": 82
     },
     {
-      "title": "Moss is a pixel canvas where every brush is a tiny program",
-      "summary": "28 comments",
-      "url": "https://www.moss.town/",
-      "createdAt": "2026-03-04 18:21:13",
-      "hot": 272
+      "title": "Picking Up a Zillion Pieces of Litter",
+      "summary": "63 comments",
+      "url": "https://www.sixstepstobetterhealth.com/litter.html",
+      "createdAt": "2026-03-02 08:40:52",
+      "hot": 180
     },
     {
-      "title": "What Python’s asyncio primitives get wrong about shared state",
-      "summary": "38 comments",
-      "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-      "createdAt": "2026-03-05 10:55:57",
-      "hot": 58
-    },
-    {
-      "title": "“It turns out” (2010)",
+      "title": "Dulce et Decorum Est (1921)",
       "summary": "89 comments",
-      "url": "https://jsomers.net/blog/it-turns-out",
-      "createdAt": "2026-03-04 22:52:46",
-      "hot": 289
-    },
-    {
-      "title": "Qwen3.5 Fine-Tuning Guide",
-      "summary": "85 comments",
-      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
-      "createdAt": "2026-03-04 20:04:31",
-      "hot": 352
+      "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+      "createdAt": "2026-03-05 05:41:40",
+      "hot": 178
     }
   ]
 }
