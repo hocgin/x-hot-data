@@ -649,6 +649,222 @@
           "hot": 13
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772685495326",
+      "lastUpdatedAt": "2026-03-05 12:38:15",
+      "data": [
+        {
+          "title": "Google Workspace CLI",
+          "summary": "109 comments",
+          "url": "https://github.com/googleworkspace/cli",
+          "createdAt": "2026-03-05 08:22:09",
+          "hot": 262
+        },
+        {
+          "title": "MacBook Neo",
+          "summary": "1952 comments",
+          "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+          "createdAt": "2026-03-04 22:16:41",
+          "hot": 1656
+        },
+        {
+          "title": "Building a new Flash",
+          "summary": "117 comments",
+          "url": "https://bill.newgrounds.com/news/post/1607118",
+          "createdAt": "2026-03-05 04:16:03",
+          "hot": 413
+        },
+        {
+          "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+          "summary": "182 comments",
+          "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+          "createdAt": "2026-03-05 07:51:10",
+          "hot": 366
+        },
+        {
+          "title": "What Python's asyncio primitives get wrong about shared state",
+          "summary": "7 comments",
+          "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+          "createdAt": "2026-03-05 10:55:57",
+          "hot": 12
+        },
+        {
+          "title": "Something is afoot in the land of Qwen",
+          "summary": "259 comments",
+          "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+          "createdAt": "2026-03-04 23:55:34",
+          "hot": 582
+        },
+        {
+          "title": "Chaos and Dystopian news for the dead internet survivors",
+          "summary": "25 comments",
+          "url": "https://www.fubardaily.com",
+          "createdAt": "2026-03-05 09:50:51",
+          "hot": 56
+        },
+        {
+          "title": "Malm Whale",
+          "summary": "3 comments",
+          "url": "https://www.atlasobscura.com/places/malm-whale",
+          "createdAt": "2026-03-01 11:56:42",
+          "hot": 14
+        },
+        {
+          "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+          "summary": "33 comments",
+          "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+          "createdAt": "2026-03-05 05:56:20",
+          "hot": 70
+        },
+        {
+          "title": "Moss is a pixel canvas where every brush is a tiny program",
+          "summary": "25 comments",
+          "url": "https://www.moss.town/",
+          "createdAt": "2026-03-04 18:21:13",
+          "hot": 210
+        },
+        {
+          "title": "Humans 40k yrs ago developed a system of conventional signs",
+          "summary": "39 comments",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+          "createdAt": "2026-03-05 00:20:36",
+          "hot": 83
+        },
+        {
+          "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+          "summary": "12 comments",
+          "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+          "createdAt": "2026-03-05 10:33:58",
+          "hot": 53
+        },
+        {
+          "title": "The View from RSS",
+          "summary": "26 comments",
+          "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+          "createdAt": "2026-03-05 04:19:43",
+          "hot": 92
+        },
+        {
+          "title": "Picking Up a Zillion Pieces of Litter",
+          "summary": "30 comments",
+          "url": "https://www.sixstepstobetterhealth.com/litter.html",
+          "createdAt": "2026-03-02 08:40:52",
+          "hot": 60
+        },
+        {
+          "title": "“It turns out” (2010)",
+          "summary": "83 comments",
+          "url": "https://jsomers.net/blog/it-turns-out",
+          "createdAt": "2026-03-04 22:52:46",
+          "hot": 261
+        },
+        {
+          "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+          "summary": "26 comments",
+          "url": "https://qlabs.sh/slowrun",
+          "createdAt": "2026-03-05 01:56:04",
+          "hot": 136
+        },
+        {
+          "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+          "summary": "81 comments",
+          "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+          "createdAt": "2026-03-05 05:11:15",
+          "hot": 98
+        },
+        {
+          "title": "Was Windows 1.0's lack of overlapping windows a legal or a technical matter?",
+          "summary": "42 comments",
+          "url": "https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter",
+          "createdAt": "2026-03-05 04:15:06",
+          "hot": 66
+        },
+        {
+          "title": "Qwen3.5 Fine-Tuning Guide",
+          "summary": "70 comments",
+          "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+          "createdAt": "2026-03-04 20:04:31",
+          "hot": 303
+        },
+        {
+          "title": "An interactive map of Flock Cams",
+          "summary": "198 comments",
+          "url": "https://deflock.org/map#map=5/37.125286/-96.284180",
+          "createdAt": "2026-03-05 02:50:45",
+          "hot": 544
+        },
+        {
+          "title": "Raspberry Pi Pico as AM Radio Transmitter",
+          "summary": "31 comments",
+          "url": "https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter",
+          "createdAt": "2026-03-01 08:26:43",
+          "hot": 83
+        },
+        {
+          "title": "A bit of fluid mechanics from scratch not from scratch",
+          "summary": "13 comments",
+          "url": "https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html",
+          "createdAt": "2026-03-02 22:52:52",
+          "hot": 39
+        },
+        {
+          "title": "Glaze by Raycast",
+          "summary": "125 comments",
+          "url": "https://www.glazeapp.com/",
+          "createdAt": "2026-03-04 21:21:31",
+          "hot": 205
+        },
+        {
+          "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
+          "summary": "38 comments",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
+          "createdAt": "2026-03-05 10:00:07",
+          "hot": 47
+        },
+        {
+          "title": "Libre Solar – Open Hardware for Renewable Energy",
+          "summary": "64 comments",
+          "url": "https://libre.solar",
+          "createdAt": "2026-03-01 17:01:05",
+          "hot": 228
+        },
+        {
+          "title": "Daemon (2006)",
+          "summary": "8 comments",
+          "url": "https://en.wikipedia.org/wiki/Daemon_(novel)",
+          "createdAt": "2026-03-05 01:08:46",
+          "hot": 32
+        },
+        {
+          "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+          "summary": "0 comments",
+          "url": "https://roboflow.com/careers",
+          "createdAt": "2026-03-05 01:49:44",
+          "hot": 1
+        },
+        {
+          "title": "MyFirst Kids Watch Hacked. Access to Camera and Microphone",
+          "summary": "33 comments",
+          "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249",
+          "createdAt": "2026-03-04 21:04:53",
+          "hot": 123
+        },
+        {
+          "title": "Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure",
+          "summary": "0 comments",
+          "url": "https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md",
+          "createdAt": "2026-03-01 12:05:24",
+          "hot": 3
+        },
+        {
+          "title": "Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete",
+          "summary": "0 comments",
+          "url": "https://arxiv.org/abs/2602.22874",
+          "createdAt": "2026-03-01 01:48:45",
+          "hot": 22
+        }
+      ]
     }
   ]
 }
