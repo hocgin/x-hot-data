@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-07",
+  "createdAt": "2026-03-07 00:15:52",
+  "data": [
+    {
+      "id": "hackernews-top.1772813752965",
+      "lastUpdatedAt": "2026-03-07 00:15:52",
+      "data": [
+        {
+          "title": "Global Warming Has Accelerated Significantly",
+          "summary": "255 comments",
+          "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
+          "createdAt": "2026-03-06 22:10:03",
+          "hot": 353
+        },
+        {
+          "title": "Workers who love 'synergizing paradigms' might be bad at their jobs",
+          "summary": "126 comments",
+          "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+          "createdAt": "2026-03-06 21:30:54",
+          "hot": 234
+        },
+        {
+          "title": "US economy unexpectedly sheds 92,000 jobs in February",
+          "summary": "298 comments",
+          "url": "https://www.bbc.com/news/articles/cjd98091g28o",
+          "createdAt": "2026-03-06 22:04:18",
+          "hot": 291
+        },
+        {
+          "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+          "summary": "25 comments",
+          "url": "https://github.com/moongate-community/moongatev2",
+          "createdAt": "2026-03-06 22:22:59",
+          "hot": 49
+        },
+        {
+          "title": "CT Scans of Health Wearables",
+          "summary": "4 comments",
+          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+          "createdAt": "2026-03-06 22:16:06",
+          "hot": 41
+        },
+        {
+          "title": "Payphone Go",
+          "summary": "27 comments",
+          "url": "https://walzr.com/payphone-go/",
+          "createdAt": "2026-03-03 00:45:43",
+          "hot": 92
+        },
+        {
+          "title": "Analytic Fog Rendering with Volumetric Primitives",
+          "summary": "0 comments",
+          "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+          "createdAt": "2026-03-06 00:12:44",
+          "hot": 30
+        },
+        {
+          "title": "LibreSprite – open-source pixel art editor",
+          "summary": "60 comments",
+          "url": "https://libresprite.github.io/",
+          "createdAt": "2026-03-06 17:22:00",
+          "hot": 147
+        },
+        {
+          "title": "System76 on Age Verification Laws",
+          "summary": "433 comments",
+          "url": "https://blog.system76.com/post/system76-on-age-verification/",
+          "createdAt": "2026-03-06 12:12:26",
+          "hot": 652
+        },
+        {
+          "title": "GPT-5.4",
+          "summary": "732 comments",
+          "url": "https://openai.com/index/introducing-gpt-5-4/",
+          "createdAt": "2026-03-06 02:08:10",
+          "hot": 933
+        },
+        {
+          "title": "Hardening Firefox with Anthropic's Red Team",
+          "summary": "57 comments",
+          "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+          "createdAt": "2026-03-06 19:53:18",
+          "hot": 182
+        },
+        {
+          "title": "10% of Firefox crashes are caused by bitflips",
+          "summary": "388 comments",
+          "url": "https://mas.to/@gabrielesvelto/116171750653898304",
+          "createdAt": "2026-03-05 03:58:24",
+          "hot": 801
+        },
+        {
+          "title": "Show HN: Interactive 3D globe of EU shipping emissions",
+          "summary": "2 comments",
+          "url": "https://seafloor.pages.dev",
+          "createdAt": "2026-03-06 22:12:45",
+          "hot": 7
+        },
+        {
+          "title": "\"I'm obviously taking a risk here by advertising emoji directly.\"",
+          "summary": "14 comments",
+          "url": "https://unsung.aresluna.org/im-obviously-taking-a-risk-here-by-advertising-emoji-directly/",
+          "createdAt": "2026-03-06 16:13:28",
+          "hot": 56
+        },
+        {
+          "title": "GPL upgrades via section 14 proxy delegation",
+          "summary": "35 comments",
+          "url": "https://runxiyu.org/comp/gplproxy/",
+          "createdAt": "2026-03-06 16:41:51",
+          "hot": 87
+        },
+        {
+          "title": "Open Camera is a FOSS Camera App for Android",
+          "summary": "0 comments",
+          "url": "https://opencamera.org.uk/",
+          "createdAt": "2026-03-02 23:46:51",
+          "hot": 6
+        },
+        {
+          "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+          "summary": "171 comments",
+          "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+          "createdAt": "2026-03-06 00:22:01",
+          "hot": 556
+        },
+        {
+          "title": "Xous security focused open source on 22nm custom silicon",
+          "summary": "4 comments",
+          "url": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support",
+          "createdAt": "2026-03-03 03:22:23",
+          "hot": 28
+        },
+        {
+          "title": "The Brand Age",
+          "summary": "328 comments",
+          "url": "https://paulgraham.com/brandage.html",
+          "createdAt": "2026-03-06 01:44:10",
+          "hot": 412
+        },
+        {
+          "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+          "summary": "43 comments",
+          "url": "https://dev.moment.com/",
+          "createdAt": "2026-03-06 12:15:40",
+          "hot": 136
+        },
+        {
+          "title": "Stardex (YC S21) is hiring customer success engineers",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+          "createdAt": "2026-03-06 15:02:08",
+          "hot": 1
+        },
+        {
+          "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+          "summary": "6 comments",
+          "url": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
+          "createdAt": "2026-03-03 22:55:57",
+          "hot": 28
+        },
+        {
+          "title": "Image manipulation with convolution using Julia",
+          "summary": "3 comments",
+          "url": "https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5",
+          "createdAt": "2026-03-02 23:31:06",
+          "hot": 30
+        },
+        {
+          "title": "I Dropped Our Production Database and Now Pay 10% More for AWS",
+          "summary": "22 comments",
+          "url": "https://alexeyondata.substack.com/p/how-i-dropped-our-production-database",
+          "createdAt": "2026-03-06 22:17:01",
+          "hot": 24
+        },
+        {
+          "title": "Good software knows when to stop",
+          "summary": "254 comments",
+          "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+          "createdAt": "2026-03-05 21:52:43",
+          "hot": 505
+        },
+        {
+          "title": "Labor market impacts of AI: A new measure and early evidence",
+          "summary": "421 comments",
+          "url": "https://www.anthropic.com/research/labor-market-impacts",
+          "createdAt": "2026-03-06 06:55:01",
+          "hot": 273
+        },
+        {
+          "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+          "summary": "88 comments",
+          "url": "https://406.fail/",
+          "createdAt": "2026-03-06 06:04:59",
+          "hot": 254
+        },
+        {
+          "title": "Where things stand with the Department of War",
+          "summary": "659 comments",
+          "url": "https://www.anthropic.com/news/where-stand-department-war",
+          "createdAt": "2026-03-06 08:40:41",
+          "hot": 560
+        },
+        {
+          "title": "Screeching Sound of Peeling Tape",
+          "summary": "9 comments",
+          "url": "https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx",
+          "createdAt": "2026-03-02 22:39:36",
+          "hot": 48
+        },
+        {
+          "title": "Wikipedia was in read-only mode following mass admin account compromise",
+          "summary": "370 comments",
+          "url": "https://www.wikimediastatus.net",
+          "createdAt": "2026-03-06 00:04:54",
+          "hot": 1013
+        }
+      ]
+    }
+  ]
+}
