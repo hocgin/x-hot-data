@@ -865,6 +865,222 @@
           "hot": 90
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772784876384",
+      "lastUpdatedAt": "2026-03-06 16:14:36",
+      "data": [
+        {
+          "title": "System76 on Age Verification Laws",
+          "summary": "131 comments",
+          "url": "https://blog.system76.com/post/system76-on-age-verification/",
+          "createdAt": "2026-03-06 12:12:26",
+          "hot": 222
+        },
+        {
+          "title": "GPT-5.4",
+          "summary": "647 comments",
+          "url": "https://openai.com/index/introducing-gpt-5-4/",
+          "createdAt": "2026-03-06 02:08:10",
+          "hot": 797
+        },
+        {
+          "title": "10% of Firefox crashes are caused by bitflips",
+          "summary": "270 comments",
+          "url": "https://mas.to/@gabrielesvelto/116171750653898304",
+          "createdAt": "2026-03-05 03:58:24",
+          "hot": 539
+        },
+        {
+          "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+          "summary": "11 comments",
+          "url": "https://dev.moment.com/",
+          "createdAt": "2026-03-06 12:15:40",
+          "hot": 42
+        },
+        {
+          "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+          "summary": "99 comments",
+          "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+          "createdAt": "2026-03-06 00:22:01",
+          "hot": 401
+        },
+        {
+          "title": "Where things stand with the Department of War",
+          "summary": "415 comments",
+          "url": "https://www.anthropic.com/news/where-stand-department-war",
+          "createdAt": "2026-03-06 08:40:41",
+          "hot": 410
+        },
+        {
+          "title": "Labor market impacts of AI: A new measure and early evidence",
+          "summary": "230 comments",
+          "url": "https://www.anthropic.com/research/labor-market-impacts",
+          "createdAt": "2026-03-06 06:55:01",
+          "hot": 171
+        },
+        {
+          "title": "Stardex (YC S21) is hiring customer success engineers",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+          "createdAt": "2026-03-06 15:02:08",
+          "hot": 1
+        },
+        {
+          "title": "The Brand Age",
+          "summary": "263 comments",
+          "url": "https://paulgraham.com/brandage.html",
+          "createdAt": "2026-03-06 01:44:10",
+          "hot": 326
+        },
+        {
+          "title": "Good software knows when to stop",
+          "summary": "218 comments",
+          "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+          "createdAt": "2026-03-05 21:52:43",
+          "hot": 407
+        },
+        {
+          "title": "TeX Live 2026 is available for download now",
+          "summary": "18 comments",
+          "url": "https://www.tug.org/texlive/acquire.html",
+          "createdAt": "2026-03-06 13:20:10",
+          "hot": 48
+        },
+        {
+          "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+          "summary": "182 comments",
+          "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+          "createdAt": "2026-03-04 23:57:29",
+          "hot": 446
+        },
+        {
+          "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+          "summary": "55 comments",
+          "url": "https://406.fail/",
+          "createdAt": "2026-03-06 06:04:59",
+          "hot": 166
+        },
+        {
+          "title": "Wikipedia was in read-only mode following mass admin account compromise",
+          "summary": "332 comments",
+          "url": "https://www.wikimediastatus.net",
+          "createdAt": "2026-03-06 00:04:54",
+          "hot": 952
+        },
+        {
+          "title": "How to install and start using LineageOS on your phone",
+          "summary": "15 comments",
+          "url": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+          "createdAt": "2026-03-06 08:43:47",
+          "hot": 41
+        },
+        {
+          "title": "Hardware hotplug events on Linux, the gory details",
+          "summary": "12 comments",
+          "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+          "createdAt": "2026-03-02 17:26:04",
+          "hot": 139
+        },
+        {
+          "title": "A ternary plot of citrus geneology",
+          "summary": "23 comments",
+          "url": "https://www.jlauf.com/writing/citrus/",
+          "createdAt": "2026-03-04 04:14:03",
+          "hot": 125
+        },
+        {
+          "title": "Nobody ever got fired for using a struct",
+          "summary": "75 comments",
+          "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+          "createdAt": "2026-03-03 07:16:20",
+          "hot": 100
+        },
+        {
+          "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+          "summary": "57 comments",
+          "url": "https://jido.run/blog/jido-2-0-is-here",
+          "createdAt": "2026-03-05 23:48:52",
+          "hot": 276
+        },
+        {
+          "title": "Judge orders government to begin refunding more than $130B in tariffs",
+          "summary": "669 comments",
+          "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+          "createdAt": "2026-03-05 22:05:46",
+          "hot": 916
+        },
+        {
+          "title": "Remotely unlocking an encrypted hard disk",
+          "summary": "61 comments",
+          "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+          "createdAt": "2026-03-06 02:43:59",
+          "hot": 125
+        },
+        {
+          "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+          "summary": "50 comments",
+          "url": "https://alibaba.github.io/page-agent/",
+          "createdAt": "2026-03-06 01:01:47",
+          "hot": 94
+        },
+        {
+          "title": "Screeching Sound of Peeling Tape",
+          "summary": "0 comments",
+          "url": "https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx",
+          "createdAt": "2026-03-02 22:39:36",
+          "hot": 3
+        },
+        {
+          "title": "Hacking Super Mario 64 using covering spaces",
+          "summary": "6 comments",
+          "url": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
+          "createdAt": "2026-03-02 15:56:43",
+          "hot": 32
+        },
+        {
+          "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+          "summary": "37 comments",
+          "url": "https://news.ycombinator.com/item?id=47264741",
+          "createdAt": "2026-03-06 01:43:31",
+          "hot": 45
+        },
+        {
+          "title": "AI and the Ship of Theseus",
+          "summary": "99 comments",
+          "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+          "createdAt": "2026-03-05 23:49:45",
+          "hot": 89
+        },
+        {
+          "title": "Data Does Not Speak to You",
+          "summary": "11 comments",
+          "url": "https://tantaman.com/2026-03-02-data-doesnt-speak.html",
+          "createdAt": "2026-03-03 20:05:08",
+          "hot": 7
+        },
+        {
+          "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+          "summary": "0 comments",
+          "url": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+          "createdAt": "2026-03-06 11:56:52",
+          "hot": 7
+        },
+        {
+          "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+          "summary": "68 comments",
+          "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+          "createdAt": "2026-03-02 00:49:46",
+          "hot": 177
+        },
+        {
+          "title": "OpenTitan Shipping in Production",
+          "summary": "19 comments",
+          "url": "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html",
+          "createdAt": "2026-03-06 02:50:33",
+          "hot": 103
+        }
+      ]
     }
   ]
 }
