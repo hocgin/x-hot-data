@@ -62,6 +62,62 @@
           "createdAt": "2026-03-08 00:08:21"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772914099078",
+      "lastUpdatedAt": "2026-03-08 04:08:19",
+      "data": [
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "GoogleCloudPlatform/generative-ai",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "agentjido/jido",
+          "url": "https://github.com/agentjido/jido",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "createdAt": "2026-03-08 04:07:49"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "createdAt": "2026-03-08 04:07:49"
+        }
+      ]
     }
   ]
 }
