@@ -184,6 +184,67 @@
           "createdAt": "2026-03-07 08:34:20"
         }
       ]
+    },
+    {
+      "id": "github-trending.1772858096864",
+      "lastUpdatedAt": "2026-03-07 12:34:56",
+      "data": [
+        {
+          "title": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "Ed1s0nZ/CyberStrikeAI",
+          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "aidenybai/react-grab",
+          "url": "https://github.com/aidenybai/react-grab",
+          "createdAt": "2026-03-07 12:34:25"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-07 12:34:25"
+        }
+      ]
     }
   ]
 }

@@ -1489,6 +1489,502 @@
           "hot": 70
         }
       ]
+    },
+    {
+      "id": "smzdm-hot.1772858096859",
+      "lastUpdatedAt": "2026-03-07 12:34:56",
+      "data": [
+        {
+          "title": "今日必买：一加 15 5G手机 第五代骁龙8至尊版",
+          "url": "https://www.smzdm.com/p/169774401/",
+          "imageUrl": "https://y.zdmimg.com/202512/03/6930031bb05883225.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 1
+        },
+        {
+          "title": "OPPO Find X9 Pro 旗舰手机 追光红 16GB+512GB",
+          "url": "https://www.smzdm.com/p/169778062/",
+          "imageUrl": "https://y.zdmimg.com/202603/07/69ab7dc6f93da7841.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 2
+        },
+        {
+          "title": "百亿补贴：酷态科 140W/100W快充 充电宝",
+          "url": "https://www.smzdm.com/p/169770956/",
+          "imageUrl": "https://y.zdmimg.com/202511/05/690ae3f41d07f2769.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 3
+        },
+        {
+          "title": "国家补贴：iQOO vivo iQOO Neo11 16GB+512GB 驰光白 2K 144Hz珠峰屏 骁龙8至尊版 游戏电竞手机",
+          "url": "https://www.smzdm.com/p/169770572/",
+          "imageUrl": "https://y.zdmimg.com/202512/03/6930033c1a13b1564.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 4
+        },
+        {
+          "title": "百亿补贴：酷态科 PB200 15号电能柱SE 移动电源 银色 20000mAh Type-C 100W",
+          "url": "https://www.smzdm.com/p/169770835/",
+          "imageUrl": "https://y.zdmimg.com/202507/08/686cbada953ba2428.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 5
+        },
+        {
+          "title": "长城 NVMe协议 SSD固态硬盘",
+          "url": "https://www.smzdm.com/p/169771512/",
+          "imageUrl": "https://y.zdmimg.com/202511/10/6910d15c6260c3822.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 6
+        },
+        {
+          "title": "HKC 27英寸G27H3原生240HZ电竞显示器IPS硬件低蓝光HDR400壁挂屏幕",
+          "url": "https://www.smzdm.com/p/169770636/",
+          "imageUrl": "https://y.zdmimg.com/202603/07/69ab001a002903688.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 7
+        },
+        {
+          "title": "PLUS会员：Apple AI/MacBook Air13英寸M5 (10+8核) 16G 512G星光色笔记本电脑MDHA4CH/A",
+          "url": "https://www.smzdm.com/p/169777304/",
+          "imageUrl": "https://y.zdmimg.com/202603/06/69aa9b99beb3c987.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 8
+        },
+        {
+          "title": "百亿补贴：酷态科 充电宝 CP24电能块 自带线40W 20000毫安时 星云灰",
+          "url": "https://www.smzdm.com/p/169786156/",
+          "imageUrl": "https://y.zdmimg.com/202507/07/686be7a574f303986.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 9
+        },
+        {
+          "title": "ThinkPad ThinkBook 14 G8+ AHP 32G内存 笔记本电脑  星耀白 R7-255",
+          "url": "https://www.smzdm.com/p/169771582/",
+          "imageUrl": "https://y.zdmimg.com/202601/30/697c468c6eabf8017.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 10
+        },
+        {
+          "title": "黑峡谷 M3PRO三模机械键盘Gasket结构87键配列凯华BOX轴热插拔背光",
+          "url": "https://www.smzdm.com/p/169769379/",
+          "imageUrl": "https://y.zdmimg.com/202603/07/69aafba8044379356.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 11
+        },
+        {
+          "title": "萨勒芬妮 AI翻译开放式耳机",
+          "url": "https://www.smzdm.com/p/169787061/",
+          "imageUrl": "https://y.zdmimg.com/202603/05/69a8e72a0adac98.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 12
+        },
+        {
+          "title": "漫步者 头戴式 主动降噪 蓝牙耳机 送耳机包",
+          "url": "https://www.smzdm.com/p/169789641/",
+          "imageUrl": "https://y.zdmimg.com/202512/17/694247793964e3774.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 13
+        },
+        {
+          "title": "Apple AI/MacBook Air13英寸M5 (10+8核) 16G 512G银色笔记本电脑MDH74CH/A",
+          "url": "https://www.smzdm.com/p/169777040/",
+          "imageUrl": "https://y.zdmimg.com/202603/06/69aa9b99beb3c987.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 14
+        },
+        {
+          "title": "京电造甄 磁吸无线充 充电宝+插头+无线磁吸充+自带线  祖母绿 10000mAh",
+          "url": "https://www.smzdm.com/p/169771296/",
+          "imageUrl": "https://y.zdmimg.com/202507/10/686e9f96e3a839935.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 15
+        },
+        {
+          "title": "萨勒芬妮 华强北蓝牙耳机  通话降噪丨空间音频 丨ANC主动降噪丨杜比环绕音效",
+          "url": "https://www.smzdm.com/p/169787034/",
+          "imageUrl": "https://y.zdmimg.com/202603/07/69ab850486e432.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 16
+        },
+        {
+          "title": "联想 小新14 14英寸轻薄笔记本电脑（锐龙R7-H255 16G 512G 高色域 400nit 120Hz高刷)",
+          "url": "https://www.smzdm.com/p/169771280/",
+          "imageUrl": "https://y.zdmimg.com/202601/13/6965f786a8b709898.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 17
+        },
+        {
+          "title": "国家补贴：OPPO Find X9 Pro 5G手机 12GB+256GB 绒砂钛",
+          "url": "https://www.smzdm.com/p/169771076/",
+          "imageUrl": "https://y.zdmimg.com/202512/18/6943bbb3e79fe1252.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 18
+        },
+        {
+          "title": "国家补贴：小米 15 5G手机 16GB+512GB 浅草绿 骁龙8至尊版",
+          "url": "https://www.smzdm.com/p/169770250/",
+          "imageUrl": "https://y.zdmimg.com/202507/25/6882f455acb445884.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 19
+        },
+        {
+          "title": "Apple AI/MacBook Air13英寸M5 (10+8核) 16G 512G午夜色笔记本电脑MDHE4CH/A",
+          "url": "https://www.smzdm.com/p/169777382/",
+          "imageUrl": "https://y.zdmimg.com/202603/06/69aa9ca241e141995.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 20
+        },
+        {
+          "title": "一加 OPPO 一加 Turbo 6 手机",
+          "url": "https://www.smzdm.com/p/169774550/",
+          "imageUrl": "https://y.zdmimg.com/202603/06/69aa5275d80f97330.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 21
+        },
+        {
+          "title": "国家补贴：真我 GT8 5G手机 16GB+512GB 怀特",
+          "url": "https://www.smzdm.com/p/169769941/",
+          "imageUrl": "https://y.zdmimg.com/202512/18/6943caee5efc65556.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 22
+        },
+        {
+          "title": "今日必买：荣耀 Magic8 Pro 5G手机 16GB+512GB 雪域白 第五代骁龙8至尊版",
+          "url": "https://www.smzdm.com/p/169770367/",
+          "imageUrl": "https://y.zdmimg.com/202512/03/69300325718596921.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 23
+        },
+        {
+          "title": "萨勒芬妮 蓝牙耳机   超长续航丨HIFi音效",
+          "url": "https://www.smzdm.com/p/169787789/",
+          "imageUrl": "https://y.zdmimg.com/202603/05/69a91eb850e643495.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 24
+        },
+        {
+          "title": "必看促销：用科沃斯清洁机器人 为“她”解锁惬意生活密码",
+          "url": "https://www.smzdm.com/p/169491031/",
+          "imageUrl": "https://y.zdmimg.com/202603/03/69a68731b60ec9733.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 25
+        },
+        {
+          "title": "今日必买：鲜京采 鲜奶油芝士蛋糕 6寸 400g",
+          "url": "https://www.smzdm.com/p/169769665/",
+          "imageUrl": "https://qny.smzdm.com/202310/30/653fd27671abf537.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 26
+        },
+        {
+          "title": "值友专享：京鲜生 每盒蓝莓/每斤西梅6元多！当季云南蓝莓（15mm+）125g*12盒+智利西梅1斤 礼盒装",
+          "url": "https://www.smzdm.com/p/169653440/",
+          "imageUrl": "https://y.zdmimg.com/202603/05/69a8ca8f658c16900.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 27
+        },
+        {
+          "title": "今日必买：李锦记 约4.7kg 薄盐生抽原味鲜1.52kg*2+金蚝油840g*2  提鲜调味 酱油",
+          "url": "https://www.smzdm.com/p/169752890/",
+          "imageUrl": "https://y.zdmimg.com/202510/27/68ff3dc4ce57d5280.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 28
+        },
+        {
+          "title": "京鲜生 每斤5元！脆甜爽口！正宗千禧圣女果，咬开就爆汁，谁吃谁迷糊！净重5斤（每粒8g+）",
+          "url": "https://www.smzdm.com/p/169673683/",
+          "imageUrl": "https://y.zdmimg.com/202506/04/683fb2f1495a957.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 29
+        },
+        {
+          "title": "今日必买：京鲜生 无籽麒麟西瓜 净重7-9斤 1粒装",
+          "url": "https://www.smzdm.com/p/169716985/",
+          "imageUrl": "https://qny.smzdm.com/202406/03/665d3626a7ace616.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 30
+        },
+        {
+          "title": "今日必买：COLLGENE 胶原蛋白大膜王28颗+硅胶刷",
+          "url": "https://www.smzdm.com/p/169750070/",
+          "imageUrl": "https://qny.smzdm.com/202203/15/623046e822641505.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 31
+        },
+        {
+          "title": "限地区、今日必买：李锦记 薄盐生抽原味鲜1.52kg*2+金蚝油840g*2",
+          "url": "https://www.smzdm.com/p/169764331/",
+          "imageUrl": "https://y.zdmimg.com/202510/27/68ff3dc4ce57d5280.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 32
+        },
+        {
+          "title": "今日必买：福临门 浓香压榨一级 花生油 6.18L",
+          "url": "https://www.smzdm.com/p/169769636/",
+          "imageUrl": "https://y.zdmimg.com/202510/27/68ff427c258d47139.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 33
+        },
+        {
+          "title": "移动端、京东百亿补贴：佳沃 云南蓝莓14mm+ 12盒原箱装 约125g/盒 新鲜水果礼盒",
+          "url": "https://www.smzdm.com/p/169719020/",
+          "imageUrl": "https://y.zdmimg.com/202512/07/6934d8bdb1e045754.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 34
+        },
+        {
+          "title": "今日必买：京鲜生 水果车力度升级！当季四川春见耙耙柑 净重5斤装（可搭配不知火丑橘、沃柑、果冻橙、人参果、佳沃蓝莓）",
+          "url": "https://www.smzdm.com/p/169746947/",
+          "imageUrl": "https://y.zdmimg.com/202511/15/691755ea0f7552428.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 35
+        },
+        {
+          "title": "今日必买：敷尔佳 双肽舒缓修护面膜5片（买正送正 共10片）",
+          "url": "https://www.smzdm.com/p/169734474/",
+          "imageUrl": "https://y.zdmimg.com/202509/03/68b7cb9bd3fd8724.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 36
+        },
+        {
+          "title": "今日必买：卫岗 鲜牛奶牛乳屋顶950ml 低温奶巴氏杀菌",
+          "url": "https://www.smzdm.com/p/169651009/",
+          "imageUrl": "https://y.zdmimg.com/202503/13/67d28c4a0c1df8730.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 37
+        },
+        {
+          "title": "PLUS会员：白朔 限时1小时！碗盘餐具整套胖东来同款 9件套",
+          "url": "https://www.smzdm.com/p/169768253/",
+          "imageUrl": "https://y.zdmimg.com/202511/26/692683ed2b0954935.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 38
+        },
+        {
+          "title": "友臣 肉松棒1kg营养早餐",
+          "url": "https://www.smzdm.com/p/169750204/",
+          "imageUrl": "https://y.zdmimg.com/202311/11/654f3ade59a176528.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 39
+        },
+        {
+          "title": "今日必买：鲜京采 |the Roll'ING黑金抹茶瑞士卷500g8片 鲜京采|Roll’ING联名抹茶卷",
+          "url": "https://www.smzdm.com/p/169771562/",
+          "imageUrl": "https://y.zdmimg.com/202505/08/681bd94a7e5058899.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 40
+        },
+        {
+          "title": "今日必买：赫莲娜 HR赫莲娜  高浓度玻色因  黑绷带50ml(加赠同款45ml，相当于到手95ml)",
+          "url": "https://www.smzdm.com/p/169762171/",
+          "imageUrl": "https://y.zdmimg.com/202603/06/69aab42d708846722.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 41
+        },
+        {
+          "title": "值友专享：京鲜生 【产地直供】海南树上熟黑金刚莲雾！脆嫩如梨，水润清甜，夏天的快乐它承包！净重2斤装",
+          "url": "https://www.smzdm.com/p/169652868/",
+          "imageUrl": "https://y.zdmimg.com/202603/05/69a8dbf958f213704.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 42
+        },
+        {
+          "title": "京觅 谷物初产蛋30枚2.6斤 源头直发",
+          "url": "https://www.smzdm.com/p/169762882/",
+          "imageUrl": "https://y.zdmimg.com/202510/30/69036c9b59d771170.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 43
+        },
+        {
+          "title": "今日必买：百丽 26新款 真牛皮商务休闲通勤皮鞋A2323AM6",
+          "url": "https://www.smzdm.com/p/169748472/",
+          "imageUrl": "https://y.zdmimg.com/202601/12/69643983318821908.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 44
+        },
+        {
+          "title": "国家补贴、限地区：PARDUS 碳纤维公路车SUPER SPORT 禧玛诺105变速套件 22速",
+          "url": "https://www.smzdm.com/p/169736386/",
+          "imageUrl": "https://y.zdmimg.com/202510/29/6901e1a7d73f9577.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 45
+        },
+        {
+          "title": "春日限定橘香炸弹！露颂莫斯卡托起泡酒，冷藏后更好喝的清爽快乐水 750ml*2瓶 双支分享装",
+          "url": "https://www.smzdm.com/p/169499387/",
+          "imageUrl": "https://y.zdmimg.com/202601/14/69674f614c5d09365.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 46
+        },
+        {
+          "title": "国家补贴、今日必买：雷士 立式护眼台灯大路灯全光谱普瑞灯珠儿童学习小路灯太阳光落地灯 L5-护眼落地灯-60瓦-普瑞灯珠",
+          "url": "https://www.smzdm.com/p/169753800/",
+          "imageUrl": "https://y.zdmimg.com/202507/14/68751aec4d5099019.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 47
+        },
+        {
+          "title": "索爱 S37 户外蓝牙音箱",
+          "url": "https://www.smzdm.com/p/169736143/",
+          "imageUrl": "https://y.zdmimg.com/202511/17/6919f60283d627766.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 48
+        },
+        {
+          "title": "【丰厚赏金】小天鹅跨代机皇小乌梅5.0洗烘套装",
+          "url": "http://test.smzdm.com/p/14341/",
+          "imageUrl": "https://z.zdmimg.com/202603/03/69a69864cf0a38307.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 49
+        },
+        {
+          "title": "石头分子筛洗烘一体机Z1 Ultra超水解",
+          "url": "http://test.smzdm.com/p/14331/",
+          "imageUrl": "https://z.zdmimg.com/202602/11/698be563113558692.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 50
+        },
+        {
+          "title": "云鲸全智能自维护洗地机器人 逍遥003",
+          "url": "http://test.smzdm.com/p/14339/",
+          "imageUrl": "https://z.zdmimg.com/202603/02/69a5007b2aa526217.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 51
+        },
+        {
+          "title": "石头A30 Pro Steam 2.0洗地机",
+          "url": "http://test.smzdm.com/p/14336/",
+          "imageUrl": "https://z.zdmimg.com/202602/24/699d2102c6b3f3224.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 52
+        },
+        {
+          "title": "石头P20 Max 自清洁扫拖机器人",
+          "url": "http://test.smzdm.com/p/14338/",
+          "imageUrl": "https://z.zdmimg.com/202602/28/69a28ea3576602070.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 53
+        },
+        {
+          "title": "【丰厚赏金】首农38女神节大礼包",
+          "url": "http://test.smzdm.com/p/14334/",
+          "imageUrl": "https://z.zdmimg.com/202602/13/698e8e6e4547a1388.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 54
+        },
+        {
+          "title": "【丰厚赏金】科沃斯T90 PRO超长续航洗地机器人",
+          "url": "http://test.smzdm.com/p/14335/",
+          "imageUrl": "https://z.zdmimg.com/202602/13/698e8323fd27a3133.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 55
+        },
+        {
+          "title": "【丰厚赏金-一站式评测】洁柔高端系列纸巾",
+          "url": "http://test.smzdm.com/p/14330/",
+          "imageUrl": "https://z.zdmimg.com/202602/10/698a92f6fe45c8132.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 56
+        },
+        {
+          "title": "【十周年限定】云鲸 JX 宽幅履带活水洗地机器人",
+          "url": "http://test.smzdm.com/p/14333/",
+          "imageUrl": "https://z.zdmimg.com/202602/11/698c4faeb9d608722.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 57
+        },
+        {
+          "title": "【丰厚赏金-一站式评测】  首农新年大礼包",
+          "url": "http://test.smzdm.com/p/14324/",
+          "imageUrl": "https://z.zdmimg.com/202601/23/69733494e21aa5242.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 58
+        },
+        {
+          "title": "石头超水解迷你洗烘一体机M1S Ultra",
+          "url": "http://test.smzdm.com/p/14332/",
+          "imageUrl": "https://z.zdmimg.com/202602/11/698be98a8e0954304.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 59
+        },
+        {
+          "title": "【评论有奖｜骁龙芯动盲盒】  骁龙旗舰手机",
+          "url": "http://test.smzdm.com/p/14317/",
+          "imageUrl": "https://z.zdmimg.com/202601/16/69699b811037e680.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 60
+        },
+        {
+          "title": "【丰厚赏金】绿联DXP4800 Pro",
+          "url": "http://test.smzdm.com/p/14328/",
+          "imageUrl": "https://z.zdmimg.com/202602/02/698045a9083df4327.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 61
+        },
+        {
+          "title": "【丰厚赏金】科沃斯新品窗宝",
+          "url": "http://test.smzdm.com/p/14303/",
+          "imageUrl": "https://z.zdmimg.com/202512/17/6942185c1382b5256.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 62
+        },
+        {
+          "title": "【丰厚赏金】出门问问TicNote AI录音笔",
+          "url": "http://test.smzdm.com/p/14307/",
+          "imageUrl": "https://z.zdmimg.com/202601/04/695a0a333e0175629.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 63
+        },
+        {
+          "title": "【丰厚赏金】蚂蚁电竞ANT272ZQE",
+          "url": "http://test.smzdm.com/p/14296/",
+          "imageUrl": "https://z.zdmimg.com/202512/10/6938d1137f0ee4515.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 64
+        },
+        {
+          "title": "追觅S60Pro 滚筒版",
+          "url": "http://test.smzdm.com/p/14313/",
+          "imageUrl": "https://z.zdmimg.com/202601/08/695f1a90f25173256.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 65
+        },
+        {
+          "title": "【丰厚赏金】70迈M310 Pro 4K",
+          "url": "http://test.smzdm.com/p/14290/",
+          "imageUrl": "https://z.zdmimg.com/202512/01/692d033ce5eea8974.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 66
+        },
+        {
+          "title": "【丰厚赏金-一站式评测】  首农年货大礼包",
+          "url": "http://test.smzdm.com/p/14319/",
+          "imageUrl": "https://z.zdmimg.com/202601/20/696f217b7fc8d5588.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 67
+        },
+        {
+          "title": "【丰厚赏金】变形金刚霸天虎套装",
+          "url": "http://test.smzdm.com/p/14273/",
+          "imageUrl": "https://z.zdmimg.com/202510/20/68f5cbe5d0aeb9222.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 68
+        },
+        {
+          "title": "【丰厚赏金】摩尔线程MTT AIBOOK",
+          "url": "http://test.smzdm.com/p/14310/",
+          "imageUrl": "https://z.zdmimg.com/202601/07/695e2c248778c8395.jpg_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 69
+        },
+        {
+          "title": "【丰厚赏金】ZTE中兴 问天BE7200 MAX路由器",
+          "url": "http://test.smzdm.com/p/14306/",
+          "imageUrl": "https://z.zdmimg.com/202512/23/694a674cd44621603.png_a200.jpg",
+          "createdAt": "2026-03-07 12:34:29",
+          "hot": 70
+        }
+      ]
     }
   ]
 }

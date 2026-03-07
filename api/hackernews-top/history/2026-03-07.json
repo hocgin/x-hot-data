@@ -649,6 +649,222 @@
           "hot": 935
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772858096863",
+      "lastUpdatedAt": "2026-03-07 12:34:56",
+      "data": [
+        {
+          "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+          "summary": "74 comments",
+          "url": "https://plasma-bigscreen.org",
+          "createdAt": "2026-03-07 07:59:16",
+          "hot": 233
+        },
+        {
+          "title": "UUID package coming to Go standard library",
+          "summary": "12 comments",
+          "url": "https://github.com/golang/go/issues/62026",
+          "createdAt": "2026-03-07 10:03:21",
+          "hot": 58
+        },
+        {
+          "title": "this css proves me human",
+          "summary": "70 comments",
+          "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+          "createdAt": "2026-03-07 05:52:44",
+          "hot": 191
+        },
+        {
+          "title": "Can a wealthy family change the course of a deadly brain disease?",
+          "summary": "1 comments",
+          "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+          "createdAt": "2026-03-07 11:06:58",
+          "hot": 17
+        },
+        {
+          "title": "LLMs work best when the user defines their acceptance criteria first",
+          "summary": "83 comments",
+          "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+          "createdAt": "2026-03-07 09:17:57",
+          "hot": 107
+        },
+        {
+          "title": "Maybe There's a Pattern Here?",
+          "summary": "11 comments",
+          "url": "https://dynomight.net/pattern/",
+          "createdAt": "2026-03-05 10:58:10",
+          "hot": 43
+        },
+        {
+          "title": "C# strings silently kill your SQL Server indexes in Dapper",
+          "summary": "44 comments",
+          "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+          "createdAt": "2026-03-07 06:55:37",
+          "hot": 76
+        },
+        {
+          "title": "Galileo's handwritten notes found in ancient astronomy text",
+          "summary": "9 comments",
+          "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+          "createdAt": "2026-03-06 00:47:27",
+          "hot": 64
+        },
+        {
+          "title": "Hardening Firefox with Anthropic's Red Team",
+          "summary": "148 comments",
+          "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+          "createdAt": "2026-03-06 19:53:18",
+          "hot": 524
+        },
+        {
+          "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+          "summary": "137 comments",
+          "url": "https://news.ycombinator.com/item?id=47282777",
+          "createdAt": "2026-03-07 08:05:06",
+          "hot": 234
+        },
+        {
+          "title": "Querying 3B Vectors",
+          "summary": "0 comments",
+          "url": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+          "createdAt": "2026-03-03 21:17:11",
+          "hot": 5
+        },
+        {
+          "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+          "summary": "134 comments",
+          "url": "https://github.com/moongate-community/moongatev2",
+          "createdAt": "2026-03-06 22:22:59",
+          "hot": 236
+        },
+        {
+          "title": "The Shady World of IP Leasing",
+          "summary": "47 comments",
+          "url": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+          "createdAt": "2026-03-07 05:19:25",
+          "hot": 76
+        },
+        {
+          "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+          "summary": "538 comments",
+          "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+          "createdAt": "2026-03-07 01:46:45",
+          "hot": 794
+        },
+        {
+          "title": "AI and the Illegal War",
+          "summary": "0 comments",
+          "url": "https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/",
+          "createdAt": "2026-03-07 11:14:50",
+          "hot": 8
+        },
+        {
+          "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+          "summary": "68 comments",
+          "url": "https://news.ycombinator.com/item?id=47278980",
+          "createdAt": "2026-03-07 02:26:21",
+          "hot": 41
+        },
+        {
+          "title": "Show HN: 1v1 coding game that LLMs struggle with",
+          "summary": "5 comments",
+          "url": "https://yare.io",
+          "createdAt": "2026-03-06 14:47:29",
+          "hot": 12
+        },
+        {
+          "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+          "summary": "18 comments",
+          "url": "https://github.com/c0m4r/kula",
+          "createdAt": "2026-03-07 08:07:25",
+          "hot": 20
+        },
+        {
+          "title": "CT Scans of Health Wearables",
+          "summary": "41 comments",
+          "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+          "createdAt": "2026-03-06 22:16:06",
+          "hot": 193
+        },
+        {
+          "title": "What canceled my Go context?",
+          "summary": "14 comments",
+          "url": "https://rednafi.com/go/context-cancellation-cause/",
+          "createdAt": "2026-03-04 17:00:56",
+          "hot": 24
+        },
+        {
+          "title": "Entomologists use a particle accelerator to image ants at scale",
+          "summary": "21 comments",
+          "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+          "createdAt": "2026-03-06 23:53:32",
+          "hot": 107
+        },
+        {
+          "title": "A Modular Robot Dashboard",
+          "summary": "0 comments",
+          "url": "https://github.com/transitiverobotics/transact",
+          "createdAt": "2026-03-06 06:10:11",
+          "hot": 6
+        },
+        {
+          "title": "Ada 2022",
+          "summary": "23 comments",
+          "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+          "createdAt": "2026-03-07 04:03:48",
+          "hot": 118
+        },
+        {
+          "title": "A tool that removes censorship from open-weight LLMs",
+          "summary": "63 comments",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "createdAt": "2026-03-06 22:27:55",
+          "hot": 137
+        },
+        {
+          "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+          "summary": "300 comments",
+          "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+          "createdAt": "2026-03-06 21:30:54",
+          "hot": 527
+        },
+        {
+          "title": "Good Bad ISPs",
+          "summary": "38 comments",
+          "url": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
+          "createdAt": "2026-03-06 22:22:25",
+          "hot": 112
+        },
+        {
+          "title": "Game about Data of America",
+          "summary": "0 comments",
+          "url": "https://americaindata.com/",
+          "createdAt": "2026-03-07 08:28:56",
+          "hot": 5
+        },
+        {
+          "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
+          "summary": "8 comments",
+          "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+          "createdAt": "2026-03-06 00:12:44",
+          "hot": 87
+        },
+        {
+          "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+          "createdAt": "2026-03-07 01:00:38",
+          "hot": 1
+        },
+        {
+          "title": "Astra: An open-source observatory control software",
+          "summary": "21 comments",
+          "url": "https://github.com/ppp-one/astra",
+          "createdAt": "2026-03-07 00:14:30",
+          "hot": 86
+        }
+      ]
     }
   ]
 }
