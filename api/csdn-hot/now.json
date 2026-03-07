@@ -1,5 +1,356 @@
 {
-  "id": "csdn-hot.1772885590673",
-  "lastUpdatedAt": "2026-03-07 20:13:10",
-  "data": []
+  "id": "csdn-hot.1772899725586",
+  "lastUpdatedAt": "2026-03-08 00:08:45",
+  "data": [
+    {
+      "title": "OpenClaw 技术深度解析从智能助手到自动化引擎的范式革命",
+      "summary": "作者: 正在走向自律",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/158689579",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 21780
+    },
+    {
+      "title": "Python+AI 实战：搭建属于你的智能问答机器人",
+      "summary": "作者: 我不是呆头",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/158737648",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 14947
+    },
+    {
+      "title": "ARM Linux 驱动开发篇--- Linux 并发与竞争实验（信号量实现 LED 设备互斥访问）--- Ubuntu20.04信号量实验",
+      "summary": "作者: 渡水无言",
+      "url": "https://blog.csdn.net/weixin_61186812/article/details/158690158",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 14602
+    },
+    {
+      "title": "【MYSQL】MYSQL学习的一大重点：MYSQL库的操作",
+      "summary": "作者: 艾莉丝努力练剑",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/158622421",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 13034
+    },
+    {
+      "title": "Linux 动态链接与动态库加载深度解析",
+      "summary": "作者: 草莓熊Lotso",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/157945028",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 12327
+    },
+    {
+      "title": "Java项目CI/CD实战：Jenkins与GitLab CI深度解析",
+      "summary": "作者: 七夜zippoe",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/158705852",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 12053
+    },
+    {
+      "title": "量化、算子融合、内存映射：C语言实现AI推理的“三板斧“",
+      "summary": "作者: 果粒蹬i",
+      "url": "https://blog.csdn.net/2301_81152266/article/details/158772011",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 9543
+    },
+    {
+      "title": "【 LangChain框架】-实现 CoT 推理的多种方式",
+      "summary": "作者: Java后端的Ai之路",
+      "url": "https://blog.csdn.net/zxc18344522713/article/details/158660447",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 8998
+    },
+    {
+      "title": "PyTorch实战（34）——基于PyTorch Lightning的跨硬件模型训练",
+      "summary": "作者: 盼小辉丶",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/151154531",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 8709
+    },
+    {
+      "title": "传统 App 与鸿蒙 ArkUI：UI 架构差异解析",
+      "summary": "作者: 子玥酱",
+      "url": "https://blog.csdn.net/qq_36863796/article/details/158742466",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 7690
+    },
+    {
+      "title": "AI实践(2)提示词工程",
+      "summary": "作者: Once-Day",
+      "url": "https://blog.csdn.net/Once_day/article/details/158705514",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 6552
+    },
+    {
+      "title": "GPT-5.4上线，编程能力超过Claude Opus 4.6",
+      "summary": "作者: 哪 吒",
+      "url": "https://blog.csdn.net/guorui_java/article/details/158769228",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 6503
+    },
+    {
+      "title": "从SEO到GEO：2026年内容运营的技术范式转移与实战方法论",
+      "summary": "作者: 猫头虎",
+      "url": "https://blog.csdn.net/qq_44866828/article/details/158704701",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 6171
+    },
+    {
+      "title": "掌控消息全链路(4)——RabbitMQ/Spring-AMQP高级特性详解之事务与消息分发",
+      "summary": "作者: 九转苍翎",
+      "url": "https://blog.csdn.net/2401_89167985/article/details/157499496",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 6014
+    },
+    {
+      "title": "OpenClaw龙虾图鉴：16只AI Agent选型指南",
+      "summary": "作者: 默语佬",
+      "url": "https://blog.csdn.net/qq_42055933/article/details/158745120",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5820
+    },
+    {
+      "title": "零信任安全架构下的身份认证难题：如何在保证用户无感体验的同时，利用 AI 建模防御大规模撞库攻击？",
+      "summary": "作者: 秋说",
+      "url": "https://blog.csdn.net/2301_77485708/article/details/158735032",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5674
+    },
+    {
+      "title": "基于Rokid灵珠AI平台的春节全能助手智能体开发实践",
+      "summary": "作者: 禁止默",
+      "url": "https://blog.csdn.net/2302_79376097/article/details/158743828",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5457
+    },
+    {
+      "title": "【SOC估计】扩展卡尔曼滤波器的锂离子电池电荷状态计算【含Matlab源码 15101期】",
+      "summary": "作者: Matlab领域",
+      "url": "https://blog.csdn.net/weixin_63266434/article/details/158729611",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5343
+    },
+    {
+      "title": "Free Virtual SAN Storage Software with StarWind",
+      "summary": "作者: allway2",
+      "url": "https://blog.csdn.net/allway2/article/details/158735178",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5209
+    },
+    {
+      "title": "重型电脑与轻型电脑：安全差异全解析",
+      "summary": "作者: ZhangJiqun&Hoper",
+      "url": "https://blog.csdn.net/qq_38998213/article/details/158732142",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 5091
+    },
+    {
+      "title": "【Prometheus】Alertmanager配置钉钉告警",
+      "summary": "作者: A-刘晨阳",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/158353054",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4973
+    },
+    {
+      "title": "基于神经网络的学生学习情况分析系统-hadoop+django",
+      "summary": "作者: 大叔_爱编程",
+      "url": "https://blog.csdn.net/shmp54xmu/article/details/158742311",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4676
+    },
+    {
+      "title": "OpenClaw - Day 6 基于 OpenClaw 的自动化与记忆系统实战",
+      "summary": "作者: 小小工匠",
+      "url": "https://blog.csdn.net/yangshangwei/article/details/158705291",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4531
+    },
+    {
+      "title": "《SHIT》期刊发文已1500+：在《SHIT》发论文，到底有多爽？",
+      "summary": "作者: 博汇学术.",
+      "url": "https://blog.csdn.net/2501_91148738/article/details/158696820",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4314
+    },
+    {
+      "title": "【Linux网络系列】从底层寻址到应用穿透：深度剖析 ARP、ICMP 协议与 FRP 内网穿透、内网打洞、代理机制",
+      "summary": "作者: 努力努力再努力wz",
+      "url": "https://blog.csdn.net/2301_80260194/article/details/158741846",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4265
+    },
+    {
+      "title": "【Matlab】无人机编队协同侦察任务分配优化",
+      "summary": "作者: 智慧浩海",
+      "url": "https://blog.csdn.net/unbelievevc/article/details/158768453",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4162
+    },
+    {
+      "title": "二、Kafka核心架构与分布式存储",
+      "summary": "作者: IvanCodes",
+      "url": "https://blog.csdn.net/2401_83830408/article/details/158663501",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 4111
+    },
+    {
+      "title": "Flutter 三方库 langchain_google 的鸿蒙化适配指南 - 链接 Gemini 智慧中枢、LangChain AI 实战、鸿蒙级智能应用专家",
+      "summary": "作者: 国医中兴",
+      "url": "https://blog.csdn.net/guoyizhongxing/article/details/158703430",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3906
+    },
+    {
+      "title": "Flutter 三方库 http_status_code 的鸿蒙化适配指南 - 在鸿蒙系统上构建极致、严谨、工业级的网络响应审计与 HTTP 状态码语义化控制引擎",
+      "summary": "作者: 钛态",
+      "url": "https://blog.csdn.net/cannonmonster01/article/details/158663941",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3792
+    },
+    {
+      "title": "Flutter 三方库 modbus 的鸿蒙化适配指南 - 在鸿蒙系统上构建极致、严谨、基于 Modbus TCP 标准的工业级物联网通信与分布式感知检测引擎",
+      "summary": "作者: 加农炮手Jinx",
+      "url": "https://blog.csdn.net/cannonjinx/article/details/158663945",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3783
+    },
+    {
+      "title": "基于YOLOV8的混凝土裂缝识别系统（中英文双版） | 附完整源码与效果演示",
+      "summary": "作者: 一键难忘",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/158770204",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3771
+    },
+    {
+      "title": "Flutter 三方库 remove_markdown 的鸿蒙化适配指南 - 打造纯净文本提取、内容预处理实战、鸿蒙级文本解析专家",
+      "summary": "作者: 王码码2035",
+      "url": "https://blog.csdn.net/baronbool/article/details/158698531",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3769
+    },
+    {
+      "title": "使用python编程贪吃蛇单机小游戏（超详细讲解）",
+      "summary": "作者: wangjing_0522",
+      "url": "https://blog.csdn.net/wangjing_0522/article/details/150473434",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3257
+    },
+    {
+      "title": "黑马点评实战篇|第三篇:优惠卷秒杀",
+      "summary": "作者: fengxin_rou",
+      "url": "https://blog.csdn.net/2504_94294476/article/details/158621179",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3120
+    },
+    {
+      "title": "键值密钥:解锁 C++ 关联容器的存储潜能",
+      "summary": "作者: 夜雨声烦1413",
+      "url": "https://blog.csdn.net/ABWSO/article/details/158659955",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 3053
+    },
+    {
+      "title": "【新能源汽车研发测试全流程电参数测量技术应用与实践】",
+      "summary": "作者: 新能源汽车研发＆测试入门指南",
+      "url": "https://blog.csdn.net/weixin_62244995/article/details/158703400",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 2999
+    },
+    {
+      "title": "【参数辨识】基于遗传算法和系统辨识的无人机自动驾驶仪参数优化框架matlab实现",
+      "summary": "作者: 天天Matlab代码科研顾问",
+      "url": "https://blog.csdn.net/m0_57702748/article/details/158704425",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 2755
+    },
+    {
+      "title": "KingbaseES融合数据库：内核级一体化架构，实现一库多能全域支撑",
+      "summary": "作者: 云边有个稻草人",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/158775617",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 2008
+    },
+    {
+      "title": "AI赋能下的中国低代码市场：从工具革新到产业数字化核心引擎",
+      "summary": "作者: 液态不合群",
+      "url": "https://blog.csdn.net/sdgfafg_25/article/details/158733745",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1888
+    },
+    {
+      "title": "基于对话本体的自指宇宙学：一种面向AGI价值对齐的补充性理论框架",
+      "summary": "作者: 世毫九实验室ShardyLab",
+      "url": "https://blog.csdn.net/weixin_50059478/article/details/158740998",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1756
+    },
+    {
+      "title": "OpenClaw对接飞书机器人完整实现教程（附问题排查方案）",
+      "summary": "作者: 2401_82786637",
+      "url": "https://blog.csdn.net/2401_82786637/article/details/158730138",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1624
+    },
+    {
+      "title": "(10分钟)阿里云一键部署openclaw",
+      "summary": "作者: JAI科研",
+      "url": "https://blog.csdn.net/pk3725069/article/details/158745063",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1576
+    },
+    {
+      "title": "电影《飞驰人生3》迅雷BT磁力下载[1.38GB/HD1280p/MKV]中字[1080P]高清完整版",
+      "summary": "作者: uueds",
+      "url": "https://blog.csdn.net/uueds/article/details/158701631",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1419
+    },
+    {
+      "title": "OpenClaw 多飞书机器人配置指南",
+      "summary": "作者: 理想小青年v",
+      "url": "https://blog.csdn.net/ximenpiaofeixue/article/details/158735806",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1416
+    },
+    {
+      "title": "一篇文章教会你KVCache的存储布局",
+      "summary": "作者: nasic-j",
+      "url": "https://blog.csdn.net/nacasic/article/details/158775817",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1305
+    },
+    {
+      "title": "8 大经典排序算法（Java 实现）：原理 + Demo + 核心分析",
+      "summary": "作者: wzqllwy",
+      "url": "https://blog.csdn.net/wzqllwy/article/details/158700772",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1273
+    },
+    {
+      "title": "周红伟：阿里云+OpenClaw 接入 A 股数据实战指南：从零部署到 24 小时智能监控，股票量化交易系统",
+      "summary": "作者: AI周红伟",
+      "url": "https://blog.csdn.net/starzhou/article/details/158687866",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1270
+    },
+    {
+      "title": "LVS高性能、高可用的负载均衡集群技术实验",
+      "summary": "作者: 脆皮的饭桶",
+      "url": "https://blog.csdn.net/bhw2004829/article/details/158702444",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1217
+    },
+    {
+      "title": "论文阅读 2026.3.7",
+      "summary": "作者: 幻墨如烟1",
+      "url": "https://blog.csdn.net/2301_76817567/article/details/158773280",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1143
+    },
+    {
+      "title": "智造贸易新引擎：基于混合架构与低代码AI平台的企业级大模型落地实战",
+      "summary": "作者: 领码科技",
+      "url": "https://blog.csdn.net/lgf228/article/details/158664740",
+      "createdAt": "2026-03-08 00:08:30",
+      "hot": 1120
+    }
+  ]
 }
