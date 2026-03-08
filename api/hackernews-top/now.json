@@ -1,83 +1,139 @@
 {
-  "id": "hackernews-top.1772914099076",
-  "lastUpdatedAt": "2026-03-08 04:08:19",
+  "id": "hackernews-top.1772930211906",
+  "lastUpdatedAt": "2026-03-08 08:36:51",
   "data": [
     {
-      "title": "A Decade of Docker Containers",
-      "summary": "83 comments",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-      "createdAt": "2026-03-08 00:55:18",
-      "hot": 139
+      "title": "CasNum",
+      "summary": "22 comments",
+      "url": "https://github.com/0x0mer/CasNum",
+      "createdAt": "2026-03-08 04:43:51",
+      "hot": 153
     },
     {
-      "title": "The Millisecond That Could Change Cancer Treatment",
-      "summary": "39 comments",
-      "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "createdAt": "2026-03-07 23:33:36",
-      "hot": 128
+      "title": "A decade of Docker containers",
+      "summary": "157 comments",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "createdAt": "2026-03-08 00:55:18",
+      "hot": 218
+    },
+    {
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "summary": "9 comments",
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "createdAt": "2026-03-06 15:17:48",
+      "hot": 135
+    },
+    {
+      "title": "Effort to prevent government officials from engaging in prediction markets",
+      "summary": "67 comments",
+      "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
+      "createdAt": "2026-03-08 04:55:48",
+      "hot": 186
+    },
+    {
+      "title": "The Day NY Publishing Lost Its Soul",
+      "summary": "20 comments",
+      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
+      "createdAt": "2026-03-08 05:10:08",
+      "hot": 32
+    },
+    {
+      "title": "Ghostmd: Ghostty but for Markdown Notes",
+      "summary": "0 comments",
+      "url": "https://mimoo.github.io/ghostmd/",
+      "createdAt": "2026-03-08 08:07:49",
+      "hot": 3
     },
     {
       "title": "Ki Editor - an editor that operates on the AST",
-      "summary": "100 comments",
+      "summary": "129 comments",
       "url": "https://ki-editor.org/",
       "createdAt": "2026-03-07 18:29:13",
-      "hot": 301
+      "hot": 354
     },
     {
-      "title": "Dumping Lego NXT firmware off of an existing brick",
-      "summary": "0 comments",
-      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "createdAt": "2026-03-06 15:17:48",
-      "hot": 22
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "summary": "4 comments",
+      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+      "createdAt": "2026-03-04 22:16:31",
+      "hot": 55
     },
     {
-      "title": "macOS code injection for fun and no profit (2024)",
-      "summary": "0 comments",
-      "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
-      "createdAt": "2026-03-05 01:05:00",
-      "hot": 19
+      "title": "Put the zip code first",
+      "summary": "123 comments",
+      "url": "https://zipcodefirst.com",
+      "createdAt": "2026-03-08 07:26:26",
+      "hot": 169
     },
     {
-      "title": "Compiling Prolog to Forth [pdf]",
-      "summary": "7 comments",
-      "url": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
-      "createdAt": "2026-03-04 06:45:10",
-      "hot": 67
-    },
-    {
-      "title": "Re-creating the complex cuisine of prehistoric Europeans",
-      "summary": "7 comments",
-      "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
-      "createdAt": "2026-03-07 04:57:07",
+      "title": "Package managers need to cool down",
+      "summary": "26 comments",
+      "url": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html",
+      "createdAt": "2026-03-05 08:21:13",
       "hot": 36
     },
     {
-      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "summary": "202 comments",
-      "url": "https://plasma-bigscreen.org",
-      "createdAt": "2026-03-07 07:59:16",
-      "hot": 602
+      "title": "Caitlin Kalinowski: I resigned from OpenAI",
+      "summary": "17 comments",
+      "url": "https://twitter.com/kalinowski007/status/2030320074121478618",
+      "createdAt": "2026-03-08 07:09:51",
+      "hot": 42
     },
     {
-      "title": "We're Training Students to Write Worse to Prove They're Not Robots",
+      "title": "macOS code injection for fun and no profit (2024)",
       "summary": "10 comments",
-      "url": "https://www.techdirt.com/2026/03/06/were-training-students-to-write-worse-to-prove-theyre-not-robots-and-its-pushing-them-to-use-more-ai/",
-      "createdAt": "2026-03-08 03:01:01",
-      "hot": 34
-    },
-    {
-      "title": "Show HN: ANSI-Saver – A macOS Screensaver",
-      "summary": "20 comments",
-      "url": "https://github.com/lardissone/ansi-saver",
-      "createdAt": "2026-03-07 22:34:16",
+      "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
+      "createdAt": "2026-03-05 01:05:00",
       "hot": 61
     },
     {
-      "title": "The yoghurt delivery women combatting loneliness in Japan",
-      "summary": "98 comments",
-      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-      "createdAt": "2026-03-07 21:12:40",
-      "hot": 142
+      "title": "FLASH radiotherapy's bold approach to cancer treatment",
+      "summary": "55 comments",
+      "url": "https://spectrum.ieee.org/flash-radiotherapy",
+      "createdAt": "2026-03-07 23:33:36",
+      "hot": 180
+    },
+    {
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "summary": "6 comments",
+      "url": "https://github.com/karpathy/autoresearch",
+      "createdAt": "2026-03-08 04:22:45",
+      "hot": 29
+    },
+    {
+      "title": "LLM Writing Tropes.md",
+      "summary": "27 comments",
+      "url": "https://tropes.fyi/tropes-md",
+      "createdAt": "2026-03-08 05:08:40",
+      "hot": 68
+    },
+    {
+      "title": "The influence of anxiety: Harold Bloom and literary inheritance",
+      "summary": "0 comments",
+      "url": "https://thepointmag.com/examined-life/the-influence-of-anxiety/",
+      "createdAt": "2026-03-04 15:02:05",
+      "hot": 6
+    },
+    {
+      "title": "How important was the Battle of Hastings?",
+      "summary": "2 comments",
+      "url": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
+      "createdAt": "2026-03-04 15:23:49",
+      "hot": 4
+    },
+    {
+      "title": "The surprising whimsy of the Time Zone Database",
+      "summary": "1 comments",
+      "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+      "createdAt": "2026-03-08 02:32:05",
+      "hot": 30
+    },
+    {
+      "title": "Why developers using AI are working longer hours",
+      "summary": "13 comments",
+      "url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+      "createdAt": "2026-03-08 07:39:04",
+      "hot": 26
     },
     {
       "title": "SigNoz (YC W21, open source Datadog) Is Hiring across roles",
@@ -87,130 +143,74 @@
       "hot": 1
     },
     {
-      "title": "Filesystems Are Having a Moment",
-      "summary": "62 comments",
-      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-      "createdAt": "2026-03-07 18:48:43",
-      "hot": 121
+      "title": "Compiling Prolog to Forth [pdf]",
+      "summary": "9 comments",
+      "url": "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf",
+      "createdAt": "2026-03-04 06:45:10",
+      "hot": 93
     },
     {
-      "title": "PC processors entered the Gigahertz era today in the year 2000 with AMD's Athlon",
-      "summary": "102 comments",
-      "url": "https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose",
-      "createdAt": "2026-03-07 22:10:17",
-      "hot": 129
+      "title": "Re-creating the complex cuisine of prehistoric Europeans",
+      "summary": "23 comments",
+      "url": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
+      "createdAt": "2026-03-07 04:57:07",
+      "hot": 61
+    },
+    {
+      "title": "Lisp-style C++ template meta programming",
+      "summary": "0 comments",
+      "url": "https://github.com/mistivia/lmp",
+      "createdAt": "2026-03-08 06:21:57",
+      "hot": 6
+    },
+    {
+      "title": "Ask HN: Would you use a job board where every listing is verified?",
+      "summary": "39 comments",
+      "url": "https://news.ycombinator.com/item?id=47291699",
+      "createdAt": "2026-03-08 05:37:29",
+      "hot": 21
+    },
+    {
+      "title": "Trampolining Nix with GenericClosure",
+      "summary": "1 comments",
+      "url": "https://blog.kleisli.io/post/trampolining-nix-with-generic-closure",
+      "createdAt": "2026-03-06 07:26:26",
+      "hot": 6
+    },
+    {
+      "title": "The yoghurt delivery women combatting loneliness in Japan",
+      "summary": "121 comments",
+      "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+      "createdAt": "2026-03-07 21:12:40",
+      "hot": 192
+    },
+    {
+      "title": "Show HN: ANSI-Saver – A macOS Screensaver",
+      "summary": "27 comments",
+      "url": "https://github.com/lardissone/ansi-saver",
+      "createdAt": "2026-03-07 22:34:16",
+      "hot": 86
+    },
+    {
+      "title": "Files are the interface humans and agents interact with",
+      "summary": "104 comments",
+      "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+      "createdAt": "2026-03-07 18:48:43",
+      "hot": 169
     },
     {
       "title": "Self-Portrait by Ernst Mach (1886)",
-      "summary": "10 comments",
+      "summary": "16 comments",
       "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
       "createdAt": "2026-03-06 07:48:26",
-      "hot": 60
+      "hot": 87
     },
     {
-      "title": "UUID package coming to Go standard library",
-      "summary": "203 comments",
-      "url": "https://github.com/golang/go/issues/62026",
-      "createdAt": "2026-03-07 10:03:21",
-      "hot": 324
-    },
-    {
-      "title": "this css proves me human",
-      "summary": "107 comments",
-      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "createdAt": "2026-03-07 05:52:44",
-      "hot": 340
-    },
-    {
-      "title": "48x32, a 1536 LED Game Computer (2023)",
-      "summary": "12 comments",
-      "url": "https://jacquesmattheij.com/48x32-introduction/",
-      "createdAt": "2026-03-05 08:10:42",
-      "hot": 57
-    },
-    {
-      "title": "Helix: A post-modern text editor",
-      "summary": "145 comments",
-      "url": "https://helix-editor.com/",
-      "createdAt": "2026-03-07 07:53:29",
-      "hot": 291
-    },
-    {
-      "title": "Bourdieu's theory of taste: a grumbling abrégé",
-      "summary": "11 comments",
-      "url": "https://dynomight.net/bourdieu/",
-      "createdAt": "2026-03-05 18:33:19",
-      "hot": 17
-    },
-    {
-      "title": "Tinnitus Is Connected to Sleep",
-      "summary": "149 comments",
-      "url": "https://www.sciencealert.com/tinnitus-is-somehow-connected-to-a-crucial-bodily-function",
-      "createdAt": "2026-03-07 22:06:46",
-      "hot": 121
-    },
-    {
-      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-      "summary": "189 comments",
-      "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-      "createdAt": "2026-03-07 17:18:40",
-      "hot": 333
-    },
-    {
-      "title": "Seurat Most Famous for Paris Park Painting Yet Half His Paintings Were Seascapes",
-      "summary": "7 comments",
-      "url": "https://www.smithsonianmag.com/smart-news/georges-seurat-is-most-famous-for-his-pointillist-painting-of-a-paris-park-but-more-than-half-of-his-canvases-were-stunning-seascapes-180988245/",
-      "createdAt": "2026-03-04 02:12:06",
-      "hot": 18
-    },
-    {
-      "title": "Working and Communicating with Japanese Engineers",
-      "summary": "69 comments",
-      "url": "https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers",
-      "createdAt": "2026-03-03 23:02:32",
-      "hot": 115
-    },
-    {
-      "title": "Galileo's handwritten notes found in ancient astronomy text",
-      "summary": "36 comments",
-      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-      "createdAt": "2026-03-06 00:47:27",
-      "hot": 199
-    },
-    {
-      "title": "Show HN: µJS, a 5KB alternative to Htmx and Turbo with zero dependencies",
-      "summary": "19 comments",
-      "url": "https://mujs.org",
-      "createdAt": "2026-03-07 16:59:11",
-      "hot": 59
-    },
-    {
-      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
-      "summary": "795 comments",
-      "url": "https://news.ycombinator.com/item?id=47282777",
-      "createdAt": "2026-03-07 08:05:06",
-      "hot": 920
-    },
-    {
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "summary": "278 comments",
-      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "createdAt": "2026-03-07 09:17:57",
-      "hot": 393
-    },
-    {
-      "title": "The Banality of Surveillance",
-      "summary": "13 comments",
-      "url": "https://benn.substack.com/p/the-banality-of-surveillance",
-      "createdAt": "2026-03-08 00:56:53",
-      "hot": 39
-    },
-    {
-      "title": "Lock Scroll with a Vengeance",
-      "summary": "13 comments",
-      "url": "https://unsung.aresluna.org/lock-scroll-with-a-vengeance/",
-      "createdAt": "2026-03-04 11:42:17",
-      "hot": 55
+      "title": "$3T flows through U.S. nonprofits every year",
+      "summary": "53 comments",
+      "url": "https://charitysense.com/insights/the-3-trillion-blind-spot",
+      "createdAt": "2026-03-08 05:56:16",
+      "hot": 88
     }
   ]
 }
