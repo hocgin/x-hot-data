@@ -1081,6 +1081,222 @@
           "hot": 5
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1772972009362",
+      "lastUpdatedAt": "2026-03-08 20:13:29",
+      "data": [
+        {
+          "title": "Notes on Writing WASM",
+          "summary": "15 comments",
+          "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+          "createdAt": "2026-03-08 17:24:54",
+          "hot": 37
+        },
+        {
+          "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+          "summary": "9 comments",
+          "url": "https://arxiv.org/abs/2603.03823",
+          "createdAt": "2026-03-08 16:11:50",
+          "hot": 62
+        },
+        {
+          "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+          "summary": "1 comments",
+          "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+          "createdAt": "2026-03-04 21:39:34",
+          "hot": 17
+        },
+        {
+          "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+          "summary": "9 comments",
+          "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+          "createdAt": "2026-03-04 23:42:49",
+          "hot": 44
+        },
+        {
+          "title": "Cloud VM benchmarks 2026",
+          "summary": "120 comments",
+          "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+          "createdAt": "2026-03-08 08:44:32",
+          "hot": 263
+        },
+        {
+          "title": "How to run Qwen 3.5 locally",
+          "summary": "62 comments",
+          "url": "https://unsloth.ai/docs/models/qwen3.5",
+          "createdAt": "2026-03-08 07:32:17",
+          "hot": 219
+        },
+        {
+          "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
+          "summary": "5 comments",
+          "url": "https://curiosity-telescope.vercel.app/",
+          "createdAt": "2026-03-08 15:16:15",
+          "hot": 40
+        },
+        {
+          "title": "Warn about PyPy being unmaintained",
+          "summary": "89 comments",
+          "url": "https://github.com/astral-sh/uv/pull/17643",
+          "createdAt": "2026-03-08 09:35:21",
+          "hot": 216
+        },
+        {
+          "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+          "summary": "7 comments",
+          "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+          "createdAt": "2026-03-08 18:54:32",
+          "hot": 31
+        },
+        {
+          "title": "CasNum",
+          "summary": "36 comments",
+          "url": "https://github.com/0x0mer/CasNum",
+          "createdAt": "2026-03-08 04:43:51",
+          "hot": 297
+        },
+        {
+          "title": "The Lobster Programming Language",
+          "summary": "3 comments",
+          "url": "https://strlen.com/lobster/",
+          "createdAt": "2026-03-04 06:24:54",
+          "hot": 24
+        },
+        {
+          "title": "From RGB to L*a*b* color space (2024)",
+          "summary": "16 comments",
+          "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+          "createdAt": "2026-03-04 17:24:13",
+          "hot": 51
+        },
+        {
+          "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+          "summary": "3 comments",
+          "url": "https://github.com/ataraxy-labs/sem",
+          "createdAt": "2026-03-08 14:01:26",
+          "hot": 30
+        },
+        {
+          "title": "A decade of Docker containers",
+          "summary": "211 comments",
+          "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+          "createdAt": "2026-03-08 00:55:18",
+          "hot": 318
+        },
+        {
+          "title": "Yoghurt delivery women combatting loneliness in Japan",
+          "summary": "165 comments",
+          "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
+          "createdAt": "2026-03-07 21:12:40",
+          "hot": 309
+        },
+        {
+          "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+          "summary": "13 comments",
+          "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+          "createdAt": "2026-03-06 15:17:48",
+          "hot": 214
+        },
+        {
+          "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+          "summary": "6 comments",
+          "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+          "createdAt": "2026-03-05 18:23:15",
+          "hot": 80
+        },
+        {
+          "title": "The surprising whimsy of the Time Zone Database",
+          "summary": "45 comments",
+          "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
+          "createdAt": "2026-03-08 02:32:05",
+          "hot": 136
+        },
+        {
+          "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+          "summary": "33 comments",
+          "url": "https://github.com/karpathy/autoresearch",
+          "createdAt": "2026-03-08 04:22:45",
+          "hot": 130
+        },
+        {
+          "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+          "summary": "16 comments",
+          "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+          "createdAt": "2026-03-04 22:16:31",
+          "hot": 120
+        },
+        {
+          "title": "Best performance of a C++ singleton",
+          "summary": "27 comments",
+          "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
+          "createdAt": "2026-03-06 21:40:16",
+          "hot": 36
+        },
+        {
+          "title": "Digital Iris [video]",
+          "summary": "2 comments",
+          "url": "https://www.youtube.com/watch?v=Kg_2MAgS_pE",
+          "createdAt": "2026-03-05 00:16:23",
+          "hot": 18
+        },
+        {
+          "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
+          "summary": "36 comments",
+          "url": "https://www.bbc.com/news/articles/cy8l1d221evo",
+          "createdAt": "2026-03-08 12:47:36",
+          "hot": 19
+        },
+        {
+          "title": "Show HN: A weird thing that detects your pulse from the browser video",
+          "summary": "42 comments",
+          "url": "https://pulsefeedback.io/",
+          "createdAt": "2026-03-04 22:24:24",
+          "hot": 91
+        },
+        {
+          "title": "FLASH radiotherapy's bold approach to cancer treatment",
+          "summary": "65 comments",
+          "url": "https://spectrum.ieee.org/flash-radiotherapy",
+          "createdAt": "2026-03-07 23:33:36",
+          "hot": 214
+        },
+        {
+          "title": "MonoGame: A .NET framework for making cross-platform games",
+          "summary": "59 comments",
+          "url": "https://github.com/MonoGame/MonoGame",
+          "createdAt": "2026-03-08 10:16:02",
+          "hot": 87
+        },
+        {
+          "title": "Files are the interface humans and agents interact with",
+          "summary": "124 comments",
+          "url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
+          "createdAt": "2026-03-07 18:48:43",
+          "hot": 239
+        },
+        {
+          "title": "macOS code injection for fun and no profit (2024)",
+          "summary": "18 comments",
+          "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
+          "createdAt": "2026-03-05 01:05:00",
+          "hot": 98
+        },
+        {
+          "title": "Ten years of deploying to production",
+          "summary": "6 comments",
+          "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
+          "createdAt": "2026-03-05 22:25:46",
+          "hot": 34
+        },
+        {
+          "title": "To the Polypropylene Makers",
+          "summary": "12 comments",
+          "url": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
+          "createdAt": "2026-03-08 14:21:28",
+          "hot": 44
+        }
+      ]
     }
   ]
 }

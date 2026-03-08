@@ -1,61 +1,66 @@
 {
-  "id": "github-trending.1772957464178",
-  "lastUpdatedAt": "2026-03-08 16:11:04",
+  "id": "github-trending.1772972009363",
+  "lastUpdatedAt": "2026-03-08 20:13:29",
   "data": [
-    {
-      "title": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "createdAt": "2026-03-08 16:10:34"
-    },
     {
       "title": "GoogleCloudPlatform/generative-ai",
       "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "createdAt": "2026-03-08 16:10:34"
+      "createdAt": "2026-03-08 20:12:55"
     },
     {
-      "title": "agentjido/jido",
-      "url": "https://github.com/agentjido/jido",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "QwenLM/Qwen-Agent",
-      "url": "https://github.com/QwenLM/Qwen-Agent",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "microsoft/hve-core",
-      "url": "https://github.com/microsoft/hve-core",
-      "createdAt": "2026-03-08 16:10:34"
-    },
-    {
-      "title": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "createdAt": "2026-03-08 16:10:34"
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "createdAt": "2026-03-08 20:12:55"
     },
     {
       "title": "shadcn-ui/ui",
       "url": "https://github.com/shadcn-ui/ui",
-      "createdAt": "2026-03-08 16:10:34"
+      "createdAt": "2026-03-08 20:12:55"
     },
     {
-      "title": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "createdAt": "2026-03-08 16:10:34"
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "toeverything/AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "is-a-dev/register",
+      "url": "https://github.com/is-a-dev/register",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "createdAt": "2026-03-08 20:12:55"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "createdAt": "2026-03-08 20:12:55"
     }
   ]
 }
