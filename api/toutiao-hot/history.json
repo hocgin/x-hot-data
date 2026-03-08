@@ -2,6 +2,10 @@
   "id": "toutiao-hot.history",
   "history": [
     {
+      "date": "2026-03-09",
+      "uri": "/toutiao-hot/history/2026-03-09.json"
+    },
+    {
       "date": "2026-03-08",
       "uri": "/toutiao-hot/history/2026-03-08.json"
     },
