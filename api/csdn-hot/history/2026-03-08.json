@@ -367,6 +367,362 @@
       "id": "csdn-hot.1772930211915",
       "lastUpdatedAt": "2026-03-08 08:36:51",
       "data": []
+    },
+    {
+      "id": "csdn-hot.1772944625174",
+      "lastUpdatedAt": "2026-03-08 12:37:05",
+      "data": [
+        {
+          "title": "OpenClaw 技术深度解析从智能助手到自动化引擎的范式革命",
+          "summary": "作者: 正在走向自律",
+          "url": "https://blog.csdn.net/beautifulmemory/article/details/158689579",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 21790
+        },
+        {
+          "title": "Python+AI 实战：搭建属于你的智能问答机器人",
+          "summary": "作者: 我不是呆头",
+          "url": "https://blog.csdn.net/2401_86326742/article/details/158737648",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 19876
+        },
+        {
+          "title": "量化、算子融合、内存映射：C语言实现AI推理的“三板斧“",
+          "summary": "作者: 果粒蹬i",
+          "url": "https://blog.csdn.net/2301_81152266/article/details/158772011",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 18793
+        },
+        {
+          "title": "掌控消息全链路(4)——RabbitMQ/Spring-AMQP高级特性详解之事务与消息分发",
+          "summary": "作者: 九转苍翎",
+          "url": "https://blog.csdn.net/2401_89167985/article/details/157499496",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 15985
+        },
+        {
+          "title": "ARM Linux 驱动开发篇--- Linux 并发与竞争实验（信号量实现 LED 设备互斥访问）--- Ubuntu20.04信号量实验",
+          "summary": "作者: 渡水无言",
+          "url": "https://blog.csdn.net/weixin_61186812/article/details/158690158",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 14302
+        },
+        {
+          "title": "Java项目CI/CD实战：Jenkins与GitLab CI深度解析",
+          "summary": "作者: 七夜zippoe",
+          "url": "https://blog.csdn.net/sinat_41617212/article/details/158705852",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 11239
+        },
+        {
+          "title": "PyTorch实战（34）——基于PyTorch Lightning的跨硬件模型训练",
+          "summary": "作者: 盼小辉丶",
+          "url": "https://blog.csdn.net/LOVEmy134611/article/details/151154531",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 10773
+        },
+        {
+          "title": "传统 App 与鸿蒙 ArkUI：UI 架构差异解析",
+          "summary": "作者: 子玥酱",
+          "url": "https://blog.csdn.net/qq_36863796/article/details/158742466",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 8945
+        },
+        {
+          "title": "基于Rokid灵珠AI平台的春节全能助手智能体开发实践",
+          "summary": "作者: 禁止默",
+          "url": "https://blog.csdn.net/2302_79376097/article/details/158743828",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6836
+        },
+        {
+          "title": "OpenClaw龙虾图鉴：16只AI Agent选型指南",
+          "summary": "作者: 默语佬",
+          "url": "https://blog.csdn.net/qq_42055933/article/details/158745120",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6521
+        },
+        {
+          "title": "揭秘AI大模型通信机制：深入理解流式传输与数据封装逻辑",
+          "summary": "作者: 木易 士心",
+          "url": "https://blog.csdn.net/csdn_silent/article/details/158691488",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6497
+        },
+        {
+          "title": "AI实践(2)提示词工程",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/158705514",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6158
+        },
+        {
+          "title": "OpenClaw 配置本地 Ollama 模型完整指南：零成本打造全离线个人 AI 助理",
+          "summary": "作者: 紫微AI",
+          "url": "https://blog.csdn.net/weixin_48708052/article/details/158660780",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6105
+        },
+        {
+          "title": "【Prometheus】Alertmanager配置钉钉告警",
+          "summary": "作者: A-刘晨阳",
+          "url": "https://blog.csdn.net/liu_chen_yang/article/details/158353054",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6062
+        },
+        {
+          "title": "GPT-5.4上线，编程能力超过Claude Opus 4.6",
+          "summary": "作者: 哪 吒",
+          "url": "https://blog.csdn.net/guorui_java/article/details/158769228",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 6019
+        },
+        {
+          "title": "从SEO到GEO：2026年内容运营的技术范式转移与实战方法论",
+          "summary": "作者: 猫头虎",
+          "url": "https://blog.csdn.net/qq_44866828/article/details/158704701",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 5447
+        },
+        {
+          "title": "【月球】卡尔曼滤波器月球陨石坑导航【含Matlab源码 15108期】",
+          "summary": "作者: Matlab领域",
+          "url": "https://blog.csdn.net/weixin_63266434/article/details/158772816",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 5339
+        },
+        {
+          "title": "二、Kafka核心架构与分布式存储",
+          "summary": "作者: IvanCodes",
+          "url": "https://blog.csdn.net/2401_83830408/article/details/158663501",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 5231
+        },
+        {
+          "title": "图像加密：3大C#安全升级，AES VS JWT，漏洞减少90%？",
+          "summary": "作者: 墨瑾轩",
+          "url": "https://blog.csdn.net/z_344791576/article/details/151898424",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 5174
+        },
+        {
+          "title": "Free Virtual SAN Storage Software with StarWind",
+          "summary": "作者: allway2",
+          "url": "https://blog.csdn.net/allway2/article/details/158735178",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 5145
+        },
+        {
+          "title": "基于YOLOV8的混凝土裂缝识别系统（中英文双版） | 附完整源码与效果演示",
+          "summary": "作者: 一键难忘",
+          "url": "https://blog.csdn.net/weixin_52908342/article/details/158770204",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 4853
+        },
+        {
+          "title": "【新能源汽车研发测试全流程电参数测量技术应用与实践】",
+          "summary": "作者: 新能源汽车研发＆测试入门指南",
+          "url": "https://blog.csdn.net/weixin_62244995/article/details/158703400",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 4808
+        },
+        {
+          "title": "深入理解Linux文件系统：inode映射、路径解析、挂载与软硬链接",
+          "summary": "作者: Cx330❀",
+          "url": "https://blog.csdn.net/yhrxh_ymq/article/details/158704820",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 4711
+        },
+        {
+          "title": "【Linux网络系列】从底层寻址到应用穿透：深度剖析 ARP、ICMP 协议与 FRP 内网穿透、内网打洞、代理机制",
+          "summary": "作者: 努力努力再努力wz",
+          "url": "https://blog.csdn.net/2301_80260194/article/details/158741846",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 4485
+        },
+        {
+          "title": "《SHIT》期刊发文已1500+：在《SHIT》发论文，到底有多爽？",
+          "summary": "作者: 博汇学术.",
+          "url": "https://blog.csdn.net/2501_91148738/article/details/158696820",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 3470
+        },
+        {
+          "title": "使用python编程贪吃蛇单机小游戏（超详细讲解）",
+          "summary": "作者: wangjing_0522",
+          "url": "https://blog.csdn.net/wangjing_0522/article/details/150473434",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 3347
+        },
+        {
+          "title": "一文搞懂 HarmonyOS 6 Navigation组件导航生命周期",
+          "summary": "作者: 一一得一，有一说一",
+          "url": "https://blog.csdn.net/wodekouwei/article/details/158745126",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 2992
+        },
+        {
+          "title": "黑马点评实战篇|第三篇:优惠卷秒杀",
+          "summary": "作者: fengxin_rou",
+          "url": "https://blog.csdn.net/2504_94294476/article/details/158621179",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 2872
+        },
+        {
+          "title": "量子计算与强化学习的融合：从理论架构到应用实践",
+          "summary": "作者: 109702008",
+          "url": "https://blog.csdn.net/eidolon_foot/article/details/158660029",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 2414
+        },
+        {
+          "title": "KingbaseES融合数据库：内核级一体化架构，实现一库多能全域支撑",
+          "summary": "作者: 云边有个稻草人",
+          "url": "https://blog.csdn.net/lrq13965748542/article/details/158775617",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 2406
+        },
+        {
+          "title": "GDPR合规检查表：AI应用的差分隐私实现",
+          "summary": "作者: AI应用开发实战派",
+          "url": "https://blog.csdn.net/2405_88636357/article/details/158777921",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 2141
+        },
+        {
+          "title": "键值密钥:解锁 C++ 关联容器的存储潜能",
+          "summary": "作者: 夜雨声烦1413",
+          "url": "https://blog.csdn.net/ABWSO/article/details/158659955",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1923
+        },
+        {
+          "title": "OpenClaw对接飞书机器人完整实现教程（附问题排查方案）",
+          "summary": "作者: 2401_82786637",
+          "url": "https://blog.csdn.net/2401_82786637/article/details/158730138",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1915
+        },
+        {
+          "title": "【Linux系统编程】Linux进程信号",
+          "summary": "作者: 天地任我独行",
+          "url": "https://blog.csdn.net/2402_89035880/article/details/158618735",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1807
+        },
+        {
+          "title": "OpenClaw 多飞书机器人配置指南",
+          "summary": "作者: 理想小青年v",
+          "url": "https://blog.csdn.net/ximenpiaofeixue/article/details/158735806",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1799
+        },
+        {
+          "title": "HarmonyOS 6 自定义人脸识别模型5：NDK相机预览实现",
+          "summary": "作者: 轻口味",
+          "url": "https://blog.csdn.net/sjw890821sjw/article/details/158745072",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1761
+        },
+        {
+          "title": "30.信号处理与僵尸进程实战指南",
+          "summary": "作者: Milestone-里程碑",
+          "url": "https://blog.csdn.net/L070117/article/details/156272100",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1650
+        },
+        {
+          "title": "技术选型的哲学：自研 vs 开源，激进 vs 保守的决策模型",
+          "summary": "作者: 编程猫~",
+          "url": "https://blog.csdn.net/weixin_38717458/article/details/158776949",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1595
+        },
+        {
+          "title": "LVS高性能、高可用的负载均衡集群技术实验",
+          "summary": "作者: 脆皮的饭桶",
+          "url": "https://blog.csdn.net/bhw2004829/article/details/158702444",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1478
+        },
+        {
+          "title": "window本地部署openclaw （qwen模型）",
+          "summary": "作者: 萌新手札",
+          "url": "https://blog.csdn.net/m0_71371266/article/details/158733875",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1439
+        },
+        {
+          "title": "Unity 高性能计时器管理器：基于对象池的实现方案",
+          "summary": "作者: 小张不爱写代码",
+          "url": "https://blog.csdn.net/qq_41973169/article/details/158732563",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1422
+        },
+        {
+          "title": "[大模型实战 07 额外篇] 从 ReAct 到 Workflow：基于云端 API 构建事件驱动的智能体",
+          "summary": "作者: 阿尔的代码屋",
+          "url": "https://blog.csdn.net/m0_46629751/article/details/158772384",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1403
+        },
+        {
+          "title": "OpenClaw dashboard命令后，无法登录web控制面板（在systemd服务无法启动的一些虚拟机里会碰到）",
+          "summary": "作者: skywalk8163",
+          "url": "https://blog.csdn.net/skywalk8163/article/details/158729467",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1361
+        },
+        {
+          "title": "(10分钟)阿里云一键部署openclaw",
+          "summary": "作者: JAI科研",
+          "url": "https://blog.csdn.net/pk3725069/article/details/158745063",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1326
+        },
+        {
+          "title": "一篇文章教会你KVCache的存储布局",
+          "summary": "作者: nasic-j",
+          "url": "https://blog.csdn.net/nacasic/article/details/158775817",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1218
+        },
+        {
+          "title": "OpenClaw+钉钉机器人（macOS 系统）",
+          "summary": "作者: 小杨的学习记录",
+          "url": "https://blog.csdn.net/qq_43671996/article/details/158744382",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1176
+        },
+        {
+          "title": "自动化机器学习（AutoML）库TPOT使用指南",
+          "summary": "作者: weixin_40600132",
+          "url": "https://blog.csdn.net/weixin_40600132/article/details/158744566",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1169
+        },
+        {
+          "title": "Unity发布WebGL部署阿里云ECS+ESA",
+          "summary": "作者: 韩小布",
+          "url": "https://blog.csdn.net/hanyangcsdn/article/details/158739624",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1079
+        },
+        {
+          "title": "x-cmd 发布 v0.8.5: humantime 人性化时间转换，tmp 跨平台临时文件管理，assert 轻松搞定测试断言",
+          "summary": "作者: x-cmd",
+          "url": "https://blog.csdn.net/edwinjhlee/article/details/158743674",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1077
+        },
+        {
+          "title": "Flutter 三方库 connectrpc 的鸿蒙化适配指南 - 替代传统 gRPC、高性能 RPC 通讯实战、鸿蒙级微服务架构专家",
+          "summary": "作者: 国医中兴",
+          "url": "https://blog.csdn.net/guoyizhongxing/article/details/158703525",
+          "createdAt": "2026-03-08 12:36:47",
+          "hot": 1054
+        }
+      ]
     }
   ]
 }
