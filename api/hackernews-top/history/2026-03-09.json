@@ -217,6 +217,222 @@
           "hot": 165
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773000509741",
+      "lastUpdatedAt": "2026-03-09 04:08:29",
+      "data": [
+        {
+          "title": "FrameBook",
+          "summary": "44 comments",
+          "url": "https://fb.edoo.gg",
+          "createdAt": "2026-03-08 23:21:09",
+          "hot": 243
+        },
+        {
+          "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+          "summary": "24 comments",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "createdAt": "2026-03-09 03:07:33",
+          "hot": 28
+        },
+        {
+          "title": "Why can't you tune your guitar? (2019)",
+          "summary": "95 comments",
+          "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+          "createdAt": "2026-03-05 06:30:27",
+          "hot": 119
+        },
+        {
+          "title": "Living human brain cells play DOOM on a CL1 [video]",
+          "summary": "70 comments",
+          "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+          "createdAt": "2026-03-08 23:07:28",
+          "hot": 77
+        },
+        {
+          "title": "LibreOffice Writer now supports Markdown",
+          "summary": "34 comments",
+          "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
+          "createdAt": "2026-03-09 01:01:50",
+          "hot": 141
+        },
+        {
+          "title": "What if the Apple ][ had run on Field-Sequential?",
+          "summary": "10 comments",
+          "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
+          "createdAt": "2026-03-08 23:05:40",
+          "hot": 53
+        },
+        {
+          "title": "Notes on writing Rust-based Wasm",
+          "summary": "76 comments",
+          "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+          "createdAt": "2026-03-08 17:24:54",
+          "hot": 164
+        },
+        {
+          "title": "Ask HN: Please restrict new accounts from posting",
+          "summary": "53 comments",
+          "url": "https://news.ycombinator.com/item?id=47300329",
+          "createdAt": "2026-03-09 03:26:59",
+          "hot": 73
+        },
+        {
+          "title": "A basket of new fruit varieties is coming your way",
+          "summary": "11 comments",
+          "url": "https://www.economist.com/science-and-technology/2026/03/04/a-basket-of-new-fruit-varieties-is-coming-your-way",
+          "createdAt": "2026-03-06 13:46:28",
+          "hot": 18
+        },
+        {
+          "title": "Show HN: Skir – like Protocol Buffer but better",
+          "summary": "26 comments",
+          "url": "https://skir.build/",
+          "createdAt": "2026-03-09 01:17:54",
+          "hot": 27
+        },
+        {
+          "title": "Z80 Sans – a disassembler in a font (2024)",
+          "summary": "0 comments",
+          "url": "https://github.com/nevesnunes/z80-sans",
+          "createdAt": "2026-03-05 10:38:07",
+          "hot": 21
+        },
+        {
+          "title": "WSL Manager",
+          "summary": "4 comments",
+          "url": "https://github.com/bostrot/wsl2-distro-manager",
+          "createdAt": "2026-03-09 02:08:36",
+          "hot": 13
+        },
+        {
+          "title": "Log messages are mostly for the people operating your software",
+          "summary": "24 comments",
+          "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation",
+          "createdAt": "2026-03-04 05:15:23",
+          "hot": 57
+        },
+        {
+          "title": "Beagle, a source code management system that stores AST trees",
+          "summary": "32 comments",
+          "url": "https://github.com/gritzko/librdx/tree/master/be",
+          "createdAt": "2026-03-08 21:28:26",
+          "hot": 61
+        },
+        {
+          "title": "I made a programming language with M&Ms",
+          "summary": "2 comments",
+          "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+          "createdAt": "2026-03-09 02:18:40",
+          "hot": 14
+        },
+        {
+          "title": "Ask HN: How to be alone?",
+          "summary": "83 comments",
+          "url": "https://news.ycombinator.com/item?id=47296547",
+          "createdAt": "2026-03-08 19:41:17",
+          "hot": 73
+        },
+        {
+          "title": "LLM Writing Tropes.md",
+          "summary": "124 comments",
+          "url": "https://tropes.fyi/tropes-md",
+          "createdAt": "2026-03-08 05:08:40",
+          "hot": 263
+        },
+        {
+          "title": "My “grand vision” for Rust",
+          "summary": "57 comments",
+          "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+          "createdAt": "2026-03-05 09:37:42",
+          "hot": 59
+        },
+        {
+          "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
+          "summary": "15 comments",
+          "url": "https://github.com/kantord/blogtato",
+          "createdAt": "2026-03-08 21:16:14",
+          "hot": 53
+        },
+        {
+          "title": "LibreOffice: Request to the European Commission to adhere to its own guidances",
+          "summary": "34 comments",
+          "url": "https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/",
+          "createdAt": "2026-03-08 22:09:09",
+          "hot": 220
+        },
+        {
+          "title": "Pushing and Pulling: Three reactivity algorithms",
+          "summary": "0 comments",
+          "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+          "createdAt": "2026-03-08 08:57:57",
+          "hot": 4
+        },
+        {
+          "title": "In vitro neurons learn and exhibit sentience when embodied in a game-world(2022)",
+          "summary": "3 comments",
+          "url": "https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627322008066%3Fshowall%3Dtrue",
+          "createdAt": "2026-03-09 02:17:53",
+          "hot": 10
+        },
+        {
+          "title": "The human.json Protocol",
+          "summary": "1 comments",
+          "url": "https://codeberg.org/robida/human.json",
+          "createdAt": "2026-03-09 00:33:30",
+          "hot": 4
+        },
+        {
+          "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+          "summary": "28 comments",
+          "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+          "createdAt": "2026-03-04 23:42:49",
+          "hot": 122
+        },
+        {
+          "title": "How important was the Battle of Hastings?",
+          "summary": "45 comments",
+          "url": "https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings",
+          "createdAt": "2026-03-04 15:23:49",
+          "hot": 72
+        },
+        {
+          "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+          "summary": "35 comments",
+          "url": "https://arxiv.org/abs/2603.03823",
+          "createdAt": "2026-03-08 16:11:50",
+          "hot": 101
+        },
+        {
+          "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
+          "summary": "105 comments",
+          "url": "https://xcancel.com/theflow0/status/2030011206040256841",
+          "createdAt": "2026-03-08 20:40:14",
+          "hot": 271
+        },
+        {
+          "title": "How to run Qwen 3.5 locally",
+          "summary": "135 comments",
+          "url": "https://unsloth.ai/docs/models/qwen3.5",
+          "createdAt": "2026-03-08 07:32:17",
+          "hot": 410
+        },
+        {
+          "title": "Claude struggles to cope with ChatGPT exodus",
+          "summary": "90 comments",
+          "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
+          "createdAt": "2026-03-09 01:14:53",
+          "hot": 89
+        },
+        {
+          "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+          "summary": "4 comments",
+          "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+          "createdAt": "2026-03-04 21:39:34",
+          "hot": 90
+        }
+      ]
     }
   ]
 }
