@@ -1,66 +1,66 @@
 {
-  "id": "github-trending.1773044353028",
-  "lastUpdatedAt": "2026-03-09 16:19:13",
+  "id": "github-trending.1773058705672",
+  "lastUpdatedAt": "2026-03-09 20:18:25",
   "data": [
     {
       "title": "GoogleCloudPlatform/generative-ai",
       "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "createdAt": "2026-03-09 16:18:52"
-    },
-    {
-      "title": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "createdAt": "2026-03-09 16:18:52"
-    },
-    {
-      "title": "shadcn-ui/ui",
-      "url": "https://github.com/shadcn-ui/ui",
-      "createdAt": "2026-03-09 16:18:52"
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
-      "createdAt": "2026-03-09 16:18:52"
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
-      "title": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "createdAt": "2026-03-09 16:18:52"
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
-      "title": "Ed1s0nZ/CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "createdAt": "2026-03-09 16:18:52"
+      "title": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "createdAt": "2026-03-09 16:18:52"
+      "title": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "createdAt": "2026-03-09 16:18:52"
-    },
-    {
-      "title": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "createdAt": "2026-03-09 16:18:52"
-    },
-    {
-      "title": "is-a-dev/register",
-      "url": "https://github.com/is-a-dev/register",
-      "createdAt": "2026-03-09 16:18:52"
-    },
-    {
-      "title": "teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py",
-      "createdAt": "2026-03-09 16:18:52"
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "createdAt": "2026-03-09 20:18:01"
     },
     {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "createdAt": "2026-03-09 16:18:52"
+      "createdAt": "2026-03-09 20:18:01"
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "createdAt": "2026-03-09 20:18:01"
+    },
+    {
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "createdAt": "2026-03-09 20:18:01"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "createdAt": "2026-03-09 20:18:01"
+    },
+    {
+      "title": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "createdAt": "2026-03-09 20:18:01"
+    },
+    {
+      "title": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "createdAt": "2026-03-09 20:18:01"
     }
   ]
 }
