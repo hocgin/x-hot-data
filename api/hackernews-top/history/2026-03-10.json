@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-10",
+  "createdAt": "2026-03-10 00:26:35",
+  "data": [
+    {
+      "id": "hackernews-top.1773073595244",
+      "lastUpdatedAt": "2026-03-10 00:26:35",
+      "data": [
+        {
+          "title": "Fontcrafter: Turn Your Handwriting into a Real Font",
+          "summary": "91 comments",
+          "url": "https://arcade.pirillo.com/fontcrafter.html",
+          "createdAt": "2026-03-09 17:25:02",
+          "hot": 278
+        },
+        {
+          "title": "Flash media longevity testing – 6 years later",
+          "summary": "2 comments",
+          "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
+          "createdAt": "2026-03-09 00:22:24",
+          "hot": 30
+        },
+        {
+          "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+          "summary": "286 comments",
+          "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+          "createdAt": "2026-03-09 18:14:59",
+          "hot": 539
+        },
+        {
+          "title": "Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram",
+          "summary": "0 comments",
+          "url": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
+          "createdAt": "2026-03-09 23:23:08",
+          "hot": 8
+        },
+        {
+          "title": "FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing",
+          "summary": "15 comments",
+          "url": "https://vivianvoss.net/blog/capsicum-vs-seccomp",
+          "createdAt": "2026-03-09 20:52:20",
+          "hot": 56
+        },
+        {
+          "title": "I'm Getting a Whiff of Iain Banks' Culture",
+          "summary": "5 comments",
+          "url": "https://probablydance.com/2026/03/07/im-getting-a-whiff-of-iain-banks-culture/",
+          "createdAt": "2026-03-09 23:03:22",
+          "hot": 9
+        },
+        {
+          "title": "Reverse-engineering the UniFi inform protocol",
+          "summary": "22 comments",
+          "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
+          "createdAt": "2026-03-09 20:38:46",
+          "hot": 69
+        },
+        {
+          "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+          "summary": "317 comments",
+          "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+          "createdAt": "2026-03-09 14:28:02",
+          "hot": 416
+        },
+        {
+          "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+          "summary": "26 comments",
+          "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+          "createdAt": "2026-03-09 18:28:08",
+          "hot": 62
+        },
+        {
+          "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
+          "summary": "45 comments",
+          "url": "https://arxiv.org/abs/2603.04782",
+          "createdAt": "2026-03-06 16:41:37",
+          "hot": 81
+        },
+        {
+          "title": "The Window Chrome of Our Discontent",
+          "summary": "31 comments",
+          "url": "https://pxlnv.com/blog/window-chrome-of-our-discontent/",
+          "createdAt": "2026-03-07 06:38:47",
+          "hot": 82
+        },
+        {
+          "title": "The engine of Germany's wealth is blocking its future",
+          "summary": "134 comments",
+          "url": "https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future",
+          "createdAt": "2026-03-09 23:05:09",
+          "hot": 133
+        },
+        {
+          "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+          "summary": "169 comments",
+          "url": "https://agent-safehouse.dev/",
+          "createdAt": "2026-03-09 04:30:18",
+          "hot": 739
+        },
+        {
+          "title": "FFmpeg at Meta: Media Processing at Scale",
+          "summary": "55 comments",
+          "url": "https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/",
+          "createdAt": "2026-03-09 13:37:15",
+          "hot": 110
+        },
+        {
+          "title": "Segagaga Has Been Translated into English",
+          "summary": "18 comments",
+          "url": "https://www.thedreamcastjunkyard.co.uk/2026/02/segagaga-has-finally-been-translated.html",
+          "createdAt": "2026-03-08 18:47:21",
+          "hot": 64
+        },
+        {
+          "title": "Microscopes can see video on a laserdisc",
+          "summary": "76 comments",
+          "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+          "createdAt": "2026-03-08 06:03:37",
+          "hot": 569
+        },
+        {
+          "title": "Algebraic topology: knots links and braids",
+          "summary": "0 comments",
+          "url": "https://aeb.win.tue.nl/at/algtop-5.html",
+          "createdAt": "2026-03-09 22:28:43",
+          "hot": 4
+        },
+        {
+          "title": "Kuwaiti F/A-18's Triple Friendly Fire Shootdown Gets Stranger by the Day",
+          "summary": "0 comments",
+          "url": "https://www.twz.com/air/kuwaiti-f-a-18s-triple-friendly-fire-shootdown-gets-stranger-by-the-day",
+          "createdAt": "2026-03-09 23:44:04",
+          "hot": 24
+        },
+        {
+          "title": "No leap second will be introduced at the end of June 2026",
+          "summary": "9 comments",
+          "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
+          "createdAt": "2026-03-09 20:15:07",
+          "hot": 27
+        },
+        {
+          "title": "Ask HN: What Are You Working On? (March 2026)",
+          "summary": "854 comments",
+          "url": "https://news.ycombinator.com/item?id=47303111",
+          "createdAt": "2026-03-09 08:07:18",
+          "hot": 237
+        },
+        {
+          "title": "PCB devboard the size of a USB-C plug",
+          "summary": "57 comments",
+          "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+          "createdAt": "2026-03-08 13:04:14",
+          "hot": 239
+        },
+        {
+          "title": "The Finger and the Moon",
+          "summary": "2 comments",
+          "url": "https://taylor.town/finger-moon",
+          "createdAt": "2026-03-06 23:46:53",
+          "hot": 13
+        },
+        {
+          "title": "Every single board computer I tested in 2025",
+          "summary": "65 comments",
+          "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+          "createdAt": "2026-03-05 20:24:10",
+          "hot": 205
+        },
+        {
+          "title": "Revealed: UK's multibillion AI drive is built on 'phantom investments'",
+          "summary": "5 comments",
+          "url": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+          "createdAt": "2026-03-09 22:45:12",
+          "hot": 30
+        },
+        {
+          "title": "FrameBook",
+          "summary": "81 comments",
+          "url": "https://fb.edoo.gg",
+          "createdAt": "2026-03-08 23:21:09",
+          "hot": 489
+        },
+        {
+          "title": "Ask HN: Can I repurpose a Bluetooth voice remote as input device for a PC?",
+          "summary": "3 comments",
+          "url": "https://news.ycombinator.com/item?id=47295871",
+          "createdAt": "2026-03-08 17:30:25",
+          "hot": 5
+        },
+        {
+          "title": "My Homelab Setup",
+          "summary": "204 comments",
+          "url": "https://bryananthonio.com/blog/my-homelab-setup/",
+          "createdAt": "2026-03-09 00:46:10",
+          "hot": 306
+        },
+        {
+          "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+          "summary": "26 comments",
+          "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+          "createdAt": "2026-03-09 06:50:55",
+          "hot": 114
+        },
+        {
+          "title": "My “grand vision” for Rust",
+          "summary": "270 comments",
+          "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
+          "createdAt": "2026-03-05 09:37:42",
+          "hot": 249
+        },
+        {
+          "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+          "summary": "20 comments",
+          "url": "https://github.com/Rabrg/artificial-life",
+          "createdAt": "2026-03-09 04:42:41",
+          "hot": 149
+        }
+      ]
+    }
+  ]
+}
