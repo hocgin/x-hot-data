@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773031245607",
-  "lastUpdatedAt": "2026-03-09 12:40:45",
+  "id": "hackernews-top.1773044353026",
+  "lastUpdatedAt": "2026-03-09 16:19:13",
   "data": [
     {
+      "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+      "summary": "38 comments",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+      "createdAt": "2026-03-09 14:28:02",
+      "hot": 107
+    },
+    {
       "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-      "summary": "95 comments",
+      "summary": "132 comments",
       "url": "https://agent-safehouse.dev/",
       "createdAt": "2026-03-09 04:30:18",
-      "hot": 421
+      "hot": 547
+    },
+    {
+      "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
+      "summary": "18 comments",
+      "url": "https://github.com/knowsuchagency/mcp2cli",
+      "createdAt": "2026-03-09 13:18:46",
+      "hot": 38
     },
     {
       "title": "Microscopes can see video on a laserdisc",
-      "summary": "26 comments",
+      "summary": "46 comments",
       "url": "https://www.youtube.com/watch?v=qZuR-772cks",
       "createdAt": "2026-03-08 06:03:37",
-      "hot": 316
+      "hot": 401
     },
     {
       "title": "PCB devboard the size of a USB-C plug",
-      "summary": "19 comments",
+      "summary": "28 comments",
       "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
       "createdAt": "2026-03-08 13:04:14",
-      "hot": 96
-    },
-    {
-      "title": "We should revisit literate programming in the agent era",
-      "summary": "95 comments",
-      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-      "createdAt": "2026-03-09 03:58:15",
-      "hot": 179
-    },
-    {
-      "title": "Every single board computer I tested in 2025",
-      "summary": "33 comments",
-      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
-      "createdAt": "2026-03-05 20:24:10",
-      "hot": 130
+      "hot": 153
     },
     {
       "title": "Ask HN: What Are You Working On? (March 2026)",
-      "summary": "236 comments",
+      "summary": "425 comments",
       "url": "https://news.ycombinator.com/item?id=47303111",
       "createdAt": "2026-03-09 08:07:18",
-      "hot": 76
+      "hot": 132
+    },
+    {
+      "title": "Every single board computer I tested in 2025",
+      "summary": "45 comments",
+      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+      "createdAt": "2026-03-05 20:24:10",
+      "hot": 156
     },
     {
       "title": "FrameBook",
-      "summary": "65 comments",
+      "summary": "70 comments",
       "url": "https://fb.edoo.gg",
       "createdAt": "2026-03-08 23:21:09",
-      "hot": 382
+      "hot": 416
+    },
+    {
+      "title": "The death of social media is the renaissance of RSS (2025)",
+      "summary": "52 comments",
+      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+      "createdAt": "2026-03-09 12:27:59",
+      "hot": 102
+    },
+    {
+      "title": "We should revisit literate programming in the agent era",
+      "summary": "136 comments",
+      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+      "createdAt": "2026-03-09 03:58:15",
+      "hot": 222
+    },
+    {
+      "title": "How the Sriracha guys screwed over their supplier",
+      "summary": "23 comments",
+      "url": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
+      "createdAt": "2026-03-09 12:16:33",
+      "hot": 119
     },
     {
       "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
-      "summary": "10 comments",
+      "summary": "17 comments",
       "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
       "createdAt": "2026-03-09 06:50:55",
-      "hot": 48
+      "hot": 73
     },
     {
       "title": "My Homelab Setup",
-      "summary": "131 comments",
+      "summary": "148 comments",
       "url": "https://bryananthonio.com/blog/my-homelab-setup/",
       "createdAt": "2026-03-09 00:46:10",
-      "hot": 173
+      "hot": 218
     },
     {
       "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
-      "summary": "9 comments",
+      "summary": "11 comments",
       "url": "https://github.com/Rabrg/artificial-life",
       "createdAt": "2026-03-09 04:42:41",
-      "hot": 83
-    },
-    {
-      "title": "Blacksky AppView",
-      "summary": "72 comments",
-      "url": "https://github.com/blacksky-algorithms/atproto",
-      "createdAt": "2026-03-09 05:40:35",
-      "hot": 114
+      "hot": 106
     },
     {
       "title": "I made a programming language with M&Ms",
-      "summary": "23 comments",
+      "summary": "34 comments",
       "url": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
       "createdAt": "2026-03-09 02:18:40",
-      "hot": 57
+      "hot": 77
     },
     {
       "title": "Why can't you tune your guitar? (2019)",
-      "summary": "133 comments",
+      "summary": "142 comments",
       "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
       "createdAt": "2026-03-05 06:30:27",
-      "hot": 188
+      "hot": 204
+    },
+    {
+      "title": "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
+      "summary": "0 comments",
+      "url": "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md",
+      "createdAt": "2026-03-07 21:13:29",
+      "hot": 12
     },
     {
       "title": "Living human brain cells play DOOM on a CL1 [video]",
-      "summary": "150 comments",
+      "summary": "170 comments",
       "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
       "createdAt": "2026-03-08 23:07:28",
-      "hot": 160
+      "hot": 182
     },
     {
-      "title": "Pushing and Pulling: Three reactivity algorithms",
-      "summary": "15 comments",
-      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
-      "createdAt": "2026-03-08 08:57:57",
-      "hot": 82
-    },
-    {
-      "title": "WSL Manager",
-      "summary": "47 comments",
-      "url": "https://github.com/bostrot/wsl2-distro-manager",
-      "createdAt": "2026-03-09 02:08:36",
-      "hot": 81
-    },
-    {
-      "title": "Show HN: Skir – like Protocol Buffer but better",
-      "summary": "42 comments",
-      "url": "https://skir.build/",
-      "createdAt": "2026-03-09 01:17:54",
-      "hot": 66
+      "title": "Triumph of the toons: how animation came to rule the box office",
+      "summary": "10 comments",
+      "url": "https://economist.com/culture/2026/03/05/triumph-of-the-toons-how-animation-came-to-rule-the-box-office",
+      "createdAt": "2026-03-06 04:43:30",
+      "hot": 15
     },
     {
       "title": "My “grand vision” for Rust",
-      "summary": "121 comments",
+      "summary": "152 comments",
       "url": "https://blog.yoshuawuyts.com/a-grand-vision-for-rust/",
       "createdAt": "2026-03-05 09:37:42",
-      "hot": 143
+      "hot": 173
     },
     {
-      "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
-      "summary": "1 comments",
-      "url": "https://quesma.com/blog/chromatron-recompiled/",
-      "createdAt": "2026-03-07 20:56:43",
-      "hot": 4
+      "title": "Pushing and Pulling: Three reactivity algorithms",
+      "summary": "16 comments",
+      "url": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+      "createdAt": "2026-03-08 08:57:57",
+      "hot": 96
+    },
+    {
+      "title": "Humanoid robot: The evolution of Kawasaki’s challenge",
+      "summary": "0 comments",
+      "url": "https://kawasakirobotics.com/in/blog/202511_kaleido/",
+      "createdAt": "2026-03-06 07:34:17",
+      "hot": 11
+    },
+    {
+      "title": "WSL Manager",
+      "summary": "52 comments",
+      "url": "https://github.com/bostrot/wsl2-distro-manager",
+      "createdAt": "2026-03-09 02:08:36",
+      "hot": 98
     },
     {
       "title": "Z80 Sans – a disassembler in a font (2024)",
-      "summary": "10 comments",
+      "summary": "12 comments",
       "url": "https://github.com/nevesnunes/z80-sans",
       "createdAt": "2026-03-05 10:38:07",
-      "hot": 87
+      "hot": 105
     },
     {
-      "title": "Notes on writing Rust-based Wasm",
-      "summary": "90 comments",
-      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
-      "createdAt": "2026-03-08 17:24:54",
-      "hot": 216
+      "title": "Ask HN: How to be alone?",
+      "summary": "301 comments",
+      "url": "https://news.ycombinator.com/item?id=47296547",
+      "createdAt": "2026-03-08 19:41:17",
+      "hot": 426
+    },
+    {
+      "title": "Case Study: lynnandtonic.com 2025 refresh",
+      "summary": "1 comments",
+      "url": "https://lynnandtonic.com/thoughts/entries/case-study-2025-refresh/",
+      "createdAt": "2026-03-06 01:37:11",
+      "hot": 14
     },
     {
       "title": "The legendary Mojave Phone Booth is back (2013)",
       "summary": "5 comments",
       "url": "https://dailydot.com/mojave-phone-booth-back-number",
       "createdAt": "2026-03-07 06:13:41",
-      "hot": 14
+      "hot": 27
     },
     {
-      "title": "Ask HN: How to be alone?",
-      "summary": "247 comments",
-      "url": "https://news.ycombinator.com/item?id=47296547",
-      "createdAt": "2026-03-08 19:41:17",
-      "hot": 336
-    },
-    {
-      "title": "Last Statements",
-      "summary": "11 comments",
-      "url": "https://walzr.com/last-statements",
-      "createdAt": "2026-03-09 06:54:08",
-      "hot": 15
+      "title": "Show HN: Skir – like Protocol Buffer but better",
+      "summary": "43 comments",
+      "url": "https://skir.build/",
+      "createdAt": "2026-03-09 01:17:54",
+      "hot": 78
     },
     {
       "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-      "summary": "87 comments",
+      "summary": "95 comments",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "createdAt": "2026-03-09 03:07:33",
-      "hot": 193
+      "hot": 222
     },
     {
-      "title": "What if the Apple ][ had run on Field-Sequential?",
-      "summary": "17 comments",
-      "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
-      "createdAt": "2026-03-08 23:05:40",
-      "hot": 83
-    },
-    {
-      "title": "LibreOffice Writer now supports Markdown",
-      "summary": "54 comments",
-      "url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-      "createdAt": "2026-03-09 01:01:50",
-      "hot": 305
-    },
-    {
-      "title": "The Death of Social Media Is the Renaissance of RSS",
-      "summary": "0 comments",
-      "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-      "createdAt": "2026-03-09 12:27:59",
-      "hot": 5
-    },
-    {
-      "title": "Lil Finder Guy",
-      "summary": "26 comments",
-      "url": "https://basicappleguy.com/basicappleblog/lil-finder-guy",
-      "createdAt": "2026-03-09 04:43:19",
-      "hot": 88
-    },
-    {
-      "title": "Ask HN: Please restrict new accounts from posting",
-      "summary": "388 comments",
-      "url": "https://news.ycombinator.com/item?id=47300329",
-      "createdAt": "2026-03-09 03:26:59",
-      "hot": 505
+      "title": "Are You Noticing This?",
+      "summary": "3 comments",
+      "url": "https://ryanholiday.net/are-you-noticing-this/",
+      "createdAt": "2026-03-06 04:34:08",
+      "hot": 13
     }
   ]
 }
