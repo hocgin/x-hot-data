@@ -1079,6 +1079,362 @@
       "id": "csdn-hot.1773130615039",
       "lastUpdatedAt": "2026-03-10 16:16:55",
       "data": []
+    },
+    {
+      "id": "csdn-hot.1773145129660",
+      "lastUpdatedAt": "2026-03-10 20:18:49",
+      "data": [
+        {
+          "title": "从小项目到大型鸿蒙 App 的架构变化",
+          "summary": "作者: 子玥酱",
+          "url": "https://blog.csdn.net/qq_36863796/article/details/158851702",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 13745
+        },
+        {
+          "title": "OpenClaw接入企业微信全攻略：从0到1打通企业AI协作通道",
+          "summary": "作者: 正在走向自律",
+          "url": "https://blog.csdn.net/beautifulmemory/article/details/158846122",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 11892
+        },
+        {
+          "title": "【AI智能体】腾讯云服务器部署OpenClaw对接飞书实战详解",
+          "summary": "作者: 小码农叔叔",
+          "url": "https://blog.csdn.net/zhangcongyi420/article/details/158704285",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 11194
+        },
+        {
+          "title": "HDFS数据块机制深度解析：块大小设计与存储哲学",
+          "summary": "作者: Seal^_^",
+          "url": "https://blog.csdn.net/qq_41840843/article/details/158510165",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 10366
+        },
+        {
+          "title": "Spring Boot 后端分层开发实战：从 MVC 到三层架构详解",
+          "summary": "作者: Han.miracle",
+          "url": "https://blog.csdn.net/HANhylyxy/article/details/158836557",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 10257
+        },
+        {
+          "title": "【Prometheus】Alertmanager配置钉钉告警",
+          "summary": "作者: A-刘晨阳",
+          "url": "https://blog.csdn.net/liu_chen_yang/article/details/158353054",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 9086
+        },
+        {
+          "title": "LangChain实战：工具调用+结构化输出，让AI从“聊天“变“干活“",
+          "summary": "作者: 羑悻的小杀马特.",
+          "url": "https://blog.csdn.net/2401_82648291/article/details/158619748",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 9010
+        },
+        {
+          "title": "KingbaseES融合数据库：多模态引擎深度集成，实现一库多能异构统一",
+          "summary": "作者: 鸽芷咕",
+          "url": "https://blog.csdn.net/qq_57761637/article/details/158820530",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8807
+        },
+        {
+          "title": "AI实践(3)Token与上下文窗口",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/158839105",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8558
+        },
+        {
+          "title": "【Unity 实用工具篇】 | Unity网格破碎插件 unity-fracture",
+          "summary": "作者: 呆呆敲代码的小Y",
+          "url": "https://blog.csdn.net/zhangay1998/article/details/157730168",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8534
+        },
+        {
+          "title": "KaiwuDB社区版 3.1.0 数据库落地部署指南：环境配置、源码编译与运行调优",
+          "summary": "作者: 一键难忘",
+          "url": "https://blog.csdn.net/weixin_52908342/article/details/158812575",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8509
+        },
+        {
+          "title": "QGIS实战：县域烟花销售点Excel空间信息加载与专题制图全流程",
+          "summary": "作者: 夜郎king",
+          "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/158802919",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8484
+        },
+        {
+          "title": "一文读懂：微信小程序云数据库直连原理与使用指南",
+          "summary": "作者: 木易 士心",
+          "url": "https://blog.csdn.net/csdn_silent/article/details/158738331",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 8405
+        },
+        {
+          "title": "Linux 文件系统深度解析：从原理到实战",
+          "summary": "作者: 火225",
+          "url": "https://blog.csdn.net/2502_93510665/article/details/158884857",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 7941
+        },
+        {
+          "title": "（第二篇）Spring AI 实战进阶：从 0 搭建 SaaS 模式多租户 AI 客服平台（核心难点 + 性能优化全解析）",
+          "summary": "作者: 梵得儿SHI",
+          "url": "https://blog.csdn.net/qq_40303030/article/details/157432936",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 6027
+        },
+        {
+          "title": "为什么Elasticsearch不使用行存储或列存储？倒排索引的3个不可替代优势",
+          "summary": "作者: 墨瑾轩",
+          "url": "https://blog.csdn.net/z_344791576/article/details/151920409",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 5837
+        },
+        {
+          "title": "基于大数据爬虫+Hadoop+电脑商品数据爬取与可视化平台设计与开发(源码+精品论文+答辩PPT等资料)",
+          "summary": "作者: java李杨勇",
+          "url": "https://blog.csdn.net/weixin_39709134/article/details/158847895",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 5363
+        },
+        {
+          "title": "腾讯WorkBuddy 实测：免部署 OpenClaw，1 分钟上手，手机远程控电脑",
+          "summary": "作者: 人工智能AI技术",
+          "url": "https://blog.csdn.net/jiangjunshow/article/details/158854266",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 4990
+        },
+        {
+          "title": "深度学习：CNN 与 RNN——解锁多模态处理能力",
+          "summary": "作者: 软件科学-郝学胜",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/158808563",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 4726
+        },
+        {
+          "title": "【AI大模型前沿】Fun-Audio-Chat：阿里巴巴开源的高效语音交互大模型",
+          "summary": "作者: 寻道AI小兵",
+          "url": "https://blog.csdn.net/xiaobing259/article/details/158069050",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 4586
+        },
+        {
+          "title": "OpenClaw - Day 8 用这 4 个 Skills，把 OpenClaw 的搜索能力拉到天花板",
+          "summary": "作者: 小小工匠",
+          "url": "https://blog.csdn.net/yangshangwei/article/details/158813041",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 4502
+        },
+        {
+          "title": "KimiClaw/MaxClaw/NullClaw/OpenFang/ZeroClaw/PicoClaw/TinyClaw/Miclaw/ArkClaw等18大小龙虾AI Agent框架技术选型全解析",
+          "summary": "作者: 猫头虎",
+          "url": "https://blog.csdn.net/qq_44866828/article/details/158776305",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 4418
+        },
+        {
+          "title": "LangSmith与Prompt Ops：从概念到实践的全面指南",
+          "summary": "作者: Java后端的Ai之路",
+          "url": "https://blog.csdn.net/zxc18344522713/article/details/158847711",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3713
+        },
+        {
+          "title": "Transformer实战（37）——Transformer模型训练追踪与监测",
+          "summary": "作者: 盼小辉丶",
+          "url": "https://blog.csdn.net/LOVEmy134611/article/details/147991704",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3614
+        },
+        {
+          "title": "Python 识别携程中文验证码（95%正确率）并自动登陆携程+图灵图像验证码识别平台",
+          "summary": "作者: NiYouDu2333",
+          "url": "https://blog.csdn.net/NiYouDu2333/article/details/158805057",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3431
+        },
+        {
+          "title": "[AI应用与提效-170] - AI龙虾智能体平台OpenClaw详解，包括内部架构和技术实现",
+          "summary": "作者: 文火冰糖的硅基工坊",
+          "url": "https://blog.csdn.net/HiWangWenBing/article/details/158848545",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3401
+        },
+        {
+          "title": "深挖MySQL兼容核心，看懂金仓数据库迁移工程硬实力",
+          "summary": "作者: 云边有个稻草人",
+          "url": "https://blog.csdn.net/lrq13965748542/article/details/158849336",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3372
+        },
+        {
+          "title": "如何在项目中减少 XSS 攻击",
+          "summary": "作者: 超级无敌大蟑王",
+          "url": "https://blog.csdn.net/2301_81253185/article/details/158778198",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3319
+        },
+        {
+          "title": "2026 OpenClaw 省钱终极玩法：零海外卡接入 Claude / Gemini / Grok（MaynorAPIPro 中转教程）",
+          "summary": "作者: 秒懂AI+",
+          "url": "https://blog.csdn.net/xianyu120/article/details/158805077",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 3000
+        },
+        {
+          "title": "苍穹外卖：菜品新增功能全流程解析",
+          "summary": "作者: 北极的代码",
+          "url": "https://blog.csdn.net/chen_si_shang_/article/details/158777203",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2939
+        },
+        {
+          "title": "Linux编译生态哲学：GCC编译四阶段/链接方式/库依赖解析，掌握软件编译的底层逻辑",
+          "summary": "作者: 雾忱星",
+          "url": "https://blog.csdn.net/2501_91617454/article/details/157542697",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2866
+        },
+        {
+          "title": "Ansible解锁便捷运维新方式，内网 NAS 也能远程管",
+          "summary": "作者: UnRuins",
+          "url": "https://blog.csdn.net/ZWW_zhangww/article/details/158851636",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2643
+        },
+        {
+          "title": "康威定律：为什么你的系统架构会复制你的组织架构？",
+          "summary": "作者: 编程猫~",
+          "url": "https://blog.csdn.net/weixin_38717458/article/details/158776891",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2616
+        },
+        {
+          "title": "C# ASP.NET UnitOfWork 模式：搞定多表事务一致性，避开 90% 的坑",
+          "summary": "作者: William_cl",
+          "url": "https://blog.csdn.net/William_cl/article/details/158812073",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2435
+        },
+        {
+          "title": "【花雕学编程】Arduino BLDC 之基于串口指令的远程控制工业巡检机器人",
+          "summary": "作者: 驴友花雕",
+          "url": "https://blog.csdn.net/weixin_41659040/article/details/158836527",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2248
+        },
+        {
+          "title": "分享个人制作的Openclaw 2026.3.7 Docker离线部署方案",
+          "summary": "作者: pflecty",
+          "url": "https://blog.csdn.net/pflecty/article/details/158807224",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2246
+        },
+        {
+          "title": "Spring Boot + Vue 实现文件上传下载",
+          "summary": "作者: 左左右右左右摇晃",
+          "url": "https://blog.csdn.net/2301_82251392/article/details/158813692",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2239
+        },
+        {
+          "title": "从社死边缘拯救我：用 AR 眼镜打造“亲戚称呼助手“",
+          "summary": "作者: Undoom",
+          "url": "https://blog.csdn.net/2301_80863610/article/details/158807803",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2197
+        },
+        {
+          "title": "OpenClaw 大更新：支持 GPT-5.4、记忆热插拔，GitHub Star 突破 28 万",
+          "summary": "作者: Sinokap",
+          "url": "https://blog.csdn.net/Sinokap/article/details/158847981",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 2109
+        },
+        {
+          "title": "【硬核实战】Mac mini M4 部署 OpenClaw + Ollama 本地大模型：从零到一打通飞书机器人",
+          "summary": "作者: 想要AC的dly",
+          "url": "https://blog.csdn.net/m0_67724631/article/details/158802015",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1860
+        },
+        {
+          "title": "分层架构的协同艺术——解构 Flutter 的心脏",
+          "summary": "作者: 程序员Ctrl喵",
+          "url": "https://blog.csdn.net/xrl__/article/details/158838074",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1852
+        },
+        {
+          "title": "龙虾尝鲜记（2）——装ubuntu（续）",
+          "summary": "作者: 炽天使328",
+          "url": "https://blog.csdn.net/weixin_56371726/article/details/158842317",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1765
+        },
+        {
+          "title": "一次多agent情况下openclaw不回消息问题的排查经过（使用飞书通信，持续更新中~~~）",
+          "summary": "作者: pczpcz8",
+          "url": "https://blog.csdn.net/u012331307/article/details/158773546",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1758
+        },
+        {
+          "title": "本地部署 Ollama 完整指南：3 分钟让大模型在你电脑上跑起来",
+          "summary": "作者: 1941s",
+          "url": "https://blog.csdn.net/weixin_53236070/article/details/158837815",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1635
+        },
+        {
+          "title": "OpenClaw小龙虾对接飞书教程最新版，飞书官方下场开发插件，龙虾长出龙虾钳，体验更丝滑",
+          "summary": "作者: iBaoxing",
+          "url": "https://blog.csdn.net/zbx931197485/article/details/158777872",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1611
+        },
+        {
+          "title": "后端开发必会计算机网络中的应用层协议 - HTTP/HTTPS",
+          "summary": "作者: ※DX3906※",
+          "url": "https://blog.csdn.net/2302_80295520/article/details/158837247",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1414
+        },
+        {
+          "title": "OpenClaw 企业微信插件避坑指南",
+          "summary": "作者: harebert",
+          "url": "https://blog.csdn.net/harebert/article/details/158853022",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1397
+        },
+        {
+          "title": "【Linux】服务器网络与安全核心配置｜静态IP+SSH加固+防火墙，公网服务器必学实操",
+          "summary": "作者: gfdhy",
+          "url": "https://blog.csdn.net/gfdhy/article/details/158809132",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1384
+        },
+        {
+          "title": "低代码组件通信避坑指南：从项目问题到落地优化",
+          "summary": "作者: 前端开发小透明",
+          "url": "https://blog.csdn.net/weixin_44441043/article/details/158650644",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1343
+        },
+        {
+          "title": "深度剖析OpenClaw的双重安全困境与防护之道",
+          "summary": "作者: AI大眼萌",
+          "url": "https://blog.csdn.net/caoxiaoye/article/details/158813386",
+          "createdAt": "2026-03-10 20:18:22",
+          "hot": 1262
+        }
+      ]
     }
   ]
 }
