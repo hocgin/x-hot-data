@@ -865,6 +865,222 @@
           "hot": 54
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773130615031",
+      "lastUpdatedAt": "2026-03-10 16:16:55",
+      "data": [
+        {
+          "title": "Two Years of Emacs Solo",
+          "summary": "52 comments",
+          "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+          "createdAt": "2026-03-10 08:16:44",
+          "hot": 211
+        },
+        {
+          "title": "Lotus 1-2-3 on the PC with DOS",
+          "summary": "12 comments",
+          "url": "https://stonetools.ghost.io/lotus123-dos/",
+          "createdAt": "2026-03-07 03:11:24",
+          "hot": 47
+        },
+        {
+          "title": "Optimizing Top K in Postgres",
+          "summary": "6 comments",
+          "url": "https://www.paradedb.com/blog/optimizing-top-k",
+          "createdAt": "2026-03-09 06:54:17",
+          "hot": 53
+        },
+        {
+          "title": "macOS Tahoe windows have different corner radiuses",
+          "summary": "33 comments",
+          "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
+          "createdAt": "2026-03-07 03:20:18",
+          "hot": 65
+        },
+        {
+          "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+          "summary": "93 comments",
+          "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+          "createdAt": "2026-03-10 07:22:06",
+          "hot": 147
+        },
+        {
+          "title": "Building a Procedural Hex Map with Wave Function Collapse",
+          "summary": "70 comments",
+          "url": "https://felixturner.github.io/hex-map-wfc/article/",
+          "createdAt": "2026-03-10 01:02:22",
+          "hot": 470
+        },
+        {
+          "title": "Claude Code, Claude Cowork and Codex #5",
+          "summary": "37 comments",
+          "url": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+          "createdAt": "2026-03-10 13:12:54",
+          "hot": 34
+        },
+        {
+          "title": "Show HN: Remotely use my guitar tuner",
+          "summary": "40 comments",
+          "url": "https://realtuner.online/",
+          "createdAt": "2026-03-07 04:27:50",
+          "hot": 171
+        },
+        {
+          "title": "Learnings from paying artists royalties for AI-generated art",
+          "summary": "90 comments",
+          "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+          "createdAt": "2026-03-10 10:24:52",
+          "hot": 120
+        },
+        {
+          "title": "JSLinux Now Supports x86_64",
+          "summary": "86 comments",
+          "url": "https://bellard.org/jslinux/",
+          "createdAt": "2026-03-10 00:43:39",
+          "hot": 305
+        },
+        {
+          "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+          "summary": "471 comments",
+          "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+          "createdAt": "2026-03-09 23:12:53",
+          "hot": 439
+        },
+        {
+          "title": "A useless infinite scroll experiment",
+          "summary": "21 comments",
+          "url": "https://futile.ch/en/",
+          "createdAt": "2026-03-07 01:03:39",
+          "hot": 33
+        },
+        {
+          "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
+          "summary": "10 comments",
+          "url": "https://washere.live",
+          "createdAt": "2026-03-10 13:04:23",
+          "hot": 18
+        },
+        {
+          "title": "Darkrealms BBS",
+          "summary": "19 comments",
+          "url": "http://www.darkrealms.ca/",
+          "createdAt": "2026-03-06 23:40:45",
+          "hot": 89
+        },
+        {
+          "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+          "summary": "2 comments",
+          "url": "https://loger-project.github.io",
+          "createdAt": "2026-03-10 14:16:06",
+          "hot": 7
+        },
+        {
+          "title": "The “JVG algorithm” only wins on tiny numbers",
+          "summary": "27 comments",
+          "url": "https://scottaaronson.blog/?p=9615",
+          "createdAt": "2026-03-10 08:35:19",
+          "hot": 59
+        },
+        {
+          "title": "Worming out molecular secrets behind collective behaviour",
+          "summary": "0 comments",
+          "url": "https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/",
+          "createdAt": "2026-03-07 13:12:53",
+          "hot": 10
+        },
+        {
+          "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+          "summary": "96 comments",
+          "url": "https://github.com/DenchHQ/DenchClaw",
+          "createdAt": "2026-03-09 22:55:42",
+          "hot": 115
+        },
+        {
+          "title": "DARPA’s new X-76",
+          "summary": "180 comments",
+          "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+          "createdAt": "2026-03-10 00:54:31",
+          "hot": 192
+        },
+        {
+          "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+          "summary": "70 comments",
+          "url": "https://news.ycombinator.com/item?id=47311657",
+          "createdAt": "2026-03-10 00:53:52",
+          "hot": 100
+        },
+        {
+          "title": "Graphing how the 10k* most common English words define each other",
+          "summary": "12 comments",
+          "url": "https://wyattsell.com/experiments/word-graph/",
+          "createdAt": "2026-03-08 00:24:24",
+          "hot": 46
+        },
+        {
+          "title": "Amazon holds engineering meeting following AI-related outages",
+          "summary": "37 comments",
+          "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+          "createdAt": "2026-03-10 13:07:59",
+          "hot": 53
+        },
+        {
+          "title": "An opinionated take on how to do important research that matters",
+          "summary": "28 comments",
+          "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+          "createdAt": "2026-03-10 00:24:22",
+          "hot": 119
+        },
+        {
+          "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+          "summary": "188 comments",
+          "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+          "createdAt": "2026-03-10 04:36:43",
+          "hot": 332
+        },
+        {
+          "title": "Notes on Baking at the South Pole",
+          "summary": "20 comments",
+          "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
+          "createdAt": "2026-03-10 03:12:14",
+          "hot": 55
+        },
+        {
+          "title": "Florida judge rules red light camera tickets are unconstitutional",
+          "summary": "534 comments",
+          "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+          "createdAt": "2026-03-10 01:20:29",
+          "hot": 419
+        },
+        {
+          "title": "No leap second will be introduced at the end of June 2026",
+          "summary": "110 comments",
+          "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
+          "createdAt": "2026-03-09 20:15:07",
+          "hot": 102
+        },
+        {
+          "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+          "summary": "581 comments",
+          "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+          "createdAt": "2026-03-09 18:14:59",
+          "hot": 942
+        },
+        {
+          "title": "Flash media longevity testing – 6 years later",
+          "summary": "87 comments",
+          "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
+          "createdAt": "2026-03-09 00:22:24",
+          "hot": 153
+        },
+        {
+          "title": "Getting Started in Common Lisp",
+          "summary": "3 comments",
+          "url": "https://lisp-stat.dev/blog/2026/03/09/getting-started/",
+          "createdAt": "2026-03-10 07:43:29",
+          "hot": 27
+        }
+      ]
     }
   ]
 }
