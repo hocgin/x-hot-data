@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773102775458",
-  "lastUpdatedAt": "2026-03-10 08:32:55",
+  "id": "hackernews-top.1773117469652",
+  "lastUpdatedAt": "2026-03-10 12:37:49",
   "data": [
     {
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "summary": "52 comments",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "createdAt": "2026-03-10 01:02:22",
-      "hot": 367
-    },
-    {
-      "title": "JSLinux Now Supports x86_64",
-      "summary": "64 comments",
-      "url": "https://bellard.org/jslinux/",
-      "createdAt": "2026-03-10 00:43:39",
-      "hot": 227
-    },
-    {
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "summary": "352 comments",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-      "createdAt": "2026-03-09 23:12:53",
-      "hot": 315
-    },
-    {
-      "title": "The first airplane fatality",
-      "summary": "11 comments",
-      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
-      "createdAt": "2026-03-10 04:32:45",
-      "hot": 43
-    },
-    {
-      "title": "Show HN: Remotely use my guitar tuner",
-      "summary": "4 comments",
-      "url": "https://realtuner.online/",
-      "createdAt": "2026-03-07 04:27:50",
-      "hot": 19
-    },
-    {
-      "title": "DARPA’s new X-76",
-      "summary": "143 comments",
-      "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "createdAt": "2026-03-10 00:54:31",
-      "hot": 143
-    },
-    {
-      "title": "Show HN: The Mog Programming Language",
-      "summary": "55 comments",
-      "url": "https://moglang.org",
-      "createdAt": "2026-03-10 01:57:00",
-      "hot": 111
-    },
-    {
-      "title": "Oracle is building yesterday's data centers with tomorrow's debt",
-      "summary": "85 comments",
-      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "createdAt": "2026-03-10 04:36:43",
-      "hot": 177
-    },
-    {
-      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-      "summary": "54 comments",
-      "url": "https://news.ycombinator.com/item?id=47311657",
-      "createdAt": "2026-03-10 00:53:52",
-      "hot": 78
-    },
-    {
-      "title": "Bluesky CEO Jay Graber is stepping down",
-      "summary": "241 comments",
-      "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
-      "createdAt": "2026-03-10 03:09:03",
-      "hot": 281
-    },
-    {
-      "title": "So you want to write an “app” (2025)",
-      "summary": "15 comments",
-      "url": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
-      "createdAt": "2026-03-10 04:50:59",
-      "hot": 40
-    },
-    {
-      "title": "FontCrafter: Turn your handwriting into a real font",
-      "summary": "133 comments",
-      "url": "https://arcade.pirillo.com/fontcrafter.html",
-      "createdAt": "2026-03-09 17:25:02",
-      "hot": 417
-    },
-    {
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "summary": "422 comments",
-      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "createdAt": "2026-03-10 01:20:29",
-      "hot": 291
-    },
-    {
-      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-      "summary": "81 comments",
-      "url": "https://github.com/DenchHQ/DenchClaw",
-      "createdAt": "2026-03-09 22:55:42",
-      "hot": 81
-    },
-    {
-      "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
-      "summary": "48 comments",
-      "url": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
-      "createdAt": "2026-03-09 23:23:08",
-      "hot": 89
-    },
-    {
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "summary": "16 comments",
-      "url": "https://fixfest.therestartproject.org/",
-      "createdAt": "2026-03-10 01:34:27",
-      "hot": 136
-    },
-    {
-      "title": "An opinionated take on how to do important research that matters",
-      "summary": "15 comments",
-      "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-      "createdAt": "2026-03-10 00:24:22",
-      "hot": 71
-    },
-    {
-      "title": "Notes on Baking at the South Pole",
-      "summary": "8 comments",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
-      "createdAt": "2026-03-10 03:12:14",
-      "hot": 28
-    },
-    {
-      "title": "Flash media longevity testing – 6 years later",
-      "summary": "69 comments",
-      "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
-      "createdAt": "2026-03-09 00:22:24",
+      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+      "summary": "24 comments",
+      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "createdAt": "2026-03-10 08:16:44",
       "hot": 127
     },
     {
-      "title": "Rethinking Syntax: Binding by Adjacency",
-      "summary": "15 comments",
-      "url": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
-      "createdAt": "2026-03-08 13:03:03",
-      "hot": 40
-    },
-    {
-      "title": "Durdraw – ANSI art editor for Unix-like systems",
+      "title": "Learnings from paying artists royalties for AI-generated art",
       "summary": "14 comments",
-      "url": "https://durdraw.org/",
-      "createdAt": "2026-03-10 02:59:32",
-      "hot": 35
-    },
-    {
-      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-      "summary": "516 comments",
-      "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-      "createdAt": "2026-03-09 18:14:59",
-      "hot": 843
-    },
-    {
-      "title": "Velxio, Arduino Emulator",
-      "summary": "16 comments",
-      "url": "https://velxio.dev/",
-      "createdAt": "2026-03-08 13:02:38",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "createdAt": "2026-03-10 10:24:52",
       "hot": 39
     },
     {
+      "title": "Building a Procedural Hex Map with Wave Function Collapse",
+      "summary": "65 comments",
+      "url": "https://felixturner.github.io/hex-map-wfc/article/",
+      "createdAt": "2026-03-10 01:02:22",
+      "hot": 427
+    },
+    {
+      "title": "Show HN: Remotely use my guitar tuner",
+      "summary": "28 comments",
+      "url": "https://realtuner.online/",
+      "createdAt": "2026-03-07 04:27:50",
+      "hot": 114
+    },
+    {
+      "title": "JSLinux Now Supports x86_64",
+      "summary": "79 comments",
+      "url": "https://bellard.org/jslinux/",
+      "createdAt": "2026-03-10 00:43:39",
+      "hot": 269
+    },
+    {
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "summary": "426 comments",
+      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "createdAt": "2026-03-09 23:12:53",
+      "hot": 388
+    },
+    {
+      "title": "Darkrealms BBS",
+      "summary": "13 comments",
+      "url": "http://www.darkrealms.ca/",
+      "createdAt": "2026-03-06 23:40:45",
+      "hot": 61
+    },
+    {
+      "title": "The “JVG algorithm” only wins on tiny numbers",
+      "summary": "25 comments",
+      "url": "https://scottaaronson.blog/?p=9615",
+      "createdAt": "2026-03-10 08:35:19",
+      "hot": 42
+    },
+    {
+      "title": "The first airplane fatality",
+      "summary": "16 comments",
+      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+      "createdAt": "2026-03-10 04:32:45",
+      "hot": 71
+    },
+    {
+      "title": "DARPA’s new X-76",
+      "summary": "172 comments",
+      "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
+      "createdAt": "2026-03-10 00:54:31",
+      "hot": 178
+    },
+    {
+      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+      "summary": "63 comments",
+      "url": "https://news.ycombinator.com/item?id=47311657",
+      "createdAt": "2026-03-10 00:53:52",
+      "hot": 96
+    },
+    {
+      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+      "summary": "89 comments",
+      "url": "https://github.com/DenchHQ/DenchClaw",
+      "createdAt": "2026-03-09 22:55:42",
+      "hot": 100
+    },
+    {
+      "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+      "summary": "152 comments",
+      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+      "createdAt": "2026-03-10 04:36:43",
+      "hot": 287
+    },
+    {
+      "title": "So you want to write an “app” (2025)",
+      "summary": "38 comments",
+      "url": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
+      "createdAt": "2026-03-10 04:50:59",
+      "hot": 88
+    },
+    {
+      "title": "Graphing how the 10k* most common English words define each other",
+      "summary": "8 comments",
+      "url": "https://wyattsell.com/experiments/word-graph/",
+      "createdAt": "2026-03-08 00:24:24",
+      "hot": 20
+    },
+    {
+      "title": "Show HN: The Mog Programming Language",
+      "summary": "65 comments",
+      "url": "https://moglang.org",
+      "createdAt": "2026-03-10 01:57:00",
+      "hot": 131
+    },
+    {
+      "title": "Florida judge rules red light camera tickets are unconstitutional",
+      "summary": "492 comments",
+      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+      "createdAt": "2026-03-10 01:20:29",
+      "hot": 380
+    },
+    {
+      "title": "An opinionated take on how to do important research that matters",
+      "summary": "21 comments",
+      "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
+      "createdAt": "2026-03-10 00:24:22",
+      "hot": 98
+    },
+    {
+      "title": "Bluesky CEO Jay Graber is stepping down",
+      "summary": "300 comments",
+      "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+      "createdAt": "2026-03-10 03:09:03",
+      "hot": 336
+    },
+    {
       "title": "No leap second will be introduced at the end of June 2026",
-      "summary": "78 comments",
+      "summary": "89 comments",
       "url": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
       "createdAt": "2026-03-09 20:15:07",
-      "hot": 67
+      "hot": 88
+    },
+    {
+      "title": "I don't know Apple's endgame for the Fn/Globe key–or if Apple does",
+      "summary": "44 comments",
+      "url": "https://aresluna.org/fn/",
+      "createdAt": "2026-03-10 00:53:14",
+      "hot": 84
+    },
+    {
+      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+      "summary": "552 comments",
+      "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+      "createdAt": "2026-03-09 18:14:59",
+      "hot": 903
+    },
+    {
+      "title": "Show HN: Hopalong Attractor. An old classic with a new perspective in 3D",
+      "summary": "0 comments",
+      "url": "https://github.com/ratwolfzero/hopalong_python",
+      "createdAt": "2026-03-06 22:38:25",
+      "hot": 9
+    },
+    {
+      "title": "Flash media longevity testing – 6 years later",
+      "summary": "80 comments",
+      "url": "https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/",
+      "createdAt": "2026-03-09 00:22:24",
+      "hot": 138
+    },
+    {
+      "title": "Notes on Baking at the South Pole",
+      "summary": "15 comments",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
+      "createdAt": "2026-03-10 03:12:14",
+      "hot": 45
     },
     {
       "title": "Reverse-engineering the UniFi inform protocol",
-      "summary": "59 comments",
+      "summary": "63 comments",
       "url": "https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol",
       "createdAt": "2026-03-09 20:38:46",
-      "hot": 135
+      "hot": 155
     },
     {
-      "title": "Rendezvous with Rama",
-      "summary": "88 comments",
-      "url": "https://blog.engora.com/2026/03/rendezvous-with-rama.html",
-      "createdAt": "2026-03-10 05:34:45",
-      "hot": 81
+      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+      "summary": "19 comments",
+      "url": "https://fixfest.therestartproject.org/",
+      "createdAt": "2026-03-10 01:34:27",
+      "hot": 160
     },
     {
-      "title": "Algebraic topology: knots links and braids",
-      "summary": "7 comments",
-      "url": "https://aeb.win.tue.nl/at/algtop-5.html",
-      "createdAt": "2026-03-09 22:28:43",
-      "hot": 66
+      "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+      "summary": "4 comments",
+      "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+      "createdAt": "2026-03-10 07:22:06",
+      "hot": 20
     },
     {
-      "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
-      "summary": "117 comments",
-      "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
-      "createdAt": "2026-03-10 00:41:54",
-      "hot": 181
+      "title": "Rethinking Syntax: Binding by Adjacency",
+      "summary": "19 comments",
+      "url": "https://github.com/manifold-systems/manifold/blob/master/docs/articles/binding_exprs.md",
+      "createdAt": "2026-03-08 13:03:03",
+      "hot": 45
     },
     {
-      "title": "What I Always Wanted to Know about Second Class Values",
-      "summary": "16 comments",
-      "url": "https://dl.acm.org/doi/epdf/10.1145/3759427.3760373",
-      "createdAt": "2026-03-10 00:49:55",
-      "hot": 29
-    },
-    {
-      "title": "The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust",
-      "summary": "0 comments",
-      "url": "https://www.gethopp.app/blog/hate-webkit",
-      "createdAt": "2026-03-10 07:38:35",
-      "hot": 10
+      "title": "Durdraw – ANSI art editor for Unix-like systems",
+      "summary": "21 comments",
+      "url": "https://durdraw.org/",
+      "createdAt": "2026-03-10 02:59:32",
+      "hot": 54
     }
   ]
 }
