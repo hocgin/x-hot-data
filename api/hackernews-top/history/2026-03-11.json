@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-11",
+  "createdAt": "2026-03-11 00:26:51",
+  "data": [
+    {
+      "id": "hackernews-top.1773160011334",
+      "lastUpdatedAt": "2026-03-11 00:26:51",
+      "data": [
+        {
+          "title": "Tony Hoare has died",
+          "summary": "36 comments",
+          "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+          "createdAt": "2026-03-10 22:50:16",
+          "hot": 385
+        },
+        {
+          "title": "Intel Demos Chip to Compute with Encrypted Data",
+          "summary": "32 comments",
+          "url": "https://spectrum.ieee.org/fhe-intel",
+          "createdAt": "2026-03-10 21:10:48",
+          "hot": 118
+        },
+        {
+          "title": "Rebasing in Magit",
+          "summary": "71 comments",
+          "url": "https://entropicthoughts.com/rebasing-in-magit",
+          "createdAt": "2026-03-10 21:38:39",
+          "hot": 106
+        },
+        {
+          "title": "I put my whole life into a single database",
+          "summary": "139 comments",
+          "url": "https://howisfelix.today/",
+          "createdAt": "2026-03-10 18:07:48",
+          "hot": 299
+        },
+        {
+          "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+          "summary": "20 comments",
+          "url": "https://news.ycombinator.com/item?id=47324296",
+          "createdAt": "2026-03-10 23:08:05",
+          "hot": 20
+        },
+        {
+          "title": "Debian decides not to decide on AI-generated contributions",
+          "summary": "62 comments",
+          "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+          "createdAt": "2026-03-10 22:53:13",
+          "hot": 67
+        },
+        {
+          "title": "Meta acquires Moltbook",
+          "summary": "40 comments",
+          "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+          "createdAt": "2026-03-10 22:38:06",
+          "hot": 76
+        },
+        {
+          "title": "Online age-verification tools for child safety are surveilling adults",
+          "summary": "119 comments",
+          "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+          "createdAt": "2026-03-10 20:55:42",
+          "hot": 231
+        },
+        {
+          "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+          "summary": "54 comments",
+          "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
+          "createdAt": "2026-03-10 23:01:35",
+          "hot": 114
+        },
+        {
+          "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+          "summary": "27 comments",
+          "url": "https://dnhkng.github.io/posts/rys/",
+          "createdAt": "2026-03-10 21:18:55",
+          "hot": 55
+        },
+        {
+          "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+          "summary": "81 comments",
+          "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+          "createdAt": "2026-03-07 19:28:37",
+          "hot": 199
+        },
+        {
+          "title": "Sending Jabber/XMPP Messages via HTTP",
+          "summary": "4 comments",
+          "url": "https://gultsch.de/posts/xmpp-via-http/",
+          "createdAt": "2026-03-10 21:29:21",
+          "hot": 31
+        },
+        {
+          "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+          "summary": "167 comments",
+          "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+          "createdAt": "2026-03-10 18:50:30",
+          "hot": 321
+        },
+        {
+          "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+          "summary": "17 comments",
+          "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+          "createdAt": "2026-03-10 19:58:36",
+          "hot": 48
+        },
+        {
+          "title": "How many options fit into a boolean?",
+          "summary": "0 comments",
+          "url": "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/",
+          "createdAt": "2026-03-07 13:31:13",
+          "hot": 15
+        },
+        {
+          "title": "Show HN: DD Photos – open-source photo album site generator (Go and SvelteKit)",
+          "summary": "8 comments",
+          "url": "https://github.com/dougdonohoe/ddphotos",
+          "createdAt": "2026-03-10 21:13:48",
+          "hot": 30
+        },
+        {
+          "title": "A New Version of Our Oracle Solaris Environment for Developers",
+          "summary": "14 comments",
+          "url": "https://blogs.oracle.com/solaris/announcing-a-new-version-of-our-oracle-solaris-environment-for-developers",
+          "createdAt": "2026-03-08 02:56:56",
+          "hot": 27
+        },
+        {
+          "title": "Practical Guide to Bare Metal C++",
+          "summary": "29 comments",
+          "url": "https://arobenko.github.io/bare_metal_cpp/#_abstract_classes",
+          "createdAt": "2026-03-07 12:22:20",
+          "hot": 79
+        },
+        {
+          "title": "Caxlsx: Ruby gem for xlsx generation with charts, images, schema validation",
+          "summary": "3 comments",
+          "url": "https://github.com/caxlsx/caxlsx",
+          "createdAt": "2026-03-06 23:59:29",
+          "hot": 42
+        },
+        {
+          "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
+          "summary": "24 comments",
+          "url": "https://loger-project.github.io",
+          "createdAt": "2026-03-10 14:16:06",
+          "hot": 112
+        },
+        {
+          "title": "Two Years of Emacs Solo",
+          "summary": "121 comments",
+          "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+          "createdAt": "2026-03-10 08:16:44",
+          "hot": 323
+        },
+        {
+          "title": "TCXO Failure Analysis",
+          "summary": "33 comments",
+          "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+          "createdAt": "2026-03-07 12:49:38",
+          "hot": 78
+        },
+        {
+          "title": "RFC 454545 – Human Em Dash Standard",
+          "summary": "43 comments",
+          "url": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
+          "createdAt": "2026-03-10 22:37:55",
+          "hot": 65
+        },
+        {
+          "title": "Lotus 1-2-3 on the PC with DOS",
+          "summary": "59 comments",
+          "url": "https://stonetools.ghost.io/lotus123-dos/",
+          "createdAt": "2026-03-07 03:11:24",
+          "hot": 155
+        },
+        {
+          "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+          "summary": "273 comments",
+          "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+          "createdAt": "2026-03-10 07:22:06",
+          "hot": 382
+        },
+        {
+          "title": "Building a Procedural Hex Map with Wave Function Collapse",
+          "summary": "82 comments",
+          "url": "https://felixturner.github.io/hex-map-wfc/article/",
+          "createdAt": "2026-03-10 01:02:22",
+          "hot": 545
+        },
+        {
+          "title": "Traffic from Russia to Cloudflare is 60% down from last year",
+          "summary": "44 comments",
+          "url": "https://radar.cloudflare.com/traffic/ru?dateRange=52w",
+          "createdAt": "2026-03-10 20:55:14",
+          "hot": 72
+        },
+        {
+          "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+          "summary": "299 comments",
+          "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+          "createdAt": "2026-03-10 16:54:53",
+          "hot": 282
+        },
+        {
+          "title": "Optimizing Top K in Postgres",
+          "summary": "15 comments",
+          "url": "https://www.paradedb.com/blog/optimizing-top-k",
+          "createdAt": "2026-03-09 06:54:17",
+          "hot": 130
+        },
+        {
+          "title": "Show HN: A playable version of the Claude Code Terraform destroy incident",
+          "summary": "4 comments",
+          "url": "https://www.youbrokeprod.com",
+          "createdAt": "2026-03-10 22:39:09",
+          "hot": 6
+        }
+      ]
+    }
+  ]
+}
