@@ -1,6 +1,6 @@
 {
-  "id": "sspai-hot.1773160011329",
-  "lastUpdatedAt": "2026-03-11 00:26:51",
+  "id": "sspai-hot.1773173557686",
+  "lastUpdatedAt": "2026-03-11 04:12:37",
   "data": [
     {
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -33,6 +33,14 @@
       "imageUrl": "2026/3/2/article/85ec278f-ad6c-1c77-806d-cf82a5b4e1bd.jpeg",
       "createdAt": "2026-03-02 17:41:03",
       "hot": 13
+    },
+    {
+      "title": "年度征文｜在新加坡，住最昂贵的房子，过最憋屈的日子",
+      "summary": "高昂的房租并没有带来相对应的舒适体验。",
+      "url": "https://sspai.com/post/106743",
+      "imageUrl": "2026/03/02/b4bb0e1ba88f1c71448df5eedc8f1c6b.jpeg",
+      "createdAt": "2026-03-02 15:26:19",
+      "hot": 43
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -153,14 +161,6 @@
       "imageUrl": "2026/01/18/7a7a0f65188c34161f8d5979706a74bb.png",
       "createdAt": "2026-01-18 20:12:57",
       "hot": 13
-    },
-    {
-      "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
-      "summary": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。",
-      "url": "https://sspai.com/post/105484",
-      "imageUrl": "2026/01/15/188b36c660fd2758fdcab4627b49e65f.png",
-      "createdAt": "2026-01-15 20:28:17",
-      "hot": 42
     }
   ]
 }

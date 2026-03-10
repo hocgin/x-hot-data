@@ -217,6 +217,222 @@
           "hot": 6
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773173557691",
+      "lastUpdatedAt": "2026-03-11 04:12:37",
+      "data": [
+        {
+          "title": "Tony Hoare has died",
+          "summary": "149 comments",
+          "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+          "createdAt": "2026-03-10 22:50:16",
+          "hot": 1048
+        },
+        {
+          "title": "Agents that run while I sleep",
+          "summary": "46 comments",
+          "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+          "createdAt": "2026-03-11 03:09:46",
+          "hot": 54
+        },
+        {
+          "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+          "summary": "262 comments",
+          "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+          "createdAt": "2026-03-10 16:46:53",
+          "hot": 139
+        },
+        {
+          "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+          "summary": "54 comments",
+          "url": "https://github.com/RunanywhereAI/rcli",
+          "createdAt": "2026-03-11 01:14:52",
+          "hot": 135
+        },
+        {
+          "title": "Widevine retiring its Cloud License Service (CLS)",
+          "summary": "9 comments",
+          "url": "https://castlabs.com/blog/widevine-retiring-cloud-license-service/",
+          "createdAt": "2026-03-11 03:12:22",
+          "hot": 27
+        },
+        {
+          "title": "Debian decides not to decide on AI-generated contributions",
+          "summary": "169 comments",
+          "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+          "createdAt": "2026-03-10 22:53:13",
+          "hot": 207
+        },
+        {
+          "title": "Billion-Parameter Theories",
+          "summary": "33 comments",
+          "url": "https://www.worldgov.org/complexity.html",
+          "createdAt": "2026-03-11 01:49:53",
+          "hot": 62
+        },
+        {
+          "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
+          "summary": "3 comments",
+          "url": "https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive",
+          "createdAt": "2026-03-11 03:17:26",
+          "hot": 20
+        },
+        {
+          "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+          "summary": "13 comments",
+          "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+          "createdAt": "2026-03-11 02:26:39",
+          "hot": 32
+        },
+        {
+          "title": "Intel Demos Chip to Compute with Encrypted Data",
+          "summary": "67 comments",
+          "url": "https://spectrum.ieee.org/fhe-intel",
+          "createdAt": "2026-03-10 21:10:48",
+          "hot": 183
+        },
+        {
+          "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+          "summary": "329 comments",
+          "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+          "createdAt": "2026-03-10 16:54:53",
+          "hot": 324
+        },
+        {
+          "title": "Rebasing in Magit",
+          "summary": "105 comments",
+          "url": "https://entropicthoughts.com/rebasing-in-magit",
+          "createdAt": "2026-03-10 21:38:39",
+          "hot": 152
+        },
+        {
+          "title": "Levels of Agentic Engineering",
+          "summary": "23 comments",
+          "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+          "createdAt": "2026-03-10 16:48:40",
+          "hot": 39
+        },
+        {
+          "title": "Defeat as Method",
+          "summary": "2 comments",
+          "url": "https://www.cabinetmagazine.org/issues/71/khosravi.php",
+          "createdAt": "2026-03-11 01:07:27",
+          "hot": 24
+        },
+        {
+          "title": "I put my whole life into a single database",
+          "summary": "177 comments",
+          "url": "https://howisfelix.today/",
+          "createdAt": "2026-03-10 18:07:48",
+          "hot": 370
+        },
+        {
+          "title": "Meta acquires Moltbook",
+          "summary": "190 comments",
+          "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+          "createdAt": "2026-03-10 22:38:06",
+          "hot": 287
+        },
+        {
+          "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+          "summary": "70 comments",
+          "url": "https://dnhkng.github.io/posts/rys/",
+          "createdAt": "2026-03-10 21:18:55",
+          "hot": 192
+        },
+        {
+          "title": "Open Weights isn't Open Training",
+          "summary": "15 comments",
+          "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+          "createdAt": "2026-03-10 07:37:08",
+          "hot": 40
+        },
+        {
+          "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+          "summary": "43 comments",
+          "url": "https://news.ycombinator.com/item?id=47324296",
+          "createdAt": "2026-03-10 23:08:05",
+          "hot": 39
+        },
+        {
+          "title": "I built a programming language using Claude Code",
+          "summary": "94 comments",
+          "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+          "createdAt": "2026-03-11 00:37:29",
+          "hot": 74
+        },
+        {
+          "title": "Because Algospeak",
+          "summary": "0 comments",
+          "url": "https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak",
+          "createdAt": "2026-03-08 05:47:33",
+          "hot": 8
+        },
+        {
+          "title": "I used pulsar detection techniques to turn a phone into a watch timegrapher",
+          "summary": "12 comments",
+          "url": "https://www.chronolog.watch/timegrapher",
+          "createdAt": "2026-03-08 03:54:26",
+          "hot": 47
+        },
+        {
+          "title": "Converting Binary Floating-Point Numbers to Shortest Decimal Strings",
+          "summary": "0 comments",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70056",
+          "createdAt": "2026-03-07 10:38:17",
+          "hot": 7
+        },
+        {
+          "title": "RFC 454545 – Human Em Dash Standard",
+          "summary": "89 comments",
+          "url": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
+          "createdAt": "2026-03-10 22:37:55",
+          "hot": 100
+        },
+        {
+          "title": "Surpassing vLLM with a Generated Inference Stack",
+          "summary": "4 comments",
+          "url": "https://infinity.inc/case-studies/qwen3-optimization",
+          "createdAt": "2026-03-10 23:12:52",
+          "hot": 17
+        },
+        {
+          "title": "Online age-verification tools for child safety are surveilling adults",
+          "summary": "251 comments",
+          "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+          "createdAt": "2026-03-10 20:55:42",
+          "hot": 408
+        },
+        {
+          "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
+          "summary": "111 comments",
+          "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+          "createdAt": "2026-03-07 19:28:37",
+          "hot": 258
+        },
+        {
+          "title": "We are building data breach machines and nobody cares",
+          "summary": "15 comments",
+          "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
+          "createdAt": "2026-03-10 22:50:43",
+          "hot": 43
+        },
+        {
+          "title": "The Enterprise Context Layer",
+          "summary": "5 comments",
+          "url": "https://andychen32.substack.com/p/the-enterprise-context-layer",
+          "createdAt": "2026-03-10 23:18:39",
+          "hot": 27
+        },
+        {
+          "title": "DOGE member took Social Security data on a thumb drive, whistleblower alleges",
+          "summary": "2 comments",
+          "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge/",
+          "createdAt": "2026-03-11 02:53:19",
+          "hot": 35
+        }
+      ]
     }
   ]
 }
