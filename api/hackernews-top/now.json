@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773203911661",
-  "lastUpdatedAt": "2026-03-11 12:38:31",
+  "id": "hackernews-top.1773217012561",
+  "lastUpdatedAt": "2026-03-11 16:16:52",
   "data": [
     {
-      "title": "Tony Hoare has died",
-      "summary": "209 comments",
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "createdAt": "2026-03-10 22:50:16",
-      "hot": 1603
-    },
-    {
-      "title": "U+237C ⍼ Is Azimuth",
-      "summary": "22 comments",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "createdAt": "2026-03-11 06:33:45",
-      "hot": 204
+      "title": "Create value for others and don’t worry about the returns",
+      "summary": "83 comments",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "createdAt": "2026-03-11 13:45:49",
+      "hot": 217
     },
     {
       "title": "Zig – Type Resolution Redesign and Language Changes",
-      "summary": "16 comments",
+      "summary": "55 comments",
       "url": "https://ziglang.org/devlog/2026/#2026-03-10",
       "createdAt": "2026-03-11 09:24:47",
-      "hot": 66
+      "hot": 170
+    },
+    {
+      "title": "U+237C ⍼ Is Azimuth",
+      "summary": "26 comments",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "createdAt": "2026-03-11 06:33:45",
+      "hot": 269
+    },
+    {
+      "title": "AutoKernel: Autoresearch for GPU Kernels",
+      "summary": "0 comments",
+      "url": "https://github.com/RightNow-AI/autokernel",
+      "createdAt": "2026-03-11 15:42:10",
+      "hot": 9
     },
     {
       "title": "Cloudflare crawl endpoint",
-      "summary": "91 comments",
+      "summary": "107 comments",
       "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
       "createdAt": "2026-03-11 06:27:15",
-      "hot": 184
+      "hot": 268
     },
     {
-      "title": "Agents that run while I sleep",
-      "summary": "241 comments",
-      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-      "createdAt": "2026-03-11 03:09:46",
-      "hot": 270
+      "title": "I'm going to build my own OpenClaw, with blackjack and bun",
+      "summary": "7 comments",
+      "url": "https://github.com/rcarmo/piclaw",
+      "createdAt": "2026-03-11 15:36:18",
+      "hot": 14
+    },
+    {
+      "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+      "summary": "1 comments",
+      "url": "https://www.hume.ai/blog/opensource-tada",
+      "createdAt": "2026-03-11 13:42:55",
+      "hot": 17
     },
     {
       "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-      "summary": "0 comments",
+      "summary": "6 comments",
       "url": "https://github.com/gcv/julia-snail",
       "createdAt": "2026-03-08 17:27:34",
-      "hot": 16
+      "hot": 53
+    },
+    {
+      "title": "Tony Hoare has died",
+      "summary": "223 comments",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "createdAt": "2026-03-10 22:50:16",
+      "hot": 1733
+    },
+    {
+      "title": "Agents that run while I sleep",
+      "summary": "311 comments",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "createdAt": "2026-03-11 03:09:46",
+      "hot": 315
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "summary": "343 comments",
+      "summary": "365 comments",
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "createdAt": "2026-03-10 16:46:53",
-      "hot": 378
-    },
-    {
-      "title": "Writing my own text editor, and daily-driving it",
-      "summary": "4 comments",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "createdAt": "2026-03-11 10:04:22",
-      "hot": 34
-    },
-    {
-      "title": "SSH Secret Menu",
-      "summary": "39 comments",
-      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
-      "createdAt": "2026-03-10 11:28:38",
-      "hot": 100
-    },
-    {
-      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "summary": "113 comments",
-      "url": "https://github.com/RunanywhereAI/rcli",
-      "createdAt": "2026-03-11 01:14:52",
-      "hot": 195
-    },
-    {
-      "title": "Debian decides not to decide on AI-generated contributions",
-      "summary": "226 comments",
-      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-      "createdAt": "2026-03-10 22:53:13",
-      "hot": 299
-    },
-    {
-      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "summary": "6 comments",
-      "url": "https://github.com/torlando-tech/columba",
-      "createdAt": "2026-03-11 03:02:01",
-      "hot": 56
-    },
-    {
-      "title": "Universal vaccine against respiratory infections and allergens",
-      "summary": "61 comments",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "createdAt": "2026-03-11 06:33:48",
-      "hot": 158
-    },
-    {
-      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "summary": "52 comments",
-      "url": "https://github.com/steelbrain/ffmpeg-over-ip",
-      "createdAt": "2026-03-11 02:26:39",
-      "hot": 143
-    },
-    {
-      "title": "Invoker Commands API",
-      "summary": "12 comments",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
-      "createdAt": "2026-03-08 16:16:53",
-      "hot": 69
-    },
-    {
-      "title": "Meta acquires Moltbook",
-      "summary": "297 comments",
-      "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
-      "createdAt": "2026-03-10 22:38:06",
-      "hot": 451
-    },
-    {
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "summary": "98 comments",
-      "url": "https://spectrum.ieee.org/fhe-intel",
-      "createdAt": "2026-03-10 21:10:48",
-      "hot": 231
-    },
-    {
-      "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
-      "summary": "52 comments",
-      "url": "https://news.ycombinator.com/item?id=47324296",
-      "createdAt": "2026-03-10 23:08:05",
-      "hot": 56
-    },
-    {
-      "title": "Bippy: React Internals Toolkit",
-      "summary": "6 comments",
-      "url": "https://www.bippy.dev/",
-      "createdAt": "2026-03-08 18:01:23",
-      "hot": 27
-    },
-    {
-      "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
-      "summary": "8 comments",
-      "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
-      "createdAt": "2026-03-08 01:29:54",
-      "hot": 65
-    },
-    {
-      "title": "Roblox is minting teen millionaires",
-      "summary": "84 comments",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
-      "createdAt": "2026-03-08 09:20:05",
-      "hot": 86
-    },
-    {
-      "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
-      "summary": "92 comments",
-      "url": "https://dnhkng.github.io/posts/rys/",
-      "createdAt": "2026-03-10 21:18:55",
-      "hot": 334
-    },
-    {
-      "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
-      "summary": "7 comments",
-      "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
-      "createdAt": "2026-03-10 11:34:52",
-      "hot": 28
-    },
-    {
-      "title": "Rebasing in Magit",
-      "summary": "129 comments",
-      "url": "https://entropicthoughts.com/rebasing-in-magit",
-      "createdAt": "2026-03-10 21:38:39",
-      "hot": 194
-    },
-    {
-      "title": "Tell HN: Apple development certificate server seems down?",
-      "summary": "31 comments",
-      "url": "https://news.ycombinator.com/item?id=47328034",
-      "createdAt": "2026-03-11 03:56:52",
-      "hot": 78
-    },
-    {
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "summary": "411 comments",
-      "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-      "createdAt": "2026-03-10 21:31:17",
-      "hot": 494
-    },
-    {
-      "title": "Open Weights isn't Open Training",
-      "summary": "28 comments",
-      "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
-      "createdAt": "2026-03-10 07:37:08",
-      "hot": 88
-    },
-    {
-      "title": "Mother of All Grease Fires (1994)",
-      "summary": "16 comments",
-      "url": "https://milk.com/wall-o-shame/bucket.html",
-      "createdAt": "2026-03-11 03:56:32",
-      "hot": 42
+      "hot": 442
     },
     {
       "title": "RISC-V Is Sloooow",
-      "summary": "185 comments",
+      "summary": "208 comments",
       "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
       "createdAt": "2026-03-11 04:11:54",
-      "hot": 191
+      "hot": 221
     },
     {
-      "title": "We are building data breach machines and nobody cares",
-      "summary": "40 comments",
-      "url": "https://idealloc.me/posts/we-are-building-data-breach-machines-and-nobody-cares/",
-      "createdAt": "2026-03-10 22:50:43",
-      "hot": 103
+      "title": "Writing my own text editor, and daily-driving it",
+      "summary": "18 comments",
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "createdAt": "2026-03-11 10:04:22",
+      "hot": 85
+    },
+    {
+      "title": "SSH Secret Menu",
+      "summary": "57 comments",
+      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "createdAt": "2026-03-10 11:28:38",
+      "hot": 173
+    },
+    {
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "summary": "127 comments",
+      "url": "https://github.com/RunanywhereAI/rcli",
+      "createdAt": "2026-03-11 01:14:52",
+      "hot": 207
+    },
+    {
+      "title": "Standardizing source maps",
+      "summary": "1 comments",
+      "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "createdAt": "2026-03-11 12:42:23",
+      "hot": 23
+    },
+    {
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "summary": "247 comments",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "createdAt": "2026-03-10 22:53:13",
+      "hot": 321
+    },
+    {
+      "title": "Surpassing vLLM with a Generated Inference Stack",
+      "summary": "12 comments",
+      "url": "https://infinity.inc/case-studies/qwen3-optimization",
+      "createdAt": "2026-03-10 23:12:52",
+      "hot": 32
+    },
+    {
+      "title": "Support for Aquantia AQC113 and AQC113C Ethernet Controllers on FreeBSD",
+      "summary": "2 comments",
+      "url": "https://github.com/Aquantia/aqtion-freebsd/issues/32",
+      "createdAt": "2026-03-07 11:55:28",
+      "hot": 6
+    },
+    {
+      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "summary": "8 comments",
+      "url": "https://github.com/torlando-tech/columba",
+      "createdAt": "2026-03-11 03:02:01",
+      "hot": 84
+    },
+    {
+      "title": "Levels of Agentic Engineering",
+      "summary": "77 comments",
+      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+      "createdAt": "2026-03-10 16:48:40",
+      "hot": 159
+    },
+    {
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "summary": "75 comments",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+      "createdAt": "2026-03-11 06:33:48",
+      "hot": 219
+    },
+    {
+      "title": "Roblox is minting teen millionaires",
+      "summary": "131 comments",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
+      "createdAt": "2026-03-08 09:20:05",
+      "hot": 120
+    },
+    {
+      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+      "summary": "58 comments",
+      "url": "https://github.com/steelbrain/ffmpeg-over-ip",
+      "createdAt": "2026-03-11 02:26:39",
+      "hot": 176
+    },
+    {
+      "title": "Meta acquires Moltbook",
+      "summary": "323 comments",
+      "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+      "createdAt": "2026-03-10 22:38:06",
+      "hot": 480
+    },
+    {
+      "title": "Pike: To Exit or Not to Exit",
+      "summary": "2 comments",
+      "url": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
+      "createdAt": "2026-03-08 18:51:54",
+      "hot": 18
+    },
+    {
+      "title": "EQT eyes potential $6B sale of Linux pioneer SUSE, sources say",
+      "summary": "17 comments",
+      "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09",
+      "createdAt": "2026-03-10 11:34:52",
+      "hot": 46
+    },
+    {
+      "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
+      "summary": "9 comments",
+      "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
+      "createdAt": "2026-03-08 01:29:54",
+      "hot": 83
+    },
+    {
+      "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+      "summary": "59 comments",
+      "url": "https://news.ycombinator.com/item?id=47324296",
+      "createdAt": "2026-03-10 23:08:05",
+      "hot": 62
+    },
+    {
+      "title": "Invoker Commands API",
+      "summary": "15 comments",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
+      "createdAt": "2026-03-08 16:16:53",
+      "hot": 79
     }
   ]
 }
