@@ -1,55 +1,55 @@
 {
-  "id": "yiche-hot.1773173557694",
-  "lastUpdatedAt": "2026-03-11 04:12:37",
+  "id": "yiche-hot.1773189196126",
+  "lastUpdatedAt": "2026-03-11 08:33:16",
   "data": [
     {
-      "title": "RAV4荣放",
-      "summary": "价格: 16.98-23.88万",
+      "title": "捷途旅行者",
+      "summary": "价格: 13.99-21.49万",
       "url": "https://car.yiche.com/xinaodia6l/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 162800
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 161400
     },
     {
       "title": "钛7",
       "summary": "价格: 17.98-21.98万",
       "url": "https://car.yiche.com/tai7/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 156000
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 158600
+    },
+    {
+      "title": "大唐",
+      "summary": "价格: 暂无",
+      "url": "https://car.yiche.com/wangchaodjisuv/",
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 153800
     },
     {
       "title": "雅阁",
       "summary": "价格: 17.98-23.88万",
       "url": "https://car.yiche.com/dibadaiyage/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 155000
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 150800
+    },
+    {
+      "title": "RAV4荣放",
+      "summary": "价格: 16.98-23.88万",
+      "url": "https://car.yiche.com/yiqifengtianrav4/",
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 147900
     },
     {
       "title": "帕萨特",
       "summary": "价格: 16.45-30.98万",
       "url": "https://car.yiche.com/pasate/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 148200
-    },
-    {
-      "title": "轩逸",
-      "summary": "价格: 7.99-17.49万",
-      "url": "https://car.yiche.com/xuanyi/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 145000
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 145600
     },
     {
       "title": "迈腾",
       "summary": "价格: 17.49-24.69万",
       "url": "https://car.yiche.com/maiteng/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 144400
-    },
-    {
-      "title": "捷途旅行者",
-      "summary": "价格: 13.99-21.49万",
-      "url": "https://car.yiche.com/jietutx/",
-      "createdAt": "2026-03-11 04:12:04",
-      "hot": 144300
+      "createdAt": "2026-03-11 08:33:00",
+      "hot": 144800
     }
   ]
 }

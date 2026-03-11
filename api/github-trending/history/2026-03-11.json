@@ -143,6 +143,77 @@
           "createdAt": "2026-03-11 04:12:03"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773189196124",
+      "lastUpdatedAt": "2026-03-11 08:33:16",
+      "data": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "GoogleCloudPlatform/generative-ai",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "sepinf-inc/IPED",
+          "url": "https://github.com/sepinf-inc/IPED",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "createdAt": "2026-03-11 08:32:56"
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "createdAt": "2026-03-11 08:32:56"
+        }
+      ]
     }
   ]
 }
