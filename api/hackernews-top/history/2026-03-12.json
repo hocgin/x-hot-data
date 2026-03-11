@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-12",
+  "createdAt": "2026-03-12 00:22:52",
+  "data": [
+    {
+      "id": "hackernews-top.1773246172390",
+      "lastUpdatedAt": "2026-03-12 00:22:52",
+      "data": [
+        {
+          "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
+          "summary": "49 comments",
+          "url": "https://doi.org/10.1073/pnas.2420092122",
+          "createdAt": "2026-03-11 21:32:12",
+          "hot": 128
+        },
+        {
+          "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
+          "summary": "155 comments",
+          "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+          "createdAt": "2026-03-11 21:22:39",
+          "hot": 229
+        },
+        {
+          "title": "Temporal: The 9-Year Journey to Fix Time in JavaScript",
+          "summary": "16 comments",
+          "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "createdAt": "2026-03-11 23:35:50",
+          "hot": 44
+        },
+        {
+          "title": "Faster asin() was hiding in plain sight",
+          "summary": "37 comments",
+          "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+          "createdAt": "2026-03-11 22:35:53",
+          "hot": 90
+        },
+        {
+          "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+          "summary": "90 comments",
+          "url": "https://github.com/microsoft/BitNet",
+          "createdAt": "2026-03-11 20:27:15",
+          "hot": 167
+        },
+        {
+          "title": "Wiz Joins Google",
+          "summary": "9 comments",
+          "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "createdAt": "2026-03-11 22:58:20",
+          "hot": 34
+        },
+        {
+          "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
+          "summary": "0 comments",
+          "url": "https://www.prismvideos.com",
+          "createdAt": "2026-03-12 00:16:12",
+          "hot": 5
+        },
+        {
+          "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+          "summary": "4 comments",
+          "url": "https://klausai.com/",
+          "createdAt": "2026-03-11 23:54:23",
+          "hot": 11
+        },
+        {
+          "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+          "summary": "0 comments",
+          "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+          "createdAt": "2026-03-11 23:48:29",
+          "hot": 11
+        },
+        {
+          "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
+          "summary": "145 comments",
+          "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+          "createdAt": "2026-03-11 21:52:01",
+          "hot": 409
+        },
+        {
+          "title": "AI Agent Hacks McKinsey",
+          "summary": "57 comments",
+          "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+          "createdAt": "2026-03-11 17:59:03",
+          "hot": 159
+        },
+        {
+          "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
+          "summary": "15 comments",
+          "url": "https://peppy.bot/",
+          "createdAt": "2026-03-08 18:46:56",
+          "hot": 49
+        },
+        {
+          "title": "Making WebAssembly a first-class language on the Web",
+          "summary": "2 comments",
+          "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "createdAt": "2026-03-11 12:44:46",
+          "hot": 24
+        },
+        {
+          "title": "Building a TB-303 from Scratch",
+          "summary": "66 comments",
+          "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
+          "createdAt": "2026-03-08 05:18:11",
+          "hot": 167
+        },
+        {
+          "title": "Zig – Type Resolution Redesign and Language Changes",
+          "summary": "185 comments",
+          "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+          "createdAt": "2026-03-11 09:24:47",
+          "hot": 348
+        },
+        {
+          "title": "Show HN: Open-source browser for AI agents",
+          "summary": "5 comments",
+          "url": "https://github.com/theredsix/agent-browser-protocol",
+          "createdAt": "2026-03-11 22:39:30",
+          "hot": 11
+        },
+        {
+          "title": "Writing my own text editor, and daily-driving it",
+          "summary": "85 comments",
+          "url": "https://blog.jsbarretto.com/post/text-editor",
+          "createdAt": "2026-03-11 10:04:22",
+          "hot": 166
+        },
+        {
+          "title": "Cloudflare crawl endpoint",
+          "summary": "155 comments",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+          "createdAt": "2026-03-11 06:27:15",
+          "hot": 415
+        },
+        {
+          "title": "Create value for others and don’t worry about the returns",
+          "summary": "397 comments",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+          "createdAt": "2026-03-11 13:45:49",
+          "hot": 584
+        },
+        {
+          "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+          "summary": "452 comments",
+          "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+          "createdAt": "2026-03-10 16:46:53",
+          "hot": 559
+        },
+        {
+          "title": "Tony Hoare has died",
+          "summary": "252 comments",
+          "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+          "createdAt": "2026-03-10 22:50:16",
+          "hot": 1937
+        },
+        {
+          "title": "Why the Global Elite Gave Up on Spelling and Grammar",
+          "summary": "20 comments",
+          "url": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1",
+          "createdAt": "2026-03-11 23:22:10",
+          "hot": 23
+        },
+        {
+          "title": "U+237C ⍼ Is Azimuth",
+          "summary": "70 comments",
+          "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+          "createdAt": "2026-03-11 06:33:45",
+          "hot": 369
+        },
+        {
+          "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+          "summary": "22 comments",
+          "url": "https://www.hume.ai/blog/opensource-tada",
+          "createdAt": "2026-03-11 13:42:55",
+          "hot": 84
+        },
+        {
+          "title": "Let yourself fall down more",
+          "summary": "15 comments",
+          "url": "https://ntietz.com/blog/let-yourself-fall-down-more/",
+          "createdAt": "2026-03-11 23:04:25",
+          "hot": 21
+        },
+        {
+          "title": "Agents that run while I sleep",
+          "summary": "441 comments",
+          "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+          "createdAt": "2026-03-11 03:09:46",
+          "hot": 392
+        },
+        {
+          "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+          "summary": "17 comments",
+          "url": "https://github.com/gcv/julia-snail",
+          "createdAt": "2026-03-08 17:27:34",
+          "hot": 132
+        },
+        {
+          "title": "SSH Secret Menu",
+          "summary": "139 comments",
+          "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+          "createdAt": "2026-03-10 11:28:38",
+          "hot": 298
+        },
+        {
+          "title": "Bypassing PatchGuard on Windows x64 (2005)",
+          "summary": "0 comments",
+          "url": "http://uninformed.org/index.cgi?v=3&a=3&t=txt",
+          "createdAt": "2026-03-08 20:04:36",
+          "hot": 4
+        },
+        {
+          "title": "RISC-V Is Sloooow",
+          "summary": "313 comments",
+          "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+          "createdAt": "2026-03-11 04:11:54",
+          "hot": 291
+        }
+      ]
+    }
+  ]
+}
