@@ -217,6 +217,222 @@
           "hot": 291
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773260010264",
+      "lastUpdatedAt": "2026-03-12 04:13:30",
+      "data": [
+        {
+          "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+          "summary": "152 comments",
+          "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+          "createdAt": "2026-03-12 03:29:29",
+          "hot": 430
+        },
+        {
+          "title": "Temporal: A nine-year journey to fix time in JavaScript",
+          "summary": "123 comments",
+          "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "createdAt": "2026-03-11 23:35:50",
+          "hot": 342
+        },
+        {
+          "title": "Making WebAssembly a first-class language on the Web",
+          "summary": "108 comments",
+          "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "createdAt": "2026-03-11 12:44:46",
+          "hot": 245
+        },
+        {
+          "title": "Entities enabling scientific fraud at scale (2025)",
+          "summary": "144 comments",
+          "url": "https://doi.org/10.1073/pnas.2420092122",
+          "createdAt": "2026-03-11 21:32:12",
+          "hot": 220
+        },
+        {
+          "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+          "summary": "124 comments",
+          "url": "https://github.com/microsoft/BitNet",
+          "createdAt": "2026-03-11 20:27:15",
+          "hot": 258
+        },
+        {
+          "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+          "summary": "20 comments",
+          "url": "https://sitespy.app",
+          "createdAt": "2026-03-12 00:21:06",
+          "hot": 59
+        },
+        {
+          "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+          "summary": "20 comments",
+          "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+          "createdAt": "2026-03-10 13:58:56",
+          "hot": 48
+        },
+        {
+          "title": "The MacBook Neo",
+          "summary": "375 comments",
+          "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+          "createdAt": "2026-03-11 19:37:24",
+          "hot": 200
+        },
+        {
+          "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+          "summary": "12 comments",
+          "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+          "createdAt": "2026-03-11 23:48:29",
+          "hot": 84
+        },
+        {
+          "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+          "summary": "48 comments",
+          "url": "https://klausai.com/",
+          "createdAt": "2026-03-11 23:54:23",
+          "hot": 78
+        },
+        {
+          "title": "Wiz joins Google",
+          "summary": "89 comments",
+          "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "createdAt": "2026-03-11 22:58:20",
+          "hot": 135
+        },
+        {
+          "title": "Hisense TVs force owners to watch intrusive ads",
+          "summary": "17 comments",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/hisense-tvs-force-owners-to-watch-intrusive-ads-when-switching-inputs-visiting-the-home-screen-or-even-changing-channels-practice-infuriates-consumers-brand-denies-wrongdoing",
+          "createdAt": "2026-03-12 03:13:35",
+          "hot": 54
+        },
+        {
+          "title": "Show HN: Satellite imagery object detection using text prompts",
+          "summary": "6 comments",
+          "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
+          "createdAt": "2026-03-09 15:52:33",
+          "hot": 21
+        },
+        {
+          "title": "Show HN: Open-source browser for AI agents",
+          "summary": "17 comments",
+          "url": "https://github.com/theredsix/agent-browser-protocol",
+          "createdAt": "2026-03-11 22:39:30",
+          "hot": 70
+        },
+        {
+          "title": "How we hacked McKinsey's AI platform",
+          "summary": "124 comments",
+          "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+          "createdAt": "2026-03-11 17:59:03",
+          "hot": 312
+        },
+        {
+          "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
+          "summary": "32 comments",
+          "url": "https://fuelingcuriosity.com/game.html",
+          "createdAt": "2026-03-12 00:56:51",
+          "hot": 60
+        },
+        {
+          "title": "Fungal Electronics (2021)",
+          "summary": "5 comments",
+          "url": "https://arxiv.org/abs/2111.11231",
+          "createdAt": "2026-03-12 00:53:11",
+          "hot": 41
+        },
+        {
+          "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+          "summary": "207 comments",
+          "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+          "createdAt": "2026-03-11 20:57:41",
+          "hot": 92
+        },
+        {
+          "title": "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
+          "summary": "6 comments",
+          "url": "https://www.sentrial.com/",
+          "createdAt": "2026-03-12 00:24:17",
+          "hot": 17
+        },
+        {
+          "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
+          "summary": "251 comments",
+          "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+          "createdAt": "2026-03-11 21:22:39",
+          "hot": 306
+        },
+        {
+          "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
+          "summary": "13 comments",
+          "url": "https://www.prismvideos.com",
+          "createdAt": "2026-03-12 00:16:12",
+          "hot": 23
+        },
+        {
+          "title": "I Was Interviewed by an AI Bot for a Job",
+          "summary": "13 comments",
+          "url": "https://schwarztech.net/snippets/i-was-interviewed-by-an-ai-bot-for-a-job",
+          "createdAt": "2026-03-12 02:17:30",
+          "hot": 13
+        },
+        {
+          "title": "The Darkness from the Darkness",
+          "summary": "0 comments",
+          "url": "https://thebaffler.com/latest/the-darkness-from-the-darkness-giraldi",
+          "createdAt": "2026-03-10 15:01:01",
+          "hot": 5
+        },
+        {
+          "title": "Faster asin() was hiding in plain sight",
+          "summary": "91 comments",
+          "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+          "createdAt": "2026-03-11 22:35:53",
+          "hot": 156
+        },
+        {
+          "title": "Show HN: I built an ISP infrastructure emulator from scratch with a custom vBNG",
+          "summary": "5 comments",
+          "url": "https://aether.saphal.me/dashboard/default",
+          "createdAt": "2026-03-11 21:38:17",
+          "hot": 34
+        },
+        {
+          "title": "Building a TB-303 from Scratch",
+          "summary": "76 comments",
+          "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
+          "createdAt": "2026-03-08 05:18:11",
+          "hot": 192
+        },
+        {
+          "title": "Visualizing Ukkonen's Suffix Tree Algorithm",
+          "summary": "3 comments",
+          "url": "https://www.abahgat.com/blog/visualizing-ukkonens-algorithm/",
+          "createdAt": "2026-03-10 18:42:37",
+          "hot": 23
+        },
+        {
+          "title": "Zig – Type Resolution Redesign and Language Changes",
+          "summary": "210 comments",
+          "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+          "createdAt": "2026-03-11 09:24:47",
+          "hot": 376
+        },
+        {
+          "title": "Personal Computer by Perplexity",
+          "summary": "1 comments",
+          "url": "https://www.perplexity.ai/personal-computer-waitlist",
+          "createdAt": "2026-03-12 02:22:21",
+          "hot": 7
+        },
+        {
+          "title": "Why the global elite gave up on spelling and grammar",
+          "summary": "203 comments",
+          "url": "https://www.wsj.com/lifestyle/jeffrey-epstein-files-bad-grammar-spelling-trump-ellison-dorsey-gates-thiel-cbfe9fb1",
+          "createdAt": "2026-03-11 23:22:10",
+          "hot": 74
+        }
+      ]
     }
   ]
 }
