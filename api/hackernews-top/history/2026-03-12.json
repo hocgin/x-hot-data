@@ -1081,6 +1081,222 @@
           "hot": 86
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773317843186",
+      "lastUpdatedAt": "2026-03-12 20:17:23",
+      "data": [
+        {
+          "title": "Dolphin Progress Release 2603",
+          "summary": "1 comments",
+          "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+          "createdAt": "2026-03-12 17:23:01",
+          "hot": 49
+        },
+        {
+          "title": "3D-Knitting: The Ultimate Guide",
+          "summary": "33 comments",
+          "url": "https://www.oliver-charles.com/pages/3d-knitting",
+          "createdAt": "2026-03-12 16:27:16",
+          "hot": 98
+        },
+        {
+          "title": "Avoiding Trigonometry (2013)",
+          "summary": "12 comments",
+          "url": "https://iquilezles.org/articles/noacos/",
+          "createdAt": "2026-03-12 17:06:57",
+          "hot": 63
+        },
+        {
+          "title": "Big Data on the Cheapest MacBook",
+          "summary": "1 comments",
+          "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+          "createdAt": "2026-03-12 19:41:14",
+          "hot": 9
+        },
+        {
+          "title": "Show HN: s@: decentralized social networking over static sites",
+          "summary": "136 comments",
+          "url": "http://satproto.org/",
+          "createdAt": "2026-03-12 08:22:19",
+          "hot": 323
+        },
+        {
+          "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+          "summary": "35 comments",
+          "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+          "createdAt": "2026-03-12 14:55:56",
+          "hot": 68
+        },
+        {
+          "title": "Returning to Rails in 2026",
+          "summary": "98 comments",
+          "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+          "createdAt": "2026-03-12 14:06:46",
+          "hot": 182
+        },
+        {
+          "title": "Temporal: The 9-year journey to fix time in JavaScript",
+          "summary": "225 comments",
+          "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+          "createdAt": "2026-03-11 23:35:50",
+          "hot": 712
+        },
+        {
+          "title": "Printf-Tac-Toe",
+          "summary": "5 comments",
+          "url": "https://github.com/carlini/printf-tac-toe",
+          "createdAt": "2026-03-08 20:01:07",
+          "hot": 45
+        },
+        {
+          "title": "Making WebAssembly a first-class language on the Web",
+          "summary": "212 comments",
+          "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+          "createdAt": "2026-03-11 12:44:46",
+          "hot": 594
+        },
+        {
+          "title": "Datahäxan",
+          "summary": "7 comments",
+          "url": "https://0dd.company/galleries/witches/7.html",
+          "createdAt": "2026-03-09 23:48:02",
+          "hot": 88
+        },
+        {
+          "title": "1B identity records exposed in ID verification data leak",
+          "summary": "21 comments",
+          "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+          "createdAt": "2026-03-12 17:46:00",
+          "hot": 76
+        },
+        {
+          "title": "Reliable Software in the LLM Era",
+          "summary": "4 comments",
+          "url": "https://quint-lang.org/posts/llm_era",
+          "createdAt": "2026-03-12 16:19:46",
+          "hot": 24
+        },
+        {
+          "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+          "summary": "52 comments",
+          "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+          "createdAt": "2026-03-08 19:44:56",
+          "hot": 180
+        },
+        {
+          "title": "I was interviewed by an AI bot for a job",
+          "summary": "314 comments",
+          "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+          "createdAt": "2026-03-12 02:17:30",
+          "hot": 341
+        },
+        {
+          "title": "WebPKI and You",
+          "summary": "5 comments",
+          "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+          "createdAt": "2026-03-09 20:47:11",
+          "hot": 69
+        },
+        {
+          "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+          "summary": "1378 comments",
+          "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+          "createdAt": "2026-03-12 03:29:29",
+          "hot": 3702
+        },
+        {
+          "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+          "summary": "17 comments",
+          "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+          "createdAt": "2026-03-09 08:00:05",
+          "hot": 42
+        },
+        {
+          "title": "The MacBook Neo",
+          "summary": "900 comments",
+          "url": "https://daringfireball.net/2026/03/the_macbook_neo",
+          "createdAt": "2026-03-11 19:37:24",
+          "hot": 562
+        },
+        {
+          "title": "Many SWE-bench-Passing PRs would not be merged",
+          "summary": "128 comments",
+          "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+          "createdAt": "2026-03-12 04:56:52",
+          "hot": 248
+        },
+        {
+          "title": "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
+          "summary": "0 comments",
+          "url": "https://www.philipzucker.com/thin1/",
+          "createdAt": "2026-03-10 02:12:16",
+          "hot": 3
+        },
+        {
+          "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+          "summary": "67 comments",
+          "url": "https://sitespy.app",
+          "createdAt": "2026-03-12 00:21:06",
+          "hot": 267
+        },
+        {
+          "title": "Google closes deal to acquire Wiz",
+          "summary": "178 comments",
+          "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "createdAt": "2026-03-11 22:58:20",
+          "hot": 302
+        },
+        {
+          "title": "BitNet: Inference framework for 1-bit LLMs",
+          "summary": "163 comments",
+          "url": "https://github.com/microsoft/BitNet",
+          "createdAt": "2026-03-11 20:27:15",
+          "hot": 349
+        },
+        {
+          "title": "Faster asin() was hiding in plain sight",
+          "summary": "120 comments",
+          "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+          "createdAt": "2026-03-11 22:35:53",
+          "hot": 218
+        },
+        {
+          "title": "Personal Computer by Perplexity",
+          "summary": "133 comments",
+          "url": "https://www.perplexity.ai/personal-computer-waitlist",
+          "createdAt": "2026-03-12 02:22:21",
+          "hot": 172
+        },
+        {
+          "title": "Entities enabling scientific fraud at scale (2025)",
+          "summary": "202 comments",
+          "url": "https://doi.org/10.1073/pnas.2420092122",
+          "createdAt": "2026-03-11 21:32:12",
+          "hot": 294
+        },
+        {
+          "title": "Galaxy Zoo",
+          "summary": "2 comments",
+          "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo",
+          "createdAt": "2026-03-08 23:08:48",
+          "hot": 19
+        },
+        {
+          "title": "What Happens After You Die? (2016)",
+          "summary": "34 comments",
+          "url": "https://lamag.com/news/the-end/",
+          "createdAt": "2026-03-09 04:01:19",
+          "hot": 51
+        },
+        {
+          "title": "About memory pressure, lock contention, and Data-oriented Design",
+          "summary": "12 comments",
+          "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+          "createdAt": "2026-03-08 19:59:11",
+          "hot": 60
+        }
+      ]
     }
   ]
 }
