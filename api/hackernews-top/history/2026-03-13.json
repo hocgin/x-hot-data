@@ -217,6 +217,222 @@
           "hot": 167
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773346387333",
+      "lastUpdatedAt": "2026-03-13 04:13:07",
+      "data": [
+        {
+          "title": "Malus – Clean Room as a Service",
+          "summary": "303 comments",
+          "url": "https://malus.sh",
+          "createdAt": "2026-03-12 21:42:04",
+          "hot": 773
+        },
+        {
+          "title": "Bubble Sorted Amen Break",
+          "summary": "56 comments",
+          "url": "https://parametricavocado.itch.io/amen-sorting",
+          "createdAt": "2026-03-13 01:13:56",
+          "hot": 149
+        },
+        {
+          "title": "An old photo of a large BBS",
+          "summary": "8 comments",
+          "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+          "createdAt": "2026-03-13 03:41:35",
+          "hot": 23
+        },
+        {
+          "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+          "summary": "246 comments",
+          "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+          "createdAt": "2026-03-12 22:48:57",
+          "hot": 200
+        },
+        {
+          "title": "Reversing memory loss via gut-brain communication",
+          "summary": "27 comments",
+          "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+          "createdAt": "2026-03-13 00:38:51",
+          "hot": 108
+        },
+        {
+          "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+          "summary": "4 comments",
+          "url": "https://ionrouter.io",
+          "createdAt": "2026-03-13 02:52:36",
+          "hot": 18
+        },
+        {
+          "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+          "summary": "28 comments",
+          "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+          "createdAt": "2026-03-12 23:43:39",
+          "hot": 134
+        },
+        {
+          "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+          "summary": "28 comments",
+          "url": "https://github.com/onecli/onecli",
+          "createdAt": "2026-03-13 00:41:06",
+          "hot": 79
+        },
+        {
+          "title": "White House plan to break up iconic U.S. climate lab moves forward",
+          "summary": "26 comments",
+          "url": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
+          "createdAt": "2026-03-13 03:14:21",
+          "hot": 77
+        },
+        {
+          "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+          "summary": "11 comments",
+          "url": "https://github.com/understudy-ai/understudy",
+          "createdAt": "2026-03-13 01:04:35",
+          "hot": 45
+        },
+        {
+          "title": "US banks' exposure to private credit hits $300B (2025)",
+          "summary": "135 comments",
+          "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
+          "createdAt": "2026-03-12 20:43:26",
+          "hot": 203
+        },
+        {
+          "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
+          "summary": "0 comments",
+          "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+          "createdAt": "2026-03-13 01:01:46",
+          "hot": 1
+        },
+        {
+          "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
+          "summary": "240 comments",
+          "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+          "createdAt": "2026-03-12 23:30:37",
+          "hot": 330
+        },
+        {
+          "title": "Dolphin Progress Release 2603",
+          "summary": "41 comments",
+          "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+          "createdAt": "2026-03-12 17:23:01",
+          "hot": 252
+        },
+        {
+          "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+          "summary": "5 comments",
+          "url": "https://github.com/wolfssl/wolfip",
+          "createdAt": "2026-03-12 23:39:50",
+          "hot": 47
+        },
+        {
+          "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+          "summary": "192 comments",
+          "url": "https://codespeak.dev/",
+          "createdAt": "2026-03-12 22:22:43",
+          "hot": 233
+        },
+        {
+          "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+          "summary": "68 comments",
+          "url": "https://github.com/jrswab/axe",
+          "createdAt": "2026-03-12 21:49:12",
+          "hot": 88
+        },
+        {
+          "title": "The Emotional Labor Behind AI Intimacy (2025) [pdf]",
+          "summary": "8 comments",
+          "url": "https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf",
+          "createdAt": "2026-03-13 00:12:04",
+          "hot": 33
+        },
+        {
+          "title": "Show HN: Rudel – Claude Code Session Analytics",
+          "summary": "69 comments",
+          "url": "https://github.com/obsessiondb/rudel",
+          "createdAt": "2026-03-12 21:41:12",
+          "hot": 114
+        },
+        {
+          "title": "The Cost of Indirection in Rust",
+          "summary": "25 comments",
+          "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+          "createdAt": "2026-03-10 01:28:34",
+          "hot": 60
+        },
+        {
+          "title": "NaN Is Weird",
+          "summary": "0 comments",
+          "url": "https://brassnet.biz/blog/nan-is-weird.html",
+          "createdAt": "2026-03-09 02:08:38",
+          "hot": 4
+        },
+        {
+          "title": "Full Spectrum and Infrared Photography",
+          "summary": "11 comments",
+          "url": "https://timstr.website/blog/fullspectrumphotography.html",
+          "createdAt": "2026-03-09 00:11:02",
+          "hot": 31
+        },
+        {
+          "title": "DDR4 Sdram – Initialization, Training and Calibration",
+          "summary": "3 comments",
+          "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
+          "createdAt": "2026-03-10 14:02:27",
+          "hot": 31
+        },
+        {
+          "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+          "summary": "48 comments",
+          "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+          "createdAt": "2026-03-12 23:34:41",
+          "hot": 176
+        },
+        {
+          "title": "The Biggest Identity Sandpiles and How to Compute Them",
+          "summary": "6 comments",
+          "url": "https://eavan.blog/posts/big-identity-sandpiles.html",
+          "createdAt": "2026-03-09 03:27:50",
+          "hot": 9
+        },
+        {
+          "title": "Contextual commits – An open standard for capturing the why in Git history",
+          "summary": "17 comments",
+          "url": "https://vidimitrov.substack.com/p/contextual-commits-an-open-standard",
+          "createdAt": "2026-03-13 01:25:27",
+          "hot": 19
+        },
+        {
+          "title": "Show HN: Web-based ANSI art viewer",
+          "summary": "5 comments",
+          "url": "https://sure.is/ansi/",
+          "createdAt": "2026-03-10 16:40:03",
+          "hot": 18
+        },
+        {
+          "title": "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
+          "summary": "10 comments",
+          "url": "https://e360.yale.edu/features/fungi-kingdom",
+          "createdAt": "2026-03-12 21:16:11",
+          "hot": 53
+        },
+        {
+          "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+          "summary": "54 comments",
+          "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+          "createdAt": "2026-03-13 01:07:16",
+          "hot": 109
+        },
+        {
+          "title": "Claude now creates interactive charts, diagrams and visualizations",
+          "summary": "72 comments",
+          "url": "https://claude.com/blog/claude-builds-visuals",
+          "createdAt": "2026-03-12 23:59:00",
+          "hot": 130
+        }
+      ]
     }
   ]
 }

@@ -72,6 +72,77 @@
           "createdAt": "2026-03-13 00:27:35"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773346387334",
+      "lastUpdatedAt": "2026-03-13 04:13:07",
+      "data": [
+        {
+          "title": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "langflow-ai/openrag",
+          "url": "https://github.com/langflow-ai/openrag",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "google-ai-edge/LiteRT",
+          "url": "https://github.com/google-ai-edge/LiteRT",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "google/A2UI",
+          "url": "https://github.com/google/A2UI",
+          "createdAt": "2026-03-13 04:12:42"
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "createdAt": "2026-03-13 04:12:42"
+        }
+      ]
     }
   ]
 }
