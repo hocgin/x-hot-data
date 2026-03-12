@@ -1,90 +1,146 @@
 {
-  "id": "hackernews-top.1773275457581",
-  "lastUpdatedAt": "2026-03-12 08:30:57",
+  "id": "hackernews-top.1773290341371",
+  "lastUpdatedAt": "2026-03-12 12:39:01",
   "data": [
     {
-      "title": "Temporal: A nine-year journey to fix time in JavaScript",
-      "summary": "164 comments",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "summary": "43 comments",
+      "url": "http://satproto.org/",
+      "createdAt": "2026-03-12 08:22:19",
+      "hot": 117
+    },
+    {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "summary": "0 comments",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "createdAt": "2026-03-12 11:29:28",
+      "hot": 14
+    },
+    {
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "summary": "189 comments",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "createdAt": "2026-03-11 23:35:50",
-      "hot": 486
+      "hot": 572
+    },
+    {
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "summary": "7 comments",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "createdAt": "2026-03-08 19:44:56",
+      "hot": 79
+    },
+    {
+      "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+      "summary": "18 comments",
+      "url": "https://www.bbc.com/news/articles/c1w5141vx53o",
+      "createdAt": "2026-03-12 11:35:37",
+      "hot": 31
     },
     {
       "title": "Many SWE-bench-Passing PRs would not be merged",
-      "summary": "16 comments",
+      "summary": "63 comments",
       "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
       "createdAt": "2026-03-12 04:56:52",
-      "hot": 101
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "summary": "937 comments",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "createdAt": "2026-03-12 03:29:29",
-      "hot": 2538
+      "hot": 176
     },
     {
       "title": "Making WebAssembly a first-class language on the Web",
-      "summary": "144 comments",
+      "summary": "159 comments",
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "createdAt": "2026-03-11 12:44:46",
-      "hot": 375
+      "hot": 457
     },
     {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "summary": "43 comments",
-      "url": "https://sitespy.app",
-      "createdAt": "2026-03-12 00:21:06",
-      "hot": 151
-    },
-    {
-      "title": "Show HN: Autoresearch@home",
-      "summary": "6 comments",
-      "url": "https://www.ensue-network.ai/autoresearch",
-      "createdAt": "2026-03-12 07:27:18",
-      "hot": 15
-    },
-    {
-      "title": "Show HN: A context-aware permission guard for Claude Code",
-      "summary": "6 comments",
-      "url": "https://github.com/manuelschipper/nah/",
-      "createdAt": "2026-03-12 07:26:25",
-      "hot": 12
-    },
-    {
-      "title": "Personal Computer by Perplexity",
-      "summary": "79 comments",
-      "url": "https://www.perplexity.ai/personal-computer-waitlist",
-      "createdAt": "2026-03-12 02:22:21",
-      "hot": 100
-    },
-    {
-      "title": "Google closes deal to acquire Wiz",
-      "summary": "145 comments",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "createdAt": "2026-03-11 22:58:20",
-      "hot": 216
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "summary": "1160 comments",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "createdAt": "2026-03-12 03:29:29",
+      "hot": 3060
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "118 comments",
+      "summary": "207 comments",
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "createdAt": "2026-03-12 02:17:30",
-      "hot": 105
+      "hot": 202
+    },
+    {
+      "title": "About memory pressure, lock contention, and Data-oriented Design",
+      "summary": "0 comments",
+      "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+      "createdAt": "2026-03-08 19:59:11",
+      "hot": 19
+    },
+    {
+      "title": "Show HN: A context-aware permission guard for Claude Code",
+      "summary": "31 comments",
+      "url": "https://github.com/manuelschipper/nah/",
+      "createdAt": "2026-03-12 07:26:25",
+      "hot": 62
+    },
+    {
+      "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+      "summary": "38 comments",
+      "url": "https://micahflee.github.io/ice-contracts/",
+      "createdAt": "2026-03-12 10:03:01",
+      "hot": 196
+    },
+    {
+      "title": "Google closes deal to acquire Wiz",
+      "summary": "162 comments",
+      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "createdAt": "2026-03-11 22:58:20",
+      "hot": 251
+    },
+    {
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "summary": "49 comments",
+      "url": "https://sitespy.app",
+      "createdAt": "2026-03-12 00:21:06",
+      "hot": 199
     },
     {
       "title": "The MacBook Neo",
-      "summary": "621 comments",
+      "summary": "752 comments",
       "url": "https://daringfireball.net/2026/03/the_macbook_neo",
       "createdAt": "2026-03-11 19:37:24",
-      "hot": 360
+      "hot": 454
     },
     {
-      "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-      "summary": "0 comments",
-      "url": "https://poloclub.github.io/cnn-explainer/",
-      "createdAt": "2026-03-08 19:22:42",
-      "hot": 6
+      "title": "Entities enabling scientific fraud at scale (2025)",
+      "summary": "190 comments",
+      "url": "https://doi.org/10.1073/pnas.2420092122",
+      "createdAt": "2026-03-11 21:32:12",
+      "hot": 271
+    },
+    {
+      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
+      "summary": "159 comments",
+      "url": "https://github.com/microsoft/BitNet",
+      "createdAt": "2026-03-11 20:27:15",
+      "hot": 319
+    },
+    {
+      "title": "What Happens After You Die? (2016)",
+      "summary": "1 comments",
+      "url": "https://lamag.com/news/the-end/",
+      "createdAt": "2026-03-09 04:01:19",
+      "hot": 7
+    },
+    {
+      "title": "Challenging the Single-Responsibility Principle",
+      "summary": "8 comments",
+      "url": "https://kiss-and-solid.com/blog/keep-it-simple",
+      "createdAt": "2026-03-08 20:59:47",
+      "hot": 11
+    },
+    {
+      "title": "Show HN: Autoresearch@home",
+      "summary": "10 comments",
+      "url": "https://www.ensue-network.ai/autoresearch",
+      "createdAt": "2026-03-12 07:27:18",
+      "hot": 51
     },
     {
       "title": "Meticulous (YC S21) is hiring to redefine software dev",
@@ -94,123 +150,67 @@
       "hot": 1
     },
     {
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "summary": "146 comments",
-      "url": "https://github.com/microsoft/BitNet",
-      "createdAt": "2026-03-11 20:27:15",
-      "hot": 292
-    },
-    {
-      "title": "Entities enabling scientific fraud at scale (2025)",
-      "summary": "181 comments",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "createdAt": "2026-03-11 21:32:12",
-      "hot": 252
-    },
-    {
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "7 comments",
-      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "createdAt": "2026-03-12 05:23:24",
-      "hot": 23
-    },
-    {
-      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
-      "summary": "65 comments",
-      "url": "https://klausai.com/",
-      "createdAt": "2026-03-11 23:54:23",
-      "hot": 111
-    },
-    {
-      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-      "summary": "47 comments",
-      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-      "createdAt": "2026-03-10 13:58:56",
-      "hot": 87
-    },
-    {
-      "title": "Against vibes: When is a generative model useful",
-      "summary": "3 comments",
-      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-      "createdAt": "2026-03-11 03:59:39",
+      "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
+      "summary": "2 comments",
+      "url": "https://poloclub.github.io/cnn-explainer/",
+      "createdAt": "2026-03-08 19:22:42",
       "hot": 38
     },
     {
+      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+      "summary": "69 comments",
+      "url": "https://klausai.com/",
+      "createdAt": "2026-03-11 23:54:23",
+      "hot": 133
+    },
+    {
+      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+      "summary": "54 comments",
+      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+      "createdAt": "2026-03-10 13:58:56",
+      "hot": 109
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "36 comments",
+      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
+      "createdAt": "2026-03-12 09:15:40",
+      "hot": 79
+    },
+    {
       "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "summary": "132 comments",
+      "summary": "205 comments",
       "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
       "createdAt": "2026-03-12 05:06:06",
-      "hot": 138
+      "hot": 209
     },
     {
-      "title": "How we hacked McKinsey's AI platform",
-      "summary": "155 comments",
-      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "createdAt": "2026-03-11 17:59:03",
-      "hot": 380
-    },
-    {
-      "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
-      "summary": "16 comments",
-      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "createdAt": "2026-03-11 23:48:29",
-      "hot": 108
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "summary": "221 comments",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
+      "createdAt": "2026-03-12 06:29:42",
+      "hot": 154
     },
     {
       "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-      "summary": "333 comments",
+      "summary": "380 comments",
       "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
       "createdAt": "2026-03-11 20:57:41",
-      "hot": 147
+      "hot": 175
     },
     {
-      "title": "Building Better Country Selects",
-      "summary": "9 comments",
-      "url": "https://talysto.com/blog/building-better-country-selects/",
-      "createdAt": "2026-03-12 06:47:03",
-      "hot": 6
+      "title": "Against vibes: When is a generative model useful",
+      "summary": "10 comments",
+      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+      "createdAt": "2026-03-11 03:59:39",
+      "hot": 63
     },
     {
-      "title": "Show HN: Open-source browser for AI agents",
-      "summary": "33 comments",
-      "url": "https://github.com/theredsix/agent-browser-protocol",
-      "createdAt": "2026-03-11 22:39:30",
-      "hot": 100
-    },
-    {
-      "title": "Can the Dictionary Keep Up?",
-      "summary": "3 comments",
-      "url": "https://www.thenation.com/article/culture/stefan-fatsis-dictionary-history/",
-      "createdAt": "2026-03-10 15:22:25",
-      "hot": 9
-    },
-    {
-      "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
-      "summary": "16 comments",
-      "url": "https://www.prismvideos.com",
-      "createdAt": "2026-03-12 00:16:12",
-      "hot": 30
-    },
-    {
-      "title": "Show HN: Satellite imagery object detection using text prompts",
-      "summary": "14 comments",
-      "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
-      "createdAt": "2026-03-09 15:52:33",
-      "hot": 37
-    },
-    {
-      "title": "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
-      "summary": "11 comments",
-      "url": "https://www.sentrial.com/",
-      "createdAt": "2026-03-12 00:24:17",
-      "hot": 23
-    },
-    {
-      "title": "Building a TB-303 from Scratch",
-      "summary": "84 comments",
-      "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "createdAt": "2026-03-08 05:18:11",
-      "hot": 208
+      "title": "Preliminary data from a longitudinal AI impact study",
+      "summary": "31 comments",
+      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
+      "createdAt": "2026-03-12 05:23:24",
+      "hot": 39
     }
   ]
 }
