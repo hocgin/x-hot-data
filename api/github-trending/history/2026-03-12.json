@@ -103,6 +103,57 @@
           "createdAt": "2026-03-12 04:12:53"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773275457583",
+      "lastUpdatedAt": "2026-03-12 08:30:57",
+      "data": [
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "createdAt": "2026-03-12 08:30:28"
+        },
+        {
+          "title": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "createdAt": "2026-03-12 08:30:28"
+        }
+      ]
     }
   ]
 }
