@@ -1,146 +1,195 @@
 {
-  "id": "hackernews-top.1773290341371",
-  "lastUpdatedAt": "2026-03-12 12:39:01",
+  "id": "hackernews-top.1773303506955",
+  "lastUpdatedAt": "2026-03-12 16:18:26",
   "data": [
     {
       "title": "Show HN: s@: decentralized social networking over static sites",
-      "summary": "43 comments",
+      "summary": "90 comments",
       "url": "http://satproto.org/",
       "createdAt": "2026-03-12 08:22:19",
-      "hot": 117
+      "hot": 232
     },
     {
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "summary": "0 comments",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "createdAt": "2026-03-12 11:29:28",
-      "hot": 14
+      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "createdAt": "2026-03-12 14:55:56",
+      "hot": 12
     },
     {
       "title": "Temporal: The 9-year journey to fix time in JavaScript",
-      "summary": "189 comments",
+      "summary": "206 comments",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "createdAt": "2026-03-11 23:35:50",
-      "hot": 572
+      "hot": 651
     },
     {
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "summary": "7 comments",
-      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-      "createdAt": "2026-03-08 19:44:56",
-      "hot": 79
+      "title": "Datahäxan",
+      "summary": "4 comments",
+      "url": "https://0dd.company/galleries/witches/7.html",
+      "createdAt": "2026-03-09 23:48:02",
+      "hot": 46
     },
     {
-      "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
-      "summary": "18 comments",
-      "url": "https://www.bbc.com/news/articles/c1w5141vx53o",
-      "createdAt": "2026-03-12 11:35:37",
-      "hot": 31
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "summary": "63 comments",
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "createdAt": "2026-03-12 04:56:52",
-      "hot": 176
+      "title": "Returning to Rails in 2026",
+      "summary": "46 comments",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "createdAt": "2026-03-12 14:06:46",
+      "hot": 64
     },
     {
       "title": "Making WebAssembly a first-class language on the Web",
-      "summary": "159 comments",
+      "summary": "175 comments",
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "createdAt": "2026-03-11 12:44:46",
-      "hot": 457
+      "hot": 530
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "1160 comments",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "createdAt": "2026-03-12 03:29:29",
-      "hot": 3060
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "summary": "28 comments",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "createdAt": "2026-03-08 19:44:56",
+      "hot": 132
+    },
+    {
+      "title": "WebPKI and You",
+      "summary": "1 comments",
+      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+      "createdAt": "2026-03-09 20:47:11",
+      "hot": 35
+    },
+    {
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "summary": "95 comments",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "createdAt": "2026-03-12 04:56:52",
+      "hot": 223
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "summary": "207 comments",
+      "summary": "254 comments",
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "createdAt": "2026-03-12 02:17:30",
-      "hot": 202
+      "hot": 275
     },
     {
-      "title": "About memory pressure, lock contention, and Data-oriented Design",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "summary": "1270 comments",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "createdAt": "2026-03-12 03:29:29",
+      "hot": 3404
+    },
+    {
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "summary": "59 comments",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "createdAt": "2026-03-12 11:29:28",
+      "hot": 138
+    },
+    {
+      "title": "Show HN: XLA-based array computing framework for R",
       "summary": "0 comments",
-      "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
-      "createdAt": "2026-03-08 19:59:11",
-      "hot": 19
+      "url": "https://github.com/r-xla/anvil",
+      "createdAt": "2026-03-09 14:04:24",
+      "hot": 4
     },
     {
       "title": "Show HN: A context-aware permission guard for Claude Code",
-      "summary": "31 comments",
+      "summary": "38 comments",
       "url": "https://github.com/manuelschipper/nah/",
       "createdAt": "2026-03-12 07:26:25",
-      "hot": 62
-    },
-    {
-      "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
-      "summary": "38 comments",
-      "url": "https://micahflee.github.io/ice-contracts/",
-      "createdAt": "2026-03-12 10:03:01",
-      "hot": 196
-    },
-    {
-      "title": "Google closes deal to acquire Wiz",
-      "summary": "162 comments",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "createdAt": "2026-03-11 22:58:20",
-      "hot": 251
-    },
-    {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "summary": "49 comments",
-      "url": "https://sitespy.app",
-      "createdAt": "2026-03-12 00:21:06",
-      "hot": 199
+      "hot": 93
     },
     {
       "title": "The MacBook Neo",
-      "summary": "752 comments",
+      "summary": "828 comments",
       "url": "https://daringfireball.net/2026/03/the_macbook_neo",
       "createdAt": "2026-03-11 19:37:24",
-      "hot": 454
+      "hot": 508
+    },
+    {
+      "title": "Google closes deal to acquire Wiz",
+      "summary": "167 comments",
+      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "createdAt": "2026-03-11 22:58:20",
+      "hot": 279
+    },
+    {
+      "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+      "summary": "4 comments",
+      "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+      "createdAt": "2026-03-09 08:00:05",
+      "hot": 12
+    },
+    {
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "summary": "51 comments",
+      "url": "https://sitespy.app",
+      "createdAt": "2026-03-12 00:21:06",
+      "hot": 226
     },
     {
       "title": "Entities enabling scientific fraud at scale (2025)",
-      "summary": "190 comments",
+      "summary": "195 comments",
       "url": "https://doi.org/10.1073/pnas.2420092122",
       "createdAt": "2026-03-11 21:32:12",
-      "hot": 271
+      "hot": 286
     },
     {
       "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "summary": "159 comments",
+      "summary": "161 comments",
       "url": "https://github.com/microsoft/BitNet",
       "createdAt": "2026-03-11 20:27:15",
-      "hot": 319
+      "hot": 332
+    },
+    {
+      "title": "About memory pressure, lock contention, and Data-oriented Design",
+      "summary": "1 comments",
+      "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
+      "createdAt": "2026-03-08 19:59:11",
+      "hot": 46
+    },
+    {
+      "title": "Faster asin() was hiding in plain sight",
+      "summary": "106 comments",
+      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+      "createdAt": "2026-03-11 22:35:53",
+      "hot": 197
     },
     {
       "title": "What Happens After You Die? (2016)",
-      "summary": "1 comments",
+      "summary": "17 comments",
       "url": "https://lamag.com/news/the-end/",
       "createdAt": "2026-03-09 04:01:19",
-      "hot": 7
+      "hot": 32
+    },
+    {
+      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+      "summary": "61 comments",
+      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+      "createdAt": "2026-03-10 13:58:56",
+      "hot": 125
+    },
+    {
+      "title": "Against vibes: When is a generative model useful",
+      "summary": "16 comments",
+      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+      "createdAt": "2026-03-11 03:59:39",
+      "hot": 82
+    },
+    {
+      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+      "summary": "80 comments",
+      "url": "https://klausai.com/",
+      "createdAt": "2026-03-11 23:54:23",
+      "hot": 139
     },
     {
       "title": "Challenging the Single-Responsibility Principle",
-      "summary": "8 comments",
+      "summary": "14 comments",
       "url": "https://kiss-and-solid.com/blog/keep-it-simple",
       "createdAt": "2026-03-08 20:59:47",
-      "hot": 11
-    },
-    {
-      "title": "Show HN: Autoresearch@home",
-      "summary": "10 comments",
-      "url": "https://www.ensue-network.ai/autoresearch",
-      "createdAt": "2026-03-12 07:27:18",
-      "hot": 51
+      "hot": 25
     },
     {
       "title": "Meticulous (YC S21) is hiring to redefine software dev",
@@ -150,67 +199,18 @@
       "hot": 1
     },
     {
-      "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-      "summary": "2 comments",
-      "url": "https://poloclub.github.io/cnn-explainer/",
-      "createdAt": "2026-03-08 19:22:42",
-      "hot": 38
-    },
-    {
-      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
-      "summary": "69 comments",
-      "url": "https://klausai.com/",
-      "createdAt": "2026-03-11 23:54:23",
-      "hot": 133
-    },
-    {
-      "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-      "summary": "54 comments",
-      "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-      "createdAt": "2026-03-10 13:58:56",
-      "hot": 109
-    },
-    {
-      "title": "How much of HN is AI?",
-      "summary": "36 comments",
-      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
-      "createdAt": "2026-03-12 09:15:40",
-      "hot": 79
-    },
-    {
-      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "summary": "205 comments",
-      "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-      "createdAt": "2026-03-12 05:06:06",
-      "hot": 209
-    },
-    {
-      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "221 comments",
-      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
-      "createdAt": "2026-03-12 06:29:42",
-      "hot": 154
-    },
-    {
-      "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-      "summary": "380 comments",
-      "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-      "createdAt": "2026-03-11 20:57:41",
-      "hot": 175
-    },
-    {
-      "title": "Against vibes: When is a generative model useful",
+      "title": "Show HN: Autoresearch@home",
       "summary": "10 comments",
-      "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-      "createdAt": "2026-03-11 03:59:39",
-      "hot": 63
+      "url": "https://www.ensue-network.ai/autoresearch",
+      "createdAt": "2026-03-12 07:27:18",
+      "hot": 62
     },
     {
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "31 comments",
-      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "createdAt": "2026-03-12 05:23:24",
-      "hot": 39
+      "title": "Urea prices",
+      "summary": "69 comments",
+      "url": "https://tradingeconomics.com/commodity/urea",
+      "createdAt": "2026-03-12 09:59:47",
+      "hot": 86
     }
   ]
 }
