@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773317843185",
-  "lastUpdatedAt": "2026-03-12 20:17:23",
+  "id": "hackernews-top.1773332885502",
+  "lastUpdatedAt": "2026-03-13 00:28:05",
   "data": [
     {
-      "title": "Dolphin Progress Release 2603",
-      "summary": "1 comments",
-      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "createdAt": "2026-03-12 17:23:01",
-      "hot": 49
+      "title": "Malus – Clean Room as a Service",
+      "summary": "91 comments",
+      "url": "https://malus.sh",
+      "createdAt": "2026-03-12 21:42:04",
+      "hot": 288
     },
     {
-      "title": "3D-Knitting: The Ultimate Guide",
+      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
+      "summary": "3 comments",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "createdAt": "2026-03-12 23:43:39",
+      "hot": 28
+    },
+    {
+      "title": "US banks' exposure to private credit hits $300B (2025)",
+      "summary": "79 comments",
+      "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
+      "createdAt": "2026-03-12 20:43:26",
+      "hot": 137
+    },
+    {
+      "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+      "summary": "75 comments",
+      "url": "https://codespeak.dev/",
+      "createdAt": "2026-03-12 22:22:43",
+      "hot": 102
+    },
+    {
+      "title": "Dolphin Progress Release 2603",
+      "summary": "27 comments",
+      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+      "createdAt": "2026-03-12 17:23:01",
+      "hot": 204
+    },
+    {
+      "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
       "summary": "33 comments",
-      "url": "https://www.oliver-charles.com/pages/3d-knitting",
-      "createdAt": "2026-03-12 16:27:16",
-      "hot": 98
+      "url": "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths",
+      "createdAt": "2026-03-12 23:33:34",
+      "hot": 59
+    },
+    {
+      "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
+      "summary": "30 comments",
+      "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+      "createdAt": "2026-03-12 23:30:37",
+      "hot": 86
+    },
+    {
+      "title": "ATMs didn't kill bank Teller jobs, but the iPhone did",
+      "summary": "116 comments",
+      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+      "createdAt": "2026-03-12 22:48:57",
+      "hot": 99
+    },
+    {
+      "title": "The Cost of Indirection in Rust",
+      "summary": "1 comments",
+      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+      "createdAt": "2026-03-10 01:28:34",
+      "hot": 11
+    },
+    {
+      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
+      "summary": "0 comments",
+      "url": "https://jobs.ashbyhq.com/hive.co",
+      "createdAt": "2026-03-12 22:32:46",
+      "hot": 1
     },
     {
       "title": "Avoiding Trigonometry (2013)",
-      "summary": "12 comments",
+      "summary": "34 comments",
       "url": "https://iquilezles.org/articles/noacos/",
       "createdAt": "2026-03-12 17:06:57",
-      "hot": 63
+      "hot": 158
     },
     {
-      "title": "Big Data on the Cheapest MacBook",
-      "summary": "1 comments",
-      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "createdAt": "2026-03-12 19:41:14",
-      "hot": 9
+      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+      "summary": "4 comments",
+      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+      "createdAt": "2026-03-12 23:34:41",
+      "hot": 33
+    },
+    {
+      "title": "Emacs internals: Tagged pointers vs. C++ std:variant and LLVM (Part 3)",
+      "summary": "14 comments",
+      "url": "https://thecloudlet.github.io/blog/project/emacs-03/",
+      "createdAt": "2026-03-12 20:41:29",
+      "hot": 32
+    },
+    {
+      "title": "3D-Knitting: The Ultimate Guide",
+      "summary": "62 comments",
+      "url": "https://www.oliver-charles.com/pages/3d-knitting",
+      "createdAt": "2026-03-12 16:27:16",
+      "hot": 177
     },
     {
       "title": "Show HN: s@: decentralized social networking over static sites",
-      "summary": "136 comments",
+      "summary": "186 comments",
       "url": "http://satproto.org/",
       "createdAt": "2026-03-12 08:22:19",
-      "hot": 323
+      "hot": 387
     },
     {
-      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
-      "summary": "35 comments",
-      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "createdAt": "2026-03-12 14:55:56",
-      "hot": 68
-    },
-    {
-      "title": "Returning to Rails in 2026",
-      "summary": "98 comments",
-      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-      "createdAt": "2026-03-12 14:06:46",
-      "hot": 182
-    },
-    {
-      "title": "Temporal: The 9-year journey to fix time in JavaScript",
-      "summary": "225 comments",
-      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "createdAt": "2026-03-11 23:35:50",
-      "hot": 712
+      "title": "Big Data on the Cheapest MacBook",
+      "summary": "198 comments",
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "createdAt": "2026-03-12 19:41:14",
+      "hot": 233
     },
     {
       "title": "Printf-Tac-Toe",
-      "summary": "5 comments",
+      "summary": "8 comments",
       "url": "https://github.com/carlini/printf-tac-toe",
       "createdAt": "2026-03-08 20:01:07",
-      "hot": 45
+      "hot": 93
     },
     {
-      "title": "Making WebAssembly a first-class language on the Web",
-      "summary": "212 comments",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "createdAt": "2026-03-11 12:44:46",
-      "hot": 594
-    },
-    {
-      "title": "Datahäxan",
-      "summary": "7 comments",
-      "url": "https://0dd.company/galleries/witches/7.html",
-      "createdAt": "2026-03-09 23:48:02",
+      "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
+      "summary": "52 comments",
+      "url": "https://github.com/obsessiondb/rudel",
+      "createdAt": "2026-03-12 21:41:12",
       "hot": 88
     },
     {
-      "title": "1B identity records exposed in ID verification data leak",
-      "summary": "21 comments",
-      "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
-      "createdAt": "2026-03-12 17:46:00",
-      "hot": 76
+      "title": "High fidelity font synthesis for CJK languages",
+      "summary": "4 comments",
+      "url": "https://github.com/kaonashi-tyc/zi2zi-JiT",
+      "createdAt": "2026-03-09 20:29:00",
+      "hot": 28
+    },
+    {
+      "title": "Another DOGE staffer explaining how he flagged grants at NEH for \"DEI\"",
+      "summary": "12 comments",
+      "url": "https://bsky.app/profile/404media.co/post/3mgupw4v3ak2j",
+      "createdAt": "2026-03-13 00:02:02",
+      "hot": 41
     },
     {
       "title": "Reliable Software in the LLM Era",
-      "summary": "4 comments",
+      "summary": "21 comments",
       "url": "https://quint-lang.org/posts/llm_era",
       "createdAt": "2026-03-12 16:19:46",
-      "hot": 24
+      "hot": 64
     },
     {
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "summary": "52 comments",
-      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-      "createdAt": "2026-03-08 19:44:56",
-      "hot": 180
+      "title": "Datahäxan",
+      "summary": "9 comments",
+      "url": "https://0dd.company/galleries/witches/7.html",
+      "createdAt": "2026-03-09 23:48:02",
+      "hot": 109
     },
     {
-      "title": "I was interviewed by an AI bot for a job",
-      "summary": "314 comments",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "createdAt": "2026-03-12 02:17:30",
-      "hot": 341
+      "title": "Returning to Rails in 2026",
+      "summary": "183 comments",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "createdAt": "2026-03-12 14:06:46",
+      "hot": 283
     },
     {
-      "title": "WebPKI and You",
-      "summary": "5 comments",
-      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
-      "createdAt": "2026-03-09 20:47:11",
-      "hot": 69
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "summary": "1378 comments",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "createdAt": "2026-03-12 03:29:29",
-      "hot": 3702
-    },
-    {
-      "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
-      "summary": "17 comments",
-      "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
-      "createdAt": "2026-03-09 08:00:05",
-      "hot": 42
-    },
-    {
-      "title": "The MacBook Neo",
-      "summary": "900 comments",
-      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "createdAt": "2026-03-11 19:37:24",
-      "hot": 562
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "summary": "128 comments",
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "createdAt": "2026-03-12 04:56:52",
-      "hot": 248
-    },
-    {
-      "title": "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
-      "summary": "0 comments",
-      "url": "https://www.philipzucker.com/thin1/",
-      "createdAt": "2026-03-10 02:12:16",
-      "hot": 3
-    },
-    {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "summary": "67 comments",
-      "url": "https://sitespy.app",
-      "createdAt": "2026-03-12 00:21:06",
-      "hot": 267
-    },
-    {
-      "title": "Google closes deal to acquire Wiz",
-      "summary": "178 comments",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "createdAt": "2026-03-11 22:58:20",
-      "hot": 302
-    },
-    {
-      "title": "BitNet: Inference framework for 1-bit LLMs",
-      "summary": "163 comments",
-      "url": "https://github.com/microsoft/BitNet",
-      "createdAt": "2026-03-11 20:27:15",
-      "hot": 349
-    },
-    {
-      "title": "Faster asin() was hiding in plain sight",
-      "summary": "120 comments",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "createdAt": "2026-03-11 22:35:53",
-      "hot": 218
-    },
-    {
-      "title": "Personal Computer by Perplexity",
-      "summary": "133 comments",
-      "url": "https://www.perplexity.ai/personal-computer-waitlist",
-      "createdAt": "2026-03-12 02:22:21",
-      "hot": 172
-    },
-    {
-      "title": "Entities enabling scientific fraud at scale (2025)",
-      "summary": "202 comments",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "createdAt": "2026-03-11 21:32:12",
-      "hot": 294
-    },
-    {
-      "title": "Galaxy Zoo",
-      "summary": "2 comments",
-      "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo",
-      "createdAt": "2026-03-08 23:08:48",
+      "title": "SHOW HN: A usage circuit breaker for Cloudflare Workers",
+      "summary": "8 comments",
+      "url": "https://news.ycombinator.com/item?id=47322794",
+      "createdAt": "2026-03-10 21:09:00",
       "hot": 19
     },
     {
-      "title": "What Happens After You Die? (2016)",
-      "summary": "34 comments",
-      "url": "https://lamag.com/news/the-end/",
-      "createdAt": "2026-03-09 04:01:19",
-      "hot": 51
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "summary": "70 comments",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "createdAt": "2026-03-08 19:44:56",
+      "hot": 217
     },
     {
-      "title": "About memory pressure, lock contention, and Data-oriented Design",
-      "summary": "12 comments",
-      "url": "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/",
-      "createdAt": "2026-03-08 19:59:11",
-      "hot": 60
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "summary": "64 comments",
+      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "createdAt": "2026-03-12 14:55:56",
+      "hot": 98
+    },
+    {
+      "title": "Suburban school district uses license plate readers to verify student residency",
+      "summary": "131 comments",
+      "url": "https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/",
+      "createdAt": "2026-03-12 22:41:12",
+      "hot": 108
+    },
+    {
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "summary": "1488 comments",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "createdAt": "2026-03-12 03:29:29",
+      "hot": 3975
+    },
+    {
+      "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
+      "summary": "11 comments",
+      "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
+      "createdAt": "2026-03-12 21:27:19",
+      "hot": 33
+    },
+    {
+      "title": "1B identity records exposed in ID verification data leak",
+      "summary": "40 comments",
+      "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+      "createdAt": "2026-03-12 17:46:00",
+      "hot": 167
     }
   ]
 }
