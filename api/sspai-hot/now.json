@@ -1,7 +1,15 @@
 {
-  "id": "sspai-hot.1773418535792",
-  "lastUpdatedAt": "2026-03-14 00:15:35",
+  "id": "sspai-hot.1773432766188",
+  "lastUpdatedAt": "2026-03-14 04:12:46",
   "data": [
+    {
+      "title": "最便宜的 Mac 笔记本：MacBook Neo 首发体验",
+      "summary": "配备8GB内存、256GB存储空间、没有指纹解锁1、屏幕也不支持P3广色域，甚至用的还是手机上的芯片，很难想象这是一台在2026年推出的笔记本电脑，但这就是Mac家族备受期待的全新产品：MacBook ...",
+      "url": "https://sspai.com/post/107031",
+      "imageUrl": "2026/3/10/article/9ee9ba0e-2710-0013-41d2-a1cfb87371c3.jpeg",
+      "createdAt": "2026-03-10 21:00:50",
+      "hot": 28
+    },
     {
       "title": "派评｜近期值得关注的 App",
       "summary": "欢迎收看本期《派评》。",
@@ -153,14 +161,6 @@
       "imageUrl": "2026/01/21/929cddd2efc6eb2a77cb0e8173799a68.png",
       "createdAt": "2026-01-21 17:07:13",
       "hot": 20
-    },
-    {
-      "title": "出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享",
-      "summary": "随着 CLI Coding Agent 的出现，我可以在 iPad 或手机上，通过 SSH 远程连接 Mac，在乘坐地铁等碎片时间远程开发，这是我的实践方式。",
-      "url": "https://sspai.com/post/105621",
-      "imageUrl": "2026/01/20/eb7b338770c475bfd4fa46e552f59736.png",
-      "createdAt": "2026-01-20 21:00:58",
-      "hot": 24
     }
   ]
 }
