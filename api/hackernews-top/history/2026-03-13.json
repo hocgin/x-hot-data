@@ -865,6 +865,222 @@
           "hot": 348
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773389806388",
+      "lastUpdatedAt": "2026-03-13 16:16:46",
+      "data": [
+        {
+          "title": "Willingness to look stupid",
+          "summary": "90 comments",
+          "url": "https://sharif.io/looking-stupid",
+          "createdAt": "2026-03-09 18:21:58",
+          "hot": 240
+        },
+        {
+          "title": "Executing programs inside transformers with exponentially faster inference",
+          "summary": "3 comments",
+          "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+          "createdAt": "2026-03-12 17:17:56",
+          "hot": 34
+        },
+        {
+          "title": "Malus – Clean Room as a Service",
+          "summary": "445 comments",
+          "url": "https://malus.sh",
+          "createdAt": "2026-03-12 21:42:04",
+          "hot": 1223
+        },
+        {
+          "title": "Vite 8.0 Is Out",
+          "summary": "37 comments",
+          "url": "https://vite.dev/blog/announcing-vite8",
+          "createdAt": "2026-03-13 12:36:40",
+          "hot": 209
+        },
+        {
+          "title": "“This is not the computer for you”",
+          "summary": "145 comments",
+          "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+          "createdAt": "2026-03-13 09:45:49",
+          "hot": 352
+        },
+        {
+          "title": "Prefix sums at gigabytes per second with ARM NEON",
+          "summary": "2 comments",
+          "url": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+          "createdAt": "2026-03-09 04:22:26",
+          "hot": 25
+        },
+        {
+          "title": "Hyperlinks in Terminal Emulators",
+          "summary": "27 comments",
+          "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+          "createdAt": "2026-03-13 11:32:18",
+          "hot": 41
+        },
+        {
+          "title": "Bubble Sorted Amen Break",
+          "summary": "96 comments",
+          "url": "https://parametricavocado.itch.io/amen-sorting",
+          "createdAt": "2026-03-13 01:13:56",
+          "hot": 320
+        },
+        {
+          "title": "Shall I implement it? No",
+          "summary": "454 comments",
+          "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+          "createdAt": "2026-03-13 05:01:10",
+          "hot": 1204
+        },
+        {
+          "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+          "summary": "430 comments",
+          "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+          "createdAt": "2026-03-12 22:48:57",
+          "hot": 399
+        },
+        {
+          "title": "Understanding the Go Runtime: The Scheduler",
+          "summary": "7 comments",
+          "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+          "createdAt": "2026-03-09 22:54:31",
+          "hot": 99
+        },
+        {
+          "title": "Reversing memory loss via gut-brain communication",
+          "summary": "117 comments",
+          "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+          "createdAt": "2026-03-13 00:38:51",
+          "hot": 297
+        },
+        {
+          "title": "The Met releases high-def 3D scans of 140 famous art objects",
+          "summary": "51 comments",
+          "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+          "createdAt": "2026-03-12 23:43:39",
+          "hot": 274
+        },
+        {
+          "title": "Celebrating Interesting Flickr Technologies",
+          "summary": "6 comments",
+          "url": "https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2",
+          "createdAt": "2026-03-12 16:33:00",
+          "hot": 30
+        },
+        {
+          "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+          "summary": "42 comments",
+          "url": "https://aminrj.com/posts/rag-document-poisoning/",
+          "createdAt": "2026-03-12 21:40:36",
+          "hot": 113
+        },
+        {
+          "title": "IMG_0416 (2024)",
+          "summary": "12 comments",
+          "url": "https://ben-mini.com/2024/img-0416",
+          "createdAt": "2026-03-09 21:07:45",
+          "hot": 71
+        },
+        {
+          "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+          "summary": "404 comments",
+          "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+          "createdAt": "2026-03-12 20:44:45",
+          "hot": 345
+        },
+        {
+          "title": "Bringing Chrome to ARM64 Linux Devices",
+          "summary": "44 comments",
+          "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+          "createdAt": "2026-03-13 04:13:15",
+          "hot": 98
+        },
+        {
+          "title": "Never Snooze a Future",
+          "summary": "0 comments",
+          "url": "https://jacko.io/snooze.html",
+          "createdAt": "2026-03-08 19:17:26",
+          "hot": 6
+        },
+        {
+          "title": "Grief and the AI split",
+          "summary": "199 comments",
+          "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+          "createdAt": "2026-03-13 06:35:08",
+          "hot": 133
+        },
+        {
+          "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+          "summary": "296 comments",
+          "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+          "createdAt": "2026-03-13 04:55:51",
+          "hot": 582
+        },
+        {
+          "title": "Can you instruct a robot to make a PBJ sandwich?",
+          "summary": "27 comments",
+          "url": "https://pbj.deliberateinc.com/",
+          "createdAt": "2026-03-13 11:06:37",
+          "hot": 24
+        },
+        {
+          "title": "Big data on the cheapest MacBook",
+          "summary": "278 comments",
+          "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+          "createdAt": "2026-03-12 19:41:14",
+          "hot": 347
+        },
+        {
+          "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+          "summary": "19 comments",
+          "url": "https://github.com/wolfssl/wolfip",
+          "createdAt": "2026-03-12 23:39:50",
+          "hot": 124
+        },
+        {
+          "title": "Are LLM merge rates not getting better?",
+          "summary": "129 comments",
+          "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+          "createdAt": "2026-03-12 19:49:05",
+          "hot": 145
+        },
+        {
+          "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+          "summary": "25 comments",
+          "url": "https://ionrouter.io",
+          "createdAt": "2026-03-13 02:52:36",
+          "hot": 62
+        },
+        {
+          "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+          "summary": "103 comments",
+          "url": "https://github.com/jrswab/axe",
+          "createdAt": "2026-03-12 21:49:12",
+          "hot": 186
+        },
+        {
+          "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+          "summary": "41 comments",
+          "url": "https://github.com/onecli/onecli",
+          "createdAt": "2026-03-13 00:41:06",
+          "hot": 143
+        },
+        {
+          "title": "The Unpredicted vs. the Over-Expected",
+          "summary": "2 comments",
+          "url": "https://kevinkelly.substack.com/p/the-unpredicted-vs-the-over-expected",
+          "createdAt": "2026-03-10 22:18:25",
+          "hot": 12
+        },
+        {
+          "title": "Long overlooked as crucial to life, fungi start to get their due",
+          "summary": "39 comments",
+          "url": "https://e360.yale.edu/features/fungi-kingdom",
+          "createdAt": "2026-03-12 21:16:11",
+          "hot": 129
+        }
+      ]
     }
   ]
 }
