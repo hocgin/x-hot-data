@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-14",
+  "createdAt": "2026-03-14 00:15:35",
+  "data": [
+    {
+      "id": "hackernews-top.1773418535797",
+      "lastUpdatedAt": "2026-03-14 00:15:35",
+      "data": [
+        {
+          "title": "TUI Studio – visual terminal UI design tool",
+          "summary": "189 comments",
+          "url": "https://tui.studio/",
+          "createdAt": "2026-03-13 18:32:45",
+          "hot": 315
+        },
+        {
+          "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
+          "summary": "0 comments",
+          "url": "https://www.runcaptain.com/",
+          "createdAt": "2026-03-13 23:45:33",
+          "hot": 9
+        },
+        {
+          "title": "Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act",
+          "summary": "1 comments",
+          "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+          "createdAt": "2026-03-13 23:14:29",
+          "hot": 17
+        },
+        {
+          "title": "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+          "summary": "316 comments",
+          "url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+          "createdAt": "2026-03-13 18:15:56",
+          "hot": 781
+        },
+        {
+          "title": "Bucketsquatting is (finally) dead",
+          "summary": "119 comments",
+          "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
+          "createdAt": "2026-03-13 16:31:33",
+          "hot": 236
+        },
+        {
+          "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+          "summary": "47 comments",
+          "url": "https://www.getspine.ai/",
+          "createdAt": "2026-03-13 21:22:40",
+          "hot": 45
+        },
+        {
+          "title": "Willingness to look stupid",
+          "summary": "209 comments",
+          "url": "https://sharif.io/looking-stupid",
+          "createdAt": "2026-03-09 18:21:58",
+          "hot": 600
+        },
+        {
+          "title": "Monster Is the Machine",
+          "summary": "6 comments",
+          "url": "https://kirkcenter.org/reviews/monster-is-the-machine/",
+          "createdAt": "2026-03-09 02:09:57",
+          "hot": 28
+        },
+        {
+          "title": "E2E encrypted messaging on Instagram will no longer be supported after 8 May",
+          "summary": "85 comments",
+          "url": "https://help.instagram.com/491565145294150",
+          "createdAt": "2026-03-13 21:03:42",
+          "hot": 172
+        },
+        {
+          "title": "Okmain: How to pick an OK main colour of an image",
+          "summary": "33 comments",
+          "url": "https://dgroshev.com/blog/okmain/",
+          "createdAt": "2026-03-09 22:16:53",
+          "hot": 142
+        },
+        {
+          "title": "The Mrs Fractal: Mirror, Rotate, Scale",
+          "summary": "2 comments",
+          "url": "https://www.4rknova.com//blog/2025/06/22/mrs-fractal",
+          "createdAt": "2026-03-09 22:19:50",
+          "hot": 16
+        },
+        {
+          "title": "Can I Run AI locally?",
+          "summary": "5 comments",
+          "url": "https://www.canirun.ai/",
+          "createdAt": "2026-03-13 20:46:10",
+          "hot": 29
+        },
+        {
+          "title": "Executing programs inside transformers with exponentially faster inference",
+          "summary": "78 comments",
+          "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+          "createdAt": "2026-03-12 17:17:56",
+          "hot": 220
+        },
+        {
+          "title": "Run NanoClaw in Docker Sandboxes",
+          "summary": "28 comments",
+          "url": "https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/",
+          "createdAt": "2026-03-13 21:45:32",
+          "hot": 80
+        },
+        {
+          "title": "Dijkstra's Crisis: The End of Algol and Beginning of Software Engineering (2010) [pdf]",
+          "summary": "4 comments",
+          "url": "https://www.tomandmaria.com/Tom/Writing/DijkstrasCrisis_LeidenDRAFT.pdf",
+          "createdAt": "2026-03-09 15:49:49",
+          "hot": 38
+        },
+        {
+          "title": "Show HN: What was the world listening to? Music charts, 20 countries (1940–2025)",
+          "summary": "31 comments",
+          "url": "https://88mph.fm/",
+          "createdAt": "2026-03-11 00:18:40",
+          "hot": 68
+        },
+        {
+          "title": "What we learned from a 22-Day storage bug (and how we fixed it)",
+          "summary": "3 comments",
+          "url": "https://www.mux.com/blog/22-day-storage-bug",
+          "createdAt": "2026-03-10 00:34:29",
+          "hot": 24
+        },
+        {
+          "title": "“This is not the computer for you”",
+          "summary": "298 comments",
+          "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+          "createdAt": "2026-03-13 09:45:49",
+          "hot": 764
+        },
+        {
+          "title": "Two long-lost episodes of 'Doctor Who' have been found",
+          "summary": "3 comments",
+          "url": "https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8",
+          "createdAt": "2026-03-13 23:04:41",
+          "hot": 17
+        },
+        {
+          "title": "Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine",
+          "summary": "20 comments",
+          "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+          "createdAt": "2026-03-13 22:11:36",
+          "hot": 22
+        },
+        {
+          "title": "Ceno, browse the web without internet access",
+          "summary": "26 comments",
+          "url": "https://ceno.app/en/index.html?",
+          "createdAt": "2026-03-13 14:30:58",
+          "hot": 98
+        },
+        {
+          "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+          "summary": "503 comments",
+          "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+          "createdAt": "2026-03-12 22:48:57",
+          "hot": 486
+        },
+        {
+          "title": "Source code of Swedish e-government services has been leaked",
+          "summary": "139 comments",
+          "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
+          "createdAt": "2026-03-13 17:45:30",
+          "hot": 157
+        },
+        {
+          "title": "NASA targets Artemis II crewed moon mission for April 1 launch",
+          "summary": "2 comments",
+          "url": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch",
+          "createdAt": "2026-03-13 23:29:16",
+          "hot": 11
+        },
+        {
+          "title": "IMG_0416 (2024)",
+          "summary": "38 comments",
+          "url": "https://ben-mini.com/2024/img-0416",
+          "createdAt": "2026-03-09 21:07:45",
+          "hot": 165
+        },
+        {
+          "title": "Vite 8.0 Is Out",
+          "summary": "150 comments",
+          "url": "https://vite.dev/blog/announcing-vite8",
+          "createdAt": "2026-03-13 12:36:40",
+          "hot": 463
+        },
+        {
+          "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
+          "summary": "171 comments",
+          "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+          "createdAt": "2026-03-13 00:38:51",
+          "hot": 358
+        },
+        {
+          "title": "An old photo of a large BBS (2022)",
+          "summary": "168 comments",
+          "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+          "createdAt": "2026-03-13 03:41:35",
+          "hot": 251
+        },
+        {
+          "title": "Bubble Sorted Amen Break",
+          "summary": "114 comments",
+          "url": "https://parametricavocado.itch.io/amen-sorting",
+          "createdAt": "2026-03-13 01:13:56",
+          "hot": 370
+        },
+        {
+          "title": "Gvisor on Raspbian",
+          "summary": "8 comments",
+          "url": "https://nubificus.co.uk/blog/gvisor-rpi5/",
+          "createdAt": "2026-03-13 18:08:54",
+          "hot": 31
+        }
+      ]
+    }
+  ]
+}
