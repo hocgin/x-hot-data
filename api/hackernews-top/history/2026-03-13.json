@@ -433,6 +433,222 @@
           "hot": 130
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773362138056",
+      "lastUpdatedAt": "2026-03-13 08:35:38",
+      "data": [
+        {
+          "title": "Shall I implement it? No",
+          "summary": "247 comments",
+          "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+          "createdAt": "2026-03-13 05:01:10",
+          "hot": 678
+        },
+        {
+          "title": "Malus – Clean Room as a Service",
+          "summary": "389 comments",
+          "url": "https://malus.sh",
+          "createdAt": "2026-03-12 21:42:04",
+          "hot": 997
+        },
+        {
+          "title": "Bubble Sorted Amen Break",
+          "summary": "84 comments",
+          "url": "https://parametricavocado.itch.io/amen-sorting",
+          "createdAt": "2026-03-13 01:13:56",
+          "hot": 250
+        },
+        {
+          "title": "Reversing memory loss via gut-brain communication",
+          "summary": "78 comments",
+          "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+          "createdAt": "2026-03-13 00:38:51",
+          "hot": 214
+        },
+        {
+          "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+          "summary": "355 comments",
+          "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+          "createdAt": "2026-03-12 22:48:57",
+          "hot": 310
+        },
+        {
+          "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+          "summary": "20 comments",
+          "url": "https://aminrj.com/posts/rag-document-poisoning/",
+          "createdAt": "2026-03-12 21:40:36",
+          "hot": 54
+        },
+        {
+          "title": "The Met releases high-def 3D scans of 140 famous art objects",
+          "summary": "41 comments",
+          "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+          "createdAt": "2026-03-12 23:43:39",
+          "hot": 207
+        },
+        {
+          "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+          "summary": "179 comments",
+          "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+          "createdAt": "2026-03-13 04:55:51",
+          "hot": 332
+        },
+        {
+          "title": "Understanding the Go Runtime: The Scheduler",
+          "summary": "0 comments",
+          "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+          "createdAt": "2026-03-09 22:54:31",
+          "hot": 6
+        },
+        {
+          "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+          "summary": "19 comments",
+          "url": "https://ionrouter.io",
+          "createdAt": "2026-03-13 02:52:36",
+          "hot": 45
+        },
+        {
+          "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+          "summary": "38 comments",
+          "url": "https://github.com/onecli/onecli",
+          "createdAt": "2026-03-13 00:41:06",
+          "hot": 119
+        },
+        {
+          "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+          "summary": "333 comments",
+          "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+          "createdAt": "2026-03-12 20:44:45",
+          "hot": 229
+        },
+        {
+          "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+          "summary": "8 comments",
+          "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+          "createdAt": "2026-03-08 11:57:30",
+          "hot": 35
+        },
+        {
+          "title": "Dolphin Progress Release 2603",
+          "summary": "49 comments",
+          "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+          "createdAt": "2026-03-12 17:23:01",
+          "hot": 298
+        },
+        {
+          "title": "Runners who churn butter on their runs",
+          "summary": "43 comments",
+          "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+          "createdAt": "2026-03-13 03:21:45",
+          "hot": 84
+        },
+        {
+          "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+          "summary": "12 comments",
+          "url": "https://github.com/wolfssl/wolfip",
+          "createdAt": "2026-03-12 23:39:50",
+          "hot": 82
+        },
+        {
+          "title": "Big data on the cheapest MacBook",
+          "summary": "249 comments",
+          "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+          "createdAt": "2026-03-12 19:41:14",
+          "hot": 299
+        },
+        {
+          "title": "Are LLM merge rates not getting better?",
+          "summary": "110 comments",
+          "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+          "createdAt": "2026-03-12 19:49:05",
+          "hot": 112
+        },
+        {
+          "title": "Show HN: Detect any object in satellite imagery using a text prompt",
+          "summary": "5 comments",
+          "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
+          "createdAt": "2026-03-08 21:51:36",
+          "hot": 12
+        },
+        {
+          "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
+          "summary": "0 comments",
+          "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+          "createdAt": "2026-03-13 01:01:46",
+          "hot": 1
+        },
+        {
+          "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+          "summary": "93 comments",
+          "url": "https://github.com/jrswab/axe",
+          "createdAt": "2026-03-12 21:49:12",
+          "hot": 138
+        },
+        {
+          "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
+          "summary": "72 comments",
+          "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
+          "createdAt": "2026-03-09 08:00:05",
+          "hot": 103
+        },
+        {
+          "title": "Show HN: OpenClaw-class agents on ESP32 (and the IDE that makes it possible)",
+          "summary": "1 comments",
+          "url": "https://pycoclaw.com/",
+          "createdAt": "2026-03-13 05:38:06",
+          "hot": 14
+        },
+        {
+          "title": "DDR4 Sdram – Initialization, Training and Calibration",
+          "summary": "15 comments",
+          "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
+          "createdAt": "2026-03-10 14:02:27",
+          "hot": 67
+        },
+        {
+          "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+          "summary": "24 comments",
+          "url": "https://github.com/understudy-ai/understudy",
+          "createdAt": "2026-03-13 01:04:35",
+          "hot": 81
+        },
+        {
+          "title": "The Cost of Indirection in Rust",
+          "summary": "33 comments",
+          "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
+          "createdAt": "2026-03-10 01:28:34",
+          "hot": 83
+        },
+        {
+          "title": "The Road Not Taken: A World Where IPv4 Evolved",
+          "summary": "101 comments",
+          "url": "https://owl.billpg.com/ipv4x/",
+          "createdAt": "2026-03-12 23:31:21",
+          "hot": 49
+        },
+        {
+          "title": "Long Overlooked as Crucial to Life, Fungi Start to Get Their Due",
+          "summary": "26 comments",
+          "url": "https://e360.yale.edu/features/fungi-kingdom",
+          "createdAt": "2026-03-12 21:16:11",
+          "hot": 86
+        },
+        {
+          "title": "An old photo of a large BBS (2022)",
+          "summary": "112 comments",
+          "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+          "createdAt": "2026-03-13 03:41:35",
+          "hot": 154
+        },
+        {
+          "title": "Returning to Rails in 2026",
+          "summary": "207 comments",
+          "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+          "createdAt": "2026-03-12 14:06:46",
+          "hot": 329
+        }
+      ]
     }
   ]
 }
