@@ -217,6 +217,222 @@
           "hot": 86
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773518970270",
+      "lastUpdatedAt": "2026-03-15 04:09:30",
+      "data": [
+        {
+          "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
+          "summary": "12 comments",
+          "url": "https://github.com/liorwn/claudetop",
+          "createdAt": "2026-03-15 03:26:24",
+          "hot": 27
+        },
+        {
+          "title": "Montana passes Right to Compute act (2025)",
+          "summary": "158 comments",
+          "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+          "createdAt": "2026-03-14 21:59:58",
+          "hot": 202
+        },
+        {
+          "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+          "summary": "15 comments",
+          "url": "https://hostilevolume.com/",
+          "createdAt": "2026-03-15 02:39:10",
+          "hot": 19
+        },
+        {
+          "title": "Head of FCC threatens broadcaster licenses over critical coverage of Iran war",
+          "summary": "12 comments",
+          "url": "https://twitter.com/BrendanCarrFCC/status/2032855414233047172",
+          "createdAt": "2026-03-15 03:35:37",
+          "hot": 47
+        },
+        {
+          "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
+          "summary": "1 comments",
+          "url": "https://news.ycombinator.com/item?id=47379898",
+          "createdAt": "2026-03-15 02:57:12",
+          "hot": 15
+        },
+        {
+          "title": "An ode to bzip",
+          "summary": "29 comments",
+          "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+          "createdAt": "2026-03-15 00:01:23",
+          "hot": 53
+        },
+        {
+          "title": "It's time to move your docs in the repo",
+          "summary": "14 comments",
+          "url": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
+          "createdAt": "2026-03-15 03:28:47",
+          "hot": 33
+        },
+        {
+          "title": "2026 tech layoffs reach 45,000 in March",
+          "summary": "12 comments",
+          "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
+          "createdAt": "2026-03-15 03:46:49",
+          "hot": 15
+        },
+        {
+          "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
+          "summary": "31 comments",
+          "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+          "createdAt": "2026-03-12 02:21:58",
+          "hot": 237
+        },
+        {
+          "title": "Life as an OnlyFans 'chatter'",
+          "summary": "82 comments",
+          "url": "https://www.bbc.com/news/articles/cq571g9gd4lo",
+          "createdAt": "2026-03-11 16:08:15",
+          "hot": 92
+        },
+        {
+          "title": "Sunsetting Jazzband",
+          "summary": "28 comments",
+          "url": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+          "createdAt": "2026-03-15 01:40:23",
+          "hot": 88
+        },
+        {
+          "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
+          "summary": "1 comments",
+          "url": "https://github.com/CSMWrap/CSMWrap",
+          "createdAt": "2026-03-10 16:55:42",
+          "hot": 6
+        },
+        {
+          "title": "Python: The Optimization Ladder",
+          "summary": "69 comments",
+          "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
+          "createdAt": "2026-03-11 03:22:39",
+          "hot": 205
+        },
+        {
+          "title": "Nmap in the movies (2008)",
+          "summary": "17 comments",
+          "url": "https://nmap.org/movies/",
+          "createdAt": "2026-03-15 00:25:34",
+          "hot": 119
+        },
+        {
+          "title": "Show HN: Learn Arabic with spaced repetition and comprehensible input",
+          "summary": "9 comments",
+          "url": "https://abjadpro.com",
+          "createdAt": "2026-03-15 00:24:02",
+          "hot": 38
+        },
+        {
+          "title": "What happens when US economic data becomes unreliable",
+          "summary": "230 comments",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+          "createdAt": "2026-03-15 00:58:40",
+          "hot": 254
+        },
+        {
+          "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
+          "summary": "0 comments",
+          "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+          "createdAt": "2026-03-14 21:45:04",
+          "hot": 1
+        },
+        {
+          "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+          "summary": "4 comments",
+          "url": "https://www.gitagent.sh/",
+          "createdAt": "2026-03-14 21:41:25",
+          "hot": 60
+        },
+        {
+          "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+          "summary": "5 comments",
+          "url": "https://github.com/drojaazu/megadev",
+          "createdAt": "2026-03-14 17:04:39",
+          "hot": 101
+        },
+        {
+          "title": "Generalizing Knuth's Pseudocode Architecture From Algorithms to Knowledge",
+          "summary": "0 comments",
+          "url": "https://www.researchgate.net/publication/401189185_Towards_a_Generalization_of_Knuth%27s_Pseudocode_Architecture_From_Algorithms_to_Knowledge",
+          "createdAt": "2026-03-11 16:03:37",
+          "hot": 13
+        },
+        {
+          "title": "Starlink militarization and its impact on global strategic stability",
+          "summary": "94 comments",
+          "url": "https://interpret.csis.org/translations/starlink-militarization-and-its-impact-on-global-strategic-stability/",
+          "createdAt": "2026-03-14 17:14:51",
+          "hot": 74
+        },
+        {
+          "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+          "summary": "457 comments",
+          "url": "https://claude.com/blog/1m-context-ga",
+          "createdAt": "2026-03-14 01:19:01",
+          "hot": 1071
+        },
+        {
+          "title": "Cookie jars capture American kitsch (2023)",
+          "summary": "2 comments",
+          "url": "https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history",
+          "createdAt": "2026-03-14 01:39:35",
+          "hot": 21
+        },
+        {
+          "title": "Wired headphone sales are exploding",
+          "summary": "633 comments",
+          "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+          "createdAt": "2026-03-12 03:37:46",
+          "hot": 379
+        },
+        {
+          "title": "Everything you never wanted to know about visually-hidden",
+          "summary": "5 comments",
+          "url": "https://dbushell.com/2026/02/20/visually-hidden/",
+          "createdAt": "2026-03-11 00:54:23",
+          "hot": 21
+        },
+        {
+          "title": "In Praise of Stupid Questions",
+          "summary": "2 comments",
+          "url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+          "createdAt": "2026-03-15 01:12:18",
+          "hot": 11
+        },
+        {
+          "title": "UBI as a productivity dividend",
+          "summary": "121 comments",
+          "url": "https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity",
+          "createdAt": "2026-03-15 00:37:02",
+          "hot": 76
+        },
+        {
+          "title": "XML Is a Cheap DSL",
+          "summary": "207 comments",
+          "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+          "createdAt": "2026-03-14 19:59:13",
+          "hot": 210
+        },
+        {
+          "title": "Gimp 3.2 Released",
+          "summary": "0 comments",
+          "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
+          "createdAt": "2026-03-15 03:51:25",
+          "hot": 5
+        },
+        {
+          "title": "Digg is gone again",
+          "summary": "403 comments",
+          "url": "https://digg.com/",
+          "createdAt": "2026-03-14 02:52:17",
+          "hot": 375
+        }
+      ]
     }
   ]
 }
