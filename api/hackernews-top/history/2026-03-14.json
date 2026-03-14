@@ -1081,6 +1081,222 @@
           "hot": 50
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773490437814",
+      "lastUpdatedAt": "2026-03-14 20:13:57",
+      "data": [
+        {
+          "title": "Claude Code's binary reveals silent A/B tests on core features",
+          "summary": "28 comments",
+          "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+          "createdAt": "2026-03-14 19:46:29",
+          "hot": 54
+        },
+        {
+          "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+          "summary": "315 comments",
+          "url": "https://claude.com/blog/1m-context-ga",
+          "createdAt": "2026-03-14 01:19:01",
+          "hot": 804
+        },
+        {
+          "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
+          "summary": "6 comments",
+          "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+          "createdAt": "2026-03-12 02:21:58",
+          "hot": 48
+        },
+        {
+          "title": "A Survival Guide to a PhD (2016)",
+          "summary": "62 comments",
+          "url": "http://karpathy.github.io/2016/09/07/phd/",
+          "createdAt": "2026-03-10 10:16:51",
+          "hot": 118
+        },
+        {
+          "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+          "summary": "519 comments",
+          "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+          "createdAt": "2026-03-13 20:31:09",
+          "hot": 612
+        },
+        {
+          "title": "The Isolation Trap: Erlang",
+          "summary": "14 comments",
+          "url": "https://causality.blog/essays/the-isolation-trap/",
+          "createdAt": "2026-03-12 16:22:32",
+          "hot": 65
+        },
+        {
+          "title": "You gotta think outside the hypercube",
+          "summary": "22 comments",
+          "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+          "createdAt": "2026-03-10 22:18:21",
+          "hot": 73
+        },
+        {
+          "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+          "summary": "156 comments",
+          "url": "https://channelsurfer.tv",
+          "createdAt": "2026-03-11 22:34:57",
+          "hot": 528
+        },
+        {
+          "title": "Wired headphone sales are exploding",
+          "summary": "278 comments",
+          "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
+          "createdAt": "2026-03-12 03:37:46",
+          "hot": 171
+        },
+        {
+          "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+          "summary": "0 comments",
+          "url": "https://github.com/drojaazu/megadev",
+          "createdAt": "2026-03-14 17:04:39",
+          "hot": 13
+        },
+        {
+          "title": "Recursive Problems Benefit from Recursive Solutions",
+          "summary": "9 comments",
+          "url": "https://jnkr.tech/blog/recursive-benefits-recursive",
+          "createdAt": "2026-03-11 09:46:43",
+          "hot": 28
+        },
+        {
+          "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+          "summary": "95 comments",
+          "url": "https://github.com/TomBadash/MouseControl",
+          "createdAt": "2026-03-14 02:42:54",
+          "hot": 330
+        },
+        {
+          "title": "Hammerspoon",
+          "summary": "106 comments",
+          "url": "https://github.com/Hammerspoon/hammerspoon",
+          "createdAt": "2026-03-14 02:34:12",
+          "hot": 294
+        },
+        {
+          "title": "How Lego builds a new Lego set",
+          "summary": "1 comments",
+          "url": "https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price",
+          "createdAt": "2026-03-14 19:35:49",
+          "hot": 8
+        },
+        {
+          "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+          "summary": "33 comments",
+          "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+          "createdAt": "2026-03-14 06:52:05",
+          "hot": 133
+        },
+        {
+          "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+          "summary": "384 comments",
+          "url": "https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/",
+          "createdAt": "2026-03-13 22:11:36",
+          "hot": 276
+        },
+        {
+          "title": "Can I run AI locally?",
+          "summary": "309 comments",
+          "url": "https://www.canirun.ai/",
+          "createdAt": "2026-03-13 20:46:10",
+          "hot": 1250
+        },
+        {
+          "title": "AEP (API Design Standard and Tooling Ecosystem)",
+          "summary": "7 comments",
+          "url": "https://aep.dev/",
+          "createdAt": "2026-03-11 02:38:18",
+          "hot": 21
+        },
+        {
+          "title": "Atari 2600 BASIC Programming (2015)",
+          "summary": "6 comments",
+          "url": "https://huguesjohnson.com/programming/atari-2600-basic/",
+          "createdAt": "2026-03-12 02:35:39",
+          "hot": 31
+        },
+        {
+          "title": "Digg is gone again",
+          "summary": "188 comments",
+          "url": "https://digg.com/",
+          "createdAt": "2026-03-14 02:52:17",
+          "hot": 211
+        },
+        {
+          "title": "Optimizing Content for Agents",
+          "summary": "20 comments",
+          "url": "https://cra.mr/optimizing-content-for-agents/",
+          "createdAt": "2026-03-14 10:27:00",
+          "hot": 50
+        },
+        {
+          "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+          "summary": "6 comments",
+          "url": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+          "createdAt": "2026-03-14 18:05:58",
+          "hot": 20
+        },
+        {
+          "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+          "summary": "120 comments",
+          "url": "https://lr0.org/blog/p/crocker/",
+          "createdAt": "2026-03-14 07:14:37",
+          "hot": 82
+        },
+        {
+          "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+          "summary": "128 comments",
+          "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+          "createdAt": "2026-03-14 08:02:37",
+          "hot": 222
+        },
+        {
+          "title": "Michael Faraday: Scientist and Nonconformist (1996)",
+          "summary": "0 comments",
+          "url": "http://silas.psfc.mit.edu/Faraday/",
+          "createdAt": "2026-03-11 15:09:25",
+          "hot": 8
+        },
+        {
+          "title": "Emacs and Vim in the Age of AI",
+          "summary": "105 comments",
+          "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+          "createdAt": "2026-03-10 12:21:32",
+          "hot": 159
+        },
+        {
+          "title": "Coding after coders: The end of computer programming as we know it?",
+          "summary": "171 comments",
+          "url": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?smid=url-share",
+          "createdAt": "2026-03-12 18:29:45",
+          "hot": 136
+        },
+        {
+          "title": "New 'negative light' technology hides data transfers in plain sight",
+          "summary": "55 comments",
+          "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+          "createdAt": "2026-03-12 04:46:24",
+          "hot": 91
+        },
+        {
+          "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+          "summary": "675 comments",
+          "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
+          "createdAt": "2026-03-14 00:40:42",
+          "hot": 451
+        },
+        {
+          "title": "Using Thunderbird for RSS",
+          "summary": "32 comments",
+          "url": "https://rubenerd.com/using-thunderbird-for-rss/",
+          "createdAt": "2026-03-10 15:38:59",
+          "hot": 104
+        }
+      ]
     }
   ]
 }
