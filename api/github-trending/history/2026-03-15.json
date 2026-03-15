@@ -113,6 +113,62 @@
           "createdAt": "2026-03-15 04:08:56"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773535295051",
+      "lastUpdatedAt": "2026-03-15 08:41:35",
+      "data": [
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "dimensionalOS/dimos",
+          "url": "https://github.com/dimensionalOS/dimos",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "langflow-ai/openrag",
+          "url": "https://github.com/langflow-ai/openrag",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "createdAt": "2026-03-15 08:41:13"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-15 08:41:13"
+        }
+      ]
     }
   ]
 }
