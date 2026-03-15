@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773562558940",
-  "lastUpdatedAt": "2026-03-15 16:15:58",
+  "id": "hackernews-top.1773576934497",
+  "lastUpdatedAt": "2026-03-15 20:15:34",
   "data": [
     {
-      "title": "Rack-mount hydroponics",
-      "summary": "27 comments",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "createdAt": "2026-03-15 12:23:43",
-      "hot": 116
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "summary": "30 comments",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "createdAt": "2026-03-15 18:15:47",
+      "hot": 87
     },
     {
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "summary": "5 comments",
-      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "createdAt": "2026-03-11 21:30:31",
-      "hot": 35
-    },
-    {
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "summary": "80 comments",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "createdAt": "2026-03-15 10:48:33",
-      "hot": 70
-    },
-    {
-      "title": "A most elegant TCP hole punching algorithm",
-      "summary": "10 comments",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "createdAt": "2026-03-15 11:29:17",
-      "hot": 59
-    },
-    {
-      "title": "How kernel anti-cheats work",
-      "summary": "110 comments",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "createdAt": "2026-03-15 08:15:10",
-      "hot": 142
-    },
-    {
-      "title": "Show HN: Han – A Korean programming language written in Rust",
-      "summary": "92 comments",
-      "url": "https://github.com/xodn348/han",
-      "createdAt": "2026-03-15 05:27:33",
-      "hot": 162
-    },
-    {
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "summary": "373 comments",
-      "url": "https://agelesslinux.org/",
-      "createdAt": "2026-03-15 06:10:26",
-      "hot": 568
-    },
-    {
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "summary": "2 comments",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-      "createdAt": "2026-03-14 17:38:37",
-      "hot": 65
-    },
-    {
-      "title": "Allow me to get to know you, mistakes and all",
-      "summary": "46 comments",
-      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-      "createdAt": "2026-03-15 06:03:47",
-      "hot": 116
-    },
-    {
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "summary": "3 comments",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "createdAt": "2026-03-15 08:51:55",
-      "hot": 53
-    },
-    {
-      "title": "SBCL Fibers – Lightweight Cooperative Threads",
-      "summary": "13 comments",
-      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
-      "createdAt": "2026-03-15 07:22:39",
-      "hot": 78
-    },
-    {
-      "title": "Jeff Bezos wants Washington Post’s newsroom budget halved, productivity doubled",
-      "summary": "32 comments",
-      "url": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
-      "createdAt": "2026-03-15 13:36:00",
+      "title": "A Visual Introduction to Machine Learning",
+      "summary": "4 comments",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "createdAt": "2026-03-15 18:47:35",
       "hot": 55
     },
     {
-      "title": "Bumblebee queens breathe underwater to survive drowning",
-      "summary": "26 comments",
-      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
-      "createdAt": "2026-03-15 04:49:10",
+      "title": "Rack-mount hydroponics",
+      "summary": "44 comments",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "createdAt": "2026-03-15 12:23:43",
+      "hot": 201
+    },
+    {
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "summary": "151 comments",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "createdAt": "2026-03-15 16:04:55",
+      "hot": 178
+    },
+    {
+      "title": "Generating All 32-Bit Primes (Part I)",
+      "summary": "0 comments",
+      "url": "https://hnlyman.github.io/pages/prime32_I.html",
+      "createdAt": "2026-03-15 19:42:01",
+      "hot": 4
+    },
+    {
+      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
+      "summary": "20 comments",
+      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+      "createdAt": "2026-03-11 21:30:31",
+      "hot": 83
+    },
+    {
+      "title": "Examples for the tcpdump and dig man pages",
+      "summary": "0 comments",
+      "url": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+      "createdAt": "2026-03-11 20:24:09",
+      "hot": 17
+    },
+    {
+      "title": "A most elegant TCP hole punching algorithm",
+      "summary": "39 comments",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "createdAt": "2026-03-15 11:29:17",
+      "hot": 112
+    },
+    {
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "summary": "135 comments",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "createdAt": "2026-03-15 10:48:33",
+      "hot": 113
+    },
+    {
+      "title": "How kernel anti-cheats work",
+      "summary": "187 comments",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "createdAt": "2026-03-15 08:15:10",
+      "hot": 218
+    },
+    {
+      "title": "Allow me to get to know you, mistakes and all",
+      "summary": "76 comments",
+      "url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+      "createdAt": "2026-03-15 06:03:47",
+      "hot": 179
+    },
+    {
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "summary": "100 comments",
+      "url": "https://github.com/xodn348/han",
+      "createdAt": "2026-03-15 05:27:33",
+      "hot": 182
+    },
+    {
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "summary": "18 comments",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "createdAt": "2026-03-15 07:22:39",
       "hot": 111
     },
     {
-      "title": "An unappetizing shrub became different vegetables",
-      "summary": "17 comments",
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "summary": "445 comments",
+      "url": "https://agelesslinux.org/",
+      "createdAt": "2026-03-15 06:10:26",
+      "hot": 675
+    },
+    {
+      "title": "Centuries of selective breeding turned wild cabbage into different vegetables",
+      "summary": "22 comments",
       "url": "https://www.worksinprogress.news/p/many-of-the-tastiest-vegetables-are",
       "createdAt": "2026-03-12 00:07:00",
-      "hot": 28
+      "hot": 64
+    },
+    {
+      "title": "Bumblebee queens breathe underwater to survive drowning",
+      "summary": "28 comments",
+      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "createdAt": "2026-03-15 04:49:10",
+      "hot": 144
+    },
+    {
+      "title": "Mathematics Distillation Challenge – Equational Theories",
+      "summary": "3 comments",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "createdAt": "2026-03-14 17:38:37",
+      "hot": 79
     },
     {
       "title": "MCP is dead; long live MCP",
-      "summary": "122 comments",
+      "summary": "151 comments",
       "url": "https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/",
       "createdAt": "2026-03-15 03:32:13",
-      "hot": 119
+      "hot": 168
+    },
+    {
+      "title": "Slicing Bezier Surfaces",
+      "summary": "2 comments",
+      "url": "https://fatih-erikli-potato.github.io/blog/slicing-bezier-surfaces.html",
+      "createdAt": "2026-03-12 20:51:15",
+      "hot": 13
+    },
+    {
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "summary": "5 comments",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "createdAt": "2026-03-15 08:51:55",
+      "hot": 65
+    },
+    {
+      "title": "Discovering Little Worlds (2020)",
+      "summary": "0 comments",
+      "url": "https://dmitrybrant.com/2020/08/01/discovering-little-worlds",
+      "createdAt": "2026-03-11 17:19:30",
+      "hot": 4
     },
     {
       "title": "A look inside Dialector, filmmaker Chris Marker's chatbot from 1988",
       "summary": "4 comments",
       "url": "https://kubicki.org/letters/the-festival-of-the-machines/",
       "createdAt": "2026-03-11 23:42:26",
-      "hot": 32
+      "hot": 50
     },
     {
-      "title": "Launching the Claude Partner Network",
-      "summary": "65 comments",
-      "url": "https://www.anthropic.com/news/claude-partner-network",
-      "createdAt": "2026-03-15 05:23:42",
-      "hot": 135
-    },
-    {
-      "title": "The Passion of Will Self",
-      "summary": "1 comments",
-      "url": "https://www.newstatesman.com/culture/books/2026/03/the-passion-of-will-self",
-      "createdAt": "2026-03-12 03:17:33",
-      "hot": 5
-    },
-    {
-      "title": "Marketing for Founders",
-      "summary": "64 comments",
-      "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "createdAt": "2026-03-15 03:35:40",
-      "hot": 161
-    },
-    {
-      "title": "Fedora 44 on the Raspberry Pi 5",
-      "summary": "25 comments",
-      "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
-      "createdAt": "2026-03-15 03:56:38",
-      "hot": 90
-    },
-    {
-      "title": "Airbus is preparing two uncrewed combat aircraft",
-      "summary": "70 comments",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "createdAt": "2026-03-15 07:10:24",
-      "hot": 127
-    },
-    {
-      "title": "A Recursive Algorithm to Render Signed Distance Fields",
-      "summary": "6 comments",
-      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
-      "createdAt": "2026-03-11 22:10:31",
-      "hot": 86
+      "title": "The mechanics of autonomous software translation",
+      "summary": "0 comments",
+      "url": "https://alperenkeles.com/posts/autonomous-translations/",
+      "createdAt": "2026-03-11 16:09:52",
+      "hot": 20
     },
     {
       "title": "An ode to bzip",
-      "summary": "68 comments",
+      "summary": "79 comments",
       "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
       "createdAt": "2026-03-15 00:01:23",
-      "hot": 123
+      "hot": 149
     },
     {
-      "title": "Library of Short Stories",
-      "summary": "3 comments",
-      "url": "https://www.libraryofshortstories.com/",
-      "createdAt": "2026-03-15 04:16:19",
-      "hot": 70
+      "title": "Marketing for Founders",
+      "summary": "86 comments",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "createdAt": "2026-03-15 03:35:40",
+      "hot": 192
+    },
+    {
+      "title": "A Recursive Algorithm to Render Signed Distance Fields",
+      "summary": "7 comments",
+      "url": "https://pointersgonewild.com/2026-03-06-a-recursive-algorithm-to-render-signed-distance-fields/",
+      "createdAt": "2026-03-11 22:10:31",
+      "hot": 102
+    },
+    {
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "summary": "101 comments",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "createdAt": "2026-03-15 07:10:24",
+      "hot": 162
     },
     {
       "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
-      "summary": "67 comments",
+      "summary": "71 comments",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
       "createdAt": "2026-03-12 02:21:58",
-      "hot": 304
+      "hot": 325
+    },
+    {
+      "title": "Fedora 44 on the Raspberry Pi 5",
+      "summary": "33 comments",
+      "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
+      "createdAt": "2026-03-15 03:56:38",
+      "hot": 104
     },
     {
       "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
-      "summary": "56 comments",
+      "summary": "63 comments",
       "url": "https://hostilevolume.com/",
       "createdAt": "2026-03-15 02:39:10",
-      "hot": 90
-    },
-    {
-      "title": "The Enterprise Context Layer",
-      "summary": "10 comments",
-      "url": "https://andychen32.substack.com/p/the-enterprise-context-layer",
-      "createdAt": "2026-03-10 23:18:39",
-      "hot": 49
-    },
-    {
-      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
-      "summary": "5 comments",
-      "url": "https://github.com/groverburger/grobpaint",
-      "createdAt": "2026-03-15 06:41:28",
-      "hot": 40
-    },
-    {
-      "title": "Python: The Optimization Ladder",
-      "summary": "110 comments",
-      "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-      "createdAt": "2026-03-11 03:22:39",
-      "hot": 312
-    },
-    {
-      "title": "Postgres with Builtin File Systems",
-      "summary": "15 comments",
-      "url": "https://db9.ai/",
-      "createdAt": "2026-03-15 05:14:03",
-      "hot": 61
+      "hot": 101
     }
   ]
 }
