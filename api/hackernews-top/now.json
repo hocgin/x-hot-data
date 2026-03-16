@@ -1,48 +1,97 @@
 {
-  "id": "hackernews-top.1773663873796",
-  "lastUpdatedAt": "2026-03-16 20:24:33",
+  "id": "hackernews-top.1773678532675",
+  "lastUpdatedAt": "2026-03-17 00:28:52",
   "data": [
     {
-      "title": "Canada's bill C-22 mandates mass metadata surveillance",
-      "summary": "229 comments",
-      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "createdAt": "2026-03-16 05:22:16",
-      "hot": 788
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "summary": "189 comments",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "createdAt": "2026-03-16 19:25:31",
+      "hot": 428
     },
     {
-      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "summary": "7 comments",
-      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "createdAt": "2026-03-16 20:00:06",
-      "hot": 45
+      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "summary": "103 comments",
+      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+      "createdAt": "2026-03-16 19:57:33",
+      "hot": 321
+    },
+    {
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
+      "summary": "34 comments",
+      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+      "createdAt": "2026-03-16 21:09:58",
+      "hot": 112
+    },
+    {
+      "title": "US Job Market Visualizer – Andrej Karpathy",
+      "summary": "26 comments",
+      "url": "https://karpathy.ai/jobs/",
+      "createdAt": "2026-03-16 23:10:30",
+      "hot": 65
+    },
+    {
+      "title": "I Love FreeBSD",
+      "summary": "50 comments",
+      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+      "createdAt": "2026-03-16 19:23:14",
+      "hot": 124
+    },
+    {
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "summary": "1 comments",
+      "url": "https://news.ycombinator.com/item?id=47401042",
+      "createdAt": "2026-03-17 00:21:07",
+      "hot": 5
+    },
+    {
+      "title": "Even Faster Asin() Was Staring Right at Me",
+      "summary": "23 comments",
+      "url": "https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/",
+      "createdAt": "2026-03-16 20:30:16",
+      "hot": 53
+    },
+    {
+      "title": "Canada's bill C-22 mandates mass metadata surveillance",
+      "summary": "287 comments",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "createdAt": "2026-03-16 05:22:16",
+      "hot": 914
+    },
+    {
+      "title": "Show HN: Hackerbrief – Top posts on Hacker News summarized daily",
+      "summary": "28 comments",
+      "url": "https://hackerbrief.vercel.app/",
+      "createdAt": "2026-03-16 21:01:48",
+      "hot": 43
+    },
+    {
+      "title": "Comparing Python Type Checkers: Typing Spec Conformance",
+      "summary": "15 comments",
+      "url": "https://pyrefly.org/blog/typing-conformance-comparison/",
+      "createdAt": "2026-03-16 20:25:18",
+      "hot": 43
+    },
+    {
+      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+      "summary": "18 comments",
+      "url": "https://github.com/emin-ozata/lazycut",
+      "createdAt": "2026-03-16 20:05:08",
+      "hot": 57
+    },
+    {
+      "title": "Home Assistant waters my plants",
+      "summary": "65 comments",
+      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "createdAt": "2026-03-12 18:19:14",
+      "hot": 167
     },
     {
       "title": "How I write software with LLMs",
-      "summary": "215 comments",
+      "summary": "367 comments",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
       "createdAt": "2026-03-16 09:24:09",
-      "hot": 272
-    },
-    {
-      "title": "The 49MB web page",
-      "summary": "285 comments",
-      "url": "https://thatshubham.com/blog/news-audit",
-      "createdAt": "2026-03-16 03:25:18",
-      "hot": 615
-    },
-    {
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "summary": "0 comments",
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "createdAt": "2026-03-16 19:25:31",
-      "hot": 6
-    },
-    {
-      "title": "Chrome DevTools MCP (2025)",
-      "summary": "203 comments",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "createdAt": "2026-03-16 03:12:53",
-      "hot": 509
+      "hot": 389
     },
     {
       "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
@@ -52,165 +101,116 @@
       "hot": 1
     },
     {
-      "title": "Home Assistant waters my plants",
-      "summary": "26 comments",
-      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-      "createdAt": "2026-03-12 18:19:14",
-      "hot": 70
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "summary": "448 comments",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "createdAt": "2026-03-16 20:00:06",
+      "hot": 745
     },
     {
-      "title": "Electric motor scaling laws and inertia in robot actuators",
-      "summary": "20 comments",
-      "url": "https://robot-daycare.com/posts/actuation_series_1/",
-      "createdAt": "2026-03-12 21:04:35",
-      "hot": 102
+      "title": "Human Organ Atlas",
+      "summary": "0 comments",
+      "url": "https://human-organ-atlas.esrf.fr/",
+      "createdAt": "2026-03-15 20:18:47",
+      "hot": 12
     },
     {
-      "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
-      "summary": "13 comments",
-      "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
-      "createdAt": "2026-03-12 07:24:22",
+      "title": "Obsession with growth is destroying nature, 150 countries warn",
+      "summary": "99 comments",
+      "url": "https://www.politico.eu/article/obsession-with-growth-destroying-nature-150-countries-warn/",
+      "createdAt": "2026-03-16 20:13:59",
+      "hot": 162
+    },
+    {
+      "title": "The 49MB web page",
+      "summary": "315 comments",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "createdAt": "2026-03-16 03:25:18",
+      "hot": 729
+    },
+    {
+      "title": "'Pokémon Go' players unknowingly trained delivery robots with 30B images",
+      "summary": "47 comments",
+      "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
+      "createdAt": "2026-03-16 21:05:33",
       "hot": 84
     },
     {
-      "title": "Stop Sloppypasta",
-      "summary": "172 comments",
-      "url": "https://stopsloppypasta.ai/",
-      "createdAt": "2026-03-16 01:25:00",
-      "hot": 420
+      "title": "Event Publisher enables event integration between Keycloak and OpenFGA",
+      "summary": "1 comments",
+      "url": "https://github.com/embesozzi/keycloak-openfga-event-publisher",
+      "createdAt": "2026-03-16 22:21:07",
+      "hot": 7
     },
     {
-      "title": "LLM Architecture Gallery",
-      "summary": "34 comments",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "createdAt": "2026-03-16 00:01:09",
-      "hot": 443
+      "title": "MCP Server Is Eating Your Context Window. There's a Simpler Way",
+      "summary": "42 comments",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+      "createdAt": "2026-03-16 23:25:36",
+      "hot": 38
     },
     {
-      "title": "LLMs can be exhausting",
-      "summary": "166 comments",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "createdAt": "2026-03-16 04:56:21",
-      "hot": 248
+      "title": "Chrome DevTools MCP (2025)",
+      "summary": "216 comments",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "createdAt": "2026-03-16 03:12:53",
+      "hot": 543
     },
     {
-      "title": "Kona EV Hacking",
-      "summary": "20 comments",
-      "url": "http://techno-fandom.org/~hobbit/cars/ev/",
-      "createdAt": "2026-03-12 05:26:16",
-      "hot": 56
+      "title": "Cert Authorities Check for DNSSEC from Today",
+      "summary": "0 comments",
+      "url": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
+      "createdAt": "2026-03-16 06:10:47",
+      "hot": 4
     },
     {
-      "title": "Scientists discover a surprising way to quiet the anxious mind (2025)",
-      "summary": "9 comments",
-      "url": "https://www.sciencedaily.com/releases/2025/10/251027023816.htm",
-      "createdAt": "2026-03-16 19:16:39",
-      "hot": 22
+      "title": "Autoresearch Hub",
+      "summary": "21 comments",
+      "url": "http://autoresearchhub.com/",
+      "createdAt": "2026-03-14 16:35:42",
+      "hot": 54
+    },
+    {
+      "title": "Bringing Semiconductors to Kazakhstan",
+      "summary": "4 comments",
+      "url": "https://www.siliconimist.com/p/bringing-semiconductors-to-kazakhstan",
+      "createdAt": "2026-03-16 20:09:44",
+      "hot": 26
     },
     {
       "title": "Six ingenious ways how Canon DSLRs used to illuminate their autofocus points",
-      "summary": "9 comments",
+      "summary": "33 comments",
       "url": "https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html",
       "createdAt": "2026-03-15 17:07:52",
+      "hot": 100
+    },
+    {
+      "title": "Stop Sloppypasta",
+      "summary": "215 comments",
+      "url": "https://stopsloppypasta.ai/",
+      "createdAt": "2026-03-16 01:25:00",
+      "hot": 542
+    },
+    {
+      "title": "The bureaucracy blocking the chance at a cure",
+      "summary": "2 comments",
+      "url": "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance",
+      "createdAt": "2026-03-16 02:32:27",
+      "hot": 9
+    },
+    {
+      "title": "Why Are Viral Capsids Icosahedral?",
+      "summary": "9 comments",
+      "url": "https://www.asimov.press/p/viral-capsids",
+      "createdAt": "2026-03-12 22:10:50",
       "hot": 56
     },
     {
-      "title": "Separating the Wayland compositor and window manager",
-      "summary": "165 comments",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
-      "createdAt": "2026-03-15 23:09:24",
-      "hot": 310
-    },
-    {
       "title": "Reviewing Large Changes with Jujutsu",
-      "summary": "2 comments",
+      "summary": "9 comments",
       "url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/",
       "createdAt": "2026-03-12 20:52:49",
-      "hot": 28
-    },
-    {
-      "title": "Ask HN: What is it like being in a CS major program these days?",
-      "summary": "65 comments",
-      "url": "https://news.ycombinator.com/item?id=47397190",
-      "createdAt": "2026-03-16 18:24:02",
-      "hot": 91
-    },
-    {
-      "title": "The Accidental Room (2018)",
-      "summary": "5 comments",
-      "url": "https://99percentinvisible.org/episode/the-accidental-room/",
-      "createdAt": "2026-03-14 01:49:54",
-      "hot": 42
-    },
-    {
-      "title": "The Linux Programming Interface as a university course text",
-      "summary": "15 comments",
-      "url": "https://man7.org/tlpi/academic/index.html",
-      "createdAt": "2026-03-16 07:51:26",
-      "hot": 111
-    },
-    {
-      "title": "How far can you go with IX Route Servers only?",
-      "summary": "3 comments",
-      "url": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers",
-      "createdAt": "2026-03-12 20:11:20",
-      "hot": 44
-    },
-    {
-      "title": "The emergence of print-on-demand Amazon paperback books",
-      "summary": "135 comments",
-      "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
-      "createdAt": "2026-03-15 17:06:35",
-      "hot": 177
-    },
-    {
-      "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
-      "summary": "168 comments",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "createdAt": "2026-03-15 21:08:02",
-      "hot": 274
-    },
-    {
-      "title": "//go:fix inline and the source-level inliner",
-      "summary": "68 comments",
-      "url": "https://go.dev/blog/inliner",
-      "createdAt": "2026-03-12 02:39:25",
-      "hot": 168
-    },
-    {
-      "title": "Bus travel from Lima to Rio de Janeiro",
-      "summary": "74 comments",
-      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-      "createdAt": "2026-03-12 03:07:12",
-      "hot": 196
-    },
-    {
-      "title": "What makes Intel Optane stand out (2023)",
-      "summary": "148 comments",
-      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "createdAt": "2026-03-15 23:09:41",
-      "hot": 212
-    },
-    {
-      "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
-      "summary": "56 comments",
-      "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
-      "createdAt": "2026-03-13 09:38:44",
-      "hot": 104
-    },
-    {
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "summary": "31 comments",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "createdAt": "2026-03-15 18:47:35",
-      "hot": 373
-    },
-    {
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "summary": "77 comments",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-      "createdAt": "2026-03-16 06:15:50",
-      "hot": 70
+      "hot": 75
     }
   ]
 }
