@@ -433,6 +433,222 @@
           "hot": 287
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773621688059",
+      "lastUpdatedAt": "2026-03-16 08:41:28",
+      "data": [
+        {
+          "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+          "summary": "65 comments",
+          "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+          "createdAt": "2026-03-16 05:22:16",
+          "hot": 224
+        },
+        {
+          "title": "Chrome DevTools MCP",
+          "summary": "133 comments",
+          "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+          "createdAt": "2026-03-16 03:12:53",
+          "hot": 295
+        },
+        {
+          "title": "The 49MB web page",
+          "summary": "146 comments",
+          "url": "https://thatshubham.com/blog/news-audit",
+          "createdAt": "2026-03-16 03:25:18",
+          "hot": 260
+        },
+        {
+          "title": "LLMs can be exhausting",
+          "summary": "31 comments",
+          "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+          "createdAt": "2026-03-16 04:56:21",
+          "hot": 49
+        },
+        {
+          "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+          "summary": "1 comments",
+          "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+          "createdAt": "2026-03-16 08:22:48",
+          "hot": 4
+        },
+        {
+          "title": "LLM Architecture Gallery",
+          "summary": "14 comments",
+          "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+          "createdAt": "2026-03-16 00:01:09",
+          "hot": 208
+        },
+        {
+          "title": "//go:fix inline and the source-level inliner",
+          "summary": "35 comments",
+          "url": "https://go.dev/blog/inliner",
+          "createdAt": "2026-03-12 02:39:25",
+          "hot": 104
+        },
+        {
+          "title": "Separating the Wayland compositor and window manager",
+          "summary": "89 comments",
+          "url": "https://isaacfreund.com/blog/river-window-management/",
+          "createdAt": "2026-03-15 23:09:24",
+          "hot": 208
+        },
+        {
+          "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+          "summary": "0 comments",
+          "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+          "createdAt": "2026-03-12 22:10:56",
+          "hot": 8
+        },
+        {
+          "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+          "summary": "4 comments",
+          "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+          "createdAt": "2026-03-16 06:15:50",
+          "hot": 25
+        },
+        {
+          "title": "What makes Intel Optane stand out (2023)",
+          "summary": "113 comments",
+          "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+          "createdAt": "2026-03-15 23:09:41",
+          "hot": 172
+        },
+        {
+          "title": "Nasdaq's Shame",
+          "summary": "19 comments",
+          "url": "https://keubiko.substack.com/p/nasdaqs-shame",
+          "createdAt": "2026-03-16 06:16:09",
+          "hot": 100
+        },
+        {
+          "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+          "summary": "127 comments",
+          "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+          "createdAt": "2026-03-15 21:08:02",
+          "hot": 212
+        },
+        {
+          "title": "C++26: The Oxford Variadic Comma",
+          "summary": "60 comments",
+          "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
+          "createdAt": "2026-03-11 15:27:00",
+          "hot": 108
+        },
+        {
+          "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+          "summary": "23 comments",
+          "url": "https://zzk273.github.io/LATENT/",
+          "createdAt": "2026-03-15 23:21:04",
+          "hot": 119
+        },
+        {
+          "title": "Stop Sloppypasta",
+          "summary": "39 comments",
+          "url": "https://stopsloppypasta.ai/",
+          "createdAt": "2026-03-16 01:25:00",
+          "hot": 82
+        },
+        {
+          "title": "The Linux Programming Interface as a university course text",
+          "summary": "0 comments",
+          "url": "https://man7.org/tlpi/academic/index.html",
+          "createdAt": "2026-03-16 07:51:26",
+          "hot": 3
+        },
+        {
+          "title": "Bus travel from Lima to Rio de Janeiro",
+          "summary": "42 comments",
+          "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+          "createdAt": "2026-03-12 03:07:12",
+          "hot": 112
+        },
+        {
+          "title": "In Memoriam: John W. Addison, my PhD advisor",
+          "summary": "4 comments",
+          "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+          "createdAt": "2026-03-15 23:46:19",
+          "hot": 85
+        },
+        {
+          "title": "Excel incorrectly assumes that the year 1900 is a leap year",
+          "summary": "8 comments",
+          "url": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
+          "createdAt": "2026-03-16 07:34:35",
+          "hot": 24
+        },
+        {
+          "title": "A Visual Introduction to Machine Learning (2015)",
+          "summary": "29 comments",
+          "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+          "createdAt": "2026-03-15 18:47:35",
+          "hot": 311
+        },
+        {
+          "title": "Type systems are leaky abstractions: the case of Map.take!/2",
+          "summary": "6 comments",
+          "url": "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take",
+          "createdAt": "2026-03-12 05:13:52",
+          "hot": 16
+        },
+        {
+          "title": "Kangina",
+          "summary": "3 comments",
+          "url": "https://en.wikipedia.org/wiki/Kangina",
+          "createdAt": "2026-03-16 06:11:17",
+          "hot": 59
+        },
+        {
+          "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
+          "summary": "11 comments",
+          "url": "https://github.com/EvanZhouDev/openai-oauth",
+          "createdAt": "2026-03-16 05:29:52",
+          "hot": 14
+        },
+        {
+          "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
+          "summary": "1 comments",
+          "url": "https://github.com/fabraix/playground",
+          "createdAt": "2026-03-16 06:29:46",
+          "hot": 14
+        },
+        {
+          "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
+          "summary": "13 comments",
+          "url": "https://firthemouse.github.io/",
+          "createdAt": "2026-03-15 23:40:13",
+          "hot": 57
+        },
+        {
+          "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+          "summary": "372 comments",
+          "url": "https://news.ycombinator.com/item?id=47388646",
+          "createdAt": "2026-03-15 23:58:23",
+          "hot": 222
+        },
+        {
+          "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
+          "summary": "42 comments",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
+          "createdAt": "2026-03-16 02:04:34",
+          "hot": 161
+        },
+        {
+          "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+          "summary": "30 comments",
+          "url": "https://signet.watch",
+          "createdAt": "2026-03-15 20:01:00",
+          "hot": 105
+        },
+        {
+          "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
+          "summary": "384 comments",
+          "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
+          "createdAt": "2026-03-15 20:41:56",
+          "hot": 118
+        }
+      ]
     }
   ]
 }
