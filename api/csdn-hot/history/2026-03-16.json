@@ -1069,6 +1069,362 @@
           "hot": 1735
         }
       ]
+    },
+    {
+      "id": "csdn-hot.1773637066667",
+      "lastUpdatedAt": "2026-03-16 12:57:46",
+      "data": [
+        {
+          "title": "Go channel 深入解析",
+          "summary": "作者: ん贤",
+          "url": "https://blog.csdn.net/2302_80067378/article/details/159053964",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 24723
+        },
+        {
+          "title": "复杂查询中 JOIN 条件下推失败导致的性能瓶颈-金仓数据库",
+          "summary": "作者: 微学AI",
+          "url": "https://blog.csdn.net/weixin_42878111/article/details/159048158",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 22658
+        },
+        {
+          "title": "深度学习浪潮：解锁技术边界与产业新图景",
+          "summary": "作者: 软件科学-郝学胜",
+          "url": "https://blog.csdn.net/2503_92624912/article/details/159048456",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 16074
+        },
+        {
+          "title": "PostgreSQL动态分区裁剪技术：查询性能优化解析（2026年版）",
+          "summary": "作者: Allen_Lyb",
+          "url": "https://blog.csdn.net/kkiron/article/details/159002358",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 15729
+        },
+        {
+          "title": "从千毫秒到亚毫秒：连接条件下推如何让复杂 SQL 飞起来",
+          "summary": "作者: 颜颜yan_",
+          "url": "https://blog.csdn.net/m0_55394328/article/details/159050182",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 12164
+        },
+        {
+          "title": "SkyWalking - .NET / C++ / Lua 探针现状与社区支持",
+          "summary": "作者: Jinkxs",
+          "url": "https://blog.csdn.net/qq_41187124/article/details/157510815",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 11645
+        },
+        {
+          "title": "Kafka Partition 深度解析：数据分片的艺术与性能之舞",
+          "summary": "作者: Seal^_^",
+          "url": "https://blog.csdn.net/qq_41840843/article/details/158541975",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 11163
+        },
+        {
+          "title": "【数据库】复杂场景下基于代价的连接条件下推：实践与思考",
+          "summary": "作者: 杰西笔记",
+          "url": "https://blog.csdn.net/qq_38628970/article/details/159053157",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 10921
+        },
+        {
+          "title": "AI实践(7)工具函数调用",
+          "summary": "作者: Once-Day",
+          "url": "https://blog.csdn.net/Once_day/article/details/159055127",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 10752
+        },
+        {
+          "title": "实战教程：Leaflet+SpringBoot 实现地图任意点位点击查看时间功能",
+          "summary": "作者: 夜郎king",
+          "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/159054409",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 10459
+        },
+        {
+          "title": "VSCode/Trae使用Codex插件接入第三方中转API使用GPT-5.4的图文教程 VSCode Codex、GPT-5.4 API接入、Codex第三方API配置、Trae Codex教程",
+          "summary": "作者: 代码简单说",
+          "url": "https://blog.csdn.net/weixin_41961749/article/details/159020384",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 10248
+        },
+        {
+          "title": "[2026年03月15日] AI 深度早报",
+          "summary": "作者: 大写-凌祁",
+          "url": "https://blog.csdn.net/qq_73553710/article/details/159051940",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 9898
+        },
+        {
+          "title": "前端异常捕获与统一格式化：从 console.log(error) 到服务端上报",
+          "summary": "作者: 越重天",
+          "url": "https://blog.csdn.net/lilinhai548/article/details/159016198",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 9458
+        },
+        {
+          "title": "LangChain 消息处理全解析：缓存、过滤、合并与流式输出实战",
+          "summary": "作者: 羑悻的小杀马特.",
+          "url": "https://blog.csdn.net/2401_82648291/article/details/158703510",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 9214
+        },
+        {
+          "title": "双非 Java 后端首次实习 | 个人经验分享总结 ",
+          "summary": "作者: Purse Wind",
+          "url": "https://blog.csdn.net/chan12345678910/article/details/158964380",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 9117
+        },
+        {
+          "title": "Makefile构建哲学：从依赖推导到自动化编译，掌握大型项目的构建逻辑，告别手动编译焦虑",
+          "summary": "作者: 雾忱星",
+          "url": "https://blog.csdn.net/2501_91617454/article/details/157582381",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 8763
+        },
+        {
+          "title": "OpenClaw Web Search 完全指南（2026年3月最新）",
+          "summary": "作者: aiAIman",
+          "url": "https://blog.csdn.net/coolyoung520/article/details/159048081",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 8457
+        },
+        {
+          "title": "《C++实战项目-高并发内存池》6.内存释放流程",
+          "summary": "作者: Yupureki",
+          "url": "https://blog.csdn.net/qq_49648783/article/details/159088661",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 7668
+        },
+        {
+          "title": "【数据库】复杂查询，从84ms到0.14ms：一次JOIN条件下推，让复杂查询性能暴涨600倍",
+          "summary": "作者: 全栈小5",
+          "url": "https://blog.csdn.net/lmy_520/article/details/159053896",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 7498
+        },
+        {
+          "title": "【花雕学编程】Arduino BLDC 之机器人IMU角度读取 + PID控制 + 互补滤波",
+          "summary": "作者: 驴友花雕",
+          "url": "https://blog.csdn.net/weixin_41659040/article/details/159112235",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 6914
+        },
+        {
+          "title": "Spring Cloud 熔断降级详解：用 “保险丝“ 类比，Sentinel 实战教程",
+          "summary": "作者: 我不是呆头",
+          "url": "https://blog.csdn.net/2401_86326742/article/details/159006985",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 6878
+        },
+        {
+          "title": "【HarmonyOS 6.0】Camera Kit 微距状态监听能力详解",
+          "summary": "作者: 枫叶丹4",
+          "url": "https://blog.csdn.net/weixin_74809706/article/details/158931738",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 6112
+        },
+        {
+          "title": "Spring IoC、AOP 与 Bean 全面详解",
+          "summary": "作者: rrrjqy",
+          "url": "https://blog.csdn.net/2401_87638368/article/details/159083887",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 5289
+        },
+        {
+          "title": "从 ReAct 到 Plan-and-Execute：AI Agent 推理架构的理解与选择",
+          "summary": "作者: 超级无敌大蟑王",
+          "url": "https://blog.csdn.net/2301_81253185/article/details/159085392",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4934
+        },
+        {
+          "title": "深度学习实战-基于CNN卷积神经网络的蝴蝶图像分类识别模型",
+          "summary": "作者: 艾派森",
+          "url": "https://blog.csdn.net/m0_64336780/article/details/157514442",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4567
+        },
+        {
+          "title": "【超音速专利 CN117129477A】一种适于双极板外观缺陷的检测方法、系统、装置及平台",
+          "summary": "作者: 软件架构师何志丹",
+          "url": "https://blog.csdn.net/he_zhidan/article/details/159086678",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4354
+        },
+        {
+          "title": "复杂查询性能优化：连接条件下推的代价模型设计与实践",
+          "summary": "作者: 学无止尽5",
+          "url": "https://blog.csdn.net/2301_80350265/article/details/159047231",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4330
+        },
+        {
+          "title": "打造你的家庭 AI 助手（四）：单 OpenClaw 配置多 Agent、多 QQ、飞书机器人",
+          "summary": "作者: 码绘春秋",
+          "url": "https://blog.csdn.net/bhl120/article/details/159020267",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4178
+        },
+        {
+          "title": "ClaudeCode武装三件套：Ghostty + Yazi + Lazygit 打造高效开发环境",
+          "summary": "作者: 冬奇Lab",
+          "url": "https://blog.csdn.net/chendongqi2007/article/details/159078468",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4134
+        },
+        {
+          "title": "openclaw v2026.3.13 发布：一次为修复而生的不可变恢复版本，涵盖网关、Agents、UI、移动端、Docker、浏览器与安全的全面升级",
+          "summary": "作者: 福大大架构师每日一题",
+          "url": "https://blog.csdn.net/weixin_48502062/article/details/159084034",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 4006
+        },
+        {
+          "title": "HarmonyOS APP＜玩转React＞开源教程五：项目架构设计",
+          "summary": "作者: 大雷神",
+          "url": "https://blog.csdn.net/ldc121xy716/article/details/159018235",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 3565
+        },
+        {
+          "title": "代码之锚:洞悉Linux库的打包与复用法则",
+          "summary": "作者: 夜雨声烦1413",
+          "url": "https://blog.csdn.net/ABWSO/article/details/158842551",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 3274
+        },
+        {
+          "title": "【腾讯云智能体】高中教学图文教案生成",
+          "summary": "作者: Mr数据杨",
+          "url": "https://blog.csdn.net/qq_20288327/article/details/158969612",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 3059
+        },
+        {
+          "title": "openclaw 使用飞书官方插件连接飞书",
+          "summary": "作者: RicarKS",
+          "url": "https://blog.csdn.net/RicarKs/article/details/159007012",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2967
+        },
+        {
+          "title": "OpenClaw-In-Docker安全、独立、便捷的OpenClaw部署运行方案，已在Github开源",
+          "summary": "作者: 赵文宇（温玉）",
+          "url": "https://blog.csdn.net/mycosmos/article/details/159015581",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2874
+        },
+        {
+          "title": "2026 年 AI 辅助编程工具全景对比：Copilot、Cursor、Claude Code 与 Codex 深度解析",
+          "summary": "作者: 飞飞的AI实验室",
+          "url": "https://blog.csdn.net/xinpengfei521/article/details/159015508",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2868
+        },
+        {
+          "title": "使用OpenClaw飞书插件玩转飞书",
+          "summary": "作者: 冰点.",
+          "url": "https://blog.csdn.net/wangshuai6707/article/details/159006331",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2832
+        },
+        {
+          "title": "2026年3月13日AI热点：芯片大战、Agent爆发、安全争议",
+          "summary": "作者: 小程是程序员",
+          "url": "https://blog.csdn.net/daisy_Cjh/article/details/159006291",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2753
+        },
+        {
+          "title": "TCP/IP协议族详解：应用层协议HTTP",
+          "summary": "作者: zephyr05",
+          "url": "https://blog.csdn.net/zephyr05/article/details/159020116",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2742
+        },
+        {
+          "title": "【宇树机器人强化学习】(二):ActorCritic网络和ActorCriticRecurrent网络的python实现与解析",
+          "summary": "作者: zh路西法",
+          "url": "https://blog.csdn.net/m0_73800387/article/details/159054172",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2725
+        },
+        {
+          "title": "OpenClaw 从本地到云端：阿里云百炼免费模型配置实战指南",
+          "summary": "作者: 明月(Alioo)",
+          "url": "https://blog.csdn.net/hl_java/article/details/159078697",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2407
+        },
+        {
+          "title": "Linux 基于TCP实现服务端客户端通信（守护进程版）",
+          "summary": "作者: 虾..",
+          "url": "https://blog.csdn.net/2401_88966792/article/details/159052142",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2353
+        },
+        {
+          "title": "【计算机网络之XSS、CSRF、DDoS原理及防御措施】",
+          "summary": "作者: 周淳APP",
+          "url": "https://blog.csdn.net/2401_87810889/article/details/158959773",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2240
+        },
+        {
+          "title": "2026远控软件，多场景适配工具实测",
+          "summary": "作者: 果粒蹬i",
+          "url": "https://blog.csdn.net/2301_81152266/article/details/159011783",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2217
+        },
+        {
+          "title": "【2026最新】OpenClaw 自定义中转站配置全攻略：接入 GPT、Claude、Gemini、DeepSeek 四大模型实战教程",
+          "summary": "作者: m0_53581755",
+          "url": "https://blog.csdn.net/m0_53581755/article/details/159047855",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2207
+        },
+        {
+          "title": "postgres--性能，压力测试",
+          "summary": "作者: 粉刷匠-rookie",
+          "url": "https://blog.csdn.net/newbieJ/article/details/158878605",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2202
+        },
+        {
+          "title": "小程序 | Vue小程序开发框架：MPvue与UniApp深度解析",
+          "summary": "作者: 儒雅的烤地瓜",
+          "url": "https://blog.csdn.net/sunyctf/article/details/159013563",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2201
+        },
+        {
+          "title": "Vue2转Vue3速查表",
+          "summary": "作者: new code Boy",
+          "url": "https://blog.csdn.net/qq_46344419/article/details/159008892",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2191
+        },
+        {
+          "title": "2026年3月14日GESP五级现场直击",
+          "summary": "作者: zzh「箫竺」",
+          "url": "https://blog.csdn.net/2402_86086753/article/details/159051026",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2110
+        },
+        {
+          "title": "2026 年 3 月行业动态与开源生态全景报告",
+          "summary": "作者: fanxianshi",
+          "url": "https://blog.csdn.net/fanxianshi/article/details/159055304",
+          "createdAt": "2026-03-16 12:57:28",
+          "hot": 2098
+        }
+      ]
     }
   ]
 }

@@ -1,216 +1,216 @@
 {
-  "id": "hackernews-top.1773621688059",
-  "lastUpdatedAt": "2026-03-16 08:41:28",
+  "id": "hackernews-top.1773637066656",
+  "lastUpdatedAt": "2026-03-16 12:57:46",
   "data": [
     {
       "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
-      "summary": "65 comments",
+      "summary": "139 comments",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
       "createdAt": "2026-03-16 05:22:16",
-      "hot": 224
+      "hot": 510
     },
     {
-      "title": "Chrome DevTools MCP",
-      "summary": "133 comments",
+      "title": "What is agentic engineering?",
+      "summary": "58 comments",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+      "createdAt": "2026-03-16 09:07:47",
+      "hot": 102
+    },
+    {
+      "title": "Chrome DevTools MCP (2025)",
+      "summary": "181 comments",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
       "createdAt": "2026-03-16 03:12:53",
-      "hot": 295
+      "hot": 406
     },
     {
       "title": "The 49MB web page",
-      "summary": "146 comments",
+      "summary": "196 comments",
       "url": "https://thatshubham.com/blog/news-audit",
       "createdAt": "2026-03-16 03:25:18",
-      "hot": 260
+      "hot": 389
     },
     {
-      "title": "LLMs can be exhausting",
-      "summary": "31 comments",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "createdAt": "2026-03-16 04:56:21",
-      "hot": 49
-    },
-    {
-      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+      "title": "Electric motor scaling laws and inertia in robot actuators",
       "summary": "1 comments",
-      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "createdAt": "2026-03-16 08:22:48",
-      "hot": 4
+      "url": "https://robot-daycare.com/posts/actuation_series_1/",
+      "createdAt": "2026-03-12 21:04:35",
+      "hot": 17
+    },
+    {
+      "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+      "summary": "1 comments",
+      "url": "https://github.com/jtsylve/spice-crypt",
+      "createdAt": "2026-03-15 15:11:32",
+      "hot": 15
     },
     {
       "title": "LLM Architecture Gallery",
-      "summary": "14 comments",
+      "summary": "22 comments",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "createdAt": "2026-03-16 00:01:09",
-      "hot": 208
+      "hot": 305
     },
     {
-      "title": "//go:fix inline and the source-level inliner",
-      "summary": "35 comments",
-      "url": "https://go.dev/blog/inliner",
-      "createdAt": "2026-03-12 02:39:25",
-      "hot": 104
-    },
-    {
-      "title": "Separating the Wayland compositor and window manager",
-      "summary": "89 comments",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
-      "createdAt": "2026-03-15 23:09:24",
-      "hot": 208
-    },
-    {
-      "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
-      "summary": "0 comments",
-      "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
-      "createdAt": "2026-03-12 22:10:56",
-      "hot": 8
-    },
-    {
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "summary": "4 comments",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-      "createdAt": "2026-03-16 06:15:50",
-      "hot": 25
-    },
-    {
-      "title": "What makes Intel Optane stand out (2023)",
-      "summary": "113 comments",
-      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "createdAt": "2026-03-15 23:09:41",
-      "hot": 172
-    },
-    {
-      "title": "Nasdaq's Shame",
-      "summary": "19 comments",
-      "url": "https://keubiko.substack.com/p/nasdaqs-shame",
-      "createdAt": "2026-03-16 06:16:09",
-      "hot": 100
-    },
-    {
-      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "summary": "127 comments",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "createdAt": "2026-03-15 21:08:02",
-      "hot": 212
-    },
-    {
-      "title": "C++26: The Oxford Variadic Comma",
-      "summary": "60 comments",
-      "url": "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma",
-      "createdAt": "2026-03-11 15:27:00",
-      "hot": 108
-    },
-    {
-      "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
-      "summary": "23 comments",
-      "url": "https://zzk273.github.io/LATENT/",
-      "createdAt": "2026-03-15 23:21:04",
-      "hot": 119
-    },
-    {
-      "title": "Stop Sloppypasta",
-      "summary": "39 comments",
-      "url": "https://stopsloppypasta.ai/",
-      "createdAt": "2026-03-16 01:25:00",
-      "hot": 82
+      "title": "LLMs can be exhausting",
+      "summary": "107 comments",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "createdAt": "2026-03-16 04:56:21",
+      "hot": 136
     },
     {
       "title": "The Linux Programming Interface as a university course text",
-      "summary": "0 comments",
+      "summary": "4 comments",
       "url": "https://man7.org/tlpi/academic/index.html",
       "createdAt": "2026-03-16 07:51:26",
-      "hot": 3
+      "hot": 59
     },
     {
-      "title": "Bus travel from Lima to Rio de Janeiro",
-      "summary": "42 comments",
-      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-      "createdAt": "2026-03-12 03:07:12",
-      "hot": 112
+      "title": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+      "summary": "2 comments",
+      "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
+      "createdAt": "2026-03-12 07:24:22",
+      "hot": 18
     },
     {
-      "title": "In Memoriam: John W. Addison, my PhD advisor",
-      "summary": "4 comments",
-      "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
-      "createdAt": "2026-03-15 23:46:19",
+      "title": "Separating the Wayland compositor and window manager",
+      "summary": "120 comments",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "createdAt": "2026-03-15 23:09:24",
+      "hot": 251
+    },
+    {
+      "title": "Stop Sloppypasta",
+      "summary": "98 comments",
+      "url": "https://stopsloppypasta.ai/",
+      "createdAt": "2026-03-16 01:25:00",
+      "hot": 187
+    },
+    {
+      "title": "//go:fix inline and the source-level inliner",
+      "summary": "50 comments",
+      "url": "https://go.dev/blog/inliner",
+      "createdAt": "2026-03-12 02:39:25",
+      "hot": 124
+    },
+    {
+      "title": "Federal Right to Privacy Act – Draft legislation",
+      "summary": "24 comments",
+      "url": "https://righttoprivacyact.github.io",
+      "createdAt": "2026-03-16 09:58:56",
+      "hot": 47
+    },
+    {
+      "title": "What makes Intel Optane stand out (2023)",
+      "summary": "131 comments",
+      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "createdAt": "2026-03-15 23:09:41",
+      "hot": 192
+    },
+    {
+      "title": "How I write software with LLMs",
+      "summary": "6 comments",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "createdAt": "2026-03-16 09:24:09",
+      "hot": 48
+    },
+    {
+      "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
+      "summary": "150 comments",
+      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+      "createdAt": "2026-03-15 21:08:02",
+      "hot": 241
+    },
+    {
+      "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+      "summary": "11 comments",
+      "url": "https://github.com/QAInsights/AIx",
+      "createdAt": "2026-03-16 09:21:39",
+      "hot": 11
+    },
+    {
+      "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
+      "summary": "2 comments",
+      "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
+      "createdAt": "2026-03-12 22:10:56",
+      "hot": 39
+    },
+    {
+      "title": "The emergence of print-on-demand Amazon paperback books",
+      "summary": "80 comments",
+      "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
+      "createdAt": "2026-03-15 17:06:35",
+      "hot": 117
+    },
+    {
+      "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+      "summary": "51 comments",
+      "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+      "createdAt": "2026-03-16 08:22:48",
       "hot": 85
     },
     {
-      "title": "Excel incorrectly assumes that the year 1900 is a leap year",
-      "summary": "8 comments",
-      "url": "https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year",
-      "createdAt": "2026-03-16 07:34:35",
-      "hot": 24
+      "title": "Learning athletic humanoid tennis skills from imperfect human motion data",
+      "summary": "27 comments",
+      "url": "https://zzk273.github.io/LATENT/",
+      "createdAt": "2026-03-15 23:21:04",
+      "hot": 135
     },
     {
       "title": "A Visual Introduction to Machine Learning (2015)",
       "summary": "29 comments",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
       "createdAt": "2026-03-15 18:47:35",
-      "hot": 311
+      "hot": 336
+    },
+    {
+      "title": "Nasdaq's Shame",
+      "summary": "79 comments",
+      "url": "https://keubiko.substack.com/p/nasdaqs-shame",
+      "createdAt": "2026-03-16 06:16:09",
+      "hot": 242
+    },
+    {
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "summary": "54 comments",
+      "url": "https://kenschutte.com/lima-to-rio-by-bus/",
+      "createdAt": "2026-03-12 03:07:12",
+      "hot": 139
+    },
+    {
+      "title": "An experiment to use GitHub Actions as a control plane for a PaaS",
+      "summary": "4 comments",
+      "url": "https://towlion.github.io",
+      "createdAt": "2026-03-16 08:51:18",
+      "hot": 13
+    },
+    {
+      "title": "A Plain Anabaptist Story: The Hutterites",
+      "summary": "3 comments",
+      "url": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
+      "createdAt": "2026-03-13 04:41:51",
+      "hot": 33
+    },
+    {
+      "title": "In Memoriam: John W. Addison, my PhD advisor",
+      "summary": "4 comments",
+      "url": "https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/",
+      "createdAt": "2026-03-15 23:46:19",
+      "hot": 109
     },
     {
       "title": "Type systems are leaky abstractions: the case of Map.take!/2",
-      "summary": "6 comments",
+      "summary": "19 comments",
       "url": "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take",
       "createdAt": "2026-03-12 05:13:52",
-      "hot": 16
+      "hot": 38
     },
     {
-      "title": "Kangina",
-      "summary": "3 comments",
-      "url": "https://en.wikipedia.org/wiki/Kangina",
-      "createdAt": "2026-03-16 06:11:17",
-      "hot": 59
-    },
-    {
-      "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
-      "summary": "11 comments",
-      "url": "https://github.com/EvanZhouDev/openai-oauth",
-      "createdAt": "2026-03-16 05:29:52",
-      "hot": 14
-    },
-    {
-      "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
-      "summary": "1 comments",
-      "url": "https://github.com/fabraix/playground",
-      "createdAt": "2026-03-16 06:29:46",
-      "hot": 14
-    },
-    {
-      "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-      "summary": "13 comments",
-      "url": "https://firthemouse.github.io/",
-      "createdAt": "2026-03-15 23:40:13",
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "summary": "43 comments",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "createdAt": "2026-03-16 06:15:50",
       "hot": 57
-    },
-    {
-      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-      "summary": "372 comments",
-      "url": "https://news.ycombinator.com/item?id=47388646",
-      "createdAt": "2026-03-15 23:58:23",
-      "hot": 222
-    },
-    {
-      "title": "Animated 'Firefly' Reboot in Development from Nathan Fillion, 20th TV",
-      "summary": "42 comments",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/animated-firefly-reboot-in-development-nathan-fillion-1236533089/",
-      "createdAt": "2026-03-16 02:04:34",
-      "hot": 161
-    },
-    {
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "summary": "30 comments",
-      "url": "https://signet.watch",
-      "createdAt": "2026-03-15 20:01:00",
-      "hot": 105
-    },
-    {
-      "title": "Hollywood Enters Oscars Weekend in Existential Crisis",
-      "summary": "384 comments",
-      "url": "https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/",
-      "createdAt": "2026-03-15 20:41:56",
-      "hot": 118
     }
   ]
 }
