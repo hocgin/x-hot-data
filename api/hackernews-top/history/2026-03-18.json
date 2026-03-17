@@ -1,0 +1,222 @@
+{
+  "id": "hackernews-top.history.2026-03-18",
+  "createdAt": "2026-03-18 00:29:58",
+  "data": [
+    {
+      "id": "hackernews-top.1773764998979",
+      "lastUpdatedAt": "2026-03-18 00:29:58",
+      "data": [
+        {
+          "title": "Give Django your time and money, not your tokens",
+          "summary": "48 comments",
+          "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
+          "createdAt": "2026-03-16 23:12:50",
+          "hot": 158
+        },
+        {
+          "title": "Kagi Small Web",
+          "summary": "138 comments",
+          "url": "https://kagi.com/smallweb/",
+          "createdAt": "2026-03-17 17:53:53",
+          "hot": 500
+        },
+        {
+          "title": "OpenSUSE Kalpa",
+          "summary": "26 comments",
+          "url": "https://kalpadesktop.org/",
+          "createdAt": "2026-03-17 21:54:17",
+          "hot": 55
+        },
+        {
+          "title": "FFmpeg 8.1",
+          "summary": "14 comments",
+          "url": "https://ffmpeg.org/index.html#pr8.1",
+          "createdAt": "2026-03-17 22:51:57",
+          "hot": 120
+        },
+        {
+          "title": "Finding a CPU Design Bug in the Xbox 360",
+          "summary": "15 comments",
+          "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+          "createdAt": "2026-03-13 21:40:21",
+          "hot": 79
+        },
+        {
+          "title": "Why Node.js needs a virtual file system",
+          "summary": "43 comments",
+          "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+          "createdAt": "2026-03-17 22:28:37",
+          "hot": 63
+        },
+        {
+          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+          "summary": "23 comments",
+          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+          "createdAt": "2026-03-17 23:16:29",
+          "hot": 61
+        },
+        {
+          "title": "Enabling Efficient Sparse Computations Using Linear Algebra Aware Compilers",
+          "summary": "5 comments",
+          "url": "https://www.osti.gov/biblio/3013883",
+          "createdAt": "2026-03-13 07:55:07",
+          "hot": 38
+        },
+        {
+          "title": "Building a Shell",
+          "summary": "23 comments",
+          "url": "https://healeycodes.com/building-a-shell",
+          "createdAt": "2026-03-17 17:52:34",
+          "hot": 113
+        },
+        {
+          "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
+          "summary": "51 comments",
+          "url": "https://brianmoore.com/fontsmuggler/",
+          "createdAt": "2026-03-14 00:35:44",
+          "hot": 95
+        },
+        {
+          "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+          "summary": "0 comments",
+          "url": "https://www.Bracketmadness.ai",
+          "createdAt": "2026-03-17 20:56:24",
+          "hot": 4
+        },
+        {
+          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+          "summary": "160 comments",
+          "url": "https://mistral.ai/news/leanstral",
+          "createdAt": "2026-03-17 04:59:40",
+          "hot": 671
+        },
+        {
+          "title": "Perlsky Is a Perl 5 Implementation of an at Protocol Personal Data Server",
+          "summary": "5 comments",
+          "url": "https://tangled.org/alice.mosphere.at/perlsky",
+          "createdAt": "2026-03-13 05:44:51",
+          "hot": 31
+        },
+        {
+          "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+          "summary": "2 comments",
+          "url": "https://github.com/antflydb/antfly",
+          "createdAt": "2026-03-17 23:45:15",
+          "hot": 14
+        },
+        {
+          "title": "The unlikely story of Teardown Multiplayer",
+          "summary": "43 comments",
+          "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+          "createdAt": "2026-03-14 00:20:00",
+          "hot": 182
+        },
+        {
+          "title": "Reverse-engineering Viktor and making it Open Source",
+          "summary": "39 comments",
+          "url": "https://matijacniacki.com/blog/openviktor",
+          "createdAt": "2026-03-17 16:15:34",
+          "hot": 99
+        },
+        {
+          "title": "Diels-grabsch2: Self Hashing C Program (2019)",
+          "summary": "2 comments",
+          "url": "https://www.ioccc.org/2019/diels-grabsch2/",
+          "createdAt": "2026-03-13 06:00:49",
+          "hot": 9
+        },
+        {
+          "title": "The Official GBBS Pro Repository",
+          "summary": "0 comments",
+          "url": "https://gbbs.applearchives.com/",
+          "createdAt": "2026-03-13 04:12:45",
+          "hot": 4
+        },
+        {
+          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+          "summary": "267 comments",
+          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+          "createdAt": "2026-03-17 12:39:42",
+          "hot": 1139
+        },
+        {
+          "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
+          "summary": "60 comments",
+          "url": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
+          "createdAt": "2026-03-13 19:44:27",
+          "hot": 223
+        },
+        {
+          "title": "The American Healthcare Conundrum",
+          "summary": "483 comments",
+          "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+          "createdAt": "2026-03-17 01:13:27",
+          "hot": 451
+        },
+        {
+          "title": "Meta’s renewed commitment to jemalloc",
+          "summary": "220 comments",
+          "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+          "createdAt": "2026-03-17 02:12:32",
+          "hot": 478
+        },
+        {
+          "title": "The “small web” is bigger than you might think",
+          "summary": "205 comments",
+          "url": "https://kevinboone.me/small_web_is_big.html",
+          "createdAt": "2026-03-17 01:17:57",
+          "hot": 497
+        },
+        {
+          "title": "Gummy Geometry",
+          "summary": "7 comments",
+          "url": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
+          "createdAt": "2026-03-14 03:31:56",
+          "hot": 48
+        },
+        {
+          "title": "How long does it take to get last liquid drops from kitchen containers?",
+          "summary": "18 comments",
+          "url": "https://www.brown.edu/news/2026-03-04/kitchen-fluid-dynamics",
+          "createdAt": "2026-03-13 06:51:04",
+          "hot": 33
+        },
+        {
+          "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+          "summary": "55 comments",
+          "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+          "createdAt": "2026-03-17 20:01:05",
+          "hot": 82
+        },
+        {
+          "title": "A proposal to classify happiness as a psychiatric disorder",
+          "summary": "60 comments",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1376114/",
+          "createdAt": "2026-03-17 21:03:38",
+          "hot": 104
+        },
+        {
+          "title": "Every layer of review makes you 10x slower",
+          "summary": "254 comments",
+          "url": "https://apenwarr.ca/log/20260316",
+          "createdAt": "2026-03-17 11:20:36",
+          "hot": 419
+        },
+        {
+          "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
+          "summary": "448 comments",
+          "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+          "createdAt": "2026-03-17 04:59:49",
+          "hot": 186
+        },
+        {
+          "title": "Pyodide: a Python distribution based on WebAssembly",
+          "summary": "39 comments",
+          "url": "https://github.com/pyodide/pyodide",
+          "createdAt": "2026-03-14 01:34:45",
+          "hot": 149
+        }
+      ]
+    }
+  ]
+}
