@@ -1081,6 +1081,222 @@
           "hot": 125
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773750206038",
+      "lastUpdatedAt": "2026-03-17 20:23:26",
+      "data": [
+        {
+          "title": "Kagi Small Web",
+          "summary": "44 comments",
+          "url": "https://kagi.com/smallweb/",
+          "createdAt": "2026-03-17 17:53:53",
+          "hot": 221
+        },
+        {
+          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+          "summary": "190 comments",
+          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+          "createdAt": "2026-03-17 12:39:42",
+          "hot": 768
+        },
+        {
+          "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+          "summary": "34 comments",
+          "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+          "createdAt": "2026-03-17 18:39:48",
+          "hot": 165
+        },
+        {
+          "title": "Building a Shell",
+          "summary": "12 comments",
+          "url": "https://healeycodes.com/building-a-shell",
+          "createdAt": "2026-03-17 17:52:34",
+          "hot": 49
+        },
+        {
+          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+          "summary": "129 comments",
+          "url": "https://mistral.ai/news/leanstral",
+          "createdAt": "2026-03-17 04:59:40",
+          "hot": 605
+        },
+        {
+          "title": "Grace Hopper's Revenge",
+          "summary": "31 comments",
+          "url": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+          "createdAt": "2026-03-17 17:26:48",
+          "hot": 41
+        },
+        {
+          "title": "The unlikely story of Teardown Multiplayer",
+          "summary": "20 comments",
+          "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+          "createdAt": "2026-03-14 00:20:00",
+          "hot": 128
+        },
+        {
+          "title": "Reverse-engineering Viktor and making it Open Source",
+          "summary": "16 comments",
+          "url": "https://matijacniacki.com/blog/openviktor",
+          "createdAt": "2026-03-17 16:15:34",
+          "hot": 50
+        },
+        {
+          "title": "What CI looks like at a 100-person team (PostHog)",
+          "summary": "9 comments",
+          "url": "https://www.mendral.com/blog/ci-at-scale",
+          "createdAt": "2026-03-12 23:50:09",
+          "hot": 33
+        },
+        {
+          "title": "Gummy Geometry",
+          "summary": "3 comments",
+          "url": "https://newkrok.github.io/nape-js/examples.html?open=soft-body&mode=3d&outline=0",
+          "createdAt": "2026-03-14 03:31:56",
+          "hot": 19
+        },
+        {
+          "title": "Meta’s renewed commitment to jemalloc",
+          "summary": "200 comments",
+          "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+          "createdAt": "2026-03-17 02:12:32",
+          "hot": 457
+        },
+        {
+          "title": "Font Smuggler – copy hidden brand fonts into Google Docs",
+          "summary": "4 comments",
+          "url": "https://brianmoore.com/fontsmuggler/",
+          "createdAt": "2026-03-14 00:35:44",
+          "hot": 15
+        },
+        {
+          "title": "The American Healthcare Conundrum",
+          "summary": "351 comments",
+          "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+          "createdAt": "2026-03-17 01:13:27",
+          "hot": 381
+        },
+        {
+          "title": "The “small web” is bigger than you might think",
+          "summary": "192 comments",
+          "url": "https://kevinboone.me/small_web_is_big.html",
+          "createdAt": "2026-03-17 01:17:57",
+          "hot": 455
+        },
+        {
+          "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
+          "summary": "29 comments",
+          "url": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
+          "createdAt": "2026-03-13 19:44:27",
+          "hot": 135
+        },
+        {
+          "title": "Every layer of review makes you 10x slower",
+          "summary": "176 comments",
+          "url": "https://apenwarr.ca/log/20260316",
+          "createdAt": "2026-03-17 11:20:36",
+          "hot": 303
+        },
+        {
+          "title": "US SEC preparing to scrap quarterly reporting requirement",
+          "summary": "335 comments",
+          "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+          "createdAt": "2026-03-17 08:02:35",
+          "hot": 604
+        },
+        {
+          "title": "Gitana 18: the new flying Ultim trimaran",
+          "summary": "23 comments",
+          "url": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
+          "createdAt": "2026-03-13 11:16:08",
+          "hot": 51
+        },
+        {
+          "title": "Pyodide: a Python distribution based on WebAssembly",
+          "summary": "25 comments",
+          "url": "https://github.com/pyodide/pyodide",
+          "createdAt": "2026-03-14 01:34:45",
+          "hot": 107
+        },
+        {
+          "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+          "summary": "1 comments",
+          "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+          "createdAt": "2026-03-17 20:01:05",
+          "hot": 10
+        },
+        {
+          "title": "Fatal Core Dump Game",
+          "summary": "3 comments",
+          "url": "https://www.robopenguins.com/core-dump-game/",
+          "createdAt": "2026-03-13 14:00:07",
+          "hot": 15
+        },
+        {
+          "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+          "summary": "118 comments",
+          "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+          "createdAt": "2026-03-16 21:09:58",
+          "hot": 382
+        },
+        {
+          "title": "Why I love FreeBSD",
+          "summary": "223 comments",
+          "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+          "createdAt": "2026-03-16 19:23:14",
+          "hot": 453
+        },
+        {
+          "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
+          "summary": "351 comments",
+          "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+          "createdAt": "2026-03-17 04:59:49",
+          "hot": 146
+        },
+        {
+          "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+          "summary": "63 comments",
+          "url": "https://github.com/mr-fatalyst/oxyde",
+          "createdAt": "2026-03-13 21:35:12",
+          "hot": 123
+        },
+        {
+          "title": "Starlink Mini as a failover",
+          "summary": "205 comments",
+          "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+          "createdAt": "2026-03-16 16:07:29",
+          "hot": 273
+        },
+        {
+          "title": "Claude Tips for 3D Work",
+          "summary": "26 comments",
+          "url": "https://www.davesnider.com/posts/claude-3d",
+          "createdAt": "2026-03-13 22:53:10",
+          "hot": 113
+        },
+        {
+          "title": "Monkey Island for Commodore 64 Ground Up",
+          "summary": "58 comments",
+          "url": "https://pixeldust.se/monkey-island-project",
+          "createdAt": "2026-03-17 12:00:28",
+          "hot": 152
+        },
+        {
+          "title": "AnswerThis (YC F25) Is Hiring",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
+          "createdAt": "2026-03-17 05:00:06",
+          "hot": 1
+        },
+        {
+          "title": "AirPods Max 2",
+          "summary": "483 comments",
+          "url": "https://www.apple.com/airpods-max/",
+          "createdAt": "2026-03-16 21:22:03",
+          "hot": 291
+        }
+      ]
     }
   ]
 }
