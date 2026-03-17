@@ -433,6 +433,222 @@
           "hot": 26
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773707721421",
+      "lastUpdatedAt": "2026-03-17 08:35:21",
+      "data": [
+        {
+          "title": "US SEC preparing to scrap quarterly reporting requirement",
+          "summary": "27 comments",
+          "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+          "createdAt": "2026-03-17 08:02:35",
+          "hot": 63
+        },
+        {
+          "title": "Leanstral: Open-source code agent designed for Lean 4",
+          "summary": "46 comments",
+          "url": "https://mistral.ai/news/leanstral",
+          "createdAt": "2026-03-17 04:59:40",
+          "hot": 256
+        },
+        {
+          "title": "Meta’s renewed commitment to jemalloc",
+          "summary": "130 comments",
+          "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+          "createdAt": "2026-03-17 02:12:32",
+          "hot": 320
+        },
+        {
+          "title": "The “small web” is bigger than you might think",
+          "summary": "129 comments",
+          "url": "https://kevinboone.me/small_web_is_big.html",
+          "createdAt": "2026-03-17 01:17:57",
+          "hot": 297
+        },
+        {
+          "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+          "summary": "104 comments",
+          "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+          "createdAt": "2026-03-17 01:13:27",
+          "hot": 168
+        },
+        {
+          "title": "Show HN: Trackm, a personal finance web app",
+          "summary": "0 comments",
+          "url": "https://trackm.net",
+          "createdAt": "2026-03-17 07:36:43",
+          "hot": 11
+        },
+        {
+          "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+          "summary": "92 comments",
+          "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+          "createdAt": "2026-03-16 21:09:58",
+          "hot": 308
+        },
+        {
+          "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+          "summary": "27 comments",
+          "url": "https://github.com/mr-fatalyst/oxyde",
+          "createdAt": "2026-03-13 21:35:12",
+          "hot": 47
+        },
+        {
+          "title": "Show HN: Thermal Receipt Printers – Markdown and Web UI",
+          "summary": "6 comments",
+          "url": "https://github.com/sadreck/ThermalMarky",
+          "createdAt": "2026-03-14 00:49:01",
+          "hot": 19
+        },
+        {
+          "title": "Why I love FreeBSD",
+          "summary": "156 comments",
+          "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+          "createdAt": "2026-03-16 19:23:14",
+          "hot": 336
+        },
+        {
+          "title": "Language Model Teams as Distrbuted Systems",
+          "summary": "28 comments",
+          "url": "https://arxiv.org/abs/2603.12229",
+          "createdAt": "2026-03-17 01:19:13",
+          "hot": 64
+        },
+        {
+          "title": "Show HN: Claude Code skills that build complete Godot games",
+          "summary": "80 comments",
+          "url": "https://github.com/htdt/godogen",
+          "createdAt": "2026-03-17 00:07:29",
+          "hot": 143
+        },
+        {
+          "title": "AnswerThis (YC F25) Is Hiring",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
+          "createdAt": "2026-03-17 05:00:06",
+          "hot": 1
+        },
+        {
+          "title": "Starlink Mini as a failover",
+          "summary": "155 comments",
+          "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+          "createdAt": "2026-03-16 16:07:29",
+          "hot": 181
+        },
+        {
+          "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+          "summary": "43 comments",
+          "url": "https://news.ycombinator.com/item?id=47401042",
+          "createdAt": "2026-03-17 00:21:07",
+          "hot": 63
+        },
+        {
+          "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+          "summary": "865 comments",
+          "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+          "createdAt": "2026-03-16 20:00:06",
+          "hot": 1297
+        },
+        {
+          "title": "In space, no one can hear you kernel panic",
+          "summary": "1 comments",
+          "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+          "createdAt": "2026-03-13 08:02:00",
+          "hot": 10
+        },
+        {
+          "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+          "summary": "103 comments",
+          "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+          "createdAt": "2026-03-16 23:25:36",
+          "hot": 116
+        },
+        {
+          "title": "AirPods Max 2",
+          "summary": "355 comments",
+          "url": "https://www.apple.com/airpods-max/",
+          "createdAt": "2026-03-16 21:22:03",
+          "hot": 186
+        },
+        {
+          "title": "Teens sue xAI over Grok's pornographic images of them",
+          "summary": "2 comments",
+          "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo",
+          "createdAt": "2026-03-17 07:55:39",
+          "hot": 27
+        },
+        {
+          "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+          "summary": "76 comments",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+          "createdAt": "2026-03-17 04:01:02",
+          "hot": 118
+        },
+        {
+          "title": "On The Need For Understanding",
+          "summary": "33 comments",
+          "url": "https://blog.information-superhighway.net/on-the-need-for-understanding",
+          "createdAt": "2026-03-12 08:53:12",
+          "hot": 77
+        },
+        {
+          "title": "Home Assistant waters my plants",
+          "summary": "131 comments",
+          "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+          "createdAt": "2026-03-12 18:19:14",
+          "hot": 244
+        },
+        {
+          "title": "Corruption erodes social trust more in democracies than in autocracies",
+          "summary": "329 comments",
+          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+          "createdAt": "2026-03-16 19:25:31",
+          "hot": 637
+        },
+        {
+          "title": "The bureaucracy blocking the chance at a cure",
+          "summary": "113 comments",
+          "url": "https://www.writingruxandrabio.com/p/the-bureaucracy-blocking-the-chance",
+          "createdAt": "2026-03-16 02:32:27",
+          "hot": 85
+        },
+        {
+          "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
+          "summary": "97 comments",
+          "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
+          "createdAt": "2026-03-13 09:38:44",
+          "hot": 192
+        },
+        {
+          "title": "Cert Authorities Check for DNSSEC from Today",
+          "summary": "188 comments",
+          "url": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
+          "createdAt": "2026-03-16 06:10:47",
+          "hot": 84
+        },
+        {
+          "title": "Kona EV Hacking",
+          "summary": "65 comments",
+          "url": "http://techno-fandom.org/~hobbit/cars/ev/",
+          "createdAt": "2026-03-12 05:26:16",
+          "hot": 116
+        },
+        {
+          "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
+          "summary": "47 comments",
+          "url": "https://github.com/emin-ozata/lazycut",
+          "createdAt": "2026-03-16 20:05:08",
+          "hot": 145
+        },
+        {
+          "title": "US Job Market Visualizer",
+          "summary": "308 comments",
+          "url": "https://karpathy.ai/jobs/",
+          "createdAt": "2026-03-16 23:10:30",
+          "hot": 393
+        }
+      ]
     }
   ]
 }

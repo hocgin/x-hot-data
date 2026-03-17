@@ -133,6 +133,72 @@
           "createdAt": "2026-03-17 04:15:15"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773707721422",
+      "lastUpdatedAt": "2026-03-17 08:35:21",
+      "data": [
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "langchain-ai/deepagents",
+          "url": "https://github.com/langchain-ai/deepagents",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "YishenTu/claudian",
+          "url": "https://github.com/YishenTu/claudian",
+          "createdAt": "2026-03-17 08:35:02"
+        },
+        {
+          "title": "voidzero-dev/vite-plus",
+          "url": "https://github.com/voidzero-dev/vite-plus",
+          "createdAt": "2026-03-17 08:35:02"
+        }
+      ]
     }
   ]
 }
