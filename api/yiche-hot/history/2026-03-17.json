@@ -166,6 +166,61 @@
           "hot": 133700
         }
       ]
+    },
+    {
+      "id": "yiche-hot.1773722454770",
+      "lastUpdatedAt": "2026-03-17 12:40:54",
+      "data": [
+        {
+          "title": "奔驰E级",
+          "summary": "价格: 37.88-59.98万",
+          "url": "https://car.yiche.com/xinaodia6l/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 160200
+        },
+        {
+          "title": "星光730",
+          "summary": "价格: 7.30-8.38万",
+          "url": "https://car.yiche.com/wulingxingguang730/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 150100
+        },
+        {
+          "title": "钛7",
+          "summary": "价格: 17.98-21.98万",
+          "url": "https://car.yiche.com/tai7/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 148900
+        },
+        {
+          "title": "速腾",
+          "summary": "价格: 14.79-16.49万",
+          "url": "https://car.yiche.com/suteng/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 142500
+        },
+        {
+          "title": "本田CR-V",
+          "summary": "价格: 18.59-26.39万",
+          "url": "https://car.yiche.com/dongfengbentiancrv/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 140800
+        },
+        {
+          "title": "问界M9",
+          "summary": "价格: 46.98-59.98万",
+          "url": "https://car.yiche.com/wenjiem9/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 135200
+        },
+        {
+          "title": "eπ008",
+          "summary": "价格: 16.99-20.36万",
+          "url": "https://car.yiche.com/e008/",
+          "createdAt": "2026-03-17 12:40:27",
+          "hot": 133700
+        }
+      ]
     }
   ]
 }
