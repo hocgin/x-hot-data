@@ -37,6 +37,42 @@
           "createdAt": "2026-03-18 00:29:26"
         }
       ]
+    },
+    {
+      "id": "github-trending.1773778565778",
+      "lastUpdatedAt": "2026-03-18 04:16:05",
+      "data": [
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "createdAt": "2026-03-18 04:15:33"
+        },
+        {
+          "title": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "createdAt": "2026-03-18 04:15:33"
+        },
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "createdAt": "2026-03-18 04:15:33"
+        },
+        {
+          "title": "langchain-ai/deepagents",
+          "url": "https://github.com/langchain-ai/deepagents",
+          "createdAt": "2026-03-18 04:15:33"
+        },
+        {
+          "title": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "createdAt": "2026-03-18 04:15:33"
+        },
+        {
+          "title": "cloudflare/workerd",
+          "url": "https://github.com/cloudflare/workerd",
+          "createdAt": "2026-03-18 04:15:33"
+        }
+      ]
     }
   ]
 }
