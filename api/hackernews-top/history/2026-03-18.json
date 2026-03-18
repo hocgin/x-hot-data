@@ -649,6 +649,222 @@
           "hot": 14
         }
       ]
+    },
+    {
+      "id": "hackernews-top.1773809095481",
+      "lastUpdatedAt": "2026-03-18 12:44:55",
+      "data": [
+        {
+          "title": "More than 135 open hardware devices flashable with your own firmware",
+          "summary": "8 comments",
+          "url": "https://openhardware.directory",
+          "createdAt": "2026-03-14 05:04:35",
+          "hot": 96
+        },
+        {
+          "title": "A Decade of Slug",
+          "summary": "43 comments",
+          "url": "https://terathon.com/blog/decade-slug.html",
+          "createdAt": "2026-03-18 02:59:50",
+          "hot": 501
+        },
+        {
+          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+          "summary": "215 comments",
+          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+          "createdAt": "2026-03-17 23:16:29",
+          "hot": 594
+        },
+        {
+          "title": "Python 3.15's JIT is now back on track",
+          "summary": "129 comments",
+          "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+          "createdAt": "2026-03-18 02:37:27",
+          "hot": 312
+        },
+        {
+          "title": "Mistral AI Releases Forge",
+          "summary": "31 comments",
+          "url": "https://mistral.ai/news/forge",
+          "createdAt": "2026-03-18 05:04:26",
+          "hot": 210
+        },
+        {
+          "title": "The pleasures of poor product design",
+          "summary": "12 comments",
+          "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+          "createdAt": "2026-03-18 09:00:45",
+          "hot": 45
+        },
+        {
+          "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+          "summary": "132 comments",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "createdAt": "2026-03-18 04:23:39",
+          "hot": 250
+        },
+        {
+          "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+          "summary": "15 comments",
+          "url": "https://github.com/adammiribyan/zeroboot",
+          "createdAt": "2026-03-17 21:43:44",
+          "hot": 86
+        },
+        {
+          "title": "Leviathan",
+          "summary": "1 comments",
+          "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
+          "createdAt": "2026-03-15 13:46:35",
+          "hot": 6
+        },
+        {
+          "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+          "summary": "4 comments",
+          "url": "https://amaiya.github.io/onprem/examples_agent.html",
+          "createdAt": "2026-03-18 09:10:19",
+          "hot": 20
+        },
+        {
+          "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+          "summary": "1 comments",
+          "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+          "createdAt": "2026-03-18 08:53:10",
+          "hot": 37
+        },
+        {
+          "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+          "summary": "83 comments",
+          "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+          "createdAt": "2026-03-14 03:14:46",
+          "hot": 194
+        },
+        {
+          "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+          "summary": "5 comments",
+          "url": "https://news.ycombinator.com/item?id=47417335",
+          "createdAt": "2026-03-18 03:46:29",
+          "hot": 33
+        },
+        {
+          "title": "Unsloth Studio",
+          "summary": "47 comments",
+          "url": "https://unsloth.ai/docs/new/studio",
+          "createdAt": "2026-03-17 23:26:32",
+          "hot": 211
+        },
+        {
+          "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+          "summary": "17 comments",
+          "url": "https://arxiv.org/abs/2603.15381",
+          "createdAt": "2026-03-18 05:42:39",
+          "hot": 55
+        },
+        {
+          "title": "Electron microscopy shows 'mouse bite' defects in semiconductors",
+          "summary": "8 comments",
+          "url": "https://news.cornell.edu/stories/2026/03/electron-microscopy-shows-mouse-bite-defects-semiconductors",
+          "createdAt": "2026-03-14 07:30:08",
+          "hot": 37
+        },
+        {
+          "title": "Honda is killing its EVs",
+          "summary": "545 comments",
+          "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+          "createdAt": "2026-03-15 21:38:08",
+          "hot": 250
+        },
+        {
+          "title": "The Starving Time in Jamestown",
+          "summary": "1 comments",
+          "url": "https://www.historytoday.com/archive/history-matters/starving-time-jamestown",
+          "createdAt": "2026-03-14 00:03:28",
+          "hot": 4
+        },
+        {
+          "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+          "summary": "109 comments",
+          "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+          "createdAt": "2026-03-17 20:01:05",
+          "hot": 211
+        },
+        {
+          "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
+          "summary": "1 comments",
+          "url": "https://www.robopenguins.com/fatal_core_dump/",
+          "createdAt": "2026-03-14 08:12:44",
+          "hot": 41
+        },
+        {
+          "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+          "summary": "33 comments",
+          "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+          "createdAt": "2026-03-18 02:01:50",
+          "hot": 115
+        },
+        {
+          "title": "Arno's Engram Keyboard Layouts",
+          "summary": "3 comments",
+          "url": "https://github.com/binarybottle/engram",
+          "createdAt": "2026-03-14 09:47:56",
+          "hot": 8
+        },
+        {
+          "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
+          "summary": "14 comments",
+          "url": "https://structuredlabs.github.io/threebodyproblem/",
+          "createdAt": "2026-03-14 08:43:27",
+          "hot": 35
+        },
+        {
+          "title": "Kagi Small Web",
+          "summary": "197 comments",
+          "url": "https://kagi.com/smallweb/",
+          "createdAt": "2026-03-17 17:53:53",
+          "hot": 720
+        },
+        {
+          "title": "OpenSUSE Kalpa",
+          "summary": "81 comments",
+          "url": "https://kalpadesktop.org/",
+          "createdAt": "2026-03-17 21:54:17",
+          "hot": 185
+        },
+        {
+          "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
+          "summary": "0 comments",
+          "url": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
+          "createdAt": "2026-03-18 01:00:50",
+          "hot": 1
+        },
+        {
+          "title": "Node.js needs a virtual file system",
+          "summary": "206 comments",
+          "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+          "createdAt": "2026-03-17 22:28:37",
+          "hot": 237
+        },
+        {
+          "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
+          "summary": "68 comments",
+          "url": "https://theasc.com/articles/the-secret-agent-cinematography",
+          "createdAt": "2026-03-17 23:56:09",
+          "hot": 133
+        },
+        {
+          "title": "Java 26 is here",
+          "summary": "170 comments",
+          "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+          "createdAt": "2026-03-18 02:44:09",
+          "hot": 210
+        },
+        {
+          "title": "Torturing Rustc by Emulating HKTs",
+          "summary": "6 comments",
+          "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+          "createdAt": "2026-03-14 15:25:09",
+          "hot": 56
+        }
+      ]
     }
   ]
 }
