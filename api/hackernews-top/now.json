@@ -1,83 +1,146 @@
 {
-  "id": "hackernews-top.1773778565776",
-  "lastUpdatedAt": "2026-03-18 04:16:05",
+  "id": "hackernews-top.1773794284320",
+  "lastUpdatedAt": "2026-03-18 08:38:04",
   "data": [
     {
       "title": "A Decade of Slug",
-      "summary": "4 comments",
+      "summary": "33 comments",
       "url": "https://terathon.com/blog/decade-slug.html",
       "createdAt": "2026-03-18 02:59:50",
-      "hot": 94
+      "hot": 379
+    },
+    {
+      "title": "Python 3.15's JIT is now back on track",
+      "summary": "87 comments",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "createdAt": "2026-03-18 02:37:27",
+      "hot": 246
+    },
+    {
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "summary": "92 comments",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "createdAt": "2026-03-18 04:23:39",
+      "hot": 163
     },
     {
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "summary": "150 comments",
+      "summary": "195 comments",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
       "createdAt": "2026-03-17 23:16:29",
-      "hot": 353
+      "hot": 498
     },
     {
-      "title": "Kagi Small Web",
-      "summary": "172 comments",
-      "url": "https://kagi.com/smallweb/",
-      "createdAt": "2026-03-17 17:53:53",
-      "hot": 620
-    },
-    {
-      "title": "Node.js needs a virtual file system",
-      "summary": "130 comments",
-      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "createdAt": "2026-03-17 22:28:37",
-      "hot": 147
+      "title": "Mistral AI Releases Forge",
+      "summary": "3 comments",
+      "url": "https://mistral.ai/news/forge",
+      "createdAt": "2026-03-18 05:04:26",
+      "hot": 80
     },
     {
       "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-      "summary": "5 comments",
+      "summary": "71 comments",
       "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
       "createdAt": "2026-03-14 03:14:46",
-      "hot": 30
+      "hot": 155
     },
     {
-      "title": "Toward automated verification of unreviewed AI-generated code",
-      "summary": "35 comments",
-      "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
-      "createdAt": "2026-03-16 18:52:33",
-      "hot": 41
+      "title": "Kagi Small Web",
+      "summary": "192 comments",
+      "url": "https://kagi.com/smallweb/",
+      "createdAt": "2026-03-17 17:53:53",
+      "hot": 694
     },
     {
-      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
-      "summary": "65 comments",
-      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
-      "createdAt": "2026-03-18 03:17:16",
-      "hot": 90
+      "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+      "summary": "3 comments",
+      "url": "https://news.ycombinator.com/item?id=47417335",
+      "createdAt": "2026-03-18 03:46:29",
+      "hot": 23
+    },
+    {
+      "title": "Unsloth Studio",
+      "summary": "30 comments",
+      "url": "https://unsloth.ai/docs/new/studio",
+      "createdAt": "2026-03-17 23:26:32",
+      "hot": 141
+    },
+    {
+      "title": "Torturing Rustc by Emulating HKTs",
+      "summary": "6 comments",
+      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+      "createdAt": "2026-03-14 15:25:09",
+      "hot": 46
+    },
+    {
+      "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
+      "summary": "0 comments",
+      "url": "https://www.robopenguins.com/fatal_core_dump/",
+      "createdAt": "2026-03-14 08:12:44",
+      "hot": 14
+    },
+    {
+      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+      "summary": "27 comments",
+      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+      "createdAt": "2026-03-18 02:01:50",
+      "hot": 89
+    },
+    {
+      "title": "Node.js needs a virtual file system",
+      "summary": "188 comments",
+      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "createdAt": "2026-03-17 22:28:37",
+      "hot": 223
+    },
+    {
+      "title": "Chrome extension adjusts video speed based on how fast the speaker is talking",
+      "summary": "23 comments",
+      "url": "https://github.com/ywong137/speech-speed",
+      "createdAt": "2026-03-13 14:18:17",
+      "hot": 79
+    },
+    {
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "summary": "94 comments",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "createdAt": "2026-03-17 20:01:05",
+      "hot": 171
     },
     {
       "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "summary": "29 comments",
+      "summary": "57 comments",
       "url": "https://theasc.com/articles/the-secret-agent-cinematography",
       "createdAt": "2026-03-17 23:56:09",
-      "hot": 61
+      "hot": 117
+    },
+    {
+      "title": "Honda is killing its EVs",
+      "summary": "344 comments",
+      "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+      "createdAt": "2026-03-15 21:38:08",
+      "hot": 177
+    },
+    {
+      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+      "summary": "113 comments",
+      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+      "createdAt": "2026-03-18 04:24:33",
+      "hot": 173
+    },
+    {
+      "title": "Java 26 is here",
+      "summary": "126 comments",
+      "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+      "createdAt": "2026-03-18 02:44:09",
+      "hot": 156
     },
     {
       "title": "OpenSUSE Kalpa",
-      "summary": "63 comments",
+      "summary": "76 comments",
       "url": "https://kalpadesktop.org/",
       "createdAt": "2026-03-17 21:54:17",
-      "hot": 94
-    },
-    {
-      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
-      "summary": "38 comments",
-      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-      "createdAt": "2026-03-13 21:40:21",
-      "hot": 129
-    },
-    {
-      "title": "Java 26 is here, and with it a solid foundation for the future",
-      "summary": "38 comments",
-      "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
-      "createdAt": "2026-03-18 02:44:09",
-      "hot": 48
+      "hot": 173
     },
     {
       "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
@@ -87,130 +150,67 @@
       "hot": 1
     },
     {
+      "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+      "summary": "20 comments",
+      "url": "https://github.com/peters/horizon",
+      "createdAt": "2026-03-18 02:14:24",
+      "hot": 48
+    },
+    {
+      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
+      "summary": "166 comments",
+      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
+      "createdAt": "2026-03-18 03:17:16",
+      "hot": 161
+    },
+    {
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "summary": "6 comments",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "createdAt": "2026-03-18 05:42:39",
+      "hot": 12
+    },
+    {
       "title": "Illinois Introducing Operating System Account Age Bill",
-      "summary": "193 comments",
+      "summary": "342 comments",
       "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
       "createdAt": "2026-03-18 02:06:07",
-      "hot": 160
-    },
-    {
-      "title": "Python 3.15's JIT is now back on track",
-      "summary": "0 comments",
-      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "createdAt": "2026-03-18 02:37:27",
-      "hot": 13
-    },
-    {
-      "title": "FFmpeg 8.1",
-      "summary": "43 comments",
-      "url": "https://ffmpeg.org/index.html#pr8.1",
-      "createdAt": "2026-03-17 22:51:57",
-      "hot": 266
-    },
-    {
-      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-      "summary": "3 comments",
-      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
-      "createdAt": "2026-03-18 02:01:50",
-      "hot": 24
+      "hot": 239
     },
     {
       "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
-      "summary": "15 comments",
+      "summary": "27 comments",
       "url": "https://github.com/chenxin-yan/crust",
       "createdAt": "2026-03-17 12:43:29",
-      "hot": 34
-    },
-    {
-      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-      "summary": "79 comments",
-      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-      "createdAt": "2026-03-17 20:01:05",
-      "hot": 114
-    },
-    {
-      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-      "summary": "21 comments",
-      "url": "https://github.com/antflydb/antfly",
-      "createdAt": "2026-03-17 23:45:15",
-      "hot": 56
-    },
-    {
-      "title": "Honda is killing its EVs",
-      "summary": "40 comments",
-      "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "createdAt": "2026-03-15 21:38:08",
-      "hot": 68
-    },
-    {
-      "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
-      "summary": "1 comments",
-      "url": "https://github.com/peters/horizon",
-      "createdAt": "2026-03-18 02:14:24",
-      "hot": 14
-    },
-    {
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "summary": "22 comments",
-      "url": "https://www.Bracketmadness.ai",
-      "createdAt": "2026-03-17 20:56:24",
-      "hot": 51
+      "hot": 64
     },
     {
       "title": "Reverse-engineering Viktor and making it open source",
-      "summary": "58 comments",
+      "summary": "66 comments",
       "url": "https://matijacniacki.com/blog/openviktor",
       "createdAt": "2026-03-17 16:15:34",
-      "hot": 123
+      "hot": 157
     },
     {
-      "title": "Font Smuggler – Copy hidden brand fonts into Google Docs",
-      "summary": "64 comments",
-      "url": "https://brianmoore.com/fontsmuggler/",
-      "createdAt": "2026-03-14 00:35:44",
-      "hot": 132
+      "title": "FFmpeg 8.1",
+      "summary": "53 comments",
+      "url": "https://ffmpeg.org/index.html#pr8.1",
+      "createdAt": "2026-03-17 22:51:57",
+      "hot": 352
     },
     {
-      "title": "GPT‑5.4 Mini and Nano",
-      "summary": "80 comments",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "createdAt": "2026-03-18 01:07:06",
-      "hot": 132
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "summary": "47 comments",
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "createdAt": "2026-03-13 21:40:21",
+      "hot": 148
     },
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "summary": "172 comments",
-      "url": "https://mistral.ai/news/leanstral",
-      "createdAt": "2026-03-17 04:59:40",
-      "hot": 720
-    },
-    {
-      "title": "Heart, head, life, fate",
-      "summary": "4 comments",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n05/steven-shapin/heart-head-life-fate",
-      "createdAt": "2026-03-13 11:29:52",
+      "title": "Show HN: I built an interactive 3D three-body problem simulator in the browser",
+      "summary": "6 comments",
+      "url": "https://structuredlabs.github.io/threebodyproblem/",
+      "createdAt": "2026-03-14 08:43:27",
       "hot": 14
-    },
-    {
-      "title": "Building a Shell",
-      "summary": "31 comments",
-      "url": "https://healeycodes.com/building-a-shell",
-      "createdAt": "2026-03-17 17:52:34",
-      "hot": 140
-    },
-    {
-      "title": "The Plumbing of Everyday Magic",
-      "summary": "0 comments",
-      "url": "https://plumbing-of-everyday-magic.hyperclay.com/",
-      "createdAt": "2026-03-13 23:57:21",
-      "hot": 15
-    },
-    {
-      "title": "Give Django your time and money, not your tokens",
-      "summary": "142 comments",
-      "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "createdAt": "2026-03-16 23:12:50",
-      "hot": 369
     }
   ]
 }
